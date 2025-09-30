@@ -1,0 +1,68 @@
+{
+  "articles": [
+    {
+      "title": "Creative Adversarial Testing (CAT): A Novel Framework for Evaluating Goal-Oriented Agentic AI Systems",
+      "description": "arXiv:2509.23006v1 Announce Type: new \nAbstract: Agentic AI represents a paradigm shift in enhancing the capabilities of generative AI models. While these systems demonstrate immense potential and power, current evaluation techniques primarily focus on assessing their efficacy in identifying appropriate agents, tools, and parameters. However, a critical gap exists in evaluating the alignment between an Agentic AI system's tasks and its overarching goals. This paper introduces the Creative Advers",
+      "link": "https://arxiv.org/abs/2509.23006",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "AI Noether -- Bridging the Gap Between Scientific Laws Derived by AI Systems and Canonical Knowledge via Abductive Inference",
+      "description": "arXiv:2509.23004v1 Announce Type: new \nAbstract: A core goal in modern science is to harness recent advances in AI and computer processing to automate and accelerate the scientific method. Symbolic regression can fit interpretable models to data, but these models often sit outside established theory. Recent systems (e.g., AI Descartes, AI Hilbert) enforce derivability from prior axioms. However, sometimes new data and associated hypotheses derived from data are not consistent with existing theor",
+      "link": "https://arxiv.org/abs/2509.23004",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Not only a helper, but also a teacher: Interactive LLM Cascade",
+      "description": "arXiv:2509.22984v1 Announce Type: new \nAbstract: Large Language Models (LLMs) vary widely in their capabilities, with larger models often having better performance but higher cost: choosing an LLM model often involves trading off performance and cost. The LLM Cascade is a paradigm that defers difficult queries from weak/cheap to strong/expensive models. This approach is nonadaptive: the deferral decision is trained offline. When confronted with similar or repeated queries, the LLM Cascade may th",
+      "link": "https://arxiv.org/abs/2509.22984",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "JE-IRT: A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory",
+      "description": "arXiv:2509.22888v1 Announce Type: new \nAbstract: Standard LLM evaluation practices compress diverse abilities into single scores, obscuring their inherently multidimensional nature. We present JE-IRT, a geometric item-response framework that embeds both LLMs and questions in a shared space. For question embeddings, the direction encodes semantics and the norm encodes difficulty, while correctness on each question is determined by the geometric interaction between the model and question embedding",
+      "link": "https://arxiv.org/abs/2509.22888",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Hilbert: Recursively Building Formal Proofs with Informal Reasoning",
+      "description": "arXiv:2509.22819v1 Announce Type: new \nAbstract: Large Language Models (LLMs) demonstrate impressive mathematical reasoning abilities, but their solutions frequently contain errors that cannot be automatically verified. Formal theorem proving systems such as Lean 4 offer automated verification with complete accuracy, motivating recent efforts to build specialized prover LLMs that generate verifiable proofs in formal languages. However, a significant gap remains: current prover LLMs solve substan",
+      "link": "https://arxiv.org/abs/2509.22819",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Can Large Language Models Develop Gambling Addiction?",
+      "description": "arXiv:2509.22818v1 Announce Type: new \nAbstract: This study explores whether large language models can exhibit behavioral patterns similar to human gambling addictions. As LLMs are increasingly utilized in financial decision-making domains such as asset management and commodity trading, understanding their potential for pathological decision-making has gained practical significance. We systematically analyze LLM decision-making at cognitive-behavioral and neural levels based on human gambling ad",
+      "link": "https://arxiv.org/abs/2509.22818",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Towards Strategic Persuasion with Language Models",
+      "description": "arXiv:2509.22989v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated strong persuasive capabilities comparable to those of humans, offering promising benefits while raising societal concerns about their deployment. However, systematically evaluating the persuasive capabilities of LLMs is inherently challenging, as the effectiveness of persuasion among humans varies significantly across different domains. In this paper, we take a theory-driven approach to provide a scal",
+      "link": "https://arxiv.org/abs/2509.22989",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    },
+    {
+      "title": "Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research",
+      "description": "arXiv:2509.22831v1 Announce Type: new \nAbstract: Research on Large Language Models (LLMs) increasingly focuses on identifying mechanistic explanations for their behaviors, yet the field lacks clear principles for determining when (and how) findings from one model instance generalize to another. This paper addresses a fundamental epistemological challenge: given a mechanistic claim about a particular model, what justifies extrapolating this finding to other LLMs -- and along which dimensions migh",
+      "link": "https://arxiv.org/abs/2509.22831",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-09-30"
+    }
+  ]
+}

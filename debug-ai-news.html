@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>AI新闻系统调试</title>
+</head>
+<body>
+    <div id="status">等待初始化...</div>
+    <div id="console-output"></div>
+    <div id="news-content">内容区域</div>
+
+    <script>
+        // 重写console.log来捕获调试输出
+        const consoleOutput = document.getElementById('console-output');
+        const originalLog = console.log;
+        console.log = function(...args) {
+            originalLog.apply(console, args);
+            consoleOutput.innerHTML += '<div>' + args.join(' ') + '</div>';
+        };
+
+        const AINewsConfig = {
+            dataPath: './data/rss-data.json',
+            cacheTimeout: 30 * 60 * 1000,
+            fallbackData: [{
+                title: "测试文章",
+                description: "这是一个测试文章",
+                link: "#",
+                source: "测试来源",
+                pubDate: new Date().toISOString(),
+                aiScore: 8.5
+            }]
+        };
+
+        class SimpleNewsLoader {
+            constructor() {
+                this.articles = [];
+                console.log('🚀 SimpleNewsLoader 初始化');
+            }
+
+            async init() {
+                console.log('📡 开始加载新闻数据...');
+
+                try {
+                    // 测试简单数据加载
+                    console.log('🔄 测试主数据源...');
+                    const response = await fetch(AINewsConfig.dataPath);
+                    console.log('📊 响应状态:', response.ok, '状态码:', response.status);
+
+                    if (response.ok) {
+                        const data = await response.json();
+                        console.log('✅ 数据加载成功');
+                        console.log('📰 文章数量:', data.articles?.length || 0);
+                        this.articles = data.articles || [];
+                        this.renderArticles(this.articles);
+                    } else {
+                        console.log('⚠️ HTTP错误, 使用备用数据');
+                        this.useFallbackData();
+                    }
+                } catch (error) {
+                    console.log('❌ 加载错误:', error.name, error.message);
+                    this.useFallbackData();
+                }
+            }
+
+            useFallbackData() {
+                console.log('✅ 使用备用数据');
+                this.articles = AINewsConfig.fallbackData;
+                this.renderArticles(this.articles);
+            }
+
+            renderArticles(articles) {
+                const contentArea = document.getElementById('news-content');
+                if (articles.length > 0) {
+                    contentArea.innerHTML = articles.map(article => `
+                        <div style="border: 1px solid #ccc; margin: 10px; padding: 10px; border-radius: 5px;">
+                            <h3>${article.title}</h3>
+                            <p>${article.description}</p>
+                            <div style="font-size: 0.9em; color: #666;">
+                                <span>来源: ${article.source}</span> |
+                                <span>评分: ${article.aiScore}/10</span>
+                            </div>
+                        </div>
+                    `).join('');
+                } else {
+                    contentArea.innerHTML = '<p style="color: red;">暂无内容</p>';
+                }
+            }
+        }
+
+        // 开始测试
+        document.getElementById('status').textContent = '🤖 系统正在启动...';
+
+        const newsLoader = new SimpleNewsLoader();
+        newsLoader.init().then(() => {
+            console.log('✅ 初始化完成');
+            document.getElementById('status').textContent = '✅ 初始化完成';
+        }).catch(error => {
+            console.log('❌ 初始化失败:', error);
+            document.getElementById('status').textContent = '❌ 初始化失败';
+        });
+    </script>
+</body>
+</html>

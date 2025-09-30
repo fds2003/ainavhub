@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>测试数据加载</title>
+</head>
+<body>
+    <h1>AI新闻数据加载测试</h1>
+    <div id="loading-status">正在加载...</div>
+    <div id="data-result">数据结果：</div>
+    <div id="error-output">错误信息：</div>
+
+    <script>
+        console.log('🚀 开始测试数据加载...');
+
+        async function testDataLoading() {
+            const statusEl = document.getElementById('loading-status');
+            const resultEl = document.getElementById('data-result');
+            const errorEl = document.getElementById('error-output');
+
+            try {
+                statusEl.textContent = '📡 尝试加载主数据源...';
+
+                // 测试主数据文件
+                const primaryResponse = await fetch('./data/rss-data.json');
+                console.log('主文件响应状态:', primaryResponse.status);
+
+                if (primaryResponse.ok) {
+                    const data = await primaryResponse.json();
+                    console.log('✅ 主数据加载成功:', data);
+                    statusEl.textContent = '✅ 主数据加载成功！';
+                    resultEl.innerHTML = `
+                        <h3>加载成功</h3>
+                        <p>文章数量: ${data.articles.length}</p>
+                        <p>数据来源: ${data.metadata.sources.join(', ')}</p>
+                        <p>更新时间: ${data.metadata.generatedAt}</p>
+                    `;
+                    return;
+                } else {
+                    statusEl.textContent = '⚠️ 主数据加载失败，尝试备用数据...';
+
+                    // 测试备用数据文件
+                    const secondaryResponse = await fetch('./data/rss-data-simple.json');
+                    console.log('备用文件响应状态:', secondaryResponse.status);
+
+                    if (secondaryResponse.ok) {
+                        const data = await secondaryResponse.json();
+                        console.log('✅ 备用数据加载成功:', data);
+                        statusEl.textContent = '✅ 备用数据加载成功！';
+                        resultEl.innerHTML = `
+                            <h3>备用数据加载成功</h3>
+                            <p>文章数量: ${data.articles.length}</p>
+                            <p>第一个标题: ${data.articles[0].title.substring(0, 50)}...</p>
+                        `;
+                        return;
+                    }
+                }
+
+                statusEl.textContent = '❌ 所有数据源都无法加载，使用备用数据';
+                resultEl.innerHTML = '<p>使用内置演示数据</p>';
+
+            } catch (error) {
+                console.error('❌ 数据加载错误:', error);
+                statusEl.textContent = '❌ 数据加载出错';
+                errorEl.innerHTML = `
+                    <h3>错误详情:</h3>
+                    <p>错误类型: ${error.name}</p>
+                    <p>错误信息: ${error.message}</p>
+                    <p>堆栈跟踪: ${error.stack}</p>
+                `;
+            }
+        }
+
+        // 等待页面加载完成后执行测试
+        window.addEventListener('DOMContentLoaded', testDataLoading);
+    </script>
+</body>
+</html>

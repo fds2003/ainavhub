@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智能聚落 - fds2003的AI资讯导航</title>
+    <meta name="description" content="fds2003的AI资讯导航平台，实时聚合全球AI领域最新动态和工具推荐">
+    <meta name="keywords" content="人工智能, AI资讯, 工具导航, AI技术, 机器学习, fds2003">
+    <meta name="author" content="fds2003">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <style>
+        .loading-pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
+        .personal-border { border-left: 4px solid #2563eb; }
+    </style>
+</head>
+
+<body class="bg-gradient-to-br from-blue-50 via-white to-indigo-50 dark:from-gray-900 dark:via-gray-800 dark:to-blue-900 min-h-screen">
+    <header class="bg-white/90 dark:bg-gray-800/90 backdrop-blur-sm sticky top-0 z-50 shadow-lg">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                    <div class="w-12 h-12 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl flex items-center justify-center">
+                        <i class="fas fa-robot text-white text-xl"></i>
+                    </div>
+                    <div>
+                        <h1 class="text-2xl font-bold text-gray-800 dark:text-white">智能聚落</h1>
+                        <p class="text-sm text-gray-600 dark:text-gray-300">fds2003的AI前沿导航</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 py-8">
+        <section class="text-center py-16 mb-12">
+            <h2 class="text-4xl md:text-5xl font-bold text-gray-800 dark:text-white mb-6">
+                发现AI世界的<span class="text-blue-600 dark:text-blue-400">精彩</span>
+            </h2>
+            <p class="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
+                fds2003为您精选全球人工智能领域的最新资讯、前沿技术和实用工具
+            </p>
+            <div class="flex items-center justify-center space-x-4 text-sm text-gray-500 dark:text-gray-400">
+                <span class="flex items-center"><i class="fas fa-sync-alt mr-2"></i>每4小时自动更新</span>
+                <span class="flex items-center"><i class="fas fa-robot mr-2"></i>AI智能筛选</span>
+                <span class="flex items-center"><i class="fas fa-globe mr-2"></i>全球资讯聚合</span>
+            </div>
+        </section>
+
+        <section class="mb-16">
+            <div class="text-center mb-12">
+                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+                    <i class="fas fa-newspaper text-blue-600 mr-3"></i>最新AI资讯
+                </h3>
+                <p class="text-gray-600 dark:text-gray-300">实时聚合的AI领域前沿动态</p>
+            </div>
+
+            <div id="ai-news-content" class="grid gap-6">
+                <div class="text-center py-12">
+                    <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
+                    <p class="text-gray-600 dark:text-gray-400 text-lg">正在为fds2003加载最新AI资讯...</p>
+                    <p class="text-sm text-gray-500 dark:text-gray-500 mt-2">首次加载需要5-10秒，请耐心等待</p>
+                </div>
+            </div>
+
+            <div class="text-center mt-8">
+                <p class="text-sm text-gray-500 dark:text-gray-400">
+                    <i class="fas fa-clock mr-1"></i>
+                    数据更新时间: <span id="last-update-time">加载中...</span>
+                    <button onclick="AINewsSystem.update()" class="ml-2 text-blue-600 hover:text-blue-800">
+                        <i class="fas fa-refresh mr-1"></i>手动刷新
+                    </button>
+                </p>
+            </div>
+        </section>
+
+        <section class="text-center py-12 bg-white/50 dark:bg-gray-800/50 rounded-xl">
+            <div class="max-w-2xl mx-auto">
+                <h4 class="text-2xl font-bold text-gray-800 dark:text-white mb-4">关于 fds2003 的 AI 资讯平台</h4>
+                <p class="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
+                    这个平台是专为AI从业者和爱好者打造的资讯导航工具。我希望通过技术手段，
+                    让大家能够更轻松地获取AI领域的最新动态和优质工具。
+                </p>
+                <div class="flex items-center justify-center space-x-6 text-sm text-gray-500 dark:text-gray-400">
+                    <a href="https://github.com/fds2003" target="_blank" class="hover:text-blue-600 dark:hover:text-blue-400 flex items-center">
+                        <i class="fab fa-github mr-2"></i>GitHub
+                    </a>
+                    <span class="flex items-center">
+                        <i class="fas fa-envelope mr-2"></i>fds2003@163.com
+                    </span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-900 text-white py-8">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-300">
+                © 2024 fds2003 - 智能聚落 AI资讯平台 |
+                基于 <a href="https://github.com/fds2003/ainavhub" target="_blank" class="text-blue-400 hover:text-blue-300">AiNavHub</a> 技术构建
+            </p>
+        </div>
+    </footer>
+
+    <!-- 核心功能脚本 -->
+    <script>
+        // AiNavHub简化版配置 - 专为fds2003 (GitHub Actions + JSON数据方案)
+        const AINewsConfig = {
+            dataPath: './data/rss-data.json',
+            cacheKey: 'ai_news_cache',
+            cacheTimeout: 30 * 60 * 1000, // 30分钟本地缓存
+            aiScoreThreshold: 3.0,
+            maxArticles: 15,
+
+            // AI工具分类（用于内容分析）
+            aiTools: [
+                {name: "ChatGPT", keywords: ["chat", "GPT", "openai", "chatgpt"], category: "聊天机器人"},
+                {name: "Stable Diffusion", keywords: ["stable diffusion", "image generation", "文本生成图像"], category: "图像生成"},
+                {name: "GitHub Copilot", keywords: ["copilot", "代码", "编程", "github"], category: "编程助手"},
+                {name: "Claude", keywords: ["claude", "anthropic", "AI助手"], category: "AI助手"},
+                {name: "DALL-E", keywords: ["dall-e", "图像生成", "openai"], category: "图像生成"},
+                {name: "Midjourney", keywords: ["midjourney", "AI绘图", "图像创作"], category: "图像生成"}
+            ],
+
+            // 备用的静态新闻数据（用于演示和降级方案）
+            fallbackData: [
+                {
+                    title: "人工智能在医疗领域取得新突破",
+                    description: "最新研究显示，AI在疾病诊断方面的准确率已经超过了人类医生",
+                    link: "#",
+                    source: "AI研究前沿",
+                    category: "医疗AI",
+                    pubDate: new Date().toISOString(),
+                    aiScore: 9.2
+                },
+                {
+                    title: "ChatGPT-5即将发布，能力再次大幅提升",
+                    description: "OpenAI官方透露，新版本将在逻辑推理和多模态处理方面有重大改进",
+                    link: "#",
+                    source: "AI行业动态",
+                    category: "聊天机器人",
+                    pubDate: new Date(Date.now() - 86400000).toISOString(),
+                    aiScore: 9.8
+                },
+                {
+                    title: "Google发布新AI模型Gemini Pro 1.5",
+                    description: "支持100万token上下文，在多模态理解方面表现优异",
+                    link: "#",
+                    source: "科技资讯",
+                    category: "大语言模型",
+                    pubDate: new Date(Date.now() - 172800000).toISOString(),
+                    aiScore: 8.9
+                }
+            ]
+        };
+
+        // AI新闻处理器类 - 简化版（GitHub Actions + JSON数据）
+        class AINewsProcessor {
+            constructor() {
+                this.articles = [];
+                this.isProcessing = false;
+                this.cacheTimestamp = 0;
+            }
+
+            async init() {
+                console.log('🚀 fds2003的AiNavHub系统初始化...');
+
+                this.showLoading();
+
+                try {
+                    // 检查本地缓存
+                    const cachedArticles = this.getLocalCache();
+                    console.log('📍 缓存状态:', { cached: !!cachedArticles, cacheValid: this.isCacheValid() });
+
+                    if (cachedArticles && this.isCacheValid()) {
+                        console.log('✅ 使用本地缓存数据');
+                        this.articles = cachedArticles;
+                        this.renderArticles(this.articles);
+                        this.updateLastUpdateTime();
+                        console.log('📋 缓存渲染完成');
+                        return;
+                    }
+
+                    console.log('🔄 准备加载AI新闻数据...');
+                    const articles = await this.loadArticles();
+                    console.log('📊 数据加载结果:', articles.length, '篇文章');
+
+                    if (articles.length > 0) {
+                        this.articles = articles;
+                        this.renderArticles(this.articles);
+                        this.setLocalCache(this.articles);
+                        console.log(`✅ 成功加载并渲染 ${articles.length} 篇新闻`);
+                    } else {
+                        console.log('⚠️ 没有找到文章，使用备用数据');
+                        this.showFallbackData();
+                    }
+
+                    this.updateLastUpdateTime();
+                    console.log('🎯 初始化完成');
+
+                } catch (error) {
+                    console.error('❌ 系统初始化失败:', error);
+                    console.error('错误详情:', error.stack);
+                    this.showError('数据加载失败，即将使用演示数据');
+
+                    // 显示备用数据避免空白页面
+                    console.log('⏰ 2秒后显示备用数据');
+                    setTimeout(() => {
+                        this.showFallbackData();
+                        this.updateLastUpdateTime();
+                    }, 2000);
+                }
+            }
+
+            async loadArticles() {
+                try {
+                    console.log('📡 开始加载AI新闻数据，数据源:', AINewsConfig.dataPath);
+
+                    // 主要方案：从GitHub仓库的data/rss-data.json加载
+                    const primaryResponse = await fetch(AINewsConfig.dataPath);
+                    console.log('🔍 主文件响应状态码:', primaryResponse.status);
+
+                    if (primaryResponse.ok) {
+                        let data;
+                        try {
+                            data = await primaryResponse.json();
+                            console.log('📊 主文件JSON解析成功, 数据格式验证:', !!data);
+                        } catch (jsonError) {
+                            console.error('❌ 主文件JSON解析失败:', jsonError);
+                            data = null;
+                        }
+
+                        if (data && data.articles && Array.isArray(data.articles) && data.articles.length > 0) {
+                            console.log(`✅ 主数据加载成功：${data.articles.length} 篇新闻`);
+                            return this.processArticles(data.articles);
+                        } else {
+                            console.log('⚠️ 主数据格式错误或为空，使用备用数据');
+                            return await this.loadFromBackup();
+                        }
+                    } else {
+                        console.log(`⚠️ 主文件HTTP错误: ${primaryResponse.status}, 使用备用数据`);
+                        return await this.loadFromBackup();
+                    }
+                } catch (fetchError) {
+                    console.error('❌ 主文件网络请求失败:', fetchError);
+                    return await this.loadFromBackup();
+                }
+            }
+
+            async loadFromBackup() {
+                console.log('🔄 尝试备用数据源...');
+
+                try {
+                    const backupResponse = await fetch('./data/rss-data-simple.json');
+                    console.log('🔍 备用文件响应状态码:', backupResponse.status);
+
+                    if (backupResponse.ok) {
+                        let data;
+                        try {
+                            data = await backupResponse.json();
+                            console.log('📊 备用文件JSON解析成功');
+                        } catch (jsonError) {
+                            console.error('❌ 备用文件JSON解析失败:', jsonError);
+                            return await this.useLocalDemoData();
+                        }
+
+                        if (data && data.articles && Array.isArray(data.articles) && data.articles.length > 0) {
+                            console.log(`✅ 备用数据加载成功：${data.articles.length} 篇新闻`);
+                            return this.processArticles(data.articles);
+                        } else {
+                            console.log('⚠️ 备用数据格式错误或为空');
+                            return await this.useLocalDemoData();
+                        }
+                    } else {
+                        console.log(`⚠️ 备用文件HTTP错误: ${backupResponse.status}`);
+                        return await this.useLocalDemoData();
+                    }
+                } catch (backupError) {
+                    console.error('❌ 备用文件网络请求失败:', backupError);
+                    return await this.useLocalDemoData();
+                }
+            }
+
+            async useLocalDemoData() {
+                console.log('✅ 使用内置演示数据（备用方案），准备处理', AINewsConfig.fallbackData.length, '篇文章');
+                const processedFallback = this.processArticles(AINewsConfig.fallbackData);
+                console.log('🎨 备用数据处理完成，生成了', processedFallback.length, '篇文章');
+                return processedFallback;
+            }
+
+            processArticles(rawArticles) {
+                if (!rawArticles || !Array.isArray(rawArticles)) {
+                    return [];
+                }
+
+                return rawArticles.map(article => {
+                    try {
+                        // 确保必要字段存在
+                        const title = article.title || '无标题';
+                        const description = article.summary || article.description || title;
+                        const link = article.link || '#';
+                        const source = article.source || 'AI资讯聚合';
+                        const category = article.category || 'AI动态';
+                        const pubDate = article.pubDate || article.date || new Date().toISOString();
+                        const aiScore = article.aiScore || 5.0;
+
+                        // 生成中文摘要
+                        const summaryZh = this.generateChineseContent(title, description);
+
+                        // 推荐相关AI工具
+                        const relatedTools = this.findRelatedTools(title, description);
+
+                        return {
+                            id: btoa(title + link).replace(/[^a-zA-Z0-9]/g, '').substr(0, 16),
+                            title: title,
+                            titleZh: title.replace(/AI/g, '人工智能').substring(0, 60),
+                            summary: (description || title).substring(0, 180),
+                            summaryZh: summaryZh,
+                            url: link,
+                            source: source,
+                            category: category,
+                            publishTime: pubDate,
+                            aiScore: Math.min(Math.max(aiScore, 1), 10), // 确保在1-10范围内
+                            author: article.author || 'AI资讯编辑',
+                            matchedTools: relatedTools
+                        };
+                    } catch (error) {
+                        console.warn('处理单篇文章失败:', error, article);
+                        return null;
+                    }
+                }).filter(Boolean); // 移除处理失败的项目
+            }
+
+            generateChineseContent(title, description) {
+                const fullText = (title + ' ' + description).toLowerCase();
+
+                // 如果是中文内容，直接返回摘要
+                const chineseMatches = fullText.match(/[一-龥]+/g) || [];
+                if (chineseMatches.length > 0 && chineseMatches.join('').length > 20) {
+                    return chineseMatches.join('').substring(0, 120) + '...';
+                }
+
+                // 智能中文摘要生成
+                let summary = '';
+                const keyPhrases = [
+                    'artificial intelligence', 'AI', 'machine learning', 'deep learning',
+                    'neural network', 'natural language', 'computer vision', 'robotics'
+                ];
+
+                if (keyPhrases.some(phrase => fullText.includes(phrase))) {
+                    summary = '人工智能领域最新进展：';
+                } else {
+                    summary = 'AI相关资讯：';
+                }
+
+                const cleanDesc = description.replace(/<[^>]+>/g, '').substring(0, 80);
+                return summary + cleanDesc + '...';
+            }
+
+            findRelatedTools(title, description) {
+                const articleText = (title + ' ' + description).toLowerCase();
+                const matchedTools = [];
+
+                for (const tool of AINewsConfig.aiTools) {
+                    let score = 0;
+                    const matchedKeywords = [];
+
+                    for (const keyword of tool.keywords) {
+                        if (articleText.includes(keyword.toLowerCase())) {
+                            score += 1;
+                            matchedKeywords.push(keyword);
+                        }
+                    }
+
+                    if (score >= 1) {
+                        matchedTools.push({
+                            tool_name: tool.name,
+                            tool_category: tool.category,
+                            tool_url: '#', // 后续可以配置具体工具链接
+                            reason: `相关内容: ${matchedKeywords[0] || 'AI技术'}`,
+                            score: score
+                        });
+                    }
+                }
+
+                return matchedTools.sort((a, b) => b.score - a.score).slice(0, 3);
+            }
+
+            // 显示备用数据（避免空白页面）
+            showFallbackData() {
+                console.log('🔄 显示备用数据');
+                try {
+                    const fallbackArticles = this.processArticles(AINewsConfig.fallbackData);
+                    console.log('🔧 备用数据处理后文章数:', fallbackArticles.length);
+
+                    // 先渲染文章
+                    this.renderArticles(fallbackArticles);
+
+                    // 再添加提示信息
+                    console.log('💡 添加演示数据提示');
+                    setTimeout(() => { // 确保DOM渲染完成后再插入提示
+                        const container = document.getElementById('ai-news-content');
+                        if (container) {
+                            const notice = document.createElement('div');
+                            notice.className = 'bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6 text-center';
+                            notice.innerHTML = `
+                                <p class="text-yellow-800">
+                                    <i class="fas fa-info-circle mr-2"></i>
+                                    当前显示演示数据，GitHub Actions将在下次运行时获取最新AI新闻
+                                </p>
+                            `;
+                            container.insertBefore(notice, container.firstChild);
+                        } else {
+                            console.warn('⚠️ 找不到新闻容器元素');
+                        }
+                    }, 100);
+                } catch (error) {
+                    console.error('❌ 显示备用数据失败:', error);
+                    this.showError('无法加载演示数据');
+                }
+            }
+
+            // 本地缓存管理
+            getLocalCache() {
+                try {
+                    const cached = localStorage.getItem(AINewsConfig.cacheKey);
+                    if (cached) {
+                        const data = JSON.parse(cached);
+                        this.cacheTimestamp = data.timestamp || 0;
+                        return data.articles || [];
+                    }
+                } catch (error) {
+                    console.warn('本地缓存读取失败:', error);
+                }
+                return null;
+            }
+
+            setLocalCache(articles) {
+                try {
+                    const data = {
+                        articles: articles,
+                        timestamp: Date.now(),
+                        version: '2.0'
+                    };
+                    localStorage.setItem(AINewsConfig.cacheKey, JSON.stringify(data));
+                    this.cacheTimestamp = data.timestamp;
+
+                    console.log('✅ 本地缓存保存成功');
+                } catch (error) {
+                    console.error('本地缓存保存失败:', error);
+                }
+            }
+
+            isCacheValid() {
+                if (!this.cacheTimestamp) return false;
+                return (Date.now() - this.cacheTimestamp) < AINewsConfig.cacheTimeout;
+            }
+
+            // 更新时间显示
+            updateLastUpdateTime() {
+                const timeElement = document.getElementById('last-update-time');
+                if (timeElement) {
+                    const now = new Date();
+                    const timeStr = now.toLocaleString('zh-CN', {
+                        year: 'numeric',
+                        month: '2-digit',
+                        day: '2-digit',
+                        hour: '2-digit',
+                        minute: '2-digit'
+                    });
+                    timeElement.textContent = '刚刚更新 - ' + timeStr;
+                    timeElement.title = `GitHub Actions 每4小时自动更新, 由AiNavHub机器人为您服务 `;
+                }
+            }
+
+
+            recommendTools(title, content) {
+                const articleText = (title + ' ' + content).toLowerCase();
+                const recommendations = [];
+
+                for (const tool of AINewsConfig.aiTools) {
+                    let score = 0;
+                    let matchedWords = [];
+
+                    for (const keyword of tool.keywords) {
+                        if (articleText.includes(keyword.toLowerCase())) {
+                            score += 1;
+                            matchedWords.push(keyword);
+                        }
+                    }
+
+                    if (score >= 2) {
+                        recommendations.push({
+                            tool_name: tool.name,
+                            tool_category: tool.category,
+                            tool_url: tool.url || '#',
+                            reason: `相关技术: ${matchedWords.slice(0, 2).join(', ')}`,
+                            score: score
+                        });
+                    }
+                }
+
+                return recommendations.sort((a, b) => b.score - a.score).slice(0, 3);
+            }
+
+            renderArticles(articles) {
+                const container = document.getElementById('ai-news-content');
+
+                if (!articles || articles.length === 0) {
+                    container.innerHTML = this.generateEmptyState();
+                    return;
+                }
+
+                const html = articles.map(article => this.generateArticleHTML(article)).join('');
+                container.innerHTML = html;
+
+                console.log(`🎨 成功渲染 ${articles.length} 篇AI资讯`);
+
+                // 保存到本地缓存
+                this.saveToLocal(articles);
+            }
+
+            generateArticleHTML(article) {
+                const publishDate = new Date(article.publishTime).toLocaleDateString('zh-CN');
+
+                return `
+                    <article class="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 mb-6 hover:shadow-lg transition-all duration-300 border-l-4 border-blue-500">
+                        <div class="flex flex-col space-y-4">
+                            <div class="flex items-start justify-between space-x-4">
+                                <h3 class="text-xl font-bold text-gray-900 dark:text-white leading-tight flex-1">
+                                    <a href="${article.url}" target="_blank" rel="noopener"
+                                       class="block hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:underline focus:outline-none focus:underline">
+                                        ${article.titleZh || article.title}
+                                        <i class="fas fa-external-link-alt ml-2 text-xs opacity-60 group-hover:opacity-100 transition-opacity"></i>
+                                    </a>
+                                </h3>
+                                <div class="flex items-center space-x-2">
+                                    <span class="px-2 py-1 bg-blue-100 text-blue-800 text-xs font-medium border border-blue-300 rounded-full">
+                                        <i class="fas fa-robot mr-1"></i>${article.aiScore}/10
+                                    </span>
+                                </div>
+                            </div>
+
+                            <p class="text-gray-700 dark:text-gray-300 text-sm leading-relaxed bg-blue-50 dark:bg-blue-900/20 p-3 rounded-lg">
+                                <i class="fas fa-language text-blue-600 mr-2"></i>
+                                ${article.summaryZh || article.summary}
+                            </p>
+
+                            <div class="flex items-center justify-between text-sm text-gray-600 dark:text-gray-400">
+                                <div class="flex items-center space-x-6">
+                                    <span class="flex items-center cursor-pointer" title="发布时间">
+                                        <i class="far fa-calendar-alt mr-2"></i>
+                                        ${publishDate}
+                                    </span>
+                                    <span class="flex items-center cursor-pointer" title="来源">
+                                        <i class="far fa-newspaper mr-2"></i>
+                                        AI资讯聚合
+                                    </span>
+                                    <span class="flex items-center cursor-pointer" title="作者">
+                                        <i class="far fa-user mr-2"></i>
+                                        ${article.author}
+                                    </span>
+                                </div>
+
+                                <div class="flex items-center space-x-3">
+                                    <span class="text-gray-500 text-xs">相关工具:</span>
+                                    ${article.matchedTools.map(tool => `
+                                        <a href="${tool.tool_url}"
+                                           class="inline-flex items-center px-2 py-1 text-xs font-medium bg-green-100 text-green-800 hover:bg-green-200 rounded-full transition-colors"
+                                           title="${tool.reason}">
+                                            <i class="fas fa-cog mr-1 text-xs"></i>
+                                            ${tool.tool_name}
+                                        </a>
+                                    `).join('')}
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                `;
+            }
+
+            generateEmptyState() {
+                return `
+                    <div class="text-center py-16 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
+                        <div class="text-6xl mb-6 opacity-30">📰</div>
+                        <h3 class="text-xl font-semibold text-gray-800 dark:text-white mb-2">暂无新的AI资讯</h3>
+                        <p class="text-lg">我们正在努力爬取最新的AI相关新闻，请稍后再试</p>
+                        <button onclick="AINewsSystem.update()" class="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
+                            <i class="fas fa-redo mr-2"></i>重新加载
+                        </button>
+                    </div>
+                `;
+            }
+
+            showLoading() {
+                const container = document.getElementById('ai-news-content');
+                if (container) {
+                    container.innerHTML = `
+                        <div class="text-center py-12">
+                            <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
+                            <p class="text-gray-600 dark:text-gray-400 text-lg">正在加载AI资讯...</p>
+                            <p class="text-sm text-gray-500 dark:text-gray-500 mt-2">首次加载需要5-10秒</p>
+                        </div>
+                    `;
+                }
+            }
+
+            showError(message) {
+                const container = document.getElementById('ai-news-content');
+                if (container) {
+                    container.innerHTML = `
+                        <div class="text-center py-16 text-gray-500 dark:text-gray-400">
+                            <i class="fas fa-exclamation-triangle text-4xl mb-4 text-yellow-500"></i>
+                            <p class="mb-2">资讯加载失败</p>
+                            <p class="text-xs text-gray-400 mb-4">${message}</p>
+                            <button onclick="AINewsSystem.update()" class="text-blue-600 hover:text-blue-800">
+                                <i class="fas fa-redo mr-1"></i>重试
+                            </button>
+                        </div>
+                    `;
+                }
+            }
+
+            // 渲染文章列表（大幅简化版本）
+            renderArticles(articles) {
+                const container = document.getElementById('ai-news-content');
+
+                if (!articles || articles.length === 0) {
+                    container.innerHTML = this.generateEmptyState();
+                    return;
+                }
+
+                // 将配置中的工具信息也传入渲染
+                const toolData = AINewsConfig.aiTools;
+
+                const html = articles.slice(0, AINewsConfig.maxArticles).map(article => {
+                    return this.generateArticleHTML_simple(article, toolData);
+                }).join('');
+
+                container.innerHTML = html;
+
+                console.log(`🎨 成功渲染 ${articles.length} 篇AI资讯`);
+            }
+
+            // 简化版文章HTML生成
+            generateArticleHTML_simple(article) {
+                const publishDate = new Date(article.publishTime).toLocaleDateString('zh-CN');
+                const aiScoreDisplay = Math.round(article.aiScore * 10) / 10; // 保留一位小数
+
+                return `
+                    <article class="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 mb-6 hover:shadow-lg transition-all duration-300 border-l-4 border-blue-500">
+                        <div class="flex flex-col space-y-4">
+                            <div class="flex items-start justify-between space-x-4">
+                                <h3 class="text-xl font-bold text-gray-900 dark:text-white leading-tight flex-1">
+                                    <a href="${article.url}" target="_blank" rel="noopener"
+                                       class="block hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:underline">
+                                        ${article.titleZh || article.title}
+                                        <i class="fas fa-external-link-alt ml-2 text-xs"></i>
+                                    </a>
+                                </h3>
+                                <div class="flex items-center space-x-2">
+                                    <span class="px-2 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded-full border">
+                                        <i class="fas fa-robot mr-1"></i>${aiScoreDisplay}/10
+                                    </span>
+                                    ${article.category ? `<span class="px-2 py-1 bg-gray-100 text-gray-800 text-xs rounded">${article.category}</span>` : ''}
+                                </div>
+                            </div>
+
+                            <div class="text-gray-700 dark:text-gray-300 text-sm leading-relaxed bg-blue-50 dark:bg-blue-900/20 p-3 rounded-lg">
+                                <i class="fas fa-language text-blue-600 mr-2"></i>
+                                ${article.summaryZh || article.summary}
+                            </div>
+
+                            <div class="flex flex-wrap items-center justify-between text-sm text-gray-600 dark:text-gray-400 gap-4">
+                                <div class="flex items-center space-x-4">
+                                    <span class="flex items-center" title="发布时间">
+                                        <i class="far fa-calendar-alt mr-2"></i> ${publishDate}
+                                    </span>
+                                    <span class="flex items-center" title="来源">
+                                        <i class="far fa-newspaper mr-2"></i> ${article.source}
+                                    </span>
+                                    ${article.author ? `<span class="flex items-center" title="作者">
+                                        <i class="far fa-user mr-2"></i> ${article.author}
+                                    </span>` : ''}
+                                </div>
+
+                                ${article.matchedTools && article.matchedTools.length > 0 ?
+                                    `<div class="flex items-center space-x-2">
+                                        <span class="text-xs text-gray-500">相关推荐:</span>
+                                        ${article.matchedTools.slice(0, 2).map(tool =>
+                                            `<span class="px-2 py-1 text-xs bg-green-100 text-green-800 rounded cursor-pointer"
+                                                   title="${tool.reason || '相关AI技术'}">
+                                                <i class="fas fa-cog mr-1"></i>${tool.tool_name}
+                                            </span>`
+                                        ).join('')}
+                                    </div>` : ''
+                                }
+                            </div>
+                        </div>
+                    </article>
+                `;
+            }
+
+            // 空状态
+            generateEmptyState() {
+                return `
+                    <div class="text-center py-16 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
+                        <div class="text-6xl mb-6">📰</div>
+                        <h3 class="text-xl font-semibold text-gray-800 dark:text-white mb-2">暂无AI资讯</h3>
+                        <p class="text-gray-500 mb-4">我们正在为您准备最新的AI新闻，请稍后再试</p>
+                        <button onclick="location.reload()" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
+                            <i class="fas fa-redo mr-2"></i>重新加载
+                        </button>
+                    </div>
+                `;
+            }
+
+
+        // 全局接口 - 简化和优化版本
+        window.AINewsSystem = {
+            processor: null,
+            isInitialized: false,
+
+            init: async function() {
+                if (this.isInitialized) {
+                    return true;
+                }
+
+                try {
+                    if (!this.processor) {
+                        this.processor = new AINewsProcessor();
+                    }
+
+                    await this.processor.init();
+                    this.isInitialized = true;
+                    return true;
+                } catch (error) {
+                    console.error('❌ 系统初始化失败:', error);
+                    this.isInitialized = false;
+                    return false;
+                }
+            },
+
+            update: async function() {
+                if (this.processor && this.isInitialized) {
+                    return await this.processor.init();
+                }
+                return this.init(); // 如果连处理器都未初始化
+            },
+
+            // 获取系统统计信息
+            getStats: function() {
+                try {
+                    const cached = localStorage.getItem(AINewsConfig.cacheKey);
+                    if (cached) {
+                        const data = JSON.parse(cached);
+                        return {
+                            lastUpdate: new Date(data.timestamp).toLocaleString('zh-CN'),
+                            articleCount: data.articles ? data.articles.length : 0,
+                            cacheValid: Date.now() - data.timestamp < AINewsConfig.cacheTimeout,
+                            dataSource: data.articles ? 'local' : 'none'
+                        };
+                    }
+                } catch (error) {
+                    console.warn('获取统计信息失败:', error);
+                }
+
+                return {
+                    lastUpdate: '暂无数据',
+                    articleCount: 0,
+                    cacheValid: false,
+                    dataSource: 'none'
+                };
+            },
+
+            // 获取当前文章数据
+            getArticles: function() {
+                return (this.processor && this.processor.articles) ? this.processor.articles : [];
+            }
+        };
+
+        // 改进版自动初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('🚀 fds2003的AiNavHub系统启动 - GitHub Actions + JSON数据模式');
+
+            AINewsSystem.init().then(success => {
+                if (success) {
+                    console.log('✅ AiNavHub新闻系统初始化成功！');
+
+                    // 初始化更新按钮
+                    const refreshButton = document.querySelector('button[onclick="AINewsSystem.update()"]');
+                    if (refreshButton) {
+                        refreshButton.textContent = '刷新新闻';
+                        refreshButton.innerHTML = '<i class="fas fa-refresh mr-1"></i>刷新新闻';
+                    }
+                } else {
+                    console.warn('⚠️ 系统初始化部分失败，使用备用数据');
+                }
+            }).catch(error => {
+                console.error('❌ 系统初始化出错:', error);
+
+                // 显示友好的错误提示
+                setTimeout(() => {
+                    const container = document.getElementById('ai-news-content');
+                    if (container) {
+                        container.innerHTML = `
+                            <div class="text-center py-16 bg-red-50 border border-red-200 rounded-lg">
+                                <i class="fas fa-exclamation-triangle text-4xl mb-4 text-red-500"></i>
+                                <h3 class="text-lg font-medium text-red-800 mb-2">系统初始化失败</h3>
+                                <p class="text-red-600 mb-4">但请不要担心！</p>
+                                <button onclick="location.reload()" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
+                                    <i class="fas fa-redo mr-2"></i>重试
+                                </button>
+                            </div>
+                        `;
+                    }
+                }, 3000);
+            });
+        });
+    </script>
+</body>
+</html>

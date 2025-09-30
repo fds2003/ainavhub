@@ -1,0 +1,17 @@
+{
+  "name": "ainavhub",
+  "version": "1.0.0",
+  "description": "AI资讯导航网站 - 智能聚落",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./css/input.css -o ./css/output.css --watch",
+    "build": "npx tailwindcss -i ./css/input.css -o ./css/output.css --minify",
+    "serve": "python3 -m http.server 3000"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "keywords": ["ai", "navigation", "tools", "news"],
+  "author": "AiNavHub Team",
+  "license": "MIT"
+}

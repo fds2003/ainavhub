@@ -1,0 +1,86 @@
+{
+  "personalization": {
+    "github_username": "fds2003",
+    "repository_name": "ainavhub",
+    "domain": "https://fds2003.github.io/ainavhub",
+    "created_date": "2024-09-30",
+    "user_email": "fds2003@163.com"
+  },
+  "site_meta": {
+    "title": "智能聚落 - fds2003的AI资讯导航",
+    "description": "fds2003的AI资讯导航平台，实时聚合全球AI领域最新动态和工具推荐",
+    "author": "fds2003",
+    "version": "1.0.0",
+    "created_for": "fds2003 GitHub Account"
+  },
+  "rss_sources": [
+    {
+      "name": "TechCrunch AI",
+      "rss_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_url": "https://techcrunch.com",
+      "weight": 0.9,
+      "category": "tech",
+      "status": "active",
+      "user_note": "个人收藏 - TechCrunch的AI频道"
+    },
+    {
+      "name": "MIT AI News",
+      "rss_url": "https://news.mit.edu/rss/topic/artificial-intelligence",
+      "source_url": "https://news.mit.edu",
+      "weight": 0.9,
+      "category": "research",
+      "status": "active",
+      "user_note": "学术来源 - MIT人工智能新闻"
+    },
+    {
+      "name": "ArXiv AI Research",
+      "rss_url": "http://export.arxiv.org/rss/cs.AI",
+      "source_url": "https://arxiv.org",
+      "weight": 0.8,
+      "category": "research",
+      "status": "active",
+      "user_note": "学术研究 - ArXiv AI论文"
+    },
+    {
+      "name": "VentureBeat AI",
+      "rss_url": "https://venturebeat.com/ai/",
+      "source_url": "https://venturebeat.com",
+      "weight": 0.85,
+      "category": "tech",
+      "status": "active",
+      "user_note": "行业动态 - VentureBeat AI频道"
+    },
+    {
+      "name": "AI Trends",
+      "rss_url": "https://www.aitrends.com/feed/",
+      "source_url": "https://www.aitrends.com",
+      "weight": 0.75,
+      "category": "trends",
+      "status": "active",
+      "user_note": "趋势追踪 - AI Trends资讯"
+    }
+  ],
+  "ai_tools": [
+    {"name": "ChatGPT", "keywords": ["chat", "GPT", "openai"], "category": "chatbot", "url": "https://chat.openai.com", "description": "OpenAI开发的大语言模型聊天机器人"},
+    {"name": "Stable Diffusion", "keywords": ["stable diffusion", "diffusion", "image"], "category": "image", "url": "https://stability.ai", "description": "开源文本生成图像AI模型"},
+    {"name": "GitHub Copilot", "keywords": ["copilot", "code", "github", "programming"], "category": "coding", "url": "https://github.com/features/copilot", "description": "AI驱动的代码补全工具"},
+    {"name": "Claude", "keywords": ["claude", "anthropic", "ai assistant"], "category": "chatbot", "url": "https://claude.ai", "description": "Anthropic开发的AI助手"},
+    {"name": "Notion AI", "keywords": ["notion", "writing", "document"], "category": "productivity", "url": "https://www.notion.so", "description": "集成在Notion中的AI写作助手"},
+    {"name": "Runway ML", "keywords": ["runway", "video", "machine learning"], "category": "video", "url": "https://runwayml.com", "description": "AI视频和图像创作平台"}
+  ],
+  "processing_config": {
+    "max_articles": 8,
+    "min_ai_score": 5.0,
+    "request_timeout": 15,
+    "max_retries": 2,
+    "concurrent_limit": 3,
+    "update_frequency": "4h",
+    "cache_timeout": 1800000,
+    "rss_limit": 10
+  },
+  "performance_tuning": {
+    "optimize_for_mobile": true,
+    "enable_compression": true,
+    "cache_priority": "performance"
+  }
+}
