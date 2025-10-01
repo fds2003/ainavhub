@@ -7,8 +7,9 @@
     <meta name="description" content="fds2003的AI资讯导航平台，实时聚合全球AI领域最新动态和工具推荐">
     <meta name="keywords" content="人工智能, AI资讯, 工具导航, AI技术, 机器学习, fds2003">
     <meta name="author" content="fds2003">
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
 
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./css/output.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <style>
@@ -661,7 +662,7 @@
                 }
 
                 return matchedTools.sort((a, b) => b.score - a.score).slice(0, 3);
-            },
+            }
             
             // Load tools from JSON file
             async loadTools() {
@@ -681,7 +682,7 @@
                     console.error('❌ 加载工具数据失败:', error);
                     return AINewsConfig.aiTools;
                 }
-            },
+            }
             
             // Load products from JSON file
             async loadProducts() {
@@ -700,7 +701,7 @@
                     console.error('❌ 加载产品数据失败:', error);
                     return [];
                 }
-            },
+            }
             
             // Load learning resources from JSON file
             async loadLearningResources() {
@@ -719,7 +720,7 @@
                     console.error('❌ 加载学习资源数据失败:', error);
                     return [];
                 }
-            },
+            }
             
             // Load topics from JSON file
             async loadTopics() {
@@ -738,7 +739,7 @@
                     console.error('❌ 加载专题数据失败:', error);
                     return [];
                 }
-            },
+            }
             
             // 分类文章
             categorizeArticle(article) {
@@ -771,7 +772,7 @@
                 
                 // Default category
                 return 'AI动态';
-            },
+            }
             
             // 过滤新闻
             filterNews(category) {
@@ -809,7 +810,7 @@
                 
                 // Update active filter button
                 this.updateActiveNewsFilter(category);
-            },
+            }
             
             // 更新新闻活动过滤器状态
             updateActiveNewsFilter(activeCategory) {
@@ -1130,7 +1131,7 @@
                         ${hotnessRank}
                     </div>
                 `;
-            },
+            }
             
             // 过滤产品
             async filterProducts(category) {
@@ -1177,7 +1178,7 @@
                 
                 // Update active filter button
                 this.updateActiveProductFilter(category);
-            },
+            }
             
             // 排序产品
             async sortProducts(sortBy) {
@@ -1227,7 +1228,7 @@
                 
                 // Update active filter button
                 this.updateActiveProductFilter(category);
-            },
+            }
             
             // 实际的产品排序函数
             sortProductsArray(products, sortBy) {
@@ -1240,7 +1241,7 @@
                         // Default sorting - by hotness score
                         return products.sort((a, b) => (b.hotnessScore || 0) - (a.hotnessScore || 0));
                 }
-            },
+            }
             
             // 更新产品活动过滤器状态
             updateActiveProductFilter(activeCategory) {
@@ -1275,7 +1276,7 @@
                         </div>
                     </div>
                 `;
-            },
+            }
             
             // 过滤学习资源
             async filterLearningResources(category) {
@@ -1309,7 +1310,7 @@
                 
                 // Update active filter button
                 this.updateActiveLearningFilter(category);
-            },
+            }
             
             // 更新学习资源活动过滤器状态
             updateActiveLearningFilter(activeCategory) {
@@ -1645,7 +1646,7 @@
 
                 const html = tools.map(tool => this.generateToolHTML(tool)).join('');
                 container.innerHTML = html;
-            },
+            }
             
             // 排序工具
             async sortTools(sortBy) {
@@ -1686,7 +1687,7 @@
 
                 const html = tools.map(tool => this.generateToolHTML(tool)).join('');
                 container.innerHTML = html;
-            },
+            }
             
             // 实际的排序函数
             sortToolsArray(tools, sortBy) {
@@ -1698,7 +1699,7 @@
                     default:
                         return tools;
                 }
-            },
+            }
             
             // 检查工具是否已收藏
             isToolFavorite(toolName) {
@@ -1709,7 +1710,7 @@
                     console.error('Error checking favorite status:', e);
                     return false;
                 }
-            },
+            }
             
             // 添加/移除收藏
             toggleToolFavorite(toolName) {
@@ -1739,7 +1740,7 @@
                     console.error('Error toggling favorite:', e);
                     return false;
                 }
-            },
+            }
             
             // 显示通知
             showNotification(message) {
@@ -1841,11 +1842,11 @@
             },
             
             // 全局搜索功能
-            async search(query) {
+            search: async function(query) {
                 if (this.processor && this.isInitialized) {
                     await this.processor.search(query);
                 }
-            }
+            },
         };
 
         // Mobile menu toggle functionality
