@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "ChatGPT",
+      "description": "OpenAI开发的高级对话AI模型，能够进行自然对话和内容生成",
+      "url": "https://chat.openai.com",
+      "category": "聊天工具",
+      "hotnessScore": 9.8,
+      "icon": "comments"
+    },
+    {
+      "name": "Midjourney",
+      "description": "基于扩散模型的AI图像生成工具，能从文本描述创建高质量图像",
+      "url": "https://www.midjourney.com",
+      "category": "图像生成",
+      "hotnessScore": 9.5,
+      "icon": "image"
+    },
+    {
+      "name": "GitHub Copilot",
+      "description": "AI配对程序员，提供代码建议和自动完成功能",
+      "url": "https://github.com/features/copilot",
+      "category": "编程助手",
+      "hotnessScore": 9.2,
+      "icon": "code"
+    },
+    {
+      "name": "Runway ML",
+      "description": "简单易用的机器学习平台，专注于创意应用和视频生成",
+      "url": "https://runwayml.com",
+      "category": "生产力工具",
+      "hotnessScore": 8.7,
+      "icon": "video"
+    },
+    {
+      "name": "Notion AI",
+      "description": "集成在Notion中的AI助手，帮助写作、总结和数据分析",
+      "url": "https://www.notion.so",
+      "category": "生产力工具",
+      "hotnessScore": 8.5,
+      "icon": "lightbulb"
+    },
+    {
+      "name": "Stable Diffusion",
+      "description": "开源的文本到图像生成模型，具有高度定制性",
+      "url": "https://stability.ai",
+      "category": "图像生成",
+      "hotnessScore": 8.3,
+      "icon": "palette"
+    },
+    {
+      "name": "Jasper",
+      "description": "AI内容创作平台，帮助营销团队创作高质量内容",
+      "url": "https://www.jasper.ai",
+      "category": "生产力工具",
+      "hotnessScore": 7.9,
+      "icon": "pen"
+    },
+    {
+      "name": "Claude 3",
+      "description": "Anthropic开发的AI助手，注重安全和有用性",
+      "url": "https://claude.ai",
+      "category": "聊天工具",
+      "hotnessScore": 9.0,
+      "icon": "robot"
+    }
+  ]
+}

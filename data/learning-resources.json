@@ -1,0 +1,124 @@
+{
+  "resources": [
+    {
+      "title": "AI初学者指南",
+      "description": "从零开始了解人工智能，无需编程背景",
+      "url": "https://example.com/ai-beginner-guide",
+      "category": "入门指南",
+      "level": "入门",
+      "icon": "book"
+    },
+    {
+      "title": "机器学习实战课程",
+      "description": "通过实际项目学习机器学习核心概念",
+      "url": "https://example.com/ml-practical-course",
+      "category": "课程推荐",
+      "level": "中级",
+      "icon": "laptop-code"
+    },
+    {
+      "title": "深度学习专业课程",
+      "description": "神经网络、卷积网络和循环网络深度解析",
+      "url": "https://example.com/deep-learning-course",
+      "category": "课程推荐",
+      "level": "高级",
+      "icon": "brain"
+    },
+    {
+      "title": "AI编程入门",
+      "description": "Python和TensorFlow基础，为AI开发打下基础",
+      "url": "https://example.com/ai-programming-basics",
+      "category": "编程与开发",
+      "level": "入门",
+      "icon": "code"
+    },
+    {
+      "title": "数据科学与AI",
+      "description": "学习如何准备和处理数据以用于AI模型",
+      "url": "https://example.com/data-science-ai",
+      "category": "数据资源",
+      "level": "中级",
+      "icon": "database"
+    },
+    {
+      "title": "大模型应用开发",
+      "description": "使用GPT、Claude等大模型构建实际应用",
+      "url": "https://example.com/large-model-dev",
+      "category": "编程与开发",
+      "level": "高级",
+      "icon": "microchip"
+    },
+    {
+      "title": "AI伦理与安全",
+      "description": "了解AI技术的社会影响和安全考虑",
+      "url": "https://example.com/ai-ethics-safety",
+      "category": "课程推荐",
+      "level": "中级",
+      "icon": "shield-alt"
+    },
+    {
+      "title": "计算机视觉基础",
+      "description": "图像识别、物体检测等计算机视觉概念",
+      "url": "https://example.com/computer-vision-basics",
+      "category": "课程推荐",
+      "level": "中级",
+      "icon": "eye"
+    },
+    {
+      "title": "自然语言处理入门",
+      "description": "理解文本处理和语言模型的基础知识",
+      "url": "https://example.com/nlp-intro",
+      "category": "编程与开发",
+      "level": "中级",
+      "icon": "comment"
+    },
+    {
+      "title": "AI研究论文阅读指南",
+      "description": "如何高效阅读和理解AI领域的学术论文",
+      "url": "https://example.com/ai-paper-reading",
+      "category": "学习/科研",
+      "level": "高级",
+      "icon": "file-alt"
+    },
+    {
+      "title": "AI项目实战：从想法到产品",
+      "description": "完整的AI项目开发流程和实践案例",
+      "url": "https://example.com/ai-project-workflow",
+      "category": "课程推荐",
+      "level": "高级",
+      "icon": "project-diagram"
+    },
+    {
+      "title": "强化学习原理与应用",
+      "description": "深度了解强化学习算法及其实际应用",
+      "url": "https://example.com/reinforcement-learning",
+      "category": "课程推荐",
+      "level": "高级",
+      "icon": "sitemap"
+    },
+    {
+      "title": "AI开发者工具包",
+      "description": "AI开发必备的工具、库和框架合集",
+      "url": "https://example.com/ai-developer-toolkit",
+      "category": "开发/编程",
+      "level": "中级",
+      "icon": "toolbox"
+    },
+    {
+      "title": "AI伦理与社会影响",
+      "description": "探讨AI技术发展中的伦理问题和社会责任",
+      "url": "https://example.com/ai-ethics-impact",
+      "category": "AI 与社会",
+      "level": "中级",
+      "icon": "users"
+    },
+    {
+      "title": "多模态AI技术解析",
+      "description": "图像、文本、音频结合的多模态AI模型详解",
+      "url": "https://example.com/multimodal-ai",
+      "category": "技术前沿",
+      "level": "高级",
+      "icon": "photo-video"
+    }
+  ]
+}

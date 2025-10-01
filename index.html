@@ -31,6 +31,59 @@
                         <p class="text-sm text-gray-600 dark:text-gray-300">fds2003的AI前沿导航</p>
                     </div>
                 </div>
+                
+                <!-- Mobile menu button -->
+                <button type="button" id="mobile-menu-button" class="md:hidden text-gray-700 dark:text-gray-300">
+                    <i class="fas fa-bars text-2xl"></i>
+                </button>
+                
+                <!-- Search Bar -->
+                <div class="hidden md:flex items-center mr-4">
+                    <div class="relative">
+                        <input 
+                            type="text" 
+                            id="global-search" 
+                            placeholder="搜索AI工具、文章、资源..." 
+                            class="py-2 pl-10 pr-4 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500 w-64"
+                        >
+                        <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"></i>
+                    </div>
+                </div>
+                
+                <!-- Navigation Menu -->
+                <nav id="main-nav" class="hidden md:flex items-center space-x-1">
+                    <a href="#home" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">首页</a>
+                    <a href="#news" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">最新资讯</a>
+                    <a href="#tools" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">工具导航</a>
+                    <a href="#products" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">热门产品</a>
+                    <a href="#learning" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">学习资源</a>
+                    <a href="#topics" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">专题导航</a>
+                    <a href="#about" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">关于我们</a>
+                </nav>
+            </div>
+            
+            <!-- Mobile menu (hidden by default) -->
+            <div id="mobile-menu" class="hidden md:hidden mt-4 py-4 bg-white dark:bg-gray-800 rounded-lg shadow-lg">
+                <!-- Mobile Search -->
+                <div class="px-4 mb-4">
+                    <div class="relative">
+                        <input 
+                            type="text" 
+                            id="mobile-search" 
+                            placeholder="搜索AI工具、文章、资源..." 
+                            class="w-full py-2 pl-10 pr-4 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        >
+                        <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"></i>
+                    </div>
+                </div>
+                
+                <a href="#home" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">首页</a>
+                <a href="#news" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">最新资讯</a>
+                <a href="#tools" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">工具导航</a>
+                <a href="#products" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">热门产品</a>
+                <a href="#learning" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">学习资源</a>
+                <a href="#topics" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">专题导航</a>
+                <a href="#about" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">关于我们</a>
             </div>
         </div>
     </header>
@@ -50,12 +103,31 @@
             </div>
         </section>
 
+        <!-- 最新资讯 News Section with Categories -->
         <section class="mb-16">
             <div class="text-center mb-12">
                 <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
                     <i class="fas fa-newspaper text-blue-600 mr-3"></i>最新AI资讯
                 </h3>
                 <p class="text-gray-600 dark:text-gray-300">实时聚合的AI领域前沿动态</p>
+            </div>
+            
+            <!-- News Categories Filter -->
+            <div class="mb-8 px-4">
+                <div class="flex flex-wrap items-center justify-center gap-2">
+                    <button type="button" class="news-filter-btn px-4 py-2 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
+                        全部
+                    </button>
+                    <button type="button" class="news-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="industry">
+                        行业新闻
+                    </button>
+                    <button type="button" class="news-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="tech">
+                        技术前沿
+                    </button>
+                    <button type="button" class="news-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="application">
+                        应用热点
+                    </button>
+                </div>
             </div>
 
             <div id="ai-news-content" class="grid gap-6">
@@ -94,6 +166,211 @@
                 </div>
             </div>
         </section>
+
+        <!-- 工具导航 Tools Navigation -->
+        <section id="tools" class="mb-16 py-12 bg-white dark:bg-gray-800 rounded-xl shadow-sm">
+            <div class="text-center mb-12">
+                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+                    <i class="fas fa-tools text-blue-600 mr-3"></i>AI工具导航
+                </h3>
+                <p class="text-gray-600 dark:text-gray-300">发现最适合您需求的AI工具</p>
+            </div>
+            
+            <!-- 工具过滤器和排序器 -->
+            <div class="mb-8 px-4">
+                <div class="flex flex-wrap items-center justify-center gap-4">
+                    <div class="flex flex-wrap items-center justify-center gap-2">
+                        <button type="button" class="filter-btn px-4 py-2 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
+                            全部
+                        </button>
+                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="chatbot">
+                            聊天机器人
+                        </button>
+                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="image">
+                            图像生成
+                        </button>
+                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="coding">
+                            编程助手
+                        </button>
+                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="productivity">
+                            生产力工具
+                        </button>
+                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="video">
+                            视频制作
+                        </button>
+                    </div>
+                    
+                    <div class="flex items-center border border-gray-300 dark:border-gray-600 rounded-lg overflow-hidden">
+                        <span class="px-3 py-2 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-sm">排序:</span>
+                        <select id="tools-sort" class="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 px-3 py-2 text-sm focus:outline-none">
+                            <option value="name">按名称</option>
+                            <option value="category">按类别</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- 工具分类卡片会通过JS动态生成 -->
+                <div id="tools-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="text-center py-12">
+                        <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
+                        <p class="text-gray-600 dark:text-gray-400">加载AI工具数据中...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 热门产品 Popular Products -->
+        <section id="products" class="mb-16 py-12 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-sm">
+            <div class="text-center mb-12">
+                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+                    <i class="fas fa-star text-yellow-500 mr-3"></i>热门AI产品
+                </h3>
+                <p class="text-gray-600 dark:text-gray-300">当前最受关注的AI产品和平台</p>
+            </div>
+            
+            <!-- Products Sorting Options -->
+            <div class="mb-8 px-4">
+                <div class="flex flex-wrap items-center justify-center gap-4">
+                    <div class="flex flex-wrap items-center justify-center gap-2">
+                        <button type="button" class="product-filter-btn px-4 py-2 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
+                            全部
+                        </button>
+                        <button type="button" class="product-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="chat">
+                            聊天工具
+                        </button>
+                        <button type="button" class="product-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="image">
+                            图像生成
+                        </button>
+                        <button type="button" class="product-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="coding">
+                            编程助手
+                        </button>
+                        <button type="button" class="product-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="productivity">
+                            生产力工具
+                        </button>
+                    </div>
+                    
+                    <div class="flex items-center border border-gray-300 dark:border-gray-600 rounded-lg overflow-hidden">
+                        <span class="px-3 py-2 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-sm">排序:</span>
+                        <select id="products-sort" class="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 px-3 py-2 text-sm focus:outline-none">
+                            <option value="default">默认</option>
+                            <option value="hotness">热度排行</option>
+                            <option value="name">按名称</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div id="products-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="text-center py-12">
+                        <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
+                        <p class="text-gray-600 dark:text-gray-400">加载热门产品数据中...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 学习资源 Learning Resources -->
+        <section id="learning" class="mb-16 py-12 bg-white dark:bg-gray-800 rounded-xl shadow-sm">
+            <div class="text-center mb-12">
+                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+                    <i class="fas fa-graduation-cap text-green-600 mr-3"></i>AI学习资源
+                </h3>
+                <p class="text-gray-600 dark:text-gray-300">从入门到精通的AI学习路径</p>
+            </div>
+            
+            <!-- AI速成学习包 Special Section -->
+            <div class="mb-12 bg-gradient-to-r from-green-50 to-teal-50 dark:from-green-900/30 dark:to-teal-900/30 border border-green-200 dark:border-green-800 rounded-xl p-6">
+                <div class="flex items-center mb-4">
+                    <i class="fas fa-rocket text-2xl text-green-600 mr-3"></i>
+                    <h4 class="text-xl font-bold text-gray-800 dark:text-white">AI速成学习包</h4>
+                </div>
+                <p class="text-gray-600 dark:text-gray-300 mb-4">专为初学者设计的快速入门课程，帮助您在短时间内掌握AI基础知识</p>
+                <div class="flex flex-wrap gap-3">
+                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">零基础友好</span>
+                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">实践项目</span>
+                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">中文讲解</span>
+                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">免费课程</span>
+                </div>
+            </div>
+            
+            <!-- Learning Resources Categories -->
+            <div class="mb-8 px-4">
+                <div class="flex flex-wrap items-center justify-center gap-2">
+                    <button type="button" class="learning-filter-btn px-4 py-2 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
+                        全部
+                    </button>
+                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="beginner">
+                        入门指南
+                    </button>
+                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="coding">
+                        编程与开发
+                    </button>
+                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="data">
+                        数据资源
+                    </button>
+                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="course">
+                        课程推荐
+                    </button>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div id="learning-content" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="text-center py-12">
+                        <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
+                        <p class="text-gray-600 dark:text-gray-400">加载学习资源数据中...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 专题导航 Topics Navigation -->
+        <section id="topics" class="mb-16 py-12 bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-sm">
+            <div class="text-center mb-12">
+                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+                    <i class="fas fa-bookmark text-purple-600 mr-3"></i>专题导航
+                </h3>
+                <p class="text-gray-600 dark:text-gray-300">深度探索AI前沿专题</p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div id="topics-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="text-center py-12">
+                        <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
+                        <p class="text-gray-600 dark:text-gray-400">加载专题数据中...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 关于我们 About Us -->
+        <section id="about" class="py-12 bg-white dark:bg-gray-800 rounded-xl shadow-sm">
+            <div class="max-w-4xl mx-auto px-4">
+                <div class="text-center mb-12">
+                    <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+                        <i class="fas fa-info-circle text-blue-600 mr-3"></i>关于我们
+                    </h3>
+                    <p class="text-gray-600 dark:text-gray-300">了解智能聚落的使命与愿景</p>
+                </div>
+                
+                <div class="text-center py-8">
+                    <p class="text-lg text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
+                        「一个聚合 AI 资讯与工具的导航枢纽，帮助你快速找到最新的 AI 产品与前沿信息。」
+                    </p>
+                    <div class="flex items-center justify-center space-x-6 text-sm text-gray-500 dark:text-gray-400">
+                        <a href="https://github.com/fds2003" target="_blank" class="hover:text-blue-600 dark:hover:text-blue-400 flex items-center">
+                            <i class="fab fa-github mr-2"></i>GitHub
+                        </a>
+                        <span class="flex items-center">
+                            <i class="fas fa-envelope mr-2"></i>fds2003@163.com
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer class="bg-gray-900 text-white py-8">
@@ -110,20 +387,17 @@
         // AiNavHub简化版配置 - 专为fds2003 (GitHub Actions + JSON数据方案)
         const AINewsConfig = {
             dataPath: './data/rss-data.json',
+            toolsDataPath: './data/tools.json',
+            productsDataPath: './data/products.json',
+            learningDataPath: './data/learning-resources.json',
+            topicsDataPath: './data/topics.json',
             cacheKey: 'ai_news_cache',
             cacheTimeout: 30 * 60 * 1000, // 30分钟本地缓存
             aiScoreThreshold: 3.0,
             maxArticles: 15,
 
             // AI工具分类（用于内容分析）
-            aiTools: [
-                {name: "ChatGPT", keywords: ["chat", "GPT", "openai", "chatgpt"], category: "聊天机器人"},
-                {name: "Stable Diffusion", keywords: ["stable diffusion", "image generation", "文本生成图像"], category: "图像生成"},
-                {name: "GitHub Copilot", keywords: ["copilot", "代码", "编程", "github"], category: "编程助手"},
-                {name: "Claude", keywords: ["claude", "anthropic", "AI助手"], category: "AI助手"},
-                {name: "DALL-E", keywords: ["dall-e", "图像生成", "openai"], category: "图像生成"},
-                {name: "Midjourney", keywords: ["midjourney", "AI绘图", "图像创作"], category: "图像生成"}
-            ],
+            aiTools: [],
 
             // 备用的静态新闻数据（用于演示和降级方案）
             fallbackData: [
@@ -387,6 +661,168 @@
                 }
 
                 return matchedTools.sort((a, b) => b.score - a.score).slice(0, 3);
+            },
+            
+            // Load tools from JSON file
+            async loadTools() {
+                try {
+                    const response = await fetch(AINewsConfig.toolsDataPath);
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (data && data.tools && Array.isArray(data.tools)) {
+                            console.log(`✅ 工具数据加载成功: ${data.tools.length} 个工具`);
+                            AINewsConfig.aiTools = data.tools; // Update the config with loaded tools
+                            return data.tools;
+                        }
+                    }
+                    console.log('⚠️ 工具数据加载失败，使用默认数据');
+                    return AINewsConfig.aiTools;
+                } catch (error) {
+                    console.error('❌ 加载工具数据失败:', error);
+                    return AINewsConfig.aiTools;
+                }
+            },
+            
+            // Load products from JSON file
+            async loadProducts() {
+                try {
+                    const response = await fetch(AINewsConfig.productsDataPath);
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (data && data.products && Array.isArray(data.products)) {
+                            console.log(`✅ 产品数据加载成功: ${data.products.length} 个产品`);
+                            return data.products;
+                        }
+                    }
+                    console.log('⚠️ 产品数据加载失败');
+                    return [];
+                } catch (error) {
+                    console.error('❌ 加载产品数据失败:', error);
+                    return [];
+                }
+            },
+            
+            // Load learning resources from JSON file
+            async loadLearningResources() {
+                try {
+                    const response = await fetch(AINewsConfig.learningDataPath);
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (data && data.resources && Array.isArray(data.resources)) {
+                            console.log(`✅ 学习资源数据加载成功: ${data.resources.length} 个资源`);
+                            return data.resources;
+                        }
+                    }
+                    console.log('⚠️ 学习资源数据加载失败');
+                    return [];
+                } catch (error) {
+                    console.error('❌ 加载学习资源数据失败:', error);
+                    return [];
+                }
+            },
+            
+            // Load topics from JSON file
+            async loadTopics() {
+                try {
+                    const response = await fetch(AINewsConfig.topicsDataPath);
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (data && data.topics && Array.isArray(data.topics)) {
+                            console.log(`✅ 专题数据加载成功: ${data.topics.length} 个专题`);
+                            return data.topics;
+                        }
+                    }
+                    console.log('⚠️ 专题数据加载失败');
+                    return [];
+                } catch (error) {
+                    console.error('❌ 加载专题数据失败:', error);
+                    return [];
+                }
+            },
+            
+            // 分类文章
+            categorizeArticle(article) {
+                const title = (article.title || '').toLowerCase();
+                const description = (article.description || article.summary || '').toLowerCase();
+                const fullText = (title + ' ' + description).toLowerCase();
+                
+                // Industry news keywords
+                const industryKeywords = ['business', 'market', 'funding', 'company', 'investment', 'startup', 'enterprise', 'industry', 'commercial', 'launch', 'product'];
+                
+                // Tech frontiers keywords
+                const techKeywords = ['research', 'model', 'algorithm', 'technical', 'science', 'study', 'development', 'innovation', 'breakthrough', 'method', 'architecture'];
+                
+                // Application hotspots keywords
+                const applicationKeywords = ['use', 'application', 'tool', 'platform', 'solution', 'product', 'implementation', 'real-world', 'practical', 'case study'];
+                
+                // Count keywords for each category
+                const industryCount = industryKeywords.filter(keyword => fullText.includes(keyword)).length;
+                const techCount = techKeywords.filter(keyword => fullText.includes(keyword)).length;
+                const appCount = applicationKeywords.filter(keyword => fullText.includes(keyword)).length;
+                
+                // Determine primary category based on keyword counts
+                if (techCount >= industryCount && techCount >= appCount) {
+                    return '技术前沿';
+                } else if (appCount >= industryCount && appCount >= techCount) {
+                    return '应用热点';
+                } else if (industryCount > 0) {
+                    return '行业新闻';
+                }
+                
+                // Default category
+                return 'AI动态';
+            },
+            
+            // 过滤新闻
+            filterNews(category) {
+                const container = document.getElementById('ai-news-content');
+                if (!container) return;
+                
+                let articles = this.articles || AINewsSystem.getArticles();
+                
+                if (category !== 'all') {
+                    articles = articles.filter(article => {
+                        const articleCategory = this.categorizeArticle(article);
+                        return articleCategory === category || 
+                               (category === 'industry' && articleCategory === '行业新闻') ||
+                               (category === 'tech' && articleCategory === '技术前沿') ||
+                               (category === 'application' && articleCategory === '应用热点');
+                    });
+                }
+                
+                if (articles.length === 0) {
+                    container.innerHTML = `
+                        <div class="text-center py-16 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
+                            <i class="fas fa-newspaper text-4xl text-gray-400 mb-4"></i>
+                            <h3 class="text-xl font-semibold text-gray-800 dark:text-white mb-2">没有找到新闻</h3>
+                            <p class="text-gray-500">在"${category}"类别中暂无新闻，请稍后再试</p>
+                            <button onclick="AINewsSystem.update()" class="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
+                                <i class="fas fa-redo mr-2"></i>刷新新闻
+                            </button>
+                        </div>
+                    `;
+                    return;
+                }
+
+                const html = articles.map(article => this.generateArticleHTML_simple(article)).join('');
+                container.innerHTML = html;
+                
+                // Update active filter button
+                this.updateActiveNewsFilter(category);
+            },
+            
+            // 更新新闻活动过滤器状态
+            updateActiveNewsFilter(activeCategory) {
+                const filterButtons = document.querySelectorAll('.news-filter-btn');
+                filterButtons.forEach(btn => {
+                    if (btn.getAttribute('data-filter') === activeCategory) {
+                        btn.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                        btn.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                    } else {
+                        btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    }
+                });
             }
 
             // 显示备用数据（避免空白页面）
@@ -476,7 +912,6 @@
                 }
             }
 
-
             recommendTools(title, content) {
                 const articleText = (title + ' ' + content).toLowerCase();
                 const recommendations = [];
@@ -514,7 +949,7 @@
                     return;
                 }
 
-                const html = articles.map(article => this.generateArticleHTML(article)).join('');
+                const html = articles.map(article => this.generateArticleHTML_simple(article)).join('');
                 container.innerHTML = html;
 
                 console.log(`🎨 成功渲染 ${articles.length} 篇AI资讯`);
@@ -523,132 +958,10 @@
                 this.saveToLocal(articles);
             }
 
-            generateArticleHTML(article) {
-                const publishDate = new Date(article.publishTime).toLocaleDateString('zh-CN');
-
-                return `
-                    <article class="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 mb-6 hover:shadow-lg transition-all duration-300 border-l-4 border-blue-500">
-                        <div class="flex flex-col space-y-4">
-                            <div class="flex items-start justify-between space-x-4">
-                                <h3 class="text-xl font-bold text-gray-900 dark:text-white leading-tight flex-1">
-                                    <a href="${article.url}" target="_blank" rel="noopener"
-                                       class="block hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:underline focus:outline-none focus:underline">
-                                        ${article.titleZh || article.title}
-                                        <i class="fas fa-external-link-alt ml-2 text-xs opacity-60 group-hover:opacity-100 transition-opacity"></i>
-                                    </a>
-                                </h3>
-                                <div class="flex items-center space-x-2">
-                                    <span class="px-2 py-1 bg-blue-100 text-blue-800 text-xs font-medium border border-blue-300 rounded-full">
-                                        <i class="fas fa-robot mr-1"></i>${article.aiScore}/10
-                                    </span>
-                                </div>
-                            </div>
-
-                            <p class="text-gray-700 dark:text-gray-300 text-sm leading-relaxed bg-blue-50 dark:bg-blue-900/20 p-3 rounded-lg">
-                                <i class="fas fa-language text-blue-600 mr-2"></i>
-                                ${article.summaryZh || article.summary}
-                            </p>
-
-                            <div class="flex items-center justify-between text-sm text-gray-600 dark:text-gray-400">
-                                <div class="flex items-center space-x-6">
-                                    <span class="flex items-center cursor-pointer" title="发布时间">
-                                        <i class="far fa-calendar-alt mr-2"></i>
-                                        ${publishDate}
-                                    </span>
-                                    <span class="flex items-center cursor-pointer" title="来源">
-                                        <i class="far fa-newspaper mr-2"></i>
-                                        AI资讯聚合
-                                    </span>
-                                    <span class="flex items-center cursor-pointer" title="作者">
-                                        <i class="far fa-user mr-2"></i>
-                                        ${article.author}
-                                    </span>
-                                </div>
-
-                                <div class="flex items-center space-x-3">
-                                    <span class="text-gray-500 text-xs">相关工具:</span>
-                                    ${article.matchedTools.map(tool => `
-                                        <a href="${tool.tool_url}"
-                                           class="inline-flex items-center px-2 py-1 text-xs font-medium bg-green-100 text-green-800 hover:bg-green-200 rounded-full transition-colors"
-                                           title="${tool.reason}">
-                                            <i class="fas fa-cog mr-1 text-xs"></i>
-                                            ${tool.tool_name}
-                                        </a>
-                                    `).join('')}
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                `;
-            }
-
-            generateEmptyState() {
-                return `
-                    <div class="text-center py-16 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
-                        <div class="text-6xl mb-6 opacity-30">📰</div>
-                        <h3 class="text-xl font-semibold text-gray-800 dark:text-white mb-2">暂无新的AI资讯</h3>
-                        <p class="text-lg">我们正在努力爬取最新的AI相关新闻，请稍后再试</p>
-                        <button onclick="AINewsSystem.update()" class="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
-                            <i class="fas fa-redo mr-2"></i>重新加载
-                        </button>
-                    </div>
-                `;
-            }
-
-            showLoading() {
-                const container = document.getElementById('ai-news-content');
-                if (container) {
-                    container.innerHTML = `
-                        <div class="text-center py-12">
-                            <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
-                            <p class="text-gray-600 dark:text-gray-400 text-lg">正在加载AI资讯...</p>
-                            <p class="text-sm text-gray-500 dark:text-gray-500 mt-2">首次加载需要5-10秒</p>
-                        </div>
-                    `;
-                }
-            }
-
-            showError(message) {
-                const container = document.getElementById('ai-news-content');
-                if (container) {
-                    container.innerHTML = `
-                        <div class="text-center py-16 text-gray-500 dark:text-gray-400">
-                            <i class="fas fa-exclamation-triangle text-4xl mb-4 text-yellow-500"></i>
-                            <p class="mb-2">资讯加载失败</p>
-                            <p class="text-xs text-gray-400 mb-4">${message}</p>
-                            <button onclick="AINewsSystem.update()" class="text-blue-600 hover:text-blue-800">
-                                <i class="fas fa-redo mr-1"></i>重试
-                            </button>
-                        </div>
-                    `;
-                }
-            }
-
-            // 渲染文章列表（大幅简化版本）
-            renderArticles(articles) {
-                const container = document.getElementById('ai-news-content');
-
-                if (!articles || articles.length === 0) {
-                    container.innerHTML = this.generateEmptyState();
-                    return;
-                }
-
-                // 将配置中的工具信息也传入渲染
-                const toolData = AINewsConfig.aiTools;
-
-                const html = articles.slice(0, AINewsConfig.maxArticles).map(article => {
-                    return this.generateArticleHTML_simple(article, toolData);
-                }).join('');
-
-                container.innerHTML = html;
-
-                console.log(`🎨 成功渲染 ${articles.length} 篇AI资讯`);
-            }
-
-            // 简化版文章HTML生成
             generateArticleHTML_simple(article) {
                 const publishDate = new Date(article.publishTime).toLocaleDateString('zh-CN');
                 const aiScoreDisplay = Math.round(article.aiScore * 10) / 10; // 保留一位小数
+                const category = this.categorizeArticle(article);
 
                 return `
                     <article class="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 mb-6 hover:shadow-lg transition-all duration-300 border-l-4 border-blue-500">
@@ -665,7 +978,7 @@
                                     <span class="px-2 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded-full border">
                                         <i class="fas fa-robot mr-1"></i>${aiScoreDisplay}/10
                                     </span>
-                                    ${article.category ? `<span class="px-2 py-1 bg-gray-100 text-gray-800 text-xs rounded">${article.category}</span>` : ''}
+                                    <span class="px-2 py-1 bg-purple-100 text-purple-800 text-xs rounded">${category}</span>
                                 </div>
                             </div>
 
@@ -704,7 +1017,6 @@
                 `;
             }
 
-            // 空状态
             generateEmptyState() {
                 return `
                     <div class="text-center py-16 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
@@ -718,6 +1030,739 @@
                 `;
             }
 
+            showLoading() {
+                const container = document.getElementById('ai-news-content');
+                if (container) {
+                    container.innerHTML = `
+                        <div class="text-center py-12">
+                            <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
+                            <p class="text-gray-600 dark:text-gray-400 text-lg">正在加载AI资讯...</p>
+                            <p class="text-sm text-gray-500 dark:text-gray-500 mt-2">首次加载需要5-10秒</p>
+                        </div>
+                    `;
+                }
+            }
+
+            showError(message) {
+                const container = document.getElementById('ai-news-content');
+                if (container) {
+                    container.innerHTML = `
+                        <div class="text-center py-16 text-gray-500 dark:text-gray-400">
+                            <i class="fas fa-exclamation-triangle text-4xl mb-4 text-yellow-500"></i>
+                            <p class="mb-2">资讯加载失败</p>
+                            <p class="text-xs text-gray-400 mb-4">${message}</p>
+                            <button onclick="AINewsSystem.update()" class="text-blue-600 hover:text-blue-800">
+                                <i class="fas fa-redo mr-1"></i>重试
+                            </button>
+                        </div>
+                    `;
+                }
+            }
+
+            // 生成工具卡片HTML
+            generateToolHTML(tool) {
+                // Check if this tool is in favorites
+                const isFavorite = this.isToolFavorite(tool.name);
+                const favoriteClass = isFavorite ? 'text-red-500' : 'text-gray-300 hover:text-red-500';
+                const favoriteIcon = isFavorite ? 'fas fa-heart' : 'fas fa-heart border border-gray-300 dark:border-gray-600 rounded-full p-2';
+                
+                return `
+                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300 relative">
+                        <div class="flex items-center mb-4">
+                            <div class="w-12 h-12 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-lg flex items-center justify-center mr-4">
+                                <i class="fas fa-${tool.icon || 'cog'} text-white text-lg"></i>
+                            </div>
+                            <h4 class="text-lg font-bold text-gray-900 dark:text-white">${tool.name}</h4>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${tool.description}</p>
+                        <div class="flex justify-between items-center">
+                            <span class="px-2 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded">${tool.category}</span>
+                            <a href="${tool.url || '#'}" target="_blank" class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
+                                访问工具 <i class="fas fa-external-link-alt ml-1"></i>
+                            </a>
+                        </div>
+                        <button class="favorite-btn absolute top-4 right-4 p-2" data-tool="${tool.name}">
+                            <i class="${favoriteIcon}"></i>
+                        </button>
+                    </div>
+                `;
+            }
+
+            // 生成产品卡片HTML
+            generateProductHTML(product) {
+                // Determine hotness badge based on score if available
+                let hotnessBadge = '<span class="px-2 py-1 bg-yellow-100 text-yellow-800 text-xs font-medium rounded">热门</span>';
+                if (product.hotnessScore) {
+                    if (product.hotnessScore >= 9) {
+                        hotnessBadge = '<span class="px-2 py-1 bg-red-100 text-red-800 text-xs font-medium rounded">🔥 爆款</span>';
+                    } else if (product.hotnessScore >= 7) {
+                        hotnessBadge = '<span class="px-2 py-1 bg-orange-100 text-orange-800 text-xs font-medium rounded">🔥 热门</span>';
+                    } else if (product.hotnessScore >= 5) {
+                        hotnessBadge = '<span class="px-2 py-1 bg-yellow-100 text-yellow-800 text-xs font-medium rounded"> trending</span>';
+                    }
+                }
+                
+                // Add hotness rank if available
+                let hotnessRank = '';
+                if (product.rank) {
+                    hotnessRank = `
+                        <div class="absolute -top-2 -right-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center">
+                            ${product.rank}
+                        </div>
+                    `;
+                }
+
+                return `
+                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300 relative">
+                        <div class="flex items-center mb-4">
+                            <div class="w-12 h-12 bg-gradient-to-r from-yellow-500 to-orange-500 rounded-lg flex items-center justify-center mr-4">
+                                <i class="fas fa-star text-white text-lg"></i>
+                            </div>
+                            <h4 class="text-lg font-bold text-gray-900 dark:text-white">${product.name}</h4>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${product.description}</p>
+                        <div class="flex justify-between items-center">
+                            ${hotnessBadge}
+                            <a href="${product.url}" target="_blank" class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
+                                了解更多 <i class="fas fa-external-link-alt ml-1"></i>
+                            </a>
+                        </div>
+                        ${hotnessRank}
+                    </div>
+                `;
+            },
+            
+            // 过滤产品
+            async filterProducts(category) {
+                const container = document.getElementById('products-content');
+                if (!container) return;
+                
+                // Load products from JSON file
+                let products = await this.loadProducts();
+                
+                if (category !== 'all') {
+                    products = products.filter(product => 
+                        product.category && 
+                        (product.category.toLowerCase().includes(category) || 
+                         product.category.toLowerCase().replace(/\s+/g, '').includes(category))
+                    );
+                }
+                
+                // Apply current sort
+                const sortSelect = document.getElementById('products-sort');
+                if (sortSelect) {
+                    const sortBy = sortSelect.value;
+                    products = this.sortProductsArray(products, sortBy);
+                }
+                
+                if (products.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <i class="fas fa-star text-4xl text-gray-400 mb-4"></i>
+                            <p class="text-gray-500 dark:text-gray-400 text-lg">未找到 "${category}" 类别的产品</p>
+                            <p class="text-gray-400 dark:text-gray-500 mt-2">请选择其他类别</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                // Add rank to the products for hotness display
+                const productsWithRank = products.map((product, index) => ({
+                    ...product,
+                    rank: index + 1
+                }));
+
+                const html = productsWithRank.map(product => this.generateProductHTML(product)).join('');
+                container.innerHTML = html;
+                
+                // Update active filter button
+                this.updateActiveProductFilter(category);
+            },
+            
+            // 排序产品
+            async sortProducts(sortBy) {
+                const container = document.getElementById('products-content');
+                if (!container) return;
+                
+                // Get current filter
+                const activeFilterBtn = document.querySelector('.product-filter-btn.bg-blue-500, .product-filter-btn.dark\\:bg-blue-600');
+                let category = 'all';
+                if (activeFilterBtn) {
+                    category = activeFilterBtn.getAttribute('data-filter');
+                }
+                
+                // Load products from JSON file
+                let products = await this.loadProducts();
+                
+                if (category !== 'all') {
+                    products = products.filter(product => 
+                        product.category && 
+                        (product.category.toLowerCase().includes(category) || 
+                         product.category.toLowerCase().replace(/\s+/g, '').includes(category))
+                    );
+                }
+                
+                // Sort the products
+                products = this.sortProductsArray(products, sortBy);
+                
+                if (products.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <i class="fas fa-star text-4xl text-gray-400 mb-4"></i>
+                            <p class="text-gray-500 dark:text-gray-400 text-lg">未找到产品</p>
+                            <p class="text-gray-400 dark:text-gray-500 mt-2">请尝试其他筛选条件</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                // Add rank to the products for hotness display
+                const productsWithRank = products.map((product, index) => ({
+                    ...product,
+                    rank: index + 1
+                }));
+
+                const html = productsWithRank.map(product => this.generateProductHTML(product)).join('');
+                container.innerHTML = html;
+                
+                // Update active filter button
+                this.updateActiveProductFilter(category);
+            },
+            
+            // 实际的产品排序函数
+            sortProductsArray(products, sortBy) {
+                switch(sortBy) {
+                    case 'hotness':
+                        return products.sort((a, b) => (b.hotnessScore || 0) - (a.hotnessScore || 0));
+                    case 'name':
+                        return products.sort((a, b) => a.name.localeCompare(b.name));
+                    default:
+                        // Default sorting - by hotness score
+                        return products.sort((a, b) => (b.hotnessScore || 0) - (a.hotnessScore || 0));
+                }
+            },
+            
+            // 更新产品活动过滤器状态
+            updateActiveProductFilter(activeCategory) {
+                const filterButtons = document.querySelectorAll('.product-filter-btn');
+                filterButtons.forEach(btn => {
+                    if (btn.getAttribute('data-filter') === activeCategory) {
+                        btn.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                        btn.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                    } else {
+                        btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    }
+                });
+            }
+
+            // 生成学习资源HTML
+            generateLearningResourceHTML(resource) {
+                return `
+                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300">
+                        <div class="flex items-center mb-4">
+                            <div class="w-12 h-12 bg-gradient-to-r from-green-500 to-teal-500 rounded-lg flex items-center justify-center mr-4">
+                                <i class="fas fa-${resource.icon || 'book'} text-white text-lg"></i>
+                            </div>
+                            <h4 class="text-lg font-bold text-gray-900 dark:text-white">${resource.title}</h4>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${resource.description}</p>
+                        <div class="flex justify-between items-center">
+                            <span class="px-2 py-1 bg-green-100 text-green-800 text-xs font-medium rounded">${resource.category || resource.level || '入门'}</span>
+                            <a href="${resource.url}" target="_blank" class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
+                                开始学习 <i class="fas fa-external-link-alt ml-1"></i>
+                            </a>
+                        </div>
+                    </div>
+                `;
+            },
+            
+            // 过滤学习资源
+            async filterLearningResources(category) {
+                const container = document.getElementById('learning-content');
+                if (!container) return;
+                
+                // Load learning resources from JSON file
+                let resources = await this.loadLearningResources();
+                
+                if (category !== 'all') {
+                    resources = resources.filter(resource => 
+                        resource.category && 
+                        (resource.category.toLowerCase().includes(category) || 
+                         resource.category.toLowerCase().replace(/\s+/g, '').includes(category))
+                    );
+                }
+                
+                if (resources.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <i class="fas fa-graduation-cap text-4xl text-gray-400 mb-4"></i>
+                            <p class="text-gray-500 dark:text-gray-400 text-lg">未找到 "${category}" 类别的学习资源</p>
+                            <p class="text-gray-400 dark:text-gray-500 mt-2">请选择其他类别</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                const html = resources.map(resource => this.generateLearningResourceHTML(resource)).join('');
+                container.innerHTML = html;
+                
+                // Update active filter button
+                this.updateActiveLearningFilter(category);
+            },
+            
+            // 更新学习资源活动过滤器状态
+            updateActiveLearningFilter(activeCategory) {
+                const filterButtons = document.querySelectorAll('.learning-filter-btn');
+                filterButtons.forEach(btn => {
+                    if (btn.getAttribute('data-filter') === activeCategory) {
+                        btn.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                        btn.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                    } else {
+                        btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    }
+                });
+            }
+
+            // 生成专题HTML
+            generateTopicHTML(topic) {
+                return `
+                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300">
+                        <div class="flex items-center mb-4">
+                            <div class="w-12 h-12 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg flex items-center justify-center mr-4">
+                                <i class="fas fa-${topic.icon || 'bookmark'} text-white text-lg"></i>
+                            </div>
+                            <h4 class="text-lg font-bold text-gray-900 dark:text-white">${topic.name}</h4>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${topic.description}</p>
+                        <div class="flex justify-between items-center">
+                            <span class="px-2 py-1 bg-purple-100 text-purple-800 text-xs font-medium rounded">专题</span>
+                            <a href="${topic.url}" target="_blank" class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
+                                深入了解 <i class="fas fa-external-link-alt ml-1"></i>
+                            </a>
+                        </div>
+                    </div>
+                `;
+            }
+
+            // 渲染工具部分
+            async renderTools() {
+                const container = document.getElementById('tools-content');
+                if (!container) return;
+
+                // Load tools from JSON file
+                const tools = await this.loadTools();
+                
+                if (!tools || tools.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <p class="text-gray-500 dark:text-gray-400">暂无工具数据</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                // Apply default sorting
+                const sortSelect = document.getElementById('tools-sort');
+                if (sortSelect) {
+                    const sortBy = sortSelect.value || 'name';
+                    tools = this.sortToolsArray(tools, sortBy);
+                }
+                
+                const html = tools.map(tool => this.generateToolHTML(tool)).join('');
+                container.innerHTML = html;
+                
+                // Add default active state to 'all' filter button
+                const allFilterBtn = document.querySelector('.filter-btn[data-filter="all"]');
+                if (allFilterBtn) {
+                    const filterButtons = document.querySelectorAll('.filter-btn');
+                    filterButtons.forEach(btn => {
+                        btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    });
+                    
+                    allFilterBtn.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    allFilterBtn.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                }
+            }
+
+            // 渲染热门产品部分
+            async renderProducts() {
+                const container = document.getElementById('products-content');
+                if (!container) return;
+
+                // Load products from JSON file
+                const products = await this.loadProducts();
+                
+                if (!products || products.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <p class="text-gray-500 dark:text-gray-400">暂无产品数据</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                // Apply default sorting
+                const sortSelect = document.getElementById('products-sort');
+                if (sortSelect) {
+                    sortSelect.value = 'hotness';
+                    products = this.sortProductsArray(products, sortSelect.value);
+                }
+                
+                // Add rank to the products for hotness display
+                const productsWithRank = products.map((product, index) => ({
+                    ...product,
+                    rank: index + 1
+                }));
+
+                const html = productsWithRank.map(product => this.generateProductHTML(product)).join('');
+                container.innerHTML = html;
+                
+                // Update active filter button - default to 'all'
+                const allFilterBtn = document.querySelector('.product-filter-btn[data-filter="all"]');
+                if (allFilterBtn) {
+                    const filterButtons = document.querySelectorAll('.product-filter-btn');
+                    filterButtons.forEach(btn => {
+                        btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    });
+                    
+                    allFilterBtn.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    allFilterBtn.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                }
+            }
+
+            // 渲染学习资源部分
+            async renderLearningResources() {
+                const container = document.getElementById('learning-content');
+                if (!container) return;
+
+                // Load learning resources from JSON file
+                const resources = await this.loadLearningResources();
+                
+                if (!resources || resources.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <p class="text-gray-500 dark:text-gray-400">暂无学习资源数据</p>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                const html = resources.map(resource => this.generateLearningResourceHTML(resource)).join('');
+                container.innerHTML = html;
+                
+                // Update active filter button - default to 'all'
+                const allFilterBtn = document.querySelector('.learning-filter-btn[data-filter="all"]');
+                if (allFilterBtn) {
+                    const filterButtons = document.querySelectorAll('.learning-filter-btn');
+                    filterButtons.forEach(btn => {
+                        btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    });
+                    
+                    allFilterBtn.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                    allFilterBtn.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                }
+            }
+
+            // 渲染专题部分
+            async renderTopics() {
+                const container = document.getElementById('topics-content');
+                if (!container) return;
+
+                // Load topics from JSON file
+                const topics = await this.loadTopics();
+                
+                if (!topics || topics.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <p class="text-gray-500 dark:text-gray-400">暂无专题数据</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                const html = topics.map(topic => this.generateTopicHTML(topic)).join('');
+                container.innerHTML = html;
+            }
+
+            // 搜索功能实现
+            async search(query) {
+                if (!query || query.trim() === '') {
+                    // 如果搜索内容为空，返回所有内容的初始状态
+                    await this.renderAllContent();
+                    return;
+                }
+
+                const searchTerm = query.toLowerCase();
+                
+                // 搜索新闻文章
+                const allArticles = AINewsSystem.getArticles();
+                const filteredArticles = allArticles.filter(article => 
+                    (article.title && article.title.toLowerCase().includes(searchTerm)) || 
+                    (article.summary && article.summary.toLowerCase().includes(searchTerm)) ||
+                    (article.source && article.source.toLowerCase().includes(searchTerm)) ||
+                    (article.description && article.description.toLowerCase().includes(searchTerm))
+                );
+                
+                // 搜索工具
+                const allTools = await this.loadTools();
+                const filteredTools = allTools.filter(tool => 
+                    tool.name.toLowerCase().includes(searchTerm) || 
+                    (tool.description && tool.description.toLowerCase().includes(searchTerm)) ||
+                    (tool.keywords && tool.keywords.some(keyword => 
+                        keyword.toLowerCase().includes(searchTerm)
+                    ))
+                );
+
+                // 搜索产品
+                const allProducts = await this.loadProducts();
+                const filteredProducts = allProducts.filter(product => 
+                    product.name.toLowerCase().includes(searchTerm) || 
+                    product.description.toLowerCase().includes(searchTerm) ||
+                    product.category.toLowerCase().includes(searchTerm)
+                );
+
+                // 搜索学习资源
+                const allResources = await this.loadLearningResources();
+                const filteredResources = allResources.filter(resource => 
+                    resource.title.toLowerCase().includes(searchTerm) || 
+                    resource.description.toLowerCase().includes(searchTerm) ||
+                    resource.level.toLowerCase().includes(searchTerm)
+                );
+
+                // 搜索专题
+                const allTopics = await this.loadTopics();
+                const filteredTopics = allTopics.filter(topic => 
+                    topic.name.toLowerCase().includes(searchTerm) || 
+                    topic.description.toLowerCase().includes(searchTerm)
+                );
+
+                // 更新各部分的内容
+                this.displaySearchResults('news', filteredArticles);
+                this.displaySearchResults('tools', filteredTools);
+                this.displaySearchResults('products', filteredProducts);
+                this.displaySearchResults('learning', filteredResources);
+                this.displaySearchResults('topics', filteredTopics);
+            }
+
+            // 显示搜索结果
+            displaySearchResults(section, items) {
+                let containerId, generateFunction;
+                
+                switch(section) {
+                    case 'news':
+                        containerId = 'ai-news-content';
+                        generateFunction = this.generateArticleHTML_simple;
+                        break;
+                    case 'tools':
+                        containerId = 'tools-content';
+                        generateFunction = this.generateToolHTML;
+                        break;
+                    case 'products':
+                        containerId = 'products-content';
+                        generateFunction = this.generateProductHTML;
+                        break;
+                    case 'learning':
+                        containerId = 'learning-content';
+                        generateFunction = this.generateLearningResourceHTML;
+                        break;
+                    case 'topics':
+                        containerId = 'topics-content';
+                        generateFunction = this.generateTopicHTML;
+                        break;
+                    default:
+                        return;
+                }
+
+                const container = document.getElementById(containerId);
+                if (!container) return;
+
+                if (items.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <i class="fas fa-search text-4xl text-gray-400 mb-4"></i>
+                            <p class="text-gray-500 dark:text-gray-400 text-lg">未找到与 "<span class="font-semibold">${searchTerm}</span>" 相关的内容</p>
+                            <p class="text-gray-400 dark:text-gray-500 mt-2">请尝试使用其他关键词</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                const html = items.map(item => generateFunction.call(this, item)).join('');
+                container.innerHTML = html;
+            }
+            
+            // 渲染所有内容（新闻和模块）
+            async renderAllContent() {
+                // 重新渲染新闻
+                const articles = AINewsSystem.getArticles();
+                this.renderArticles(articles);
+                
+                // 重新渲染其他模块
+                await this.renderTools();
+                await this.renderProducts();
+                await this.renderLearningResources();
+                await this.renderTopics();
+            }
+            
+            // 过滤工具
+            async filterTools(category) {
+                const container = document.getElementById('tools-content');
+                if (!container) return;
+                
+                // Load tools from JSON file
+                let tools = await this.loadTools();
+                
+                if (category !== 'all') {
+                    tools = tools.filter(tool => 
+                        tool.category && 
+                        (tool.category.toLowerCase().includes(category) || 
+                         tool.category.toLowerCase().replace(/\s+/g, '').includes(category))
+                    );
+                }
+                
+                // Apply current sort
+                const sortSelect = document.getElementById('tools-sort');
+                if (sortSelect) {
+                    const sortBy = sortSelect.value;
+                    tools = this.sortToolsArray(tools, sortBy);
+                }
+                
+                if (tools.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <i class="fas fa-tools text-4xl text-gray-400 mb-4"></i>
+                            <p class="text-gray-500 dark:text-gray-400 text-lg">未找到 "${category}" 类别的工具</p>
+                            <p class="text-gray-400 dark:text-gray-500 mt-2">请选择其他类别</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                const html = tools.map(tool => this.generateToolHTML(tool)).join('');
+                container.innerHTML = html;
+            },
+            
+            // 排序工具
+            async sortTools(sortBy) {
+                const container = document.getElementById('tools-content');
+                if (!container) return;
+                
+                // Get current filter
+                const activeFilterBtn = document.querySelector('.filter-btn.bg-blue-500, .filter-btn.dark\\:bg-blue-600');
+                let category = 'all';
+                if (activeFilterBtn) {
+                    category = activeFilterBtn.getAttribute('data-filter');
+                }
+                
+                // Load tools from JSON file
+                let tools = await this.loadTools();
+                
+                if (category !== 'all') {
+                    tools = tools.filter(tool => 
+                        tool.category && 
+                        (tool.category.toLowerCase().includes(category) || 
+                         tool.category.toLowerCase().replace(/\s+/g, '').includes(category))
+                    );
+                }
+                
+                // Sort the tools
+                tools = this.sortToolsArray(tools, sortBy);
+                
+                if (tools.length === 0) {
+                    container.innerHTML = `
+                        <div class="col-span-full text-center py-12">
+                            <i class="fas fa-tools text-4xl text-gray-400 mb-4"></i>
+                            <p class="text-gray-500 dark:text-gray-400 text-lg">未找到工具</p>
+                            <p class="text-gray-400 dark:text-gray-500 mt-2">请尝试其他筛选条件</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                const html = tools.map(tool => this.generateToolHTML(tool)).join('');
+                container.innerHTML = html;
+            },
+            
+            // 实际的排序函数
+            sortToolsArray(tools, sortBy) {
+                switch(sortBy) {
+                    case 'name':
+                        return tools.sort((a, b) => a.name.localeCompare(b.name));
+                    case 'category':
+                        return tools.sort((a, b) => a.category.localeCompare(b.category));
+                    default:
+                        return tools;
+                }
+            },
+            
+            // 检查工具是否已收藏
+            isToolFavorite(toolName) {
+                try {
+                    const favorites = JSON.parse(localStorage.getItem('ainavhub_favorites') || '[]');
+                    return favorites.includes(toolName);
+                } catch (e) {
+                    console.error('Error checking favorite status:', e);
+                    return false;
+                }
+            },
+            
+            // 添加/移除收藏
+            toggleToolFavorite(toolName) {
+                try {
+                    let favorites = JSON.parse(localStorage.getItem('ainavhub_favorites') || '[]');
+                    const index = favorites.indexOf(toolName);
+                    
+                    if (index > -1) {
+                        // Remove from favorites
+                        favorites.splice(index, 1);
+                    } else {
+                        // Add to favorites
+                        favorites.push(toolName);
+                    }
+                    
+                    localStorage.setItem('ainavhub_favorites', JSON.stringify(favorites));
+                    
+                    // Re-render tools to update favorite status
+                    this.renderTools();
+                    
+                    // Show feedback
+                    const message = index > -1 ? '已取消收藏' : '已添加收藏';
+                    this.showNotification(`${message}: ${toolName}`);
+                    
+                    return true;
+                } catch (e) {
+                    console.error('Error toggling favorite:', e);
+                    return false;
+                }
+            },
+            
+            // 显示通知
+            showNotification(message) {
+                // Remove any existing notifications
+                const existingNotifications = document.querySelectorAll('.notification-toast');
+                existingNotifications.forEach(notification => notification.remove());
+                
+                // Create notification element
+                const notification = document.createElement('div');
+                notification.className = 'notification-toast fixed bottom-4 right-4 bg-gray-800 text-white px-4 py-2 rounded-lg shadow-lg z-50';
+                notification.textContent = message;
+                
+                // Add to page
+                document.body.appendChild(notification);
+                
+                // Auto remove after 3 seconds
+                setTimeout(() => {
+                    if (notification.parentNode) {
+                        notification.parentNode.removeChild(notification);
+                    }
+                }, 3000);
+            }
+        }
 
         // 全局接口 - 简化和优化版本
         window.AINewsSystem = {
@@ -779,14 +1824,197 @@
             // 获取当前文章数据
             getArticles: function() {
                 return (this.processor && this.processor.articles) ? this.processor.articles : [];
+            },
+            
+            // 渲染所有模块内容
+            async renderAllModules() {
+                if (this.processor && this.isInitialized) {
+                    // 重新渲染新闻
+                    const articles = this.getArticles();
+                    this.processor.renderArticles(articles);
+                    
+                    await this.processor.renderTools();
+                    await this.processor.renderProducts();
+                    await this.processor.renderLearningResources();
+                    await this.processor.renderTopics();
+                }
+            },
+            
+            // 全局搜索功能
+            async search(query) {
+                if (this.processor && this.isInitialized) {
+                    await this.processor.search(query);
+                }
             }
         };
 
-        // 改进版自动初始化
-        document.addEventListener('DOMContentLoaded', function() {
+        // Mobile menu toggle functionality
+        document.addEventListener('DOMContentLoaded', async function() {
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
+            
+            if (mobileMenuButton && mobileMenu) {
+                mobileMenuButton.addEventListener('click', function() {
+                    mobileMenu.classList.toggle('hidden');
+                });
+            }
+            
+            // Smooth scrolling for navigation links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    
+                    const targetId = this.getAttribute('href');
+                    if (targetId === '#') return; // Skip if href is just '#'
+                    
+                    const targetElement = document.querySelector(targetId);
+                    if (targetElement) {
+                        // Close mobile menu if open
+                        mobileMenu.classList.add('hidden');
+                        
+                        // Scroll to target
+                        targetElement.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+            
+            // Global search functionality
+            const globalSearchInput = document.getElementById('global-search');
+            const mobileSearchInput = document.getElementById('mobile-search');
+            
+            if (globalSearchInput) {
+                globalSearchInput.addEventListener('input', async function(e) {
+                    const query = e.target.value;
+                    if (AINewsSystem.processor) {
+                        await AINewsSystem.processor.search(query);
+                    }
+                });
+            }
+            
+            if (mobileSearchInput) {
+                mobileSearchInput.addEventListener('input', async function(e) {
+                    const query = e.target.value;
+                    if (AINewsSystem.processor) {
+                        await AINewsSystem.processor.search(query);
+                    }
+                });
+            }
+            
+            // Tools filter functionality
+            const filterButtons = document.querySelectorAll('.filter-btn');
+            if (filterButtons.length > 0) {
+                filterButtons.forEach(button => {
+                    button.addEventListener('click', function() {
+                        // Remove active class from all buttons
+                        filterButtons.forEach(btn => {
+                            btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                            btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                        });
+                        
+                        // Add active class to clicked button
+                        this.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                        this.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        
+                        // Apply filter
+                        const filter = this.getAttribute('data-filter');
+                        if (AINewsSystem.processor) {
+                            AINewsSystem.processor.filterTools(filter);
+                        }
+                    });
+                });
+            }
+            
+            // Tools sort functionality
+            const sortSelect = document.getElementById('tools-sort');
+            if (sortSelect) {
+                sortSelect.addEventListener('change', function() {
+                    const sortBy = this.value;
+                    if (AINewsSystem.processor) {
+                        AINewsSystem.processor.sortTools(sortBy);
+                    }
+                });
+            }
+            
+            // Favorite button functionality (using event delegation)
+            document.addEventListener('click', function(e) {
+                if (e.target.closest('.favorite-btn')) {
+                    e.preventDefault();
+                    const button = e.target.closest('.favorite-btn');
+                    const toolName = button.getAttribute('data-tool');
+                    
+                    if (AINewsSystem.processor) {
+                        AINewsSystem.processor.toggleToolFavorite(toolName);
+                    }
+                }
+            });
+            
+            // Learning resources filter functionality
+            const learningFilterButtons = document.querySelectorAll('.learning-filter-btn');
+            if (learningFilterButtons.length > 0) {
+                learningFilterButtons.forEach(button => {
+                    button.addEventListener('click', async function() {
+                        const filter = this.getAttribute('data-filter');
+                        if (AINewsSystem.processor) {
+                            await AINewsSystem.processor.filterLearningResources(filter);
+                        }
+                    });
+                });
+            }
+            
+            // News filter functionality
+            const newsFilterButtons = document.querySelectorAll('.news-filter-btn');
+            if (newsFilterButtons.length > 0) {
+                newsFilterButtons.forEach(button => {
+                    button.addEventListener('click', function() {
+                        const filter = this.getAttribute('data-filter');
+                        if (AINewsSystem.processor) {
+                            AINewsSystem.processor.filterNews(filter);
+                        }
+                    });
+                });
+            }
+            
+            // Product filter functionality
+            const productFilterButtons = document.querySelectorAll('.product-filter-btn');
+            if (productFilterButtons.length > 0) {
+                productFilterButtons.forEach(button => {
+                    button.addEventListener('click', function() {
+                        // Remove active class from all buttons
+                        productFilterButtons.forEach(btn => {
+                            btn.classList.remove('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                            btn.classList.add('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                        });
+                        
+                        // Add active class to clicked button
+                        this.classList.remove('bg-gray-200', 'dark:bg-gray-700', 'text-gray-800', 'dark:text-gray-200');
+                        this.classList.add('bg-blue-500', 'dark:bg-blue-600', 'text-white');
+                        
+                        const filter = this.getAttribute('data-filter');
+                        if (AINewsSystem.processor) {
+                            AINewsSystem.processor.filterProducts(filter);
+                        }
+                    });
+                });
+            }
+            
+            // Product sort functionality
+            const productSortSelect = document.getElementById('products-sort');
+            if (productSortSelect) {
+                productSortSelect.addEventListener('change', function() {
+                    const sortBy = this.value;
+                    if (AINewsSystem.processor) {
+                        AINewsSystem.processor.sortProducts(sortBy);
+                    }
+                });
+            }
+
             console.log('🚀 fds2003的AiNavHub系统启动 - GitHub Actions + JSON数据模式');
 
-            AINewsSystem.init().then(success => {
+            try {
+                const success = await AINewsSystem.init();
                 if (success) {
                     console.log('✅ AiNavHub新闻系统初始化成功！');
 
@@ -796,10 +2024,13 @@
                         refreshButton.textContent = '刷新新闻';
                         refreshButton.innerHTML = '<i class="fas fa-refresh mr-1"></i>刷新新闻';
                     }
+                    
+                    // 渲染其他模块
+                    await AINewsSystem.renderAllModules();
                 } else {
                     console.warn('⚠️ 系统初始化部分失败，使用备用数据');
                 }
-            }).catch(error => {
+            } catch (error) {
                 console.error('❌ 系统初始化出错:', error);
 
                 // 显示友好的错误提示
@@ -818,7 +2049,7 @@
                         `;
                     }
                 }, 3000);
-            });
+            }
         });
     </script>
 </body>

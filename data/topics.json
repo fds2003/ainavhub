@@ -1,0 +1,52 @@
+{
+  "topics": [
+    {
+      "name": "大语言模型",
+      "description": "探索GPT、BERT等大型语言模型的原理与应用",
+      "url": "https://example.com/large-language-models",
+      "icon": "comments"
+    },
+    {
+      "name": "多模态AI",
+      "description": "融合文本、图像、音频的多模态AI系统",
+      "url": "https://example.com/multimodal-ai",
+      "icon": "photo-video"
+    },
+    {
+      "name": "AI与教育",
+      "description": "人工智能如何改变教育方式和学习体验",
+      "url": "https://example.com/ai-in-education",
+      "icon": "chalkboard-teacher"
+    },
+    {
+      "name": "AI与设计",
+      "description": "AI工具在创意设计领域的应用和影响",
+      "url": "https://example.com/ai-in-design",
+      "icon": "palette"
+    },
+    {
+      "name": "AI安全与伦理",
+      "description": "探讨AI发展的安全性和伦理问题",
+      "url": "https://example.com/ai-safety-ethics",
+      "icon": "shield-alt"
+    },
+    {
+      "name": "AI创业公司",
+      "description": "值得关注的新兴AI公司及其创新应用",
+      "url": "https://example.com/ai-startups",
+      "icon": "rocket"
+    },
+    {
+      "name": "自然语言处理",
+      "description": "文本理解、生成和翻译技术的最新进展",
+      "url": "https://example.com/nlp-advances",
+      "icon": "language"
+    },
+    {
+      "name": "强化学习",
+      "description": "AI系统通过与环境交互学习最优策略",
+      "url": "https://example.com/reinforcement-learning",
+      "icon": "chess"
+    }
+  ]
+}

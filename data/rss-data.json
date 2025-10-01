@@ -1,140 +1,54 @@
 {
   "articles": [
     {
-      "title": "Creative Adversarial Testing (CAT): A Novel Framework for Evaluating Goal-Oriented Agentic AI Systems",
-      "link": "https://arxiv.org/abs/2509.23006",
-      "description": "arXiv:2509.23006v1 Announce Type: new \nAbstract: Agentic AI represents a paradigm shift in enhancing the capabilities of generative AI models. While these systems demonstrate immense potential and power, current evaluation techniques primarily focus on assessing their efficacy in identifying appropriate agents, tools, and parameters. However, a critical gap exists in evaluating the alignment between an Agentic AI system's tasks and its overarching goals. This paper introduces the Creative Advers",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 28
+      "title": "OpenAI发布GPT-5，多模态能力大幅提升",
+      "summary": "OpenAI官方宣布GPT-5模型在多模态理解、推理能力和安全性方面取得显著突破",
+      "link": "https://example.com/gpt5-release",
+      "source": "OpenAI官方博客",
+      "category": "技术前沿",
+      "pubDate": "2024-09-28T10:00:00Z",
+      "aiScore": 9.5,
+      "author": "AI研究团队"
     },
     {
-      "title": "AI Noether -- Bridging the Gap Between Scientific Laws Derived by AI Systems and Canonical Knowledge via Abductive Inference",
-      "link": "https://arxiv.org/abs/2509.23004",
-      "description": "arXiv:2509.23004v1 Announce Type: new \nAbstract: A core goal in modern science is to harness recent advances in AI and computer processing to automate and accelerate the scientific method. Symbolic regression can fit interpretable models to data, but these models often sit outside established theory. Recent systems (e.g., AI Descartes, AI Hilbert) enforce derivability from prior axioms. However, sometimes new data and associated hypotheses derived from data are not consistent with existing theor",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 20
+      "title": "Stable Diffusion发布新版本，图像生成质量再创新高",
+      "summary": "最新版Stable Diffusion在细节处理和风格转换方面展现出前所未有的质量提升",
+      "link": "https://example.com/stable-diffusion-update",
+      "source": "Stability AI官方",
+      "category": "应用热点",
+      "pubDate": "2024-09-27T14:30:00Z",
+      "aiScore": 8.7,
+      "author": "图像AI团队"
     },
     {
-      "title": "Not only a helper, but also a teacher: Interactive LLM Cascade",
-      "link": "https://arxiv.org/abs/2509.22984",
-      "description": "arXiv:2509.22984v1 Announce Type: new \nAbstract: Large Language Models (LLMs) vary widely in their capabilities, with larger models often having better performance but higher cost: choosing an LLM model often involves trading off performance and cost. The LLM Cascade is a paradigm that defers difficult queries from weak/cheap to strong/expensive models. This approach is nonadaptive: the deferral decision is trained offline. When confronted with similar or repeated queries, the LLM Cascade may th",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18
+      "title": "AI创业公司Anthropic获得5亿美元融资",
+      "summary": "专注于安全AI的创业公司Anthropic宣布完成新一轮融资，将用于Claude模型的进一步开发",
+      "link": "https://example.com/anthropic-funding",
+      "source": "TechCrunch",
+      "category": "行业新闻",
+      "pubDate": "2024-09-26T09:15:00Z",
+      "aiScore": 8.2,
+      "author": "商业分析团队"
     },
     {
-      "title": "JE-IRT: A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory",
-      "link": "https://arxiv.org/abs/2509.22888",
-      "description": "arXiv:2509.22888v1 Announce Type: new \nAbstract: Standard LLM evaluation practices compress diverse abilities into single scores, obscuring their inherently multidimensional nature. We present JE-IRT, a geometric item-response framework that embeds both LLMs and questions in a shared space. For question embeddings, the direction encodes semantics and the norm encodes difficulty, while correctness on each question is determined by the geometric interaction between the model and question embedding",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12
+      "title": "谷歌发布Gemini Pro 2.0，多语言支持增强",
+      "summary": "新版Gemini模型在多语言理解和生成方面取得显著进展，支持超过100种语言",
+      "link": "https://example.com/gemini-pro-2",
+      "source": "Google AI博客",
+      "category": "技术前沿",
+      "pubDate": "2024-09-25T16:45:00Z",
+      "aiScore": 9.0,
+      "author": "技术评测团队"
     },
     {
-      "title": "Hilbert: Recursively Building Formal Proofs with Informal Reasoning",
-      "link": "https://arxiv.org/abs/2509.22819",
-      "description": "arXiv:2509.22819v1 Announce Type: new \nAbstract: Large Language Models (LLMs) demonstrate impressive mathematical reasoning abilities, but their solutions frequently contain errors that cannot be automatically verified. Formal theorem proving systems such as Lean 4 offer automated verification with complete accuracy, motivating recent efforts to build specialized prover LLMs that generate verifiable proofs in formal languages. However, a significant gap remains: current prover LLMs solve substan",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 9
-    },
-    {
-      "title": "Can Large Language Models Develop Gambling Addiction?",
-      "link": "https://arxiv.org/abs/2509.22818",
-      "description": "arXiv:2509.22818v1 Announce Type: new \nAbstract: This study explores whether large language models can exhibit behavioral patterns similar to human gambling addictions. As LLMs are increasingly utilized in financial decision-making domains such as asset management and commodity trading, understanding their potential for pathological decision-making has gained practical significance. We systematically analyze LLM decision-making at cognitive-behavioral and neural levels based on human gambling ad",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 7
-    },
-    {
-      "title": "Towards Strategic Persuasion with Language Models",
-      "link": "https://arxiv.org/abs/2509.22989",
-      "description": "arXiv:2509.22989v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated strong persuasive capabilities comparable to those of humans, offering promising benefits while raising societal concerns about their deployment. However, systematically evaluating the persuasive capabilities of LLMs is inherently challenging, as the effectiveness of persuasion among humans varies significantly across different domains. In this paper, we take a theory-driven approach to provide a scal",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4
-    },
-    {
-      "title": "Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research",
-      "link": "https://arxiv.org/abs/2509.22831",
-      "description": "arXiv:2509.22831v1 Announce Type: new \nAbstract: Research on Large Language Models (LLMs) increasingly focuses on identifying mechanistic explanations for their behaviors, yet the field lacks clear principles for determining when (and how) findings from one model instance generalize to another. This paper addresses a fundamental epistemological challenge: given a mechanistic claim about a particular model, what justifies extrapolating this finding to other LLMs -- and along which dimensions migh",
-      "pubDate": "2025-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3
+      "title": "微软整合AI到Office套件，生产力工具迎来革命",
+      "summary": "Microsoft宣布将更强大的AI功能整合到Word、Excel、PowerPoint等应用中",
+      "link": "https://example.com/microsoft-ai-office",
+      "source": "Microsoft官方",
+      "category": "应用热点",
+      "pubDate": "2024-09-24T11:20:00Z",
+      "aiScore": 8.5,
+      "author": "产品分析团队"
     }
-  ],
-  "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2025-09-30T11:11:33.631Z",
-    "sources": [
-      {
-        "name": "ArXiv AI 研究",
-        "category": "学术研究",
-        "weight": 0.9
-      },
-      {
-        "name": "MIT人工智能新闻",
-        "category": "学术动态",
-        "weight": 0.85
-      },
-      {
-        "name": "AI 趋势",
-        "category": "行业趋势",
-        "weight": 0.8
-      },
-      {
-        "name": "VentureBeat AI",
-        "category": "商业资讯",
-        "weight": 0.8
-      }
-    ],
-    "keywords": {
-      "tier1": {
-        "artificial intelligence": 5,
-        "AI": 4,
-        "machine learning": 4,
-        "deep learning": 4,
-        "neural network": 3,
-        "neural networks": 3,
-        "LLM": 3,
-        "GPT": 3,
-        "ChatGPT": 3,
-        "computer vision": 3,
-        "natural language processing": 3,
-        "NLP": 3,
-        "robotics": 2.5,
-        "automation": 2.5,
-        "algorithm": 2
-      },
-      "tier2": {
-        "transformer": 2,
-        "bert": 2,
-        "dall-e": 2,
-        "stable diffusion": 2,
-        "reinforcement learning": 2,
-        "supervised learning": 2,
-        "unsupervised learning": 2,
-        "data science": 1.5,
-        "big data": 1.5,
-        "cloud computing": 1,
-        "edge computing": 1
-      }
-    }
-  },
-  "summary": {
-    "researchArticles": 8,
-    "industryArticles": 0,
-    "academicArticles": 8,
-    "averageScore": 12.625
-  }
+  ]
 }

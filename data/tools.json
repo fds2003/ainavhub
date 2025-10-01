@@ -1,0 +1,140 @@
+{
+  "tools": [
+    {
+      "name": "ChatGPT",
+      "description": "OpenAI开发的高级对话AI模型，能够进行自然对话和内容生成",
+      "url": "https://chat.openai.com",
+      "category": "聊天机器人",
+      "keywords": ["chat", "GPT", "openai", "chatgpt"],
+      "icon": "comments"
+    },
+    {
+      "name": "Stable Diffusion",
+      "description": "开源的文本到图像生成模型，具有高度定制性",
+      "url": "https://stability.ai",
+      "category": "图像生成",
+      "keywords": ["stable diffusion", "image generation", "文本生成图像"],
+      "icon": "image"
+    },
+    {
+      "name": "GitHub Copilot",
+      "description": "AI配对程序员，提供代码建议和自动完成功能",
+      "url": "https://github.com/features/copilot",
+      "category": "开发/编程",
+      "keywords": ["copilot", "代码", "编程", "github"],
+      "icon": "code"
+    },
+    {
+      "name": "Claude",
+      "description": "Anthropic开发的AI助手，注重安全和有用性",
+      "url": "https://claude.ai",
+      "category": "聊天机器人",
+      "keywords": ["claude", "anthropic", "AI助手"],
+      "icon": "robot"
+    },
+    {
+      "name": "DALL-E",
+      "description": "OpenAI的图像生成模型，能从文本描述创建原创图像",
+      "url": "https://openai.com/dall-e",
+      "category": "图像生成",
+      "keywords": ["dall-e", "图像生成", "openai"],
+      "icon": "palette"
+    },
+    {
+      "name": "Midjourney",
+      "description": "基于扩散模型的AI图像生成工具，能从文本描述创建高质量图像",
+      "url": "https://www.midjourney.com",
+      "category": "图像生成",
+      "keywords": ["midjourney", "AI绘图", "图像创作"],
+      "icon": "brush"
+    },
+    {
+      "name": "Perplexity AI",
+      "description": "基于大语言模型的搜索引擎，提供准确和最新的信息",
+      "url": "https://www.perplexity.ai",
+      "category": "学习/科研",
+      "keywords": ["perplexity", "search", "research", "搜索引擎"],
+      "icon": "search"
+    },
+    {
+      "name": "Notion AI",
+      "description": "集成在Notion中的AI助手，帮助写作、总结和数据分析",
+      "url": "https://www.notion.so",
+      "category": "文本生成",
+      "keywords": ["notion", "productivity", "writing", "productivity tool"],
+      "icon": "lightbulb"
+    },
+    {
+      "name": "Runway ML",
+      "description": "简单易用的机器学习平台，专注于创意应用和视频生成",
+      "url": "https://runwayml.com",
+      "category": "音视频 AI",
+      "keywords": ["runway", "video", "creative", "ml"],
+      "icon": "video"
+    },
+    {
+      "name": "Jasper",
+      "description": "AI内容创作平台，帮助营销团队创作高质量内容",
+      "url": "https://www.jasper.ai",
+      "category": "文本生成",
+      "keywords": ["jasper", "content", "marketing", "writing"],
+      "icon": "pen"
+    },
+    {
+      "name": "Descript",
+      "description": "基于AI的音视频编辑工具，支持文字编辑语音内容",
+      "url": "https://www.descript.com",
+      "category": "音视频 AI",
+      "keywords": ["descript", "audio", "video", "editing", "podcast"],
+      "icon": "microphone"
+    },
+    {
+      "name": "Otter.ai",
+      "description": "语音转文字工具，自动生成会议记录和摘要",
+      "url": "https://otter.ai",
+      "category": "音视频 AI",
+      "keywords": ["otter", "transcription", "meeting", "notes"],
+      "icon": "comments"
+    },
+    {
+      "name": "Hugging Face",
+      "description": "访问和分享机器学习模型的平台，拥有大量开源AI模型",
+      "url": "https://huggingface.co",
+      "category": "学习/科研",
+      "keywords": ["huggingface", "models", "datasets", "ml", "ai"],
+      "icon": "code-branch"
+    },
+    {
+      "name": "Ponzu",
+      "description": "文本到语音AI工具，可创建逼真的语音内容",
+      "url": "https://www.ponzu.so",
+      "category": "音视频 AI",
+      "keywords": ["voice", "text-to-speech", "tts", "audio"],
+      "icon": "microphone-alt"
+    },
+    {
+      "name": "CodiumAI",
+      "description": "提供智能代码生成和辅助开发的AI工具",
+      "url": "https://www.codium.ai",
+      "category": "开发/编程",
+      "keywords": ["codium", "code", "development", "programming"],
+      "icon": "code"
+    },
+    {
+      "name": "Tabnine",
+      "description": "AI代码自动补全工具，支持多种编程语言",
+      "url": "https://www.tabnine.com",
+      "category": "开发/编程",
+      "keywords": ["tabnine", "code", "autocomplete", "programming"],
+      "icon": "laptop-code"
+    },
+    {
+      "name": "Glean",
+      "description": "AI驱动的公司内部搜索工具，帮助快速找到文档和信息",
+      "url": "https://www.glean.com",
+      "category": "文本生成",
+      "keywords": ["glean", "search", "knowledge", "enterprise"],
+      "icon": "search"
+    }
+  ]
+}
