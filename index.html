@@ -589,7 +589,7 @@
                         const relatedTools = this.findRelatedTools(title, description);
 
                         return {
-                            id: btoa(title + link).replace(/[^a-zA-Z0-9]/g, '').substr(0, 16),
+                            id: this.generateArticleId(title, link),
                             title: title,
                             titleZh: title.replace(/AI/g, '人工智能').substring(0, 60),
                             summary: (description || title).substring(0, 180),
@@ -607,6 +607,19 @@
                         return null;
                     }
                 }).filter(Boolean); // 移除处理失败的项目
+            }
+
+            // 安全生成文章ID，避免btoa编码问题
+            generateArticleId(title, link) {
+                // 使用简单的哈希函数生成ID
+                let hash = 0;
+                const str = title + link;
+                for (let i = 0; i < str.length; i++) {
+                    const char = str.charCodeAt(i);
+                    hash = ((hash << 5) - hash) + char;
+                    hash = hash & hash; // 转换为32位整数
+                }
+                return Math.abs(hash).toString(36).substr(0, 16);
             }
 
             generateChineseContent(title, description) {
@@ -957,6 +970,21 @@
 
                 // 保存到本地缓存
                 this.saveToLocal(articles);
+            }
+
+            // 保存数据到本地缓存
+            saveToLocal(articles) {
+                try {
+                    const cacheData = {
+                        articles: articles,
+                        timestamp: Date.now(),
+                        version: '1.0.0'
+                    };
+                    localStorage.setItem('ainavhub_cache', JSON.stringify(cacheData));
+                    console.log('✅ 数据已保存到本地缓存');
+                } catch (error) {
+                    console.warn('⚠️ 本地缓存保存失败:', error);
+                }
             }
 
             generateArticleHTML_simple(article) {
@@ -1353,7 +1381,7 @@
                 if (!container) return;
 
                 // Load tools from JSON file
-                const tools = await this.loadTools();
+                let tools = await this.loadTools();
                 
                 if (!tools || tools.length === 0) {
                     container.innerHTML = `
@@ -1394,7 +1422,7 @@
                 if (!container) return;
 
                 // Load products from JSON file
-                const products = await this.loadProducts();
+                let products = await this.loadProducts();
                 
                 if (!products || products.length === 0) {
                     container.innerHTML = `

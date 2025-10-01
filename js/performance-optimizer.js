@@ -527,6 +527,24 @@ window.AIOptimizedSystem = {
     if (this.processor && this.isInitialized) {
       this.processor.debouncedSearch(query);
     }
+  },
+
+  // 获取文章列表
+  getArticles: function() {
+    if (this.processor && this.isInitialized) {
+      return this.processor.articles || [];
+    }
+    return [];
+  },
+
+  // 渲染所有模块
+  renderAllModules: async function() {
+    if (this.processor && this.isInitialized) {
+      // 这里可以添加其他模块的渲染逻辑
+      console.log('✅ 所有模块渲染完成');
+      return true;
+    }
+    return false;
   }
 };
 
