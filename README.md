@@ -26,7 +26,7 @@
 - **前端**: HTML + TailwindCSS + Vanilla JavaScript
 - **数据**: GitHub Actions + JSON + 本地缓存
 - **部署**: GitHub Pages（完全免费）
-- **自动化**: 每4小时自动爬取和处理
+- **自动化**: 每1小时自动爬取和处理
 - **性能优化**: 代码分割、延迟加载、资源压缩
 
 ## 📱 访问我的平台
