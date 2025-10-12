@@ -1,54 +1,140 @@
 {
   "articles": [
     {
-      "title": "OpenAI发布GPT-5，多模态能力大幅提升",
-      "summary": "OpenAI官方宣布GPT-5模型在多模态理解、推理能力和安全性方面取得显著突破",
-      "link": "https://example.com/gpt5-release",
-      "source": "OpenAI官方博客",
-      "category": "技术前沿",
-      "pubDate": "2024-09-28T10:00:00Z",
-      "aiScore": 9.5,
-      "author": "AI研究团队"
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:19:58.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 28
     },
     {
-      "title": "Stable Diffusion发布新版本，图像生成质量再创新高",
-      "summary": "最新版Stable Diffusion在细节处理和风格转换方面展现出前所未有的质量提升",
-      "link": "https://example.com/stable-diffusion-update",
-      "source": "Stability AI官方",
-      "category": "应用热点",
-      "pubDate": "2024-09-27T14:30:00Z",
-      "aiScore": 8.7,
-      "author": "图像AI团队"
+      "title": "Best Practices for Building the AI Development Platform in Government",
+      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:20:17.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 24
     },
     {
-      "title": "AI创业公司Anthropic获得5亿美元融资",
-      "summary": "专注于安全AI的创业公司Anthropic宣布完成新一轮融资，将用于Claude模型的进一步开发",
-      "link": "https://example.com/anthropic-funding",
-      "source": "TechCrunch",
-      "category": "行业新闻",
-      "pubDate": "2024-09-26T09:15:00Z",
-      "aiScore": 8.2,
-      "author": "商业分析团队"
+      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
+      "pubDate": "2021-10-21T20:34:39.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 24
     },
     {
-      "title": "谷歌发布Gemini Pro 2.0，多语言支持增强",
-      "summary": "新版Gemini模型在多语言理解和生成方面取得显著进展，支持超过100种语言",
-      "link": "https://example.com/gemini-pro-2",
-      "source": "Google AI博客",
-      "category": "技术前沿",
-      "pubDate": "2024-09-25T16:45:00Z",
-      "aiScore": 9.0,
-      "author": "技术评测团队"
+      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
+      "pubDate": "2021-10-21T21:02:24.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 20
     },
     {
-      "title": "微软整合AI到Office套件，生产力工具迎来革命",
-      "summary": "Microsoft宣布将更强大的AI功能整合到Word、Excel、PowerPoint等应用中",
-      "link": "https://example.com/microsoft-ai-office",
-      "source": "Microsoft官方",
-      "category": "应用热点",
-      "pubDate": "2024-09-24T11:20:00Z",
-      "aiScore": 8.5,
-      "author": "产品分析团队"
+      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
+      "pubDate": "2021-10-28T21:49:47.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 17
+    },
+    {
+      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:18:48.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16
+    },
+    {
+      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
+      "pubDate": "2021-10-28T22:10:19.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16
+    },
+    {
+      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
+      "pubDate": "2021-10-21T20:52:34.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16
     }
-  ]
+  ],
+  "metadata": {
+    "totalCount": 8,
+    "generatedAt": "2025-10-12T03:42:29.104Z",
+    "sources": [
+      {
+        "name": "ArXiv AI 研究",
+        "category": "学术研究",
+        "weight": 0.9
+      },
+      {
+        "name": "MIT人工智能新闻",
+        "category": "学术动态",
+        "weight": 0.85
+      },
+      {
+        "name": "AI 趋势",
+        "category": "行业趋势",
+        "weight": 0.8
+      },
+      {
+        "name": "VentureBeat AI",
+        "category": "商业资讯",
+        "weight": 0.8
+      }
+    ],
+    "keywords": {
+      "tier1": {
+        "artificial intelligence": 5,
+        "AI": 4,
+        "machine learning": 4,
+        "deep learning": 4,
+        "neural network": 3,
+        "neural networks": 3,
+        "LLM": 3,
+        "GPT": 3,
+        "ChatGPT": 3,
+        "computer vision": 3,
+        "natural language processing": 3,
+        "NLP": 3,
+        "robotics": 2.5,
+        "automation": 2.5,
+        "algorithm": 2
+      },
+      "tier2": {
+        "transformer": 2,
+        "bert": 2,
+        "dall-e": 2,
+        "stable diffusion": 2,
+        "reinforcement learning": 2,
+        "supervised learning": 2,
+        "unsupervised learning": 2,
+        "data science": 1.5,
+        "big data": 1.5,
+        "cloud computing": 1,
+        "edge computing": 1
+      }
+    }
+  },
+  "summary": {
+    "researchArticles": 0,
+    "industryArticles": 8,
+    "academicArticles": 0,
+    "averageScore": 20.125
+  }
 }
