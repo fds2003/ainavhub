@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
-
+QWEN.md
+CLAUDE.md
+.trae/
+.codebuddy/
 # Logs
 logs
 *.log
