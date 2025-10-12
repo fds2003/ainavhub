@@ -3,30 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>智能聚落 - fds2003的AI资讯导航</title>
-    <meta name="description" content="fds2003的AI资讯导航平台，实时聚合全球AI领域最新动态和工具推荐">
-    <meta name="keywords" content="人工智能, AI资讯, 工具导航, AI技术, 机器学习, fds2003">
-    <meta name="author" content="fds2003">
-    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-
-    <link rel="stylesheet" href="./css/output.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <title>智能聚落 - AI资讯导航</title>
+    <meta name="description" content="AI资讯导航平台，实时聚合全球AI领域最新动态和工具推荐">
+    <meta name="keywords" content="人工智能, AI资讯, 工具导航, AI技术, 机器学习, 大语言模型, LLM, GPT, 深度学习">
+    <meta name="author" content="AiNavHub">
+    <meta name="theme-color" content="#2563eb">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- 资源预加载 -->
+    <link rel="preload" href="./css/output.css" as="style">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" as="style">
+    
+    <!-- 网站图标 -->
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="./favicon.svg">
+    
+    <!-- 样式表 -->
+    <link rel="stylesheet" href="./css/output.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <style>
+        /* 动画效果 */
         .loading-pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
         @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
         .personal-border { border-left: 4px solid #2563eb; }
         
-        /* 排版优化样式 */
+        /* 核心布局样式 - 性能优化 */
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
             line-height: 1.6;
             display: flex;
             flex-direction: column;
             min-height: 100vh;
+            text-rendering: optimizeSpeed;
+            -webkit-font-smoothing: antialiased;
         }
         
         .container {
@@ -34,18 +48,23 @@
             margin: 0 auto;
             padding: 0 1rem;
             width: 100%;
+            box-sizing: border-box;
         }
         
         main {
             flex: 1;
             width: 100%;
+            will-change: transform;
         }
         
+        /* 卡片样式优化 */
         .card {
             background: white;
             border-radius: 12px;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-            transition: all 0.3s ease;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            will-change: transform;
+            backface-visibility: hidden;
         }
         
         .card:hover {
@@ -53,47 +72,56 @@
             box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
         }
         
-        /* 确保所有内容区域居中 */
-        section {
-            width: 100%;
-        }
-        
-        .text-center {
-            text-align: center;
-        }
-        
+        /* 布局辅助类 */
+        section { width: 100%; }
+        .text-center { text-align: center; }
         .flex-center {
             display: flex;
             justify-content: center;
             align-items: center;
         }
         
+        /* 响应式优化 */
         @media (max-width: 768px) {
-            .container {
-                padding: 0 0.5rem;
-            }
+            .container { padding: 0 0.75rem; }
+            .card { margin-bottom: 1rem; }
+            h1, h2 { font-size: 1.25rem; }
+            .hidden-mobile { display: none; }
+            .mobile-full-width { width: 100%; }
+            .mobile-py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+            .mobile-px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+            .mobile-text-sm { font-size: 0.875rem; }
         }
         
-        /* 暗色模式支持 */
+        /* 暗色模式增强 */
         @media (prefers-color-scheme: dark) {
+            body { color-scheme: dark; }
             .card {
                 background: #1f2937;
+                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
             }
+            .card:hover {
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+            }
+            img { filter: brightness(.8) contrast(1.2); }
         }
+        
+        /* 减少布局偏移 */
+        img, video { height: auto; max-width: 100%; }
     </style>
 </head>
 
-<body class="bg-gradient-to-br from-blue-50 via-white to-indigo-50 dark:from-gray-900 dark:via-gray-800 dark:to-blue-900 min-h-screen flex flex-col items-center">
-    <header class="bg-white/90 dark:bg-gray-800/90 backdrop-blur-sm sticky top-0 z-50 shadow-lg">
-        <div class="container mx-auto px-4 py-4">
+<body class="bg-gradient-to-br from-blue-50 via-white to-indigo-50 dark:from-gray-900 dark:via-gray-800 dark:to-blue-900 min-h-screen flex flex-col items-center transition-colors duration-300">
+    <header class="bg-white/95 dark:bg-gray-800/95 backdrop-blur-md sticky top-0 z-50 shadow-md border-b border-gray-100 dark:border-gray-700 transition-all duration-300">
+        <div class="container mx-auto px-4 py-3">
             <div class="flex items-center justify-between">
                 <div class="flex items-center space-x-3">
-                    <div class="w-12 h-12 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl flex items-center justify-center">
+                    <div class="w-12 h-12 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl flex items-center justify-center shadow-md hover:shadow-blue-500/20 transition-all duration-300">
                         <i class="fas fa-robot text-white text-xl"></i>
                     </div>
                     <div>
-                        <h1 class="text-2xl font-bold text-gray-800 dark:text-white">智能聚落</h1>
-                        <p class="text-sm text-gray-600 dark:text-gray-300">fds2003的AI前沿导航</p>
+                        <h1 class="text-2xl font-bold text-gray-800 dark:text-white tracking-tight">智能聚落</h1>
+                        <p class="text-sm text-gray-600 dark:text-gray-300 font-medium">AI前沿导航</p>
                     </div>
                 </div>
                 
@@ -121,7 +149,7 @@
                     <a href="#news" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">最新资讯</a>
                     <a href="#tools" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">工具导航</a>
                     <a href="#products" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">热门产品</a>
-                    <a href="#learning" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">学习资源</a>
+
                     <a href="#topics" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">专题导航</a>
                     <a href="#about" class="nav-link px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">关于我们</a>
                 </nav>
@@ -146,50 +174,45 @@
                 <a href="#news" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">最新资讯</a>
                 <a href="#tools" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">工具导航</a>
                 <a href="#products" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">热门产品</a>
-                <a href="#learning" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">学习资源</a>
+
                 <a href="#topics" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">专题导航</a>
                 <a href="#about" class="block px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">关于我们</a>
             </div>
         </div>
     </header>
 
-    <main class="container mx-auto px-4 py-8 w-full max-w-7xl">
-        <section class="text-center py-16 mb-12">
-            <h2 class="text-4xl md:text-5xl font-bold text-gray-800 dark:text-white mb-6">
+    <main class="container mx-auto px-4 py-4 w-full max-w-7xl">
+        <section id="home" class="text-center py-6 mb-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-3">
                 发现AI世界的<span class="text-blue-600 dark:text-blue-400">精彩</span>
             </h2>
-            <p class="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-                fds2003为您精选全球人工智能领域的最新资讯、前沿技术和实用工具
+            <p class="text-lg text-gray-600 dark:text-gray-300 mb-4 max-w-3xl mx-auto">
+                为您精选全球人工智能领域的最新资讯、前沿技术和实用工具
             </p>
-            <div class="flex items-center justify-center space-x-4 text-sm text-gray-500 dark:text-gray-400">
-                <span class="flex items-center"><i class="fas fa-sync-alt mr-2"></i>每4小时自动更新</span>
-                <span class="flex items-center"><i class="fas fa-robot mr-2"></i>AI智能筛选</span>
-                <span class="flex items-center"><i class="fas fa-globe mr-2"></i>全球资讯聚合</span>
-            </div>
         </section>
 
         <!-- 最新资讯 News Section with Categories -->
-        <section class="mb-16">
-            <div class="text-center mb-12">
-                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+        <section id="news" class="mb-8">
+            <div class="text-center mb-6">
+                <h3 class="text-2xl font-bold text-gray-800 dark:text-white mb-2 flex items-center justify-center">
                     <i class="fas fa-newspaper text-blue-600 mr-3"></i>最新AI资讯
                 </h3>
-                <p class="text-gray-600 dark:text-gray-300">实时聚合的AI领域前沿动态</p>
+                <p class="text-gray-600 dark:text-gray-300 text-sm">实时聚合的AI领域前沿动态</p>
             </div>
             
             <!-- News Categories Filter -->
-            <div class="mb-8 px-4">
+            <div class="mb-4 px-4">
                 <div class="flex flex-wrap items-center justify-center gap-2">
-                    <button type="button" class="news-filter-btn px-4 py-2 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
+                    <button type="button" class="news-filter-btn px-3 py-1 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
                         全部
                     </button>
-                    <button type="button" class="news-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="industry">
+                    <button type="button" class="news-filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="industry">
                         行业新闻
                     </button>
-                    <button type="button" class="news-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="tech">
+                    <button type="button" class="news-filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="tech">
                         技术前沿
                     </button>
-                    <button type="button" class="news-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="application">
+                    <button type="button" class="news-filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="application">
                         应用热点
                     </button>
                 </div>
@@ -198,76 +221,48 @@
             <div id="ai-news-content" class="grid gap-6">
                 <div class="text-center py-12">
                     <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
-                    <p class="text-gray-600 dark:text-gray-400 text-lg">正在为fds2003加载最新AI资讯...</p>
+                    <p class="text-gray-600 dark:text-gray-400 text-lg">正在为您加载最新AI资讯...</p>
                     <p class="text-sm text-gray-500 dark:text-gray-500 mt-2">首次加载需要5-10秒，请耐心等待</p>
-                </div>
-            </div>
-
-            <div class="text-center mt-8">
-                <p class="text-sm text-gray-500 dark:text-gray-400">
-                    <i class="fas fa-clock mr-1"></i>
-                    数据更新时间: <span id="last-update-time">加载中...</span>
-                    <button onclick="AINewsSystem.update()" class="ml-2 text-blue-600 hover:text-blue-800">
-                        <i class="fas fa-refresh mr-1"></i>手动刷新
-                    </button>
-                </p>
-            </div>
-        </section>
-
-        <section class="text-center py-12 bg-white/50 dark:bg-gray-800/50 rounded-xl">
-            <div class="max-w-2xl mx-auto">
-                <h4 class="text-2xl font-bold text-gray-800 dark:text-white mb-4">关于 fds2003 的 AI 资讯平台</h4>
-                <p class="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-                    这个平台是专为AI从业者和爱好者打造的资讯导航工具。我希望通过技术手段，
-                    让大家能够更轻松地获取AI领域的最新动态和优质工具。
-                </p>
-                <div class="flex items-center justify-center space-x-6 text-sm text-gray-500 dark:text-gray-400">
-                    <a href="https://github.com/fds2003" target="_blank" class="hover:text-blue-600 dark:hover:text-blue-400 flex items-center">
-                        <i class="fab fa-github mr-2"></i>GitHub
-                    </a>
-                    <span class="flex items-center">
-                        <i class="fas fa-envelope mr-2"></i>fds2003@163.com
-                    </span>
                 </div>
             </div>
         </section>
 
         <!-- 工具导航 Tools Navigation -->
-        <section id="tools" class="mb-16 py-12 bg-white dark:bg-gray-800 rounded-xl shadow-sm">
-            <div class="text-center mb-12">
-                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+        <section id="tools" class="mb-8 py-6 bg-white dark:bg-gray-800 rounded-xl shadow-sm">
+            <div class="text-center mb-4">
+                <h3 class="text-2xl font-bold text-gray-800 dark:text-white mb-2 flex items-center justify-center">
                     <i class="fas fa-tools text-blue-600 mr-3"></i>AI工具导航
                 </h3>
-                <p class="text-gray-600 dark:text-gray-300">发现最适合您需求的AI工具</p>
+                <p class="text-gray-600 dark:text-gray-300 text-sm">发现最适合您需求的AI工具</p>
             </div>
             
             <!-- 工具过滤器和排序器 -->
-            <div class="mb-8 px-4">
-                <div class="flex flex-wrap items-center justify-center gap-4">
+            <div class="mb-4 px-4">
+                <div class="flex flex-wrap items-center justify-center gap-2">
                     <div class="flex flex-wrap items-center justify-center gap-2">
-                        <button type="button" class="filter-btn px-4 py-2 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
+                        <button type="button" class="filter-btn px-3 py-1 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
                             全部
                         </button>
-                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="chatbot">
+                        <button type="button" class="filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="chatbot">
                             聊天机器人
                         </button>
-                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="image">
+                        <button type="button" class="filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="image">
                             图像生成
                         </button>
-                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="coding">
+                        <button type="button" class="filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="coding">
                             编程助手
                         </button>
-                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="productivity">
+                        <button type="button" class="filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="productivity">
                             生产力工具
                         </button>
-                        <button type="button" class="filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="video">
+                        <button type="button" class="filter-btn px-3 py-1 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="video">
                             视频制作
                         </button>
                     </div>
                     
                     <div class="flex items-center border border-gray-300 dark:border-gray-600 rounded-lg overflow-hidden">
-                        <span class="px-3 py-2 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-sm">排序:</span>
-                        <select id="tools-sort" class="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 px-3 py-2 text-sm focus:outline-none">
+                        <span class="px-2 py-1 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-sm">排序:</span>
+                        <select id="tools-sort" class="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 px-2 py-1 text-sm focus:outline-none">
                             <option value="name">按名称</option>
                             <option value="category">按类别</option>
                         </select>
@@ -275,24 +270,22 @@
                 </div>
             </div>
             
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- 工具分类卡片会通过JS动态生成 -->
-                <div id="tools-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                    <div class="text-center py-12">
-                        <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
-                        <p class="text-gray-600 dark:text-gray-400">加载AI工具数据中...</p>
+                <div id="tools-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 items-stretch">
+                    <div class="text-center py-6">
+                        <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mb-2"></div>
+                        <p class="text-gray-600 dark:text-gray-400 text-sm">加载AI工具数据中...</p>
                     </div>
                 </div>
-            </div>
         </section>
 
         <!-- 热门产品 Popular Products -->
-        <section id="products" class="mb-16 py-12 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-sm">
-            <div class="text-center mb-12">
-                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
+        <section id="products" class="mb-8 py-6 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-sm">
+            <div class="text-center mb-4">
+                <h3 class="text-2xl font-bold text-gray-800 dark:text-white mb-2 flex items-center justify-center">
                     <i class="fas fa-star text-yellow-500 mr-3"></i>热门AI产品
                 </h3>
-                <p class="text-gray-600 dark:text-gray-300">当前最受关注的AI产品和平台</p>
+                <p class="text-gray-600 dark:text-gray-300 text-sm">当前最受关注的AI产品和平台</p>
             </div>
             
             <!-- Products Sorting Options -->
@@ -327,70 +320,15 @@
                 </div>
             </div>
             
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div id="products-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div id="products-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
                     <div class="text-center py-12">
                         <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
                         <p class="text-gray-600 dark:text-gray-400">加载热门产品数据中...</p>
                     </div>
                 </div>
-            </div>
         </section>
 
-        <!-- 学习资源 Learning Resources -->
-        <section id="learning" class="mb-16 py-12 bg-white dark:bg-gray-800 rounded-xl shadow-sm">
-            <div class="text-center mb-12">
-                <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
-                    <i class="fas fa-graduation-cap text-green-600 mr-3"></i>AI学习资源
-                </h3>
-                <p class="text-gray-600 dark:text-gray-300">从入门到精通的AI学习路径</p>
-            </div>
-            
-            <!-- AI速成学习包 Special Section -->
-            <div class="mb-12 bg-gradient-to-r from-green-50 to-teal-50 dark:from-green-900/30 dark:to-teal-900/30 border border-green-200 dark:border-green-800 rounded-xl p-6">
-                <div class="flex items-center mb-4">
-                    <i class="fas fa-rocket text-2xl text-green-600 mr-3"></i>
-                    <h4 class="text-xl font-bold text-gray-800 dark:text-white">AI速成学习包</h4>
-                </div>
-                <p class="text-gray-600 dark:text-gray-300 mb-4">专为初学者设计的快速入门课程，帮助您在短时间内掌握AI基础知识</p>
-                <div class="flex flex-wrap gap-3">
-                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">零基础友好</span>
-                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">实践项目</span>
-                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">中文讲解</span>
-                    <span class="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">免费课程</span>
-                </div>
-            </div>
-            
-            <!-- Learning Resources Categories -->
-            <div class="mb-8 px-4">
-                <div class="flex flex-wrap items-center justify-center gap-2">
-                    <button type="button" class="learning-filter-btn px-4 py-2 bg-blue-500 dark:bg-blue-600 text-white rounded-full text-sm font-medium transition-colors" data-filter="all">
-                        全部
-                    </button>
-                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="beginner">
-                        入门指南
-                    </button>
-                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="coding">
-                        编程与开发
-                    </button>
-                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="data">
-                        数据资源
-                    </button>
-                    <button type="button" class="learning-filter-btn px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full text-sm font-medium hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors" data-filter="course">
-                        课程推荐
-                    </button>
-                </div>
-            </div>
-            
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <div id="learning-content" class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div class="text-center py-12">
-                        <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
-                        <p class="text-gray-600 dark:text-gray-400">加载学习资源数据中...</p>
-                    </div>
-                </div>
-            </div>
-        </section>
+
 
         <!-- 专题导航 Topics Navigation -->
         <section id="topics" class="mb-16 py-12 bg-gradient-to-br from-purple-50 to-pink-50 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-sm">
@@ -401,55 +339,41 @@
                 <p class="text-gray-600 dark:text-gray-300">深度探索AI前沿专题</p>
             </div>
             
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div id="topics-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div id="topics-content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
                     <div class="text-center py-12">
                         <div class="inline-block animate-spin rounded-full h-10 w-10 border-b-2 border-blue-600 mb-4"></div>
                         <p class="text-gray-600 dark:text-gray-400">加载专题数据中...</p>
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <!-- 关于我们 About Us -->
-        <section id="about" class="py-12 bg-white dark:bg-gray-800 rounded-xl shadow-sm">
-            <div class="max-w-4xl mx-auto px-4">
-                <div class="text-center mb-12">
-                    <h3 class="text-3xl font-bold text-gray-800 dark:text-white mb-4 flex items-center justify-center">
-                        <i class="fas fa-info-circle text-blue-600 mr-3"></i>关于我们
-                    </h3>
-                    <p class="text-gray-600 dark:text-gray-300">了解智能聚落的使命与愿景</p>
-                </div>
-                
-                <div class="text-center py-8">
-                    <p class="text-lg text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
-                        「一个聚合 AI 资讯与工具的导航枢纽，帮助你快速找到最新的 AI 产品与前沿信息。」
-                    </p>
-                    <div class="flex items-center justify-center space-x-6 text-sm text-gray-500 dark:text-gray-400">
-                        <a href="https://github.com/fds2003" target="_blank" class="hover:text-blue-600 dark:hover:text-blue-400 flex items-center">
-                            <i class="fab fa-github mr-2"></i>GitHub
-                        </a>
-                        <span class="flex items-center">
-                            <i class="fas fa-envelope mr-2"></i>fds2003@163.com
-                        </span>
-                    </div>
-                </div>
-            </div>
         </section>
     </main>
 
-    <footer class="bg-gray-900 text-white py-8">
+    <footer class="bg-gray-100 dark:bg-gray-800 py-8 border-t border-gray-200 dark:border-gray-700">
         <div class="container mx-auto px-4 text-center">
-            <p class="text-gray-300">
-                © 2024 fds2003 - 智能聚落 AI资讯平台 |
-                基于 <a href="https://github.com/fds2003/ainavhub" target="_blank" class="text-blue-400 hover:text-blue-300">AiNavHub</a> 技术构建
-            </p>
+            <h3 class="text-lg font-medium text-gray-700 dark:text-gray-300 mb-6">联系我们</h3>
+            
+            <div class="flex flex-col items-center justify-center space-y-3 mb-6">
+                <p class="text-gray-600 dark:text-gray-400 flex items-center">
+                    <i class="fas fa-envelope text-blue-500 mr-2"></i>
+                    contact@ainavhub.com
+                </p>
+                <button class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-md transition-colors duration-200">
+                    <i class="fas fa-paper-plane mr-2"></i>订阅更新
+                </button>
+            </div>
+            
+            <div class="text-gray-500 dark:text-gray-400 text-sm">
+                © 2025 智能聚落 - AI资讯平台 | 
+                <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener" class="hover:text-blue-500 transition-colors duration-200">
+                    粤ICP备2025470020号-3
+                </a>
+            </div>
         </div>
     </footer>
 
     <!-- 核心功能脚本 -->
     <script>
-        // AiNavHub简化版配置 - 专为fds2003 (GitHub Actions + JSON数据方案)
+        // AiNavHub简化版配置 (GitHub Actions + JSON数据方案)
         const AINewsConfig = {
             dataPath: './data/rss-data.json',
             toolsDataPath: './data/tools.json',
@@ -505,7 +429,7 @@
             }
 
             async init() {
-                console.log('🚀 fds2003的AiNavHub系统初始化...');
+                console.log('🚀 AiNavHub系统初始化...');
 
                 this.showLoading();
 
@@ -869,11 +793,23 @@
                 }
                 
                 if (articles.length === 0) {
+                    const labelMap = { all: '全部', industry: '行业新闻', tech: '技术前沿', application: '应用热点' };
+                    const displayCategory = labelMap[category] || '全部';
+                    
+                    // 如果系统内还没有任何文章数据，且用户查看“全部”，自动使用演示数据兜底
+                    if ((!this.articles || this.articles.length === 0) && category === 'all') {
+                        const fb = this.processArticles(AINewsConfig.fallbackData);
+                        this.articles = fb;
+                        this.renderArticles(fb);
+                        this.updateActiveNewsFilter('all');
+                        return;
+                    }
+
                     container.innerHTML = `
                         <div class="text-center py-16 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
                             <i class="fas fa-newspaper text-4xl text-gray-400 mb-4"></i>
                             <h3 class="text-xl font-semibold text-gray-800 dark:text-white mb-2">没有找到新闻</h3>
-                            <p class="text-gray-500">在"${category}"类别中暂无新闻，请稍后再试</p>
+                            <p class="text-gray-500">在“${displayCategory}”类别中暂无新闻，请稍后再试</p>
                             <button onclick="AINewsSystem.update()" class="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
                                 <i class="fas fa-redo mr-2"></i>刷新新闻
                             </button>
@@ -923,7 +859,7 @@
                             notice.innerHTML = `
                                 <p class="text-yellow-800">
                                     <i class="fas fa-info-circle mr-2"></i>
-                                    当前显示演示数据，GitHub Actions将在下次运行时获取最新AI新闻
+                                    当前显示演示数据，定时任务将在下次运行时获取最新AI新闻
                                 </p>
                             `;
                             container.insertBefore(notice, container.firstChild);
@@ -986,7 +922,7 @@
                         minute: '2-digit'
                     });
                     timeElement.textContent = '刚刚更新 - ' + timeStr;
-                    timeElement.title = `GitHub Actions 每4小时自动更新, 由AiNavHub机器人为您服务 `;
+                    timeElement.title = '最新数据已更新';
                 }
             }
 
@@ -1160,15 +1096,15 @@
                 const favoriteIcon = isFavorite ? 'fas fa-heart' : 'fas fa-heart border border-gray-300 dark:border-gray-600 rounded-full p-2';
                 
                 return `
-                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300 relative">
+                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300 relative h-full flex flex-col">
                         <div class="flex items-center mb-4">
                             <div class="w-12 h-12 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-lg flex items-center justify-center mr-4">
                                 <i class="fas fa-${tool.icon || 'cog'} text-white text-lg"></i>
                             </div>
                             <h4 class="text-lg font-bold text-gray-900 dark:text-white">${tool.name}</h4>
                         </div>
-                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${tool.description}</p>
-                        <div class="flex justify-between items-center">
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4 line-clamp-3">${tool.description}</p>
+                        <div class="flex justify-between items-center mt-auto pt-4">
                             <span class="px-2 py-1 bg-blue-100 text-blue-800 text-xs font-medium rounded">${tool.category}</span>
                             <a href="${tool.url || '#'}" target="_blank" class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
                                 访问工具 <i class="fas fa-external-link-alt ml-1"></i>
@@ -1206,7 +1142,7 @@
                 }
 
                 return `
-                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300 relative">
+                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300 relative h-full flex flex-col">
                         <div class="flex items-center mb-4">
                             <div class="w-12 h-12 bg-gradient-to-r from-yellow-500 to-orange-500 rounded-lg flex items-center justify-center mr-4">
                                 <i class="fas fa-star text-white text-lg"></i>
@@ -1214,7 +1150,7 @@
                             <h4 class="text-lg font-bold text-gray-900 dark:text-white">${product.name}</h4>
                         </div>
                         <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${product.description}</p>
-                        <div class="flex justify-between items-center">
+                        <div class="flex justify-between items-center mt-auto pt-4">
                             ${hotnessBadge}
                             <a href="${product.url}" target="_blank" class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
                                 了解更多 <i class="fas fa-external-link-alt ml-1"></i>
@@ -1352,7 +1288,7 @@
             // 生成学习资源HTML
             generateLearningResourceHTML(resource) {
                 return `
-                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300">
+                    <div class="bg-white dark:bg-gray-700 rounded-lg shadow p-6 border border-gray-200 dark:border-gray-600 hover:shadow-lg transition-shadow duration-300 h-full flex flex-col">
                         <div class="flex items-center mb-4">
                             <div class="w-12 h-12 bg-gradient-to-r from-green-500 to-teal-500 rounded-lg flex items-center justify-center mr-4">
                                 <i class="fas fa-${resource.icon || 'book'} text-white text-lg"></i>
@@ -1360,7 +1296,7 @@
                             <h4 class="text-lg font-bold text-gray-900 dark:text-white">${resource.title}</h4>
                         </div>
                         <p class="text-gray-600 dark:text-gray-300 text-sm mb-4">${resource.description}</p>
-                        <div class="flex justify-between items-center">
+                        <div class="flex justify-between items-center mt-auto pt-4">
                             <span class="px-2 py-1 bg-green-100 text-green-800 text-xs font-medium rounded">${resource.category || resource.level || '入门'}</span>
                             <a href="${resource.url}" target="_blank" class="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 text-sm font-medium">
                                 开始学习 <i class="fas fa-external-link-alt ml-1"></i>
@@ -2104,7 +2040,7 @@
                 });
             }
 
-            console.log('🚀 fds2003的AiNavHub系统启动 - GitHub Actions + JSON数据模式');
+            console.log('🚀 AiNavHub系统启动 - JSON数据模式');
 
             try {
                 const success = await AINewsSystem.init();
