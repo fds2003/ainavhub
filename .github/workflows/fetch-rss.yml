@@ -2,7 +2,7 @@ name: 获取AI新闻数据
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # 每4小时运行一次（北京时间凌晨2点、6点、10点等）
+    - cron: '0 */1 * * *'  # 每4小时运行一次（北京时间凌晨2点、6点、10点等）
   workflow_dispatch:        # 允许手动触发
   push:
     branches: [ main ]      # main分支推送时触发
