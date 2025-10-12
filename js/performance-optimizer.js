@@ -278,20 +278,22 @@ class OptimizedNewsProcessor {
     const description = (article.description || article.summary || '').toLowerCase();
     const fullText = (title + ' ' + description).toLowerCase();
     
-    const industryKeywords = ['business', 'market', 'funding', 'company', 'investment', 'startup', 'enterprise', 'industry', 'commercial', 'launch', 'product'];
-    const techKeywords = ['research', 'model', 'algorithm', 'technical', 'science', 'study', 'development', 'innovation', 'breakthrough', 'method', 'architecture'];
-    const applicationKeywords = ['use', 'application', 'tool', 'platform', 'solution', 'product', 'implementation', 'real-world', 'practical', 'case study'];
+    // 添加中文关键词以提高匹配率
+    const industryKeywords = ['business', 'market', 'funding', 'company', 'investment', 'startup', 'enterprise', 'industry', 'commercial', 'launch', 'product', '行业', '市场', '公司', '企业', '投资', '融资', '商业', '创业', '产品发布'];
+    const techKeywords = ['research', 'model', 'algorithm', 'technical', 'science', 'study', 'development', 'innovation', 'breakthrough', 'method', 'architecture', '研究', '模型', '算法', '技术', '科学', '开发', '创新', '突破', '方法'];
+    const applicationKeywords = ['use', 'application', 'tool', 'platform', 'solution', 'product', 'implementation', 'real-world', 'practical', 'case study', '应用', '工具', '平台', '解决方案', '实现', '实际', '案例'];
     
     const industryCount = industryKeywords.filter(keyword => fullText.includes(keyword)).length;
     const techCount = techKeywords.filter(keyword => fullText.includes(keyword)).length;
     const appCount = applicationKeywords.filter(keyword => fullText.includes(keyword)).length;
     
-    if (techCount >= industryCount && techCount >= appCount) {
-      return '技术前沿';
-    } else if (appCount >= industryCount && appCount >= techCount) {
-      return '应用热点';
-    } else if (industryCount > 0) {
+    // 修改分类逻辑，确保行业新闻能被正确分类
+    if (industryCount >= techCount && industryCount >= appCount) {
       return '行业新闻';
+    } else if (techCount >= appCount) {
+      return '技术前沿';
+    } else if (appCount > 0) {
+      return '应用热点';
     }
     
     return 'AI动态';
@@ -306,6 +308,12 @@ class OptimizedNewsProcessor {
     
     if (category !== 'all') {
       articles = articles.filter(article => {
+        // 检查原始分类
+        if (article.category && article.category.includes('行业') && category === 'industry') {
+          return true;
+        }
+        
+        // 使用动态分类
         const articleCategory = this.categorizeArticle(article);
         return articleCategory === category || 
                (category === 'industry' && articleCategory === '行业新闻') ||
@@ -314,9 +322,25 @@ class OptimizedNewsProcessor {
       });
     }
     
+    // 调试信息
+    console.log(`过滤后的${category}类别文章数量:`, articles.length);
+    
     if (articles.length === 0) {
-      DOMOptimizer.batchUpdate(container, this.generateEmptyState());
-      return;
+      // 如果没有找到文章，尝试使用备用数据
+      if (category === 'industry') {
+        articles = this.articles.filter(article => 
+          article.title.toLowerCase().includes('business') || 
+          article.title.toLowerCase().includes('market') ||
+          article.title.toLowerCase().includes('company') ||
+          (article.description && article.description.toLowerCase().includes('industry'))
+        );
+        console.log('使用备用方法过滤行业新闻，找到:', articles.length);
+      }
+      
+      if (articles.length === 0) {
+        DOMOptimizer.batchUpdate(container, this.generateEmptyState());
+        return;
+      }
     }
 
     const html = articles.map(article => this.generateArticleHTML(article)).join('');

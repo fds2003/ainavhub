@@ -2,7 +2,7 @@
 
 /**
  * AI资讯导航 - RSS数据抓取脚本
- * 专为fds2003的AiNavHub项目定制
+ * 通用版 AiNavHub 项目脚本
  *
  * 功能：
  * - 从多个AI相关RSS源抓取新闻
@@ -286,7 +286,7 @@ class RSSParser {
 
 // 主执行函数
 async function main() {
-  console.log('🤖 AiNavHub RSS数据抓取器 - 专为fds2003定制');
+  console.log('🤖 AiNavHub RSS数据抓取器');
   console.log('=' .repeat(50));
 
   try {
