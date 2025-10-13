@@ -91,15 +91,22 @@ class RSSParser {
           const aiScore = this.calculateAIScore(title + ' ' + description);
 
           if (aiScore >= 3) { // 只保留AI相关度较高的内容
-            items.push({
-              title: this.cleanText(title),
+            const cleanedTitle = this.cleanText(title);
+            const cleanedDescription = this.cleanText(description || title);
+            
+            // 暂时不进行实时翻译，只添加原文
+            // 翻译将在fetchRSSData方法中统一异步执行
+            const article = {
+              title: cleanedTitle,
               link: link.trim(),
-              description: this.cleanText(description || title),
+              description: cleanedDescription,
               pubDate: this.parseDate(pubDate),
               source: sourceName,
               category: sourceCategory,
               aiScore: Math.round(aiScore * 10) / 10
-            });
+            };
+            
+            items.push(article);
             count++;
           }
         }
@@ -182,6 +189,197 @@ class RSSParser {
       .slice(0, 500);                    // 限制描述长度
   }
 
+  async translateToChinese(text) {
+    // 使用免费的翻译服务或API
+    // 为了在无外部依赖的情况下实现中文标题显示，我们可以使用一个简单的方法
+    // 这里先使用一个模拟翻译函数，实际部署时可以用适当的翻译API
+    
+    // 如果有环境变量配置了翻译API，则使用API进行翻译
+    if (process.env.TRANSLATION_API_KEY) {
+      try {
+        // 模拟调用翻译API，具体实现取决于使用的翻译服务
+        // 这里提供一个通用的框架
+        const response = await fetch('https://api-free.deepl.com/v2/translate', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `DeepL-Auth-Key ${process.env.TRANSLATION_API_KEY}`
+          },
+          body: JSON.stringify({
+            text: [text],
+            target_lang: 'ZH'
+          })
+        });
+        
+        const result = await response.json();
+        return result.translations[0].text;
+      } catch (error) {
+        console.error('翻译API调用失败:', error.message);
+        // 如果API调用失败，使用备用的关键词翻译
+        return this.fallbackTranslate(text);
+      }
+    } else {
+      // 如果没有配置翻译API，使用备用的关键词翻译
+      return this.fallbackTranslate(text);
+    }
+  }
+
+  fallbackTranslate(text) {
+    // 创建一个基本的AI术语翻译映射表
+    const translationMap = {
+      'artificial intelligence': '人工智能',
+      'AI': '人工智能',
+      'machine learning': '机器学习',
+      'deep learning': '深度学习',
+      'neural network': '神经网络',
+      'neural networks': '神经网络',
+      'LLM': '大语言模型',
+      'GPT': 'GPT',
+      'ChatGPT': 'ChatGPT',
+      'computer vision': '计算机视觉',
+      'natural language processing': '自然语言处理',
+      'NLP': '自然语言处理',
+      'robotics': '机器人技术',
+      'automation': '自动化',
+      'algorithm': '算法',
+      'transformer': 'Transformer',
+      'bert': 'BERT',
+      'dall-e': 'DALL-E',
+      'stable diffusion': 'Stable Diffusion',
+      'reinforcement learning': '强化学习',
+      'supervised learning': '监督学习',
+      'unsupervised learning': '无监督学习',
+      'data science': '数据科学',
+      'big data': '大数据',
+      'cloud computing': '云计算',
+      'edge computing': '边缘计算',
+      'AI model': 'AI模型',
+      'large language model': '大语言模型',
+      'prompt': '提示词',
+      'embedding': '嵌入',
+      'token': '令牌',
+      'attention': '注意力机制',
+      'training': '训练',
+      'inference': '推理',
+      'fine-tuning': '微调',
+      'dataset': '数据集',
+      'accuracy': '准确率',
+      'precision': '精确率',
+      'recall': '召回率',
+      'f1 score': 'F1分数',
+      'performance': '性能',
+      'optimization': '优化',
+      'framework': '框架',
+      'library': '库',
+      'tool': '工具',
+      'platform': '平台',
+      'application': '应用',
+      'system': '系统',
+      'technology': '技术',
+      'research': '研究',
+      'development': '开发',
+      'innovation': '创新',
+      'future': '未来',
+      'trend': '趋势',
+      'insight': '洞察',
+      'analysis': '分析',
+      'prediction': '预测',
+      'challenge': '挑战',
+      'opportunity': '机遇',
+      'solution': '解决方案',
+      'case study': '案例研究',
+      'best practices': '最佳实践',
+      'ethical': '伦理',
+      'responsible': '负责任',
+      'trustworthy': '可信',
+      'accountability': '问责制',
+      'hiring': '招聘',
+      'bias': '偏见',
+      'discrimination': '歧视',
+      'fairness': '公平性',
+      'security': '安全',
+      'privacy': '隐私',
+      'protection': '保护',
+      'regulation': '监管',
+      'policy': '政策',
+      'governance': '治理',
+      'framework': '框架',
+      'standard': '标准',
+      'compliance': '合规',
+      'ethics': '伦理',
+      'values': '价值观',
+      'human': '人类',
+      'collaboration': '协作',
+      'partnership': '合作伙伴关系',
+      'integration': '集成',
+      'implementation': '实施',
+      'deployment': '部署',
+      'maintenance': '维护',
+      'monitoring': '监控',
+      'evaluation': '评估',
+      'improvement': '改进',
+      'advancement': '进展',
+      'progress': '进步',
+      'breakthrough': '突破',
+      'discovery': '发现',
+      'exploration': '探索',
+      'experiment': '实验',
+      'study': '研究',
+      'finding': '发现',
+      'result': '结果',
+      'outcome': '成果',
+      'impact': '影响',
+      'benefit': '益处',
+      'risk': '风险',
+      'threat': '威胁',
+      'vulnerability': '脆弱性',
+      'robustness': '鲁棒性',
+      'reliability': '可靠性',
+      'stability': '稳定性',
+      'efficiency': '效率',
+      'scalability': '可扩展性',
+      'adaptability': '适应性',
+      'flexibility': '灵活性',
+      'usability': '可用性',
+      'accessibility': '可访问性',
+      'affordability': '可负担性',
+      'sustainability': '可持续性',
+      'transparency': '透明度',
+      'explainability': '可解释性',
+      'interpretability': '可解释性'
+    };
+
+    let translatedText = text;
+
+    // 按长度排序，先翻译较长的术语，避免短词干扰长词
+    const sortedTerms = Object.keys(translationMap).sort((a, b) => b.length - a.length);
+
+    for (const term of sortedTerms) {
+      const regex = new RegExp(term, 'gi');
+      translatedText = translatedText.replace(regex, (match) => {
+        // 保持原始的大小写格式
+        if (match === match.toUpperCase()) {
+          return translationMap[term].toUpperCase();
+        } else if (match === match.toLowerCase()) {
+          return translationMap[term].toLowerCase();
+        } else if (match[0] === match[0].toUpperCase()) {
+          // 首字母大写
+          return translationMap[term].charAt(0).toUpperCase() + translationMap[term].slice(1);
+        } else {
+          return translationMap[term];
+        }
+      });
+    }
+
+    // 如果翻译结果和原文一样，说明没有匹配到关键词，可以考虑使用更高级的翻译方式
+    if (translatedText === text) {
+      console.log(`⚠️  未能翻译标题: "${text}" (关键词库中未找到匹配项)`);
+      return text; // 返回原文
+    }
+
+    return translatedText;
+  }
+
   async fetchWithSimpleHttp(url, timeout = 10000) {
     return new Promise((resolve, reject) => {
       const http = require('http');
@@ -233,6 +431,21 @@ class RSSParser {
         console.log(`  ❌ ${source.name}: ${error.message}`);
       }
     }
+
+    // 对所有标题进行翻译（如果配置了翻译API）
+    console.log('🌐 正在翻译标题为中文...');
+    const translationPromises = allArticles.map(async (article) => {
+      if (process.env.TRANSLATION_API_KEY) {
+        article.title_zh = await this.translateToChinese(article.title);
+      } else {
+        // 如果没有配置翻译API，使用原文
+        article.title_zh = article.title;
+      }
+      return article;
+    });
+    
+    await Promise.all(translationPromises);
+    console.log('✅ 标题翻译完成');
 
     const duration = Date.now() - startTime;
     console.log(`\n📊 抓取完成: 总计 ${allArticles.length} 条新闻 (${duration}ms)`);
@@ -314,6 +527,7 @@ async function main() {
     backupData = {
       articles: summary.articles.map(a => ({
         title: a.title,
+        title_zh: a.title_zh || a.title,  // 中文标题，如果不存在则使用原文
         description: a.description,
         link: a.link,
         source: a.source,

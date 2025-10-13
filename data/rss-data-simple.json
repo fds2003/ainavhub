@@ -1,34 +1,148 @@
 {
   "articles": [
     {
-      "title": "AI在医疗诊断领域准确率创新高",
-      "summary": "最新研究表明，AI在某些医学影像诊断任务上的准确率已达到或超越专业医师水平",
-      "link": "https://example.com/ai-medical-diagnosis",
-      "source": "医学AI期刊",
-      "category": "应用热点",
-      "pubDate": "2024-09-29T08:00:00Z",
-      "aiScore": 8.8,
-      "author": "医疗AI研究团队"
+      "title": "Everyone prefers human writers, including AI",
+      "title_zh": "Everyone prefers human writers, including AI",
+      "description": "arXiv:2510.08831v1 Announce Type: new \nAbstract: As AI writing tools become widespread, we need to understand how both humans and machines evaluate literary style, a domain where objective standards are elusive and judgments are inherently subjective. We conducted controlled experiments using Raymond Queneau's Exercises in Style (1947) to measure attribution bias across evaluators. Study 1 compared human participants (N=556) and AI models (N=13) evaluating literary passages from Queneau versus G",
+      "link": "https://arxiv.org/abs/2510.08831",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
     },
     {
-      "title": "特斯拉发布新版本自动驾驶AI",
-      "summary": "新版FSD系统在复杂交通场景下的决策能力显著提升",
-      "link": "https://example.com/tesla-fsd-update",
-      "source": "特斯拉官方",
-      "category": "应用热点",
-      "pubDate": "2024-09-28T15:30:00Z",
-      "aiScore": 8.3,
-      "author": "自动驾驶团队"
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
     },
     {
-      "title": "Meta发布开源AI模型Llama 3.5",
-      "summary": "最新版Llama模型在多语言支持和推理能力方面取得显著进展",
-      "link": "https://example.com/meta-llama-3.5",
-      "source": "Meta AI官方",
-      "category": "技术前沿",
-      "pubDate": "2024-09-27T13:45:00Z",
-      "aiScore": 9.1,
-      "author": "开源AI团队"
+      "title": "ReviewerToo: Should AI Join The Program Committee? A Look At The Future of Peer Review",
+      "title_zh": "ReviewerToo: Should AI Join The Program Committee? A Look At The Future of Peer Review",
+      "description": "arXiv:2510.08867v1 Announce Type: new \nAbstract: Peer review is the cornerstone of scientific publishing, yet it suffers from inconsistencies, reviewer subjectivity, and scalability challenges. We introduce ReviewerToo, a modular framework for studying and deploying AI-assisted peer review to complement human judgment with systematic and consistent assessments. ReviewerToo supports systematic experiments with specialized reviewer personas and structured evaluation criteria, and can be partially ",
+      "link": "https://arxiv.org/abs/2510.08867",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "Best Practices for Building the AI Development Platform in Government",
+      "title_zh": "Best Practices for Building the AI Development Platform in Government",
+      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
+      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare",
+      "title_zh": "GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare",
+      "description": "arXiv:2510.08872v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved remarkable progress in reasoning, yet sometimes produce responses that are suboptimal for users in tasks such as writing, information seeking, or providing practical guidance. Conventional alignment practices typically assume that maximizing model reward also maximizes user welfare, but this assumption frequently fails in practice: models may over-clarify or generate overly verbose reasoning when users pr",
+      "link": "https://arxiv.org/abs/2510.08872",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "Robust Heuristic Algorithm Design with LLMs",
+      "title_zh": "Robust Heuristic Algorithm Design with LLMs",
+      "description": "arXiv:2510.08755v1 Announce Type: new \nAbstract: We posit that we can generate more robust and performant heuristics if we augment approaches using LLMs for heuristic design with tools that explain why heuristics underperform and suggestions about how to fix them. We find even simple ideas that (1) expose the LLM to instances where the heuristic underperforms; (2) explain why they occur; and (3) specialize design to regions in the input space, can produce more robust algorithms compared to exist",
+      "link": "https://arxiv.org/abs/2510.08755",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents",
+      "title_zh": "Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents",
+      "description": "arXiv:2510.08619v1 Announce Type: new \nAbstract: Large-scale scientific datasets -- spanning health biobanks, cell atlases, Earth reanalyses, and more -- create opportunities for exploratory discovery unconstrained by specific research questions. We term this process hypothesis hunting: the cumulative search for insight through sustained exploration across vast and complex hypothesis spaces. To support it, we introduce AScience, a framework modeling discovery as the interaction of agents, networ",
+      "link": "https://arxiv.org/abs/2510.08619",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "Optimizing delivery for quick commerce factoring qualitative assessment of generated routes",
+      "title_zh": "Optimizing delivery for quick commerce factoring qualitative assessment of generated routes",
+      "description": "arXiv:2510.08671v1 Announce Type: new \nAbstract: Indias e-commerce market is projected to grow rapidly, with last-mile delivery accounting for nearly half of operational expenses. Although vehicle routing problem (VRP) based solvers are widely used for delivery planning, their effectiveness in real-world scenarios is limited due to unstructured addresses, incomplete maps, and computational constraints in distance estimation. This study proposes a framework that employs large language models (LLM",
+      "link": "https://arxiv.org/abs/2510.08671",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context",
+      "title_zh": "COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context",
+      "description": "arXiv:2510.08790v1 Announce Type: new \nAbstract: Long-horizon tasks that require sustained reasoning and multiple tool interactions remain challenging for LLM agents: small errors compound across steps, and even state-of-the-art models often hallucinate or lose coherence. We identify context management as the central bottleneck -- extended histories cause agents to overlook critical evidence or become distracted by irrelevant information, thus failing to replan or reflect from previous mistakes.",
+      "link": "https://arxiv.org/abs/2510.08790",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
+    },
+    {
+      "title": "What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment",
+      "title_zh": "What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment",
+      "description": "arXiv:2510.08847v1 Announce Type: new \nAbstract: We introduce the Agent GPA (Goal-Plan-Action) framework: an evaluation paradigm based on an agent's operational loop of setting goals, devising plans, and executing actions. The framework includes five evaluation metrics: Goal Fulfillment, Logical Consistency, Execution Efficiency, Plan Quality, and Plan Adherence. Logical Consistency checks that an agent's actions are consistent with its prior actions. Execution Efficiency checks whether the agen",
+      "link": "https://arxiv.org/abs/2510.08847",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-13"
     }
   ]
 }
