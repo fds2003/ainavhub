@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "Everyone prefers human writers, including AI",
-      "link": "https://arxiv.org/abs/2510.08831",
-      "description": "arXiv:2510.08831v1 Announce Type: new \nAbstract: As AI writing tools become widespread, we need to understand how both humans and machines evaluate literary style, a domain where objective standards are elusive and judgments are inherently subjective. We conducted controlled experiments using Raymond Queneau's Exercises in Style (1947) to measure attribution bias across evaluators. Study 1 compared human participants (N=556) and AI models (N=13) evaluating literary passages from Queneau versus G",
-      "pubDate": "2025-10-13T04:00:00.000Z",
+      "title": "AI and Consciousness",
+      "link": "https://arxiv.org/abs/2510.09858",
+      "description": "arXiv:2510.09858v1 Announce Type: new \nAbstract: This is a skeptical overview of the literature on AI consciousness. We will soon create AI systems that are conscious according to some influential, mainstream theories of consciousness but are not conscious according to other influential, mainstream theories of consciousness. We will not be in a position to know which theories are correct and whether we are surrounded by AI systems as richly and meaningfully conscious as human beings or instead o",
+      "pubDate": "2025-10-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 47,
-      "title_zh": "Everyone prefers human writers, including AI"
+      "aiScore": 28,
+      "title_zh": "AI and Consciousness"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,16 +19,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "ReviewerToo: Should AI Join The Program Committee? A Look At The Future of Peer Review",
-      "link": "https://arxiv.org/abs/2510.08867",
-      "description": "arXiv:2510.08867v1 Announce Type: new \nAbstract: Peer review is the cornerstone of scientific publishing, yet it suffers from inconsistencies, reviewer subjectivity, and scalability challenges. We introduce ReviewerToo, a modular framework for studying and deploying AI-assisted peer review to complement human judgment with systematic and consistent assessments. ReviewerToo supports systematic experiments with specialized reviewer personas and structured evaluation criteria, and can be partially ",
-      "pubDate": "2025-10-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 26,
-      "title_zh": "ReviewerToo: Should AI Join The Program Committee? A Look At The Future of Peer Review"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -59,6 +49,16 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "Deliberative Dynamics and Value Alignment in LLM Debates",
+      "link": "https://arxiv.org/abs/2510.10002",
+      "description": "arXiv:2510.10002v1 Announce Type: new \nAbstract: As large language models (LLMs) are increasingly deployed in sensitive everyday contexts - offering personal advice, mental health support, and moral guidance - understanding their elicited values in navigating complex moral reasoning is essential. Most evaluations study this sociotechnical alignment through single-turn prompts, but it is unclear if these findings extend to multi-turn settings where values emerge through dialogue, revision, and co",
+      "pubDate": "2025-10-14T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18,
+      "title_zh": "Deliberative Dynamics and Value Alignment in LLM Debates"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -101,69 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare",
-      "link": "https://arxiv.org/abs/2510.08872",
-      "description": "arXiv:2510.08872v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved remarkable progress in reasoning, yet sometimes produce responses that are suboptimal for users in tasks such as writing, information seeking, or providing practical guidance. Conventional alignment practices typically assume that maximizing model reward also maximizes user welfare, but this assumption frequently fails in practice: models may over-clarify or generate overly verbose reasoning when users pr",
-      "pubDate": "2025-10-13T04:00:00.000Z",
+      "title": "How can we assess human-agent interactions? Case studies in software agent design",
+      "link": "https://arxiv.org/abs/2510.09801",
+      "description": "arXiv:2510.09801v1 Announce Type: new \nAbstract: LLM-powered agents are both a promising new technology and a source of complexity, where choices about models, tools, and prompting can affect their usefulness. While numerous benchmarks measure agent accuracy across domains, they mostly assume full automation, failing to represent the collaborative nature of real-world use cases. In this paper, we make two major steps towards the rigorous assessment of human-agent interactions. First, we propose ",
+      "pubDate": "2025-10-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare"
+      "aiScore": 14.5,
+      "title_zh": "How can we assess human-agent interactions? Case studies in software agent design"
     },
     {
-      "title": "Robust Heuristic Algorithm Design with LLMs",
-      "link": "https://arxiv.org/abs/2510.08755",
-      "description": "arXiv:2510.08755v1 Announce Type: new \nAbstract: We posit that we can generate more robust and performant heuristics if we augment approaches using LLMs for heuristic design with tools that explain why heuristics underperform and suggestions about how to fix them. We find even simple ideas that (1) expose the LLM to instances where the heuristic underperforms; (2) explain why they occur; and (3) specialize design to regions in the input space, can produce more robust algorithms compared to exist",
-      "pubDate": "2025-10-13T04:00:00.000Z",
+      "title": "The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs",
+      "link": "https://arxiv.org/abs/2510.09905",
+      "description": "arXiv:2510.09905v1 Announce Type: new \nAbstract: When an AI assistant remembers that Sarah is a single mother working two jobs, does it interpret her stress differently than if she were a wealthy executive? As personalized AI systems increasingly incorporate long-term user memory, understanding how this memory shapes emotional reasoning is critical. We investigate how user memory affects emotional intelligence in large language models (LLMs) by evaluating 15 models on human validated emotional i",
+      "pubDate": "2025-10-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Robust Heuristic Algorithm Design with LLMs"
+      "aiScore": 12,
+      "title_zh": "The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs"
     },
     {
-      "title": "Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents",
-      "link": "https://arxiv.org/abs/2510.08619",
-      "description": "arXiv:2510.08619v1 Announce Type: new \nAbstract: Large-scale scientific datasets -- spanning health biobanks, cell atlases, Earth reanalyses, and more -- create opportunities for exploratory discovery unconstrained by specific research questions. We term this process hypothesis hunting: the cumulative search for insight through sustained exploration across vast and complex hypothesis spaces. To support it, we introduce AScience, a framework modeling discovery as the interaction of agents, networ",
-      "pubDate": "2025-10-13T04:00:00.000Z",
+      "title": "RIPRAG: Hack a Black-box Retrieval-Augmented Generation Question-Answering System with Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2510.10008",
+      "description": "arXiv:2510.10008v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) systems based on Large Language Models (LLMs) have become a core technology for tasks such as question-answering (QA) and content generation. However, by injecting poisoned documents into the database of RAG systems, attackers can manipulate LLMs to generate text that aligns with their intended preferences. Existing research has primarily focused on white-box attacks against simplified RAG architectures. In thi",
+      "pubDate": "2025-10-14T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 7,
+      "title_zh": "RIPRAG: Hack a Black-box Retrieval-Augmented Generation Question-Answering System with Reinforcement Learning"
+    },
+    {
+      "title": "The Geometry of Reasoning: Flowing Logics in Representation Space",
+      "link": "https://arxiv.org/abs/2510.09782",
+      "description": "arXiv:2510.09782v1 Announce Type: new \nAbstract: We study how large language models (LLMs) ``think'' through their representation space. We propose a novel geometric framework that models an LLM's reasoning as flows -- embedding trajectories evolving where logic goes. We disentangle logical structure from semantics by employing the same natural deduction propositions with varied semantic carriers, allowing us to test whether LLMs internalize logic beyond surface form. This perspective connects r",
+      "pubDate": "2025-10-14T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "The Geometry of Reasoning: Flowing Logics in Representation Space"
+    },
+    {
+      "title": "Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs",
+      "link": "https://arxiv.org/abs/2510.09970",
+      "description": "arXiv:2510.09970v1 Announce Type: new \nAbstract: Large Language Models (LLMs) suffer from critical reasoning gaps, including a tendency to hallucinate and poor accuracy in classifying logical fallacies. This limitation stems from their default System 1 processing, which is fast and intuitive, whereas reliable reasoning requires the deliberate, effortful System 2 approach (Kahneman, 2011; Li et al., 2025). Since full System 2 training is often prohibitively expensive, we explore a low-cost, instr",
+      "pubDate": "2025-10-14T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs"
+    },
+    {
+      "title": "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics",
+      "link": "https://arxiv.org/abs/2510.09901",
+      "description": "arXiv:2510.09901v1 Announce Type: new \nAbstract: Computing has long served as a cornerstone of scientific discovery. Recently, a paradigm shift has emerged with the rise of large language models (LLMs), introducing autonomous systems, referred to as agents, that accelerate discovery across varying levels of autonomy. These language agents provide a flexible and versatile framework that orchestrates interactions with human scientists, natural language, computer language and code, and physics. Thi",
+      "pubDate": "2025-10-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents"
-    },
-    {
-      "title": "Optimizing delivery for quick commerce factoring qualitative assessment of generated routes",
-      "link": "https://arxiv.org/abs/2510.08671",
-      "description": "arXiv:2510.08671v1 Announce Type: new \nAbstract: Indias e-commerce market is projected to grow rapidly, with last-mile delivery accounting for nearly half of operational expenses. Although vehicle routing problem (VRP) based solvers are widely used for delivery planning, their effectiveness in real-world scenarios is limited due to unstructured addresses, incomplete maps, and computational constraints in distance estimation. This study proposes a framework that employs large language models (LLM",
-      "pubDate": "2025-10-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Optimizing delivery for quick commerce factoring qualitative assessment of generated routes"
-    },
-    {
-      "title": "COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context",
-      "link": "https://arxiv.org/abs/2510.08790",
-      "description": "arXiv:2510.08790v1 Announce Type: new \nAbstract: Long-horizon tasks that require sustained reasoning and multiple tool interactions remain challenging for LLM agents: small errors compound across steps, and even state-of-the-art models often hallucinate or lose coherence. We identify context management as the central bottleneck -- extended histories cause agents to overlook critical evidence or become distracted by irrelevant information, thus failing to replan or reflect from previous mistakes.",
-      "pubDate": "2025-10-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context"
-    },
-    {
-      "title": "What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment",
-      "link": "https://arxiv.org/abs/2510.08847",
-      "description": "arXiv:2510.08847v1 Announce Type: new \nAbstract: We introduce the Agent GPA (Goal-Plan-Action) framework: an evaluation paradigm based on an agent's operational loop of setting goals, devising plans, and executing actions. The framework includes five evaluation metrics: Goal Fulfillment, Logical Consistency, Execution Efficiency, Plan Quality, and Plan Adherence. Logical Consistency checks that an agent's actions are consistent with its prior actions. Execution Efficiency checks whether the agen",
-      "pubDate": "2025-10-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment"
+      "title_zh": "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-10-14T03:27:16.509Z",
+    "generatedAt": "2025-10-14T04:11:45.721Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.625
+    "averageScore": 15.96875
   }
 }
