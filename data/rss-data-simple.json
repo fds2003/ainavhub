@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "AI and Consciousness",
-      "title_zh": "AI and Consciousness",
-      "description": "arXiv:2510.09858v1 Announce Type: new \nAbstract: This is a skeptical overview of the literature on AI consciousness. We will soon create AI systems that are conscious according to some influential, mainstream theories of consciousness but are not conscious according to other influential, mainstream theories of consciousness. We will not be in a position to know which theories are correct and whether we are surrounded by AI systems as richly and meaningfully conscious as human beings or instead o",
-      "link": "https://arxiv.org/abs/2510.09858",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-14"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -37,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "AI Agents for the Dhumbal Card Game: A Comparative Study",
+      "title_zh": "AI Agents for the Dhumbal Card Game: A Comparative Study",
+      "description": "arXiv:2510.11736v1 Announce Type: new \nAbstract: This study evaluates Artificial Intelligence (AI) agents for Dhumbal, a culturally significant multiplayer card game with imperfect information, through a systematic comparison of rule-based, search-based, and learning-based strategies. We formalize Dhumbal's mechanics and implement diverse agents, including heuristic approaches (Aggressive, Conservative, Balanced, Opportunistic), search-based methods such as Monte Carlo Tree Search (MCTS) and Inf",
+      "link": "https://arxiv.org/abs/2510.11736",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-15"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -44,15 +44,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Deliberative Dynamics and Value Alignment in LLM Debates",
-      "title_zh": "Deliberative Dynamics and Value Alignment in LLM Debates",
-      "description": "arXiv:2510.10002v1 Announce Type: new \nAbstract: As large language models (LLMs) are increasingly deployed in sensitive everyday contexts - offering personal advice, mental health support, and moral guidance - understanding their elicited values in navigating complex moral reasoning is essential. Most evaluations study this sociotechnical alignment through single-turn prompts, but it is unclear if these findings extend to multi-turn settings where values emerge through dialogue, revision, and co",
-      "link": "https://arxiv.org/abs/2510.10002",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-14"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -91,58 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "How can we assess human-agent interactions? Case studies in software agent design",
-      "title_zh": "How can we assess human-agent interactions? Case studies in software agent design",
-      "description": "arXiv:2510.09801v1 Announce Type: new \nAbstract: LLM-powered agents are both a promising new technology and a source of complexity, where choices about models, tools, and prompting can affect their usefulness. While numerous benchmarks measure agent accuracy across domains, they mostly assume full automation, failing to represent the collaborative nature of real-world use cases. In this paper, we make two major steps towards the rigorous assessment of human-agent interactions. First, we propose ",
-      "link": "https://arxiv.org/abs/2510.09801",
+      "title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+      "title_zh": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+      "description": "arXiv:2510.11977v1 Announce Type: new \nAbstract: AI agents have been developed for complex real-world tasks from coding to customer service. But AI agent evaluations suffer from many challenges that undermine our understanding of how well agents really work. We introduce the Holistic Agent Leaderboard (HAL) to address these challenges. We make three main contributions. First, we provide a standardized evaluation harness that orchestrates parallel evaluations across hundreds of VMs, reducing eval",
+      "link": "https://arxiv.org/abs/2510.11977",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-14"
+      "date": "2025-10-15"
     },
     {
-      "title": "The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs",
-      "title_zh": "The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs",
-      "description": "arXiv:2510.09905v1 Announce Type: new \nAbstract: When an AI assistant remembers that Sarah is a single mother working two jobs, does it interpret her stress differently than if she were a wealthy executive? As personalized AI systems increasingly incorporate long-term user memory, understanding how this memory shapes emotional reasoning is critical. We investigate how user memory affects emotional intelligence in large language models (LLMs) by evaluating 15 models on human validated emotional i",
-      "link": "https://arxiv.org/abs/2510.09905",
+      "title": "Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response",
+      "title_zh": "Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response",
+      "description": "arXiv:2510.12061v1 Announce Type: new \nAbstract: Effective disaster response is essential for safeguarding lives and property. Existing statistical approaches often lack semantic context, generalize poorly across events, and offer limited interpretability. While Large language models (LLMs) provide few-shot generalization, they remain text-bound and blind to geography. To bridge this gap, we introduce a Geospatial Awareness Layer (GAL) that grounds LLM agents in structured earth data. Starting f",
+      "link": "https://arxiv.org/abs/2510.12061",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-14"
+      "date": "2025-10-15"
     },
     {
-      "title": "RIPRAG: Hack a Black-box Retrieval-Augmented Generation Question-Answering System with Reinforcement Learning",
-      "title_zh": "RIPRAG: Hack a Black-box Retrieval-Augmented Generation Question-Answering System with Reinforcement Learning",
-      "description": "arXiv:2510.10008v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) systems based on Large Language Models (LLMs) have become a core technology for tasks such as question-answering (QA) and content generation. However, by injecting poisoned documents into the database of RAG systems, attackers can manipulate LLMs to generate text that aligns with their intended preferences. Existing research has primarily focused on white-box attacks against simplified RAG architectures. In thi",
-      "link": "https://arxiv.org/abs/2510.10008",
+      "title": "CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart Manufacturing",
+      "title_zh": "CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart Manufacturing",
+      "description": "arXiv:2510.12033v1 Announce Type: new \nAbstract: Modern manufacturing environments demand not only accurate predictions but also interpretable insights to process anomalies, root causes, and potential interventions. Existing AI systems often function as isolated black boxes, lacking the seamless integration of prediction, explanation, and causal reasoning required for a unified decision-support solution. This fragmentation limits their trustworthiness and practical utility in high-stakes industr",
+      "link": "https://arxiv.org/abs/2510.12033",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-14"
+      "date": "2025-10-15"
     },
     {
-      "title": "The Geometry of Reasoning: Flowing Logics in Representation Space",
-      "title_zh": "The Geometry of Reasoning: Flowing Logics in Representation Space",
-      "description": "arXiv:2510.09782v1 Announce Type: new \nAbstract: We study how large language models (LLMs) ``think'' through their representation space. We propose a novel geometric framework that models an LLM's reasoning as flows -- embedding trajectories evolving where logic goes. We disentangle logical structure from semantics by employing the same natural deduction propositions with varied semantic carriers, allowing us to test whether LLMs internalize logic beyond surface form. This perspective connects r",
-      "link": "https://arxiv.org/abs/2510.09782",
+      "title": "Beyond Consensus: Mitigating the Agreeableness Bias in LLM Judge Evaluations",
+      "title_zh": "Beyond Consensus: Mitigating the Agreeableness Bias in LLM Judge Evaluations",
+      "description": "arXiv:2510.11822v1 Announce Type: new \nAbstract: New Large Language Models (LLMs) become available every few weeks, and modern application developers confronted with the unenviable task of having to decide if they should switch to a new model. While human evaluation remains the gold standard, it is costly and unscalable. The state-of-the-art approach is to use LLMs as evaluators ( LLM-as-a-judge), but this suffers from a critical flaw: LLMs exhibit a strong positive bias. We provide empirical ev",
+      "link": "https://arxiv.org/abs/2510.11822",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-14"
+      "date": "2025-10-15"
     },
     {
-      "title": "Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs",
-      "title_zh": "Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs",
-      "description": "arXiv:2510.09970v1 Announce Type: new \nAbstract: Large Language Models (LLMs) suffer from critical reasoning gaps, including a tendency to hallucinate and poor accuracy in classifying logical fallacies. This limitation stems from their default System 1 processing, which is fast and intuitive, whereas reliable reasoning requires the deliberate, effortful System 2 approach (Kahneman, 2011; Li et al., 2025). Since full System 2 training is often prohibitively expensive, we explore a low-cost, instr",
-      "link": "https://arxiv.org/abs/2510.09970",
+      "title": "Asking Clarifying Questions for Preference Elicitation With Large Language Models",
+      "title_zh": "Asking Clarifying Questions for Preference Elicitation With Large Language Models",
+      "description": "arXiv:2510.12015v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made it possible for recommendation systems to interact with users in open-ended conversational interfaces. In order to personalize LLM responses, it is crucial to elicit user preferences, especially when there is limited user history. One way to get more information is to present clarifying questions to the user. However, generating effective sequential clarifying questions across various domains remains a challe",
+      "link": "https://arxiv.org/abs/2510.12015",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-14"
+      "date": "2025-10-15"
     },
     {
-      "title": "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics",
-      "title_zh": "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics",
-      "description": "arXiv:2510.09901v1 Announce Type: new \nAbstract: Computing has long served as a cornerstone of scientific discovery. Recently, a paradigm shift has emerged with the rise of large language models (LLMs), introducing autonomous systems, referred to as agents, that accelerate discovery across varying levels of autonomy. These language agents provide a flexible and versatile framework that orchestrates interactions with human scientists, natural language, computer language and code, and physics. Thi",
-      "link": "https://arxiv.org/abs/2510.09901",
+      "title": "Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation",
+      "title_zh": "Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation",
+      "description": "arXiv:2510.12047v1 Announce Type: new \nAbstract: Prevailing code generation benchmarks, such as HumanEval+ and MBPP+, primarily evaluate large language models (LLMs) with pass@k on functional correctness using well-formed inputs. However, they ignore a crucial aspect of real-world software: adherence to contracts-the preconditions and validity constraints that dictate how ill-formed inputs must be rejected. This critical oversight means that existing benchmarks fail to measure, and models conseq",
+      "link": "https://arxiv.org/abs/2510.12047",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-14"
+      "date": "2025-10-15"
+    },
+    {
+      "title": "CGBench: Benchmarking Language Model Scientific Reasoning for Clinical Genetics Research",
+      "title_zh": "CGBench: Benchmarking Language Model Scientific Reasoning for Clinical Genetics Research",
+      "description": "arXiv:2510.11985v1 Announce Type: new \nAbstract: Variant and gene interpretation are fundamental to personalized medicine and translational biomedicine. However, traditional approaches are manual and labor-intensive. Generative language models (LMs) can facilitate this process, accelerating the translation of fundamental research into clinically-actionable insights. While existing benchmarks have attempted to quantify the capabilities of LMs for interpreting scientific data, these studies focus ",
+      "link": "https://arxiv.org/abs/2510.11985",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-15"
     }
   ]
 }
