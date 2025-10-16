@@ -1,89 +1,169 @@
 {
   "articles": [
     {
-      "title": "AI Agents for the Dhumbal Card Game: A Comparative Study",
-      "link": "https://arxiv.org/abs/2510.11736",
-      "description": "arXiv:2510.11736v1 Announce Type: new \nAbstract: This study evaluates Artificial Intelligence (AI) agents for Dhumbal, a culturally significant multiplayer card game with imperfect information, through a systematic comparison of rule-based, search-based, and learning-based strategies. We formalize Dhumbal's mechanics and implement diverse agents, including heuristic approaches (Aggressive, Conservative, Balanced, Opportunistic), search-based methods such as Monte Carlo Tree Search (MCTS) and Inf",
-      "pubDate": "2025-10-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 23,
-      "title_zh": "AI Agents for the Dhumbal Card Game: A Comparative Study"
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:19:58.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 28,
+      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
-      "title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
-      "link": "https://arxiv.org/abs/2510.11977",
-      "description": "arXiv:2510.11977v1 Announce Type: new \nAbstract: AI agents have been developed for complex real-world tasks from coding to customer service. But AI agent evaluations suffer from many challenges that undermine our understanding of how well agents really work. We introduce the Holistic Agent Leaderboard (HAL) to address these challenges. We make three main contributions. First, we provide a standardized evaluation harness that orchestrates parallel evaluations across hundreds of VMs, reducing eval",
-      "pubDate": "2025-10-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
+      "title": "Best Practices for Building the AI Development Platform in Government",
+      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:20:17.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 24,
+      "title_zh": "Best Practices for Building the AI Development Platform in Government"
     },
     {
-      "title": "Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response",
-      "link": "https://arxiv.org/abs/2510.12061",
-      "description": "arXiv:2510.12061v1 Announce Type: new \nAbstract: Effective disaster response is essential for safeguarding lives and property. Existing statistical approaches often lack semantic context, generalize poorly across events, and offer limited interpretability. While Large language models (LLMs) provide few-shot generalization, they remain text-bound and blind to geography. To bridge this gap, we introduce a Geospatial Awareness Layer (GAL) that grounds LLM agents in structured earth data. Starting f",
-      "pubDate": "2025-10-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response"
+      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
+      "pubDate": "2021-10-21T20:34:39.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 24,
+      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart Manufacturing",
-      "link": "https://arxiv.org/abs/2510.12033",
-      "description": "arXiv:2510.12033v1 Announce Type: new \nAbstract: Modern manufacturing environments demand not only accurate predictions but also interpretable insights to process anomalies, root causes, and potential interventions. Existing AI systems often function as isolated black boxes, lacking the seamless integration of prediction, explanation, and causal reasoning required for a unified decision-support solution. This fragmentation limits their trustworthiness and practical utility in high-stakes industr",
-      "pubDate": "2025-10-15T04:00:00.000Z",
+      "title": "SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents",
+      "link": "https://arxiv.org/abs/2510.12985",
+      "description": "arXiv:2510.12985v1 Announce Type: new \nAbstract: We present Sentinel, the first framework for formally evaluating the physical safety of Large Language Model(LLM-based) embodied agents across the semantic, plan, and trajectory levels. Unlike prior methods that rely on heuristic rules or subjective LLM judgments, Sentinel grounds practical safety requirements in formal temporal logic (TL) semantics that can precisely specify state invariants, temporal dependencies, and timing constraints. It then",
+      "pubDate": "2025-10-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 21,
+      "title_zh": "SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents"
+    },
+    {
+      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
+      "pubDate": "2021-10-21T21:02:24.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 20,
+      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
+      "pubDate": "2021-10-28T21:49:47.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 17,
+      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:18:48.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16,
+      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias"
+    },
+    {
+      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
+      "pubDate": "2021-10-28T22:10:19.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16,
+      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case"
+    },
+    {
+      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
+      "pubDate": "2021-10-21T20:52:34.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16,
+      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation",
+      "link": "https://arxiv.org/abs/2510.13195",
+      "description": "arXiv:2510.13195v1 Announce Type: new \nAbstract: The advent of large language models (LLMs) has enabled agents to represent virtual humans in societal simulations, facilitating diverse interactions within complex social systems. However, existing LLM-based agents exhibit severe limitations in affective cognition: They fail to simulate the bounded rationality essential for bridging virtual and real-world services; They lack empirically validated integration mechanisms embedding emotions within ag",
+      "pubDate": "2025-10-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation"
+    },
+    {
+      "title": "Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning",
+      "link": "https://arxiv.org/abs/2510.13214",
+      "description": "arXiv:2510.13214v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) demonstrate that chain-of-thought prompting and deep reasoning substantially enhance performance on complex tasks, and multi-agent systems can further improve accuracy by enabling model debates. However, applying deep reasoning to all problems is computationally expensive. To mitigate these costs, we propose a complementary agent system integrating small and large LLMs. The small LLM first generates ",
+      "pubDate": "2025-10-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning"
+    },
+    {
+      "title": "From Narratives to Probabilistic Reasoning: Predicting and Interpreting Drivers' Hazardous Actions in Crashes Using Large Language Model",
+      "link": "https://arxiv.org/abs/2510.13002",
+      "description": "arXiv:2510.13002v1 Announce Type: new \nAbstract: Vehicle crashes involve complex interactions between road users, split-second decisions, and challenging environmental conditions. Among these, two-vehicle crashes are the most prevalent, accounting for approximately 70% of roadway crashes and posing a significant challenge to traffic safety. Identifying Driver Hazardous Action (DHA) is essential for understanding crash causation, yet the reliability of DHA data in large-scale databases is limited",
+      "pubDate": "2025-10-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 10,
+      "title_zh": "From Narratives to Probabilistic Reasoning: Predicting and Interpreting Drivers' Hazardous Actions in Crashes Using Large Language Model"
+    },
+    {
+      "title": "From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models",
+      "link": "https://arxiv.org/abs/2510.12864",
+      "description": "arXiv:2510.12864v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly being deployed as the reasoning engines for agentic AI systems, yet they exhibit a critical flaw: a rigid adherence to explicit rules that leads to decisions misaligned with human common sense and intent. This \"rule-rigidity\" is a significant barrier to building trustworthy autonomous agents. While prior work has shown that supervised fine-tuning (SFT) with human explanations can mitigate this issue, S",
+      "pubDate": "2025-10-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart Manufacturing"
+      "title_zh": "From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models"
     },
     {
-      "title": "Beyond Consensus: Mitigating the Agreeableness Bias in LLM Judge Evaluations",
-      "link": "https://arxiv.org/abs/2510.11822",
-      "description": "arXiv:2510.11822v1 Announce Type: new \nAbstract: New Large Language Models (LLMs) become available every few weeks, and modern application developers confronted with the unenviable task of having to decide if they should switch to a new model. While human evaluation remains the gold standard, it is costly and unscalable. The state-of-the-art approach is to use LLMs as evaluators ( LLM-as-a-judge), but this suffers from a critical flaw: LLMs exhibit a strong positive bias. We provide empirical ev",
-      "pubDate": "2025-10-15T04:00:00.000Z",
+      "title": "EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems",
+      "link": "https://arxiv.org/abs/2510.13220",
+      "description": "arXiv:2510.13220v1 Announce Type: new \nAbstract: A fundamental limitation of current AI agents is their inability to learn complex skills on the fly at test time, often behaving like \"clever but clueless interns\" in novel environments. This severely limits their practical utility. To systematically measure and drive progress on this challenge, we first introduce the Jericho Test-Time Learning (J-TTL) benchmark. J-TTL is a new evaluation setup where an agent must play the same game for several co",
+      "pubDate": "2025-10-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Beyond Consensus: Mitigating the Agreeableness Bias in LLM Judge Evaluations"
+      "title_zh": "EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems"
     },
     {
-      "title": "Asking Clarifying Questions for Preference Elicitation With Large Language Models",
-      "link": "https://arxiv.org/abs/2510.12015",
-      "description": "arXiv:2510.12015v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made it possible for recommendation systems to interact with users in open-ended conversational interfaces. In order to personalize LLM responses, it is crucial to elicit user preferences, especially when there is limited user history. One way to get more information is to present clarifying questions to the user. However, generating effective sequential clarifying questions across various domains remains a challe",
-      "pubDate": "2025-10-15T04:00:00.000Z",
+      "title": "Toward Reasoning-Centric Time-Series Analysis",
+      "link": "https://arxiv.org/abs/2510.13029",
+      "description": "arXiv:2510.13029v1 Announce Type: new \nAbstract: Traditional time series analysis has long relied on pattern recognition, trained on static and well-established benchmarks. However, in real-world settings -- where policies shift, human behavior adapts, and unexpected events unfold -- effective analysis must go beyond surface-level trends to uncover the actual forces driving them. The recent rise of Large Language Models (LLMs) presents new opportunities for rethinking time series analysis by int",
+      "pubDate": "2025-10-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Asking Clarifying Questions for Preference Elicitation With Large Language Models"
+      "aiScore": 3,
+      "title_zh": "Toward Reasoning-Centric Time-Series Analysis"
     },
     {
-      "title": "Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation",
-      "link": "https://arxiv.org/abs/2510.12047",
-      "description": "arXiv:2510.12047v1 Announce Type: new \nAbstract: Prevailing code generation benchmarks, such as HumanEval+ and MBPP+, primarily evaluate large language models (LLMs) with pass@k on functional correctness using well-formed inputs. However, they ignore a crucial aspect of real-world software: adherence to contracts-the preconditions and validity constraints that dictate how ill-formed inputs must be rejected. This critical oversight means that existing benchmarks fail to measure, and models conseq",
-      "pubDate": "2025-10-15T04:00:00.000Z",
+      "title": "Personalized Learning Path Planning with Goal-Driven Learner State Modeling",
+      "link": "https://arxiv.org/abs/2510.13215",
+      "description": "arXiv:2510.13215v1 Announce Type: new \nAbstract: Personalized Learning Path Planning (PLPP) aims to design adaptive learning paths that align with individual goals. While large language models (LLMs) show potential in personalizing learning experiences, existing approaches often lack mechanisms for goal-aligned planning. We introduce Pxplore, a novel framework for PLPP that integrates a reinforcement-based training paradigm and an LLM-driven educational architecture. We design a structured learn",
+      "pubDate": "2025-10-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation"
-    },
-    {
-      "title": "CGBench: Benchmarking Language Model Scientific Reasoning for Clinical Genetics Research",
-      "link": "https://arxiv.org/abs/2510.11985",
-      "description": "arXiv:2510.11985v1 Announce Type: new \nAbstract: Variant and gene interpretation are fundamental to personalized medicine and translational biomedicine. However, traditional approaches are manual and labor-intensive. Generative language models (LMs) can facilitate this process, accelerating the translation of fundamental research into clinically-actionable insights. While existing benchmarks have attempted to quantify the capabilities of LMs for interpreting scientific data, these studies focus ",
-      "pubDate": "2025-10-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "CGBench: Benchmarking Language Model Scientific Reasoning for Clinical Genetics Research"
+      "aiScore": 3,
+      "title_zh": "Personalized Learning Path Planning with Goal-Driven Learner State Modeling"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2025-10-16T03:30:21.042Z",
+    "totalCount": 16,
+    "generatedAt": "2025-10-16T04:11:48.904Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -141,8 +221,8 @@
   },
   "summary": {
     "researchArticles": 8,
-    "industryArticles": 0,
+    "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 9.625
+    "averageScore": 14.75
   }
 }
