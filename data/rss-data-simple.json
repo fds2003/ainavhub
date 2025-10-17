@@ -28,13 +28,22 @@
       "date": "2021-10-21"
     },
     {
-      "title": "SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents",
-      "title_zh": "SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of LLM-based Embodied Agents",
-      "description": "arXiv:2510.12985v1 Announce Type: new \nAbstract: We present Sentinel, the first framework for formally evaluating the physical safety of Large Language Model(LLM-based) embodied agents across the semantic, plan, and trajectory levels. Unlike prior methods that rely on heuristic rules or subjective LLM judgments, Sentinel grounds practical safety requirements in formal temporal logic (TL) semantics that can precisely specify state invariants, temporal dependencies, and timing constraints. It then",
-      "link": "https://arxiv.org/abs/2510.12985",
+      "title": "Position: Require Frontier AI Labs To Release Small \"Analog\" Models",
+      "title_zh": "Position: Require Frontier AI Labs To Release Small \"Analog\" Models",
+      "description": "arXiv:2510.14053v1 Announce Type: new \nAbstract: Recent proposals for regulating frontier AI models have sparked concerns about the cost of safety regulation, and most such regulations have been shelved due to the safety-innovation tradeoff. This paper argues for an alternative regulatory approach that ensures AI safety while actively promoting innovation: mandating that large AI laboratories release small, openly accessible analog models (scaled-down versions) trained similarly to and distilled",
+      "link": "https://arxiv.org/abs/2510.14053",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-16"
+      "date": "2025-10-17"
+    },
+    {
+      "title": "Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems",
+      "title_zh": "Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems",
+      "description": "arXiv:2510.14133v1 Announce Type: new \nAbstract: Agentic AI systems, which leverage multiple autonomous agents and Large Language Models (LLMs), are increasingly used to address complex, multi-step tasks. The safety, security, and functionality of these systems are critical, especially in high-stakes applications. However, the current ecosystem of inter-agent communication is fragmented, with protocols such as the Model Context Protocol (MCP) for tool access and the Agent-to-Agent (A2A) protocol",
+      "link": "https://arxiv.org/abs/2510.14133",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-17"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -82,67 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation",
-      "title_zh": "Emotional Cognitive Modeling Framework with Desire-Driven Objective Optimization for LLM-empowered Agent in Social Simulation",
-      "description": "arXiv:2510.13195v1 Announce Type: new \nAbstract: The advent of large language models (LLMs) has enabled agents to represent virtual humans in societal simulations, facilitating diverse interactions within complex social systems. However, existing LLM-based agents exhibit severe limitations in affective cognition: They fail to simulate the bounded rationality essential for bridging virtual and real-world services; They lack empirically validated integration mechanisms embedding emotions within ag",
-      "link": "https://arxiv.org/abs/2510.13195",
+      "title": "JEDA: Query-Free Clinical Order Search from Ambient Dialogues",
+      "title_zh": "JEDA: Query-Free Clinical Order Search from Ambient Dialogues",
+      "description": "arXiv:2510.14169v1 Announce Type: new \nAbstract: Clinical conversations mix explicit directives (order a chest X-ray) with implicit reasoning (the cough worsened overnight, we should check for pneumonia). Many systems rely on LLM rewriting, adding latency, instability, and opacity that hinder real-time ordering. We present JEDA (Joint Embedding for Direct and Ambient clinical orders), a domain-initialized bi-encoder that retrieves canonical orders directly and, in a query-free mode, encodes a sh",
+      "link": "https://arxiv.org/abs/2510.14169",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-16"
+      "date": "2025-10-17"
     },
     {
-      "title": "Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning",
-      "title_zh": "Adaptive Reasoning Executor: A Collaborative Agent System for Efficient Reasoning",
-      "description": "arXiv:2510.13214v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) demonstrate that chain-of-thought prompting and deep reasoning substantially enhance performance on complex tasks, and multi-agent systems can further improve accuracy by enabling model debates. However, applying deep reasoning to all problems is computationally expensive. To mitigate these costs, we propose a complementary agent system integrating small and large LLMs. The small LLM first generates ",
-      "link": "https://arxiv.org/abs/2510.13214",
+      "title": "Combining Reinforcement Learning and Behavior Trees for NPCs in Video Games with AMD Schola",
+      "title_zh": "Combining Reinforcement Learning and Behavior Trees for NPCs in Video Games with AMD Schola",
+      "description": "arXiv:2510.14154v1 Announce Type: new \nAbstract: While the rapid advancements in the reinforcement learning (RL) research community have been remarkable, the adoption in commercial video games remains slow. In this paper, we outline common challenges the Game AI community faces when using RL-driven NPCs in practice, and highlight the intersection of RL with traditional behavior trees (BTs) as a crucial juncture to be explored further. Although the BT+RL intersection has been suggested in several",
+      "link": "https://arxiv.org/abs/2510.14154",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-16"
+      "date": "2025-10-17"
     },
     {
-      "title": "From Narratives to Probabilistic Reasoning: Predicting and Interpreting Drivers' Hazardous Actions in Crashes Using Large Language Model",
-      "title_zh": "From Narratives to Probabilistic Reasoning: Predicting and Interpreting Drivers' Hazardous Actions in Crashes Using Large Language Model",
-      "description": "arXiv:2510.13002v1 Announce Type: new \nAbstract: Vehicle crashes involve complex interactions between road users, split-second decisions, and challenging environmental conditions. Among these, two-vehicle crashes are the most prevalent, accounting for approximately 70% of roadway crashes and posing a significant challenge to traffic safety. Identifying Driver Hazardous Action (DHA) is essential for understanding crash causation, yet the reliability of DHA data in large-scale databases is limited",
-      "link": "https://arxiv.org/abs/2510.13002",
+      "title": "CodeEvolve: An open source evolutionary coding agent for algorithm discovery and optimization",
+      "title_zh": "CodeEvolve: An open source evolutionary coding agent for algorithm discovery and optimization",
+      "description": "arXiv:2510.14150v1 Announce Type: new \nAbstract: In this work, we introduce CodeEvolve, an open-source evolutionary coding agent that unites Large Language Models (LLMs) with genetic algorithms to solve complex computational problems. Our framework adapts powerful evolutionary concepts to the LLM domain, building upon recent methods for generalized scientific discovery. CodeEvolve employs an island-based genetic algorithm to maintain population diversity and increase throughput, introduces a nov",
+      "link": "https://arxiv.org/abs/2510.14150",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-16"
+      "date": "2025-10-17"
     },
     {
-      "title": "From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models",
-      "title_zh": "From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models",
-      "description": "arXiv:2510.12864v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly being deployed as the reasoning engines for agentic AI systems, yet they exhibit a critical flaw: a rigid adherence to explicit rules that leads to decisions misaligned with human common sense and intent. This \"rule-rigidity\" is a significant barrier to building trustworthy autonomous agents. While prior work has shown that supervised fine-tuning (SFT) with human explanations can mitigate this issue, S",
-      "link": "https://arxiv.org/abs/2510.12864",
+      "title": "STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management",
+      "title_zh": "STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management",
+      "description": "arXiv:2510.14112v1 Announce Type: new \nAbstract: Building energy management is essential for achieving carbon reduction goals, improving occupant comfort, and reducing energy costs. Coordinated building energy management faces critical challenges in exploiting spatial-temporal dependencies while ensuring operational safety across multi-building systems. Current multi-building energy systems face three key challenges: insufficient spatial-temporal information exploitation, lack of rigorous safety",
+      "link": "https://arxiv.org/abs/2510.14112",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-16"
+      "date": "2025-10-17"
     },
     {
-      "title": "EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems",
-      "title_zh": "EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems",
-      "description": "arXiv:2510.13220v1 Announce Type: new \nAbstract: A fundamental limitation of current AI agents is their inability to learn complex skills on the fly at test time, often behaving like \"clever but clueless interns\" in novel environments. This severely limits their practical utility. To systematically measure and drive progress on this challenge, we first introduce the Jericho Test-Time Learning (J-TTL) benchmark. J-TTL is a new evaluation setup where an agent must play the same game for several co",
-      "link": "https://arxiv.org/abs/2510.13220",
+      "title": "A Multimodal Approach to Heritage Preservation in the Context of Climate Change",
+      "title_zh": "A Multimodal Approach to Heritage Preservation in the Context of Climate Change",
+      "description": "arXiv:2510.14136v1 Announce Type: new \nAbstract: Cultural heritage sites face accelerating degradation due to climate change, yet tradi- tional monitoring relies on unimodal analysis (visual inspection or environmental sen- sors alone) that fails to capture the complex interplay between environmental stres- sors and material deterioration. We propose a lightweight multimodal architecture that fuses sensor data (temperature, humidity) with visual imagery to predict degradation severity at heritag",
+      "link": "https://arxiv.org/abs/2510.14136",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-16"
+      "date": "2025-10-17"
     },
     {
-      "title": "Toward Reasoning-Centric Time-Series Analysis",
-      "title_zh": "Toward Reasoning-Centric Time-Series Analysis",
-      "description": "arXiv:2510.13029v1 Announce Type: new \nAbstract: Traditional time series analysis has long relied on pattern recognition, trained on static and well-established benchmarks. However, in real-world settings -- where policies shift, human behavior adapts, and unexpected events unfold -- effective analysis must go beyond surface-level trends to uncover the actual forces driving them. The recent rise of Large Language Models (LLMs) presents new opportunities for rethinking time series analysis by int",
-      "link": "https://arxiv.org/abs/2510.13029",
+      "title": "GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations",
+      "title_zh": "GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations",
+      "description": "arXiv:2510.14035v1 Announce Type: new \nAbstract: We introduce an action-centric graph representation framework for learning to guide planning in Partially Observable Markov Decision Processes (POMDPs). Unlike existing approaches that require domain-specific neural architectures and struggle with scalability, GammaZero leverages a unified graph-based belief representation that enables generalization across problem sizes within a domain. Our key insight is that belief states can be systematically ",
+      "link": "https://arxiv.org/abs/2510.14035",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-16"
-    },
-    {
-      "title": "Personalized Learning Path Planning with Goal-Driven Learner State Modeling",
-      "title_zh": "Personalized Learning Path Planning with Goal-Driven Learner State Modeling",
-      "description": "arXiv:2510.13215v1 Announce Type: new \nAbstract: Personalized Learning Path Planning (PLPP) aims to design adaptive learning paths that align with individual goals. While large language models (LLMs) show potential in personalizing learning experiences, existing approaches often lack mechanisms for goal-aligned planning. We introduce Pxplore, a novel framework for PLPP that integrates a reinforcement-based training paradigm and an LLM-driven educational architecture. We design a structured learn",
-      "link": "https://arxiv.org/abs/2510.13215",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-16"
+      "date": "2025-10-17"
     }
   ]
 }
