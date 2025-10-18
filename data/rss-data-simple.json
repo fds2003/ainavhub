@@ -28,24 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Position: Require Frontier AI Labs To Release Small \"Analog\" Models",
-      "title_zh": "Position: Require Frontier AI Labs To Release Small \"Analog\" Models",
-      "description": "arXiv:2510.14053v1 Announce Type: new \nAbstract: Recent proposals for regulating frontier AI models have sparked concerns about the cost of safety regulation, and most such regulations have been shelved due to the safety-innovation tradeoff. This paper argues for an alternative regulatory approach that ensures AI safety while actively promoting innovation: mandating that large AI laboratories release small, openly accessible analog models (scaled-down versions) trained similarly to and distilled",
-      "link": "https://arxiv.org/abs/2510.14053",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
-    },
-    {
-      "title": "Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems",
-      "title_zh": "Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems",
-      "description": "arXiv:2510.14133v1 Announce Type: new \nAbstract: Agentic AI systems, which leverage multiple autonomous agents and Large Language Models (LLMs), are increasingly used to address complex, multi-step tasks. The safety, security, and functionality of these systems are critical, especially in high-stakes applications. However, the current ecosystem of inter-agent communication is fragmented, with protocols such as the Model Context Protocol (MCP) for tool access and the Agent-to-Agent (A2A) protocol",
-      "link": "https://arxiv.org/abs/2510.14133",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -89,60 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "JEDA: Query-Free Clinical Order Search from Ambient Dialogues",
-      "title_zh": "JEDA: Query-Free Clinical Order Search from Ambient Dialogues",
-      "description": "arXiv:2510.14169v1 Announce Type: new \nAbstract: Clinical conversations mix explicit directives (order a chest X-ray) with implicit reasoning (the cough worsened overnight, we should check for pneumonia). Many systems rely on LLM rewriting, adding latency, instability, and opacity that hinder real-time ordering. We present JEDA (Joint Embedding for Direct and Ambient clinical orders), a domain-initialized bi-encoder that retrieves canonical orders directly and, in a query-free mode, encodes a sh",
-      "link": "https://arxiv.org/abs/2510.14169",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
-    },
-    {
-      "title": "Combining Reinforcement Learning and Behavior Trees for NPCs in Video Games with AMD Schola",
-      "title_zh": "Combining Reinforcement Learning and Behavior Trees for NPCs in Video Games with AMD Schola",
-      "description": "arXiv:2510.14154v1 Announce Type: new \nAbstract: While the rapid advancements in the reinforcement learning (RL) research community have been remarkable, the adoption in commercial video games remains slow. In this paper, we outline common challenges the Game AI community faces when using RL-driven NPCs in practice, and highlight the intersection of RL with traditional behavior trees (BTs) as a crucial juncture to be explored further. Although the BT+RL intersection has been suggested in several",
-      "link": "https://arxiv.org/abs/2510.14154",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
-    },
-    {
-      "title": "CodeEvolve: An open source evolutionary coding agent for algorithm discovery and optimization",
-      "title_zh": "CodeEvolve: An open source evolutionary coding agent for algorithm discovery and optimization",
-      "description": "arXiv:2510.14150v1 Announce Type: new \nAbstract: In this work, we introduce CodeEvolve, an open-source evolutionary coding agent that unites Large Language Models (LLMs) with genetic algorithms to solve complex computational problems. Our framework adapts powerful evolutionary concepts to the LLM domain, building upon recent methods for generalized scientific discovery. CodeEvolve employs an island-based genetic algorithm to maintain population diversity and increase throughput, introduces a nov",
-      "link": "https://arxiv.org/abs/2510.14150",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
-    },
-    {
-      "title": "STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management",
-      "title_zh": "STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management",
-      "description": "arXiv:2510.14112v1 Announce Type: new \nAbstract: Building energy management is essential for achieving carbon reduction goals, improving occupant comfort, and reducing energy costs. Coordinated building energy management faces critical challenges in exploiting spatial-temporal dependencies while ensuring operational safety across multi-building systems. Current multi-building energy systems face three key challenges: insufficient spatial-temporal information exploitation, lack of rigorous safety",
-      "link": "https://arxiv.org/abs/2510.14112",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
-    },
-    {
-      "title": "A Multimodal Approach to Heritage Preservation in the Context of Climate Change",
-      "title_zh": "A Multimodal Approach to Heritage Preservation in the Context of Climate Change",
-      "description": "arXiv:2510.14136v1 Announce Type: new \nAbstract: Cultural heritage sites face accelerating degradation due to climate change, yet tradi- tional monitoring relies on unimodal analysis (visual inspection or environmental sen- sors alone) that fails to capture the complex interplay between environmental stres- sors and material deterioration. We propose a lightweight multimodal architecture that fuses sensor data (temperature, humidity) with visual imagery to predict degradation severity at heritag",
-      "link": "https://arxiv.org/abs/2510.14136",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
-    },
-    {
-      "title": "GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations",
-      "title_zh": "GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations",
-      "description": "arXiv:2510.14035v1 Announce Type: new \nAbstract: We introduce an action-centric graph representation framework for learning to guide planning in Partially Observable Markov Decision Processes (POMDPs). Unlike existing approaches that require domain-specific neural architectures and struggle with scalability, GammaZero leverages a unified graph-based belief representation that enables generalization across problem sizes within a domain. Our key insight is that belief states can be systematically ",
-      "link": "https://arxiv.org/abs/2510.14035",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-17"
     }
   ]
 }
