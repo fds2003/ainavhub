@@ -11,16 +11,6 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
-      "title": "Reliability of Large Language Model Generated Clinical Reasoning in Assisted Reproductive Technology: Blinded Comparative Evaluation Study",
-      "link": "https://arxiv.org/abs/2510.16095",
-      "description": "arXiv:2510.16095v1 Announce Type: new \nAbstract: Creating high-quality clinical Chains-of-Thought (CoTs) is crucial for explainable medical Artificial Intelligence (AI) while constrained by data scarcity. Although Large Language Models (LLMs) can synthesize medical data, their clinical reliability remains unverified. This study evaluates the reliability of LLM-generated CoTs and investigates prompting strategies to enhance their quality. In a blinded comparative study, senior clinicians in Assis",
-      "pubDate": "2025-10-21T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 27,
-      "title_zh": "Reliability of Large Language Model Generated Clinical Reasoning in Assisted Reproductive Technology: Blinded Comparative Evaluation Study"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -91,79 +81,89 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Executable Epistemology: The Structured Cognitive Loop as an Architecture of Intentional Understanding",
-      "link": "https://arxiv.org/abs/2510.15952",
-      "description": "arXiv:2510.15952v1 Announce Type: new \nAbstract: Large language models exhibit intelligence without genuine epistemic understanding, exposing a key gap: the absence of epistemic architecture. This paper introduces the Structured Cognitive Loop (SCL) as an executable epistemological framework for emergent intelligence. Unlike traditional AI research asking \"what is intelligence?\" (ontological), SCL asks \"under what conditions does cognition emerge?\" (epistemological). Grounded in philosophy of mi",
-      "pubDate": "2025-10-21T04:00:00.000Z",
+      "title": "CompactPrompt: A Unified Pipeline for Prompt Data Compression in LLM Workflows",
+      "link": "https://arxiv.org/abs/2510.18043",
+      "description": "arXiv:2510.18043v1 Announce Type: new \nAbstract: Large Language Models (LLMs) deliver powerful reasoning and generation capabilities but incur substantial run-time costs when operating in agentic workflows that chain together lengthy prompts and process rich data streams. We introduce CompactPrompt, an end-to-end pipeline that merges hard prompt compression with lightweight file-level data compression. CompactPrompt first prunes low-information tokens from prompts using self-information scoring ",
+      "pubDate": "2025-10-22T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 13,
+      "title_zh": "CompactPrompt: A Unified Pipeline for Prompt Data Compression in LLM Workflows"
+    },
+    {
+      "title": "OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning",
+      "link": "https://arxiv.org/abs/2510.18032",
+      "description": "arXiv:2510.18032v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have shown remarkable reasoning capabilities in mathematical and scientific tasks. To enhance complex reasoning, multi-agent systems have been proposed to harness the collective intelligence of LLM agents. However, existing collaboration structures are either predefined or rely on majority voting or round-table debates, which can suppress correct but less dominant agent contributions. Recent approaches model multi-agen",
+      "pubDate": "2025-10-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "Executable Epistemology: The Structured Cognitive Loop as an Architecture of Intentional Understanding"
+      "title_zh": "OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning"
     },
     {
-      "title": "PISA: A Pragmatic Psych-Inspired Unified Memory System for Enhanced AI Agency",
-      "link": "https://arxiv.org/abs/2510.15966",
-      "description": "arXiv:2510.15966v1 Announce Type: new \nAbstract: Memory systems are fundamental to AI agents, yet existing work often lacks adaptability to diverse tasks and overlooks the constructive and task-oriented role of AI agent memory. Drawing from Piaget's theory of cognitive development, we propose PISA, a pragmatic, psych-inspired unified memory system that addresses these limitations by treating memory as a constructive and adaptive process. To enable continuous learning and adaptability, PISA intro",
-      "pubDate": "2025-10-21T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "PISA: A Pragmatic Psych-Inspired Unified Memory System for Enhanced AI Agency"
-    },
-    {
-      "title": "The Right to Be Remembered: Preserving Maximally Truthful Digital Memory in the Age of AI",
-      "link": "https://arxiv.org/abs/2510.16206",
-      "description": "arXiv:2510.16206v1 Announce Type: new \nAbstract: Since the rapid expansion of large language models (LLMs), people have begun to rely on them for information retrieval. While traditional search engines display ranked lists of sources shaped by search engine optimization (SEO), advertising, and personalization, LLMs typically provide a synthesized response that feels singular and authoritative. While both approaches carry risks of bias and omission, LLMs may amplify the effect by collapsing multi",
-      "pubDate": "2025-10-21T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "The Right to Be Remembered: Preserving Maximally Truthful Digital Memory in the Age of AI"
-    },
-    {
-      "title": "Towards Automatic Evaluation and Selection of PHI De-identification Models via Multi-Agent Collaboration",
-      "link": "https://arxiv.org/abs/2510.16194",
-      "description": "arXiv:2510.16194v1 Announce Type: new \nAbstract: Protected health information (PHI) de-identification is critical for enabling the safe reuse of clinical notes, yet evaluating and comparing PHI de-identification models typically depends on costly, small-scale expert annotations. We present TEAM-PHI, a multi-agent evaluation and selection framework that uses large language models (LLMs) to automatically measure de-identification quality and select the best-performing model without heavy reliance ",
-      "pubDate": "2025-10-21T04:00:00.000Z",
+      "title": "Activation Manifold Projection: Liberating Task-Specific Behaviors from LLM Architectures",
+      "link": "https://arxiv.org/abs/2510.17902",
+      "description": "arXiv:2510.17902v1 Announce Type: new \nAbstract: The proliferation of Large Language Model (LLM) architectures presents a fundamental challenge: valuable, task-specific behaviors learned through fine-tuning methods like Low-Rank Adaptation (LoRA) are effectively trapped within their source model's architecture, herein referred to architectural lock-in. Existing transfer methods attempt to bridge this gap by aligning the static weight spaces of models, a brittle and indirect approach that relies ",
+      "pubDate": "2025-10-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 9,
-      "title_zh": "Towards Automatic Evaluation and Selection of PHI De-identification Models via Multi-Agent Collaboration"
+      "title_zh": "Activation Manifold Projection: Liberating Task-Specific Behaviors from LLM Architectures"
     },
     {
-      "title": "Operationalising Extended Cognition: Formal Metrics for Corporate Knowledge and Legal Accountability",
-      "link": "https://arxiv.org/abs/2510.16193",
-      "description": "arXiv:2510.16193v1 Announce Type: new \nAbstract: Corporate responsibility turns on notions of corporate \\textit{mens rea}, traditionally imputed from human agents. Yet these assumptions are under challenge as generative AI increasingly mediates enterprise decision-making. Building on the theory of extended cognition, we argue that in response corporate knowledge may be redefined as a dynamic capability, measurable by the efficiency of its information-access procedures and the validated reliabili",
-      "pubDate": "2025-10-21T04:00:00.000Z",
+      "title": "Beyond More Context: Retrieval Diversity Boosts Multi-Turn Intent Understanding",
+      "link": "https://arxiv.org/abs/2510.17940",
+      "description": "arXiv:2510.17940v1 Announce Type: new \nAbstract: Multi turn intent understanding is central to task oriented chatbots, yet real deployments face tight token budgets and noisy contexts, and most retrieval pipelines emphasize relevance while overlooking set level diversity and confounds such as more context or exemplar order. We ask whether retrieval diversity, rather than longer prompts, systematically improves LLM intent understanding under fixed budgets. We present a diversity aware retrieval f",
+      "pubDate": "2025-10-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Operationalising Extended Cognition: Formal Metrics for Corporate Knowledge and Legal Accountability"
+      "aiScore": 9,
+      "title_zh": "Beyond More Context: Retrieval Diversity Boosts Multi-Turn Intent Understanding"
     },
     {
-      "title": "Limits of Emergent Reasoning of Large Language Models in Agentic Frameworks for Deterministic Games",
-      "link": "https://arxiv.org/abs/2510.15974",
-      "description": "arXiv:2510.15974v1 Announce Type: new \nAbstract: Recent work reports that Large Reasoning Models (LRMs) undergo a collapse in performance on solving puzzles beyond certain perplexity thresholds. In subsequent discourse, questions have arisen as to whether the nature of the task muddles an evaluation of true reasoning. One potential confound is the requirement that the model keep track of the state space on its own. We provide a large language model (LLM) with an environment interface for Tower o",
-      "pubDate": "2025-10-21T04:00:00.000Z",
+      "title": "SMaRT: Select, Mix, and ReinvenT - A Strategy Fusion Framework for LLM-Driven Reasoning and Planning",
+      "link": "https://arxiv.org/abs/2510.18095",
+      "description": "arXiv:2510.18095v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have redefined complex task automation with exceptional generalization capabilities. Despite these advancements, state-of-the-art methods rely on single-strategy prompting, missing the synergy of diverse reasoning approaches. No single strategy excels universally, highlighting the need for frameworks that fuse strategies to maximize performance and ensure robustness. We introduce the Select, Mix, and ReinvenT (SMaRT) f",
+      "pubDate": "2025-10-22T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8.5,
+      "title_zh": "SMaRT: Select, Mix, and ReinvenT - A Strategy Fusion Framework for LLM-Driven Reasoning and Planning"
+    },
+    {
+      "title": "Measuring Reasoning in LLMs: a New Dialectical Angle",
+      "link": "https://arxiv.org/abs/2510.18134",
+      "description": "arXiv:2510.18134v1 Announce Type: new \nAbstract: What does it truly mean for a language model to \"reason\"? Most current evaluations and benchmarks reward models' correct standalone answers--but correctness alone reveals little about the process that produced them. In this work, we explore a different perspective: reasoning is not a static chain of steps, but a dynamic trajectory where ideas interact, clash, and evolve into deeper insights. To capture this dynamic, we draw on a well-established p",
+      "pubDate": "2025-10-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Limits of Emergent Reasoning of Large Language Models in Agentic Frameworks for Deterministic Games"
+      "title_zh": "Measuring Reasoning in LLMs: a New Dialectical Angle"
     },
     {
-      "title": "PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction",
-      "link": "https://arxiv.org/abs/2510.16004",
-      "description": "arXiv:2510.16004v1 Announce Type: new \nAbstract: Neural surrogates have shown great potential in simulating dynamical systems, while offering real-time capabilities. We envision Neural Twins as a progression of neural surrogates, aiming to create digital replicas of real systems. A neural twin consumes measurements at test time to update its state, thereby enabling context-specific decision-making. A critical property of neural twins is their ability to remain on-trajectory, i.e., to stay close ",
-      "pubDate": "2025-10-21T04:00:00.000Z",
+      "title": "FABRIC: Framework for Agent-Based Realistic Intelligence Creation",
+      "link": "https://arxiv.org/abs/2510.17995",
+      "description": "arXiv:2510.17995v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as agents, expected to decompose goals, invoke tools, and verify results in dynamic environments. Realizing these capabilities requires access to agentic data- structured interaction records that couple user intents with tool specifications, argument-grounded calls, and verifiable execution traces. However, collecting such data from human annotators is costly, time-consuming, and difficult to ",
+      "pubDate": "2025-10-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "PAINT: Parallel-in-time Neural Twins for Dynamical System Reconstruction"
+      "title_zh": "FABRIC: Framework for Agent-Based Realistic Intelligence Creation"
+    },
+    {
+      "title": "Learning from Generalization Patterns: An Evaluation-Driven Approach to Enhanced Data Augmentation for Fine-Tuning Small Language Models",
+      "link": "https://arxiv.org/abs/2510.18143",
+      "description": "arXiv:2510.18143v1 Announce Type: new \nAbstract: Small Language Models (SLMs) offer compelling advantages in deployment cost and latency, but their accuracy often lags behind larger models, particularly for complex domain-specific tasks. While supervised fine-tuning can help bridge this performance gap, it requires substantial manual effort in data preparation and iterative optimization. We present PaDA-Agent (Pattern-guided Data Augmentation Agent), an evaluation-driven approach that streamline",
+      "pubDate": "2025-10-22T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Learning from Generalization Patterns: An Evaluation-Driven Approach to Enhanced Data Augmentation for Fine-Tuning Small Language Models"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-10-22T03:38:09.690Z",
+    "generatedAt": "2025-10-22T04:12:54.610Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.5625
+    "averageScore": 14.03125
   }
 }
