@@ -41,6 +41,16 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
+      "title": "ChatGPT Unveils Its Limits: Principles of Law Deliver Checkmate",
+      "link": "https://arxiv.org/abs/2510.19261",
+      "description": "arXiv:2510.19261v1 Announce Type: new \nAbstract: This study examines the performance of ChatGPT with an experiment in the legal domain. We compare the outcome with it a baseline using regular expressions (Regex), rather than focusing solely on the assessment against human performance. The study reveals that even if ChatGPT has access to the necessary knowledge and competencies, it is unable to assemble them, reason through, in a way that leads to an exhaustive result. This unveils a major limita",
+      "pubDate": "2025-10-23T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 17,
+      "title_zh": "ChatGPT Unveils Its Limits: Principles of Law Deliver Checkmate"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -81,89 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "CompactPrompt: A Unified Pipeline for Prompt Data Compression in LLM Workflows",
-      "link": "https://arxiv.org/abs/2510.18043",
-      "description": "arXiv:2510.18043v1 Announce Type: new \nAbstract: Large Language Models (LLMs) deliver powerful reasoning and generation capabilities but incur substantial run-time costs when operating in agentic workflows that chain together lengthy prompts and process rich data streams. We introduce CompactPrompt, an end-to-end pipeline that merges hard prompt compression with lightweight file-level data compression. CompactPrompt first prunes low-information tokens from prompts using self-information scoring ",
-      "pubDate": "2025-10-22T04:00:00.000Z",
+      "title": "Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties",
+      "link": "https://arxiv.org/abs/2510.19299",
+      "description": "arXiv:2510.19299v1 Announce Type: new \nAbstract: Can large language model (LLM) agents reproduce the complex social dynamics that characterize human online behavior -- shaped by homophily, reciprocity, and social validation -- and what memory and learning mechanisms enable such dynamics to emerge? We present a multi-agent LLM simulation framework in which agents repeatedly interact, evaluate one another, and adapt their behavior through in-context learning accelerated by a coaching signal. To mo",
+      "pubDate": "2025-10-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "CompactPrompt: A Unified Pipeline for Prompt Data Compression in LLM Workflows"
+      "aiScore": 15,
+      "title_zh": "Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties"
     },
     {
-      "title": "OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning",
-      "link": "https://arxiv.org/abs/2510.18032",
-      "description": "arXiv:2510.18032v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have shown remarkable reasoning capabilities in mathematical and scientific tasks. To enhance complex reasoning, multi-agent systems have been proposed to harness the collective intelligence of LLM agents. However, existing collaboration structures are either predefined or rely on majority voting or round-table debates, which can suppress correct but less dominant agent contributions. Recent approaches model multi-agen",
-      "pubDate": "2025-10-22T04:00:00.000Z",
+      "title": "Continual Knowledge Adaptation for Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2510.19314",
+      "description": "arXiv:2510.19314v1 Announce Type: new \nAbstract: Reinforcement Learning enables agents to learn optimal behaviors through interactions with environments. However, real-world environments are typically non-stationary, requiring agents to continuously adapt to new tasks and changing conditions. Although Continual Reinforcement Learning facilitates learning across multiple tasks, existing methods often suffer from catastrophic forgetting and inefficient knowledge utilization. To address these chall",
+      "pubDate": "2025-10-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "OPTAGENT: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning"
+      "aiScore": 8,
+      "title_zh": "Continual Knowledge Adaptation for Reinforcement Learning"
     },
     {
-      "title": "Activation Manifold Projection: Liberating Task-Specific Behaviors from LLM Architectures",
-      "link": "https://arxiv.org/abs/2510.17902",
-      "description": "arXiv:2510.17902v1 Announce Type: new \nAbstract: The proliferation of Large Language Model (LLM) architectures presents a fundamental challenge: valuable, task-specific behaviors learned through fine-tuning methods like Low-Rank Adaptation (LoRA) are effectively trapped within their source model's architecture, herein referred to architectural lock-in. Existing transfer methods attempt to bridge this gap by aligning the static weight spaces of models, a brittle and indirect approach that relies ",
-      "pubDate": "2025-10-22T04:00:00.000Z",
+      "title": "A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods with Large Language Models on the CONSORT Checklist",
+      "link": "https://arxiv.org/abs/2510.19139",
+      "description": "arXiv:2510.19139v1 Announce Type: new \nAbstract: Despite the rapid expansion of Large Language Models (LLMs) in healthcare, the ability of these systems to assess clinical trial reporting according to CONSORT standards remains unclear, particularly with respect to their cognitive and reasoning strategies. This study applies a behavioral and metacognitive analytic approach with expert-validated data, systematically comparing two representative LLMs under three prompt conditions. Clear differences",
+      "pubDate": "2025-10-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Activation Manifold Projection: Liberating Task-Specific Behaviors from LLM Architectures"
+      "aiScore": 6.5,
+      "title_zh": "A Multi-faceted Analysis of Cognitive Abilities: Evaluating Prompt Methods with Large Language Models on the CONSORT Checklist"
     },
     {
-      "title": "Beyond More Context: Retrieval Diversity Boosts Multi-Turn Intent Understanding",
-      "link": "https://arxiv.org/abs/2510.17940",
-      "description": "arXiv:2510.17940v1 Announce Type: new \nAbstract: Multi turn intent understanding is central to task oriented chatbots, yet real deployments face tight token budgets and noisy contexts, and most retrieval pipelines emphasize relevance while overlooking set level diversity and confounds such as more context or exemplar order. We ask whether retrieval diversity, rather than longer prompts, systematically improves LLM intent understanding under fixed budgets. We present a diversity aware retrieval f",
-      "pubDate": "2025-10-22T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Beyond More Context: Retrieval Diversity Boosts Multi-Turn Intent Understanding"
-    },
-    {
-      "title": "SMaRT: Select, Mix, and ReinvenT - A Strategy Fusion Framework for LLM-Driven Reasoning and Planning",
-      "link": "https://arxiv.org/abs/2510.18095",
-      "description": "arXiv:2510.18095v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have redefined complex task automation with exceptional generalization capabilities. Despite these advancements, state-of-the-art methods rely on single-strategy prompting, missing the synergy of diverse reasoning approaches. No single strategy excels universally, highlighting the need for frameworks that fuse strategies to maximize performance and ensure robustness. We introduce the Select, Mix, and ReinvenT (SMaRT) f",
-      "pubDate": "2025-10-22T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8.5,
-      "title_zh": "SMaRT: Select, Mix, and ReinvenT - A Strategy Fusion Framework for LLM-Driven Reasoning and Planning"
-    },
-    {
-      "title": "Measuring Reasoning in LLMs: a New Dialectical Angle",
-      "link": "https://arxiv.org/abs/2510.18134",
-      "description": "arXiv:2510.18134v1 Announce Type: new \nAbstract: What does it truly mean for a language model to \"reason\"? Most current evaluations and benchmarks reward models' correct standalone answers--but correctness alone reveals little about the process that produced them. In this work, we explore a different perspective: reasoning is not a static chain of steps, but a dynamic trajectory where ideas interact, clash, and evolve into deeper insights. To capture this dynamic, we draw on a well-established p",
-      "pubDate": "2025-10-22T04:00:00.000Z",
+      "title": "MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration",
+      "link": "https://arxiv.org/abs/2510.19423",
+      "description": "arXiv:2510.19423v1 Announce Type: new \nAbstract: We introduce MSC-Bench, a large-scale benchmark for evaluating multi-hop, end-to-end tool orchestration by LLM agents in a hierarchical Model-Context Protocol (MCP) ecosystem. Existing benchmarks often evaluate tools in isolation, ignoring challenges such as functional overlap and cross-server orchestration, leading to overly optimistic assessments. MSC-Bench addresses these gaps by constructing ground truth through 'equal function sets', allowing",
+      "pubDate": "2025-10-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Measuring Reasoning in LLMs: a New Dialectical Angle"
+      "title_zh": "MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration"
     },
     {
-      "title": "FABRIC: Framework for Agent-Based Realistic Intelligence Creation",
-      "link": "https://arxiv.org/abs/2510.17995",
-      "description": "arXiv:2510.17995v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as agents, expected to decompose goals, invoke tools, and verify results in dynamic environments. Realizing these capabilities requires access to agentic data- structured interaction records that couple user intents with tool specifications, argument-grounded calls, and verifiable execution traces. However, collecting such data from human annotators is costly, time-consuming, and difficult to ",
-      "pubDate": "2025-10-22T04:00:00.000Z",
+      "title": "Timely Clinical Diagnosis through Active Test Selection",
+      "link": "https://arxiv.org/abs/2510.18988",
+      "description": "arXiv:2510.18988v1 Announce Type: new \nAbstract: There is growing interest in using machine learning (ML) to support clinical diag- nosis, but most approaches rely on static, fully observed datasets and fail to reflect the sequential, resource-aware reasoning clinicians use in practice. Diagnosis remains complex and error prone, especially in high-pressure or resource-limited settings, underscoring the need for frameworks that help clinicians make timely and cost-effective decisions. We propose ",
+      "pubDate": "2025-10-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "FABRIC: Framework for Agent-Based Realistic Intelligence Creation"
+      "aiScore": 4,
+      "title_zh": "Timely Clinical Diagnosis through Active Test Selection"
     },
     {
-      "title": "Learning from Generalization Patterns: An Evaluation-Driven Approach to Enhanced Data Augmentation for Fine-Tuning Small Language Models",
-      "link": "https://arxiv.org/abs/2510.18143",
-      "description": "arXiv:2510.18143v1 Announce Type: new \nAbstract: Small Language Models (SLMs) offer compelling advantages in deployment cost and latency, but their accuracy often lags behind larger models, particularly for complex domain-specific tasks. While supervised fine-tuning can help bridge this performance gap, it requires substantial manual effort in data preparation and iterative optimization. We present PaDA-Agent (Pattern-guided Data Augmentation Agent), an evaluation-driven approach that streamline",
-      "pubDate": "2025-10-22T04:00:00.000Z",
+      "title": "The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS",
+      "link": "https://arxiv.org/abs/2510.19055",
+      "description": "arXiv:2510.19055v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have demonstrated capabilities in audio understanding, but current evaluations may obscure fundamental weaknesses in relational reasoning. We introduce the Music Understanding and Structural Evaluation (MUSE) Benchmark, an open-source resource with 10 tasks designed to probe fundamental music perception skills. We evaluate four SOTA models (Gemini Pro and Flash, Qwen2.5-Omni, and Audio-Flamingo 3) against a",
+      "pubDate": "2025-10-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Learning from Generalization Patterns: An Evaluation-Driven Approach to Enhanced Data Augmentation for Fine-Tuning Small Language Models"
+      "aiScore": 4,
+      "title_zh": "The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS"
+    },
+    {
+      "title": "An Argumentative Explanation Framework for Generalized Reason Model with Inconsistent Precedents",
+      "link": "https://arxiv.org/abs/2510.19263",
+      "description": "arXiv:2510.19263v1 Announce Type: new \nAbstract: Precedential constraint is one foundation of case-based reasoning in AI and Law. It generally assumes that the underlying set of precedents must be consistent. To relax this assumption, a generalized notion of the reason model has been introduced. While several argumentative explanation approaches exist for reasoning with precedents based on the traditional consistent reason model, there has been no corresponding argumentative explanation method d",
+      "pubDate": "2025-10-23T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "An Argumentative Explanation Framework for Generalized Reason Model with Inconsistent Precedents"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-10-23T03:30:19.830Z",
+    "generatedAt": "2025-10-23T04:12:12.843Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.03125
+    "averageScore": 14.09375
   }
 }
