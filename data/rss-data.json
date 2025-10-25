@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "A new wave of vehicle insurance fraud fueled by generative AI",
-      "link": "https://arxiv.org/abs/2510.19957",
-      "description": "arXiv:2510.19957v1 Announce Type: new \nAbstract: Generative AI is supercharging insurance fraud by making it easier to falsify accident evidence at scale and in rapid time. Insurance fraud is a pervasive and costly problem, amounting to tens of billions of dollars in losses each year. In the vehicle insurance sector, fraud schemes have traditionally involved staged accidents, exaggerated damage, or forged documents. The rise of generative AI, including deepfake image and video generation, has in",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 32,
-      "title_zh": "A new wave of vehicle insurance fraud fueled by generative AI"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -19,16 +9,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Benchmarking Reasoning Reliability in Artificial Intelligence Models for Energy-System Analysis",
-      "link": "https://arxiv.org/abs/2510.19836",
-      "description": "arXiv:2510.19836v1 Announce Type: new \nAbstract: Artificial intelligence and machine learning are increasingly used for forecasting, optimization, and policy design in the energy sector, yet no standardized framework exists to evaluate whether these systems reason correctly. Current validation practices focus on predictive accuracy or computational efficiency, leaving the logical integrity of analytical conclusions untested. This study introduces the Analytical Reliability Benchmark (ARB), a rep",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 25,
-      "title_zh": "Benchmarking Reasoning Reliability in Artificial Intelligence Models for Energy-System Analysis"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -99,71 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "AI-Driven Personalized Learning: Predicting Academic Per-formance Through Leadership Personality Traits",
-      "link": "https://arxiv.org/abs/2510.19964",
-      "description": "arXiv:2510.19964v1 Announce Type: new \nAbstract: The study explores the potential of AI technologies in personalized learning, suggesting the prediction of academic success through leadership personality traits and machine learning modelling. The primary data were obtained from 129 master's students in the Environmental Engineering Department, who underwent five leadership personality tests with 23 characteristics. Students used self-assessment tools that included Personality Insight, Workplace ",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "AI-Driven Personalized Learning: Predicting Academic Per-formance Through Leadership Personality Traits"
-    },
-    {
-      "title": "A Quantum-Inspired Algorithm for Solving Sudoku Puzzles and the MaxCut Problem",
-      "link": "https://arxiv.org/abs/2510.19835",
-      "description": "arXiv:2510.19835v1 Announce Type: new \nAbstract: We propose and evaluate a quantum-inspired algorithm for solving Quadratic Unconstrained Binary Optimization (QUBO) problems, which are mathematically equivalent to finding ground states of Ising spin-glass Hamiltonians. The algorithm employs Matrix Product States (MPS) to compactly represent large superpositions of spin configurations and utilizes a discrete driving schedule to guide the MPS toward the ground state. At each step, a driver Hamilto",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "A Quantum-Inspired Algorithm for Solving Sudoku Puzzles and the MaxCut Problem"
-    },
-    {
-      "title": "LLMs can hide text in other text of the same length.ipynb",
-      "link": "https://arxiv.org/abs/2510.20075",
-      "description": "arXiv:2510.20075v1 Announce Type: new \nAbstract: A meaningful text can be hidden inside another, completely different yet still coherent and plausible, text of the same length. For example, a tweet containing a harsh political critique could be embedded in a tweet that celebrates the same political leader, or an ordinary product review could conceal a secret manuscript. This uncanny state of affairs is now possible thanks to Large Language Models, and in this paper we present a simple and effici",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "LLMs can hide text in other text of the same length.ipynb"
-    },
-    {
-      "title": "DAG-Math: Graph-Guided Mathematical Reasoning in LLMs",
-      "link": "https://arxiv.org/abs/2510.19842",
-      "description": "arXiv:2510.19842v1 Announce Type: new \nAbstract: Large Language Models (LLMs) demonstrate strong performance on mathematical problems when prompted with Chain-of-Thought (CoT), yet it remains unclear whether this success stems from search, rote procedures, or rule-consistent reasoning. To address this, we propose modeling CoT as a certain rule-based stochastic process over directed acyclic graphs (DAGs), where nodes represent intermediate derivation states and edges encode rule applications. Wit",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "DAG-Math: Graph-Guided Mathematical Reasoning in LLMs"
-    },
-    {
-      "title": "Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory",
-      "link": "https://arxiv.org/abs/2510.19838",
-      "description": "arXiv:2510.19838v1 Announce Type: new \nAbstract: Autonomous web agents powered by large language models (LLMs) show strong potential for performing goal-oriented tasks such as information retrieval, report generation, and online transactions. These agents mark a key step toward practical embodied reasoning in open web environments. However, existing approaches remain limited in reasoning depth and efficiency: vanilla linear methods fail at multi-step reasoning and lack effective backtracking, wh",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory"
-    },
-    {
-      "title": "RELATE: A Schema-Agnostic Perceiver Encoder for Multimodal Relational Graphs",
-      "link": "https://arxiv.org/abs/2510.19954",
-      "description": "arXiv:2510.19954v1 Announce Type: new \nAbstract: Relational multi-table data is common in domains such as e-commerce, healthcare, and scientific research, and can be naturally represented as heterogeneous temporal graphs with multi-modal node attributes. Existing graph neural networks (GNNs) rely on schema-specific feature encoders, requiring separate modules for each node type and feature column, which hinders scalability and parameter sharing. We introduce RELATE (Relational Encoder for Latent",
-      "pubDate": "2025-10-24T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "RELATE: A Schema-Agnostic Perceiver Encoder for Multimodal Relational Graphs"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2025-10-25T03:29:12.941Z",
+    "totalCount": 8,
+    "generatedAt": "2025-10-25T04:11:06.684Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 16.375
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
