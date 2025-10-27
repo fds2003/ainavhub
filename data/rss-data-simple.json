@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Epistemic Deference to AI",
+      "title_zh": "Epistemic Deference to AI",
+      "description": "arXiv:2510.21043v1 Announce Type: new \nAbstract: When should we defer to AI outputs over human expert judgment? Drawing on recent work in social epistemology, I motivate the idea that some AI systems qualify as Artificial Epistemic Authorities (AEAs) due to their demonstrated reliability and epistemic superiority. I then introduce AI Preemptionism, the view that AEA outputs should replace rather than supplement a user's independent epistemic reasons. I show that classic objections to preemptioni",
+      "link": "https://arxiv.org/abs/2510.21043",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -8,6 +17,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance",
+      "title_zh": "DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance",
+      "description": "arXiv:2510.21117v1 Announce Type: new \nAbstract: This paper presents a first empirical study of agentic AI as autonomous decision-makers in decentralized governance. Using more than 3K proposals from major protocols, we build an agentic AI voter that interprets proposal contexts, retrieves historical deliberation data, and independently determines its voting position. The agent operates within a realistic financial simulation environment grounded in verifiable blockchain data, implemented throug",
+      "link": "https://arxiv.org/abs/2510.21117",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -71,6 +89,60 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Confounding Robust Deep Reinforcement Learning: A Causal Approach",
+      "title_zh": "Confounding Robust Deep Reinforcement Learning: A Causal Approach",
+      "description": "arXiv:2510.21110v1 Announce Type: new \nAbstract: A key task in Artificial Intelligence is learning effective policies for controlling agents in unknown environments to optimize performance measures. Off-policy learning methods, like Q-learning, allow learners to make optimal decisions based on past experiences. This paper studies off-policy learning from biased data in complex and high-dimensional domains where \\emph{unobserved confounding} cannot be ruled out a priori. Building on the well-cele",
+      "link": "https://arxiv.org/abs/2510.21110",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
+    },
+    {
+      "title": "Cultural Alien Sampler: Open-ended art generation balancing originality and coherence",
+      "title_zh": "Cultural Alien Sampler: Open-ended art generation balancing originality and coherence",
+      "description": "arXiv:2510.20849v1 Announce Type: new \nAbstract: In open-ended domains like art, autonomous agents must generate ideas that are both original and internally coherent, yet current Large Language Models (LLMs) either default to familiar cultural patterns or sacrifice coherence when pushed toward novelty. We address this by introducing the Cultural Alien Sampler (CAS), a concept-selection method that explicitly separates compositional fit from cultural typicality. CAS uses two GPT-2 models fine-tun",
+      "link": "https://arxiv.org/abs/2510.20849",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
+    },
+    {
+      "title": "NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge",
+      "title_zh": "NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge",
+      "description": "arXiv:2510.21144v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) empowers Large Language Models (LLMs) to dynamically integrate external knowledge during inference, improving their factual accuracy and adaptability. However, adversaries can inject poisoned external knowledge to override the model's internal memory. While existing attacks iteratively manipulate retrieval content or prompt structure of RAG, they largely ignore the model's internal representation dynamics and n",
+      "link": "https://arxiv.org/abs/2510.21144",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
+    },
+    {
+      "title": "PanicToCalm: A Proactive Counseling Agent for Panic Attacks",
+      "title_zh": "PanicToCalm: A Proactive Counseling Agent for Panic Attacks",
+      "description": "arXiv:2510.21143v1 Announce Type: new \nAbstract: Panic attacks are acute episodes of fear and distress, in which timely, appropriate intervention can significantly help individuals regain stability. However, suitable datasets for training such models remain scarce due to ethical and logistical issues. To address this, we introduce PACE, which is a dataset that includes high-distress episodes constructed from first-person narratives, and structured around the principles of Psychological First Aid",
+      "link": "https://arxiv.org/abs/2510.21143",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
+    },
+    {
+      "title": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
+      "title_zh": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
+      "description": "arXiv:2510.20838v1 Announce Type: new \nAbstract: This study introduces a human-in-the-loop pipeline that converts unscaled, hand-drawn floor plan sketches into semantically consistent 3D BIM models. The workflow leverages multimodal large language models (MLLMs) within a multi-agent framework, combining perceptual extraction, human feedback, schema validation, and automated BIM scripting. Initially, sketches are iteratively refined into a structured JSON layout of walls, doors, and windows. Late",
+      "link": "https://arxiv.org/abs/2510.20838",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
+    },
+    {
+      "title": "From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL",
+      "title_zh": "From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL",
+      "description": "arXiv:2510.21045v1 Announce Type: new \nAbstract: The complexity of Structured Query Language (SQL) and the specialized nature of geospatial functions in tools like PostGIS present significant barriers to non-experts seeking to analyze spatial data. While Large Language Models (LLMs) offer promise for translating natural language into SQL (Text-to-SQL), single-agent approaches often struggle with the semantic and syntactic complexities of spatial queries. To address this, we propose a multi-agent",
+      "link": "https://arxiv.org/abs/2510.21045",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-27"
     }
   ]
 }
