@@ -37,10 +37,5 @@ build/
 tmp/
 temp/
 
-# Generated code files (daily code generator)
-algorithm_*.py
-utility_*.py
-code_generator_config.json
-
 # Server logs
 server.log

@@ -765,6 +765,13 @@ if __name__ == "__main__":
     def git_push(self):
         """推送到远程仓库"""
         try:
+            # 先pull远程更新，避免冲突
+            print("ℹ️  正在拉取远程更新...")
+            subprocess.run(['git', 'pull', '--rebase', self.config['remote_repo'], self.config['branch']], 
+                         check=True, cwd=self.base_dir, capture_output=True)
+            print("✓ 远程更新已合并")
+            
+            # 推送到远程
             subprocess.run(['git', 'push', self.config['remote_repo'], self.config['branch']], 
                          check=True, cwd=self.base_dir)
             print("✓ 代码已推送到远程仓库")
@@ -824,7 +831,20 @@ if __name__ == "__main__":
         for file in generated_files:
             print(f"   📄 {os.path.basename(file)}")
         print(f"\n🎲 今日种子: {self.seed} (用于重现)")
-        print("\n💡 提示: 生成的文件仅供本地使用，不会提交到Git仓库")
+        
+        # Git提交和推送
+        if all_passed:
+            print("\n" + "-" * 60)
+            print("📤 正在提交到Git仓库...")
+            try:
+                self.git_add_and_commit(generated_files)
+                self.git_push()
+                print("✅ 成功提交并推送到远程仓库!")
+            except Exception as e:
+                print(f"⚠️  Git操作失败: {e}")
+        else:
+            print("\n⚠️  由于存在错误，跳过Git提交")
+        
         print("=" * 60)
 
 def main():
