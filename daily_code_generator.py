@@ -221,10 +221,30 @@ if __name__ == "__main__":
             return random.choice(algorithm_ideas)
     
     def _get_random_utility_idea(self):
-        """获取随机的工具类想法"""
+        """生成随机的工具类想法"""
         # 先生成基本信息
         class_name = f"{random.choice(['File', 'Data', 'Image', 'Text'])}Processor"
         main_method = f"{random.choice(['process', 'transform', 'analyze', 'validate'])}"
+        
+        # 生成配对的init参数和实现
+        init_configs = [
+            {
+                "params": ", config: dict = None",
+                "impl": "self.config = config or {}",
+                "str_repr": "self.config"
+            },
+            {
+                "params": ", debug: bool = False, verbose: bool = True",
+                "impl": "self.debug = debug\n        self.verbose = verbose",
+                "str_repr": "self.debug"
+            },
+            {
+                "params": ", timeout: int = 30",
+                "impl": "self.timeout = timeout\n        self.retries = 3",
+                "str_repr": "self.timeout"
+            }
+        ]
+        init_config = random.choice(init_configs)
         
         utility_ideas = [
             {
@@ -232,8 +252,9 @@ if __name__ == "__main__":
                 "class": class_name,
                 "description": f"{random.choice(['高效', '智能', '并行', '批量'])}处理{random.choice(['文件', '数据', '图像', '文本'])}",
                 "main_method": main_method,
-                "init_params": self._generate_utility_init_params(),
-                "init_implementation": self._generate_utility_init_impl(),
+                "init_params": init_config["params"],
+                "init_implementation": init_config["impl"],
+                "str_representation": init_config["str_repr"],
                 "method_params": self._generate_utility_method_params(),
                 "method_implementation": self._generate_utility_method_impl(),
                 "additional_methods": self._generate_additional_methods(),
@@ -246,32 +267,31 @@ if __name__ == "__main__":
     def _generate_sorting_implementation(self):
         """生成排序算法实现"""
         implementations = [
-            '''if high is None:
-        high = len(arr) - 1
-    
-    if low < high:
-        # 分区操作
-        pivot_index = self._partition(arr, low, high)
-        
-        # 递归排序
-        {function_name}(arr, low, pivot_index - 1)
-        {function_name}(arr, pivot_index + 1, high)
-    
-    return arr''',
-            '''n = len(arr)
+            '''# 冒泡排序实现
+    n = len(arr)
     for i in range(n):
         for j in range(0, n - i - 1):
             if arr[j] > arr[j + 1]:
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
     return arr''',
-            '''if len(arr) <= 1:
-        return arr
-    
-    mid = len(arr) // 2
-    left = {function_name}(arr[:mid])
-    right = {function_name}(arr[mid:])
-    
-    return self._merge(left, right)'''
+            '''# 选择排序实现
+    n = len(arr)
+    for i in range(n):
+        min_idx = i
+        for j in range(i + 1, n):
+            if arr[j] < arr[min_idx]:
+                min_idx = j
+        arr[i], arr[min_idx] = arr[min_idx], arr[i]
+    return arr''',
+            '''# 插入排序实现
+    for i in range(1, len(arr)):
+        key = arr[i]
+        j = i - 1
+        while j >= 0 and arr[j] > key:
+            arr[j + 1] = arr[j]
+            j -= 1
+        arr[j + 1] = key
+    return arr'''
         ]
         return random.choice(implementations)
     
@@ -356,63 +376,45 @@ if __name__ == "__main__":
         ]
         return random.choice(implementations)
     
-    def _generate_utility_init_params(self):
-        """生成工具类初始化参数"""
-        params_options = [
-            ", config: dict = None",
-            ", input_path: str, output_path: str",
-            ", timeout: int = 30, retries: int = 3",
-            ", debug: bool = False, verbose: bool = True"
-        ]
-        return random.choice(params_options)
-    
-    def _generate_utility_init_impl(self):
-        """生成工具类初始化实现"""
-        impl_options = [
-            "self.config = config or {}",
-            "self.input_path = input_path\n        self.output_path = output_path",
-            "self.timeout = timeout\n        self.retries = retries",
-            "self.debug = debug\n        self.verbose = verbose"
-        ]
-        return random.choice(impl_options)
-    
+
     def _generate_utility_method_params(self):
         """生成工具类方法参数"""
+        # 统一使用 'data' 作为参数名
         param_options = [
-            ", data: Any",
-            ", items: list, callback: callable = None",
-            ", *args, **kwargs",
-            ", input_str: str, options: dict = None"
+            ", data",
+            ", data: list",
+            ", data: str"
         ]
         return random.choice(param_options)
     
     def _generate_utility_method_impl(self):
         """生成工具类方法实现"""
         impl_options = [
-            '''# 处理数据
+            '''# 简单数据处理
+        if isinstance(data, dict):
+            result = {k: str(v).upper() if isinstance(v, str) else v for k, v in data.items()}
+            return {"processed": len(result), "data": result}
+        elif isinstance(data, list):
+            result = [str(item).upper() if isinstance(item, str) else item for item in data]
+            return {"processed": len(result), "data": result}
+        else:
+            return {"processed": 1, "data": str(data).upper()}''',
+            '''# 基础处理逻辑
         if self.verbose:
-            print(f"处理数据: {{data}}")
+            print(f"处理数据: {{type(data).__name__}}")
         
-        result = {"status": "success", "processed": True}
+        result = {"status": "success", "processed": True, "data": data}
         return result''',
-            '''# 处理项目列表
-        results = []
-        for i, item in enumerate(items):
-            try:
-                if callback:
-                    result = callback(item)
-                else:
-                    result = self._process_item(item)
-                results.append(result)
-            except Exception as e:
-                results.append({"error": str(e)})
-        
-        return {"processed": len(results), "results": results}''',
-            '''# 执行操作
-        if self.debug:
-            print(f"参数: args={{args}}, kwargs={{kwargs}}")
-        
-        return {"executed": True, "timestamp": "2024-01-01"}'''
+            '''# 通用处理方法
+        try:
+            if isinstance(data, str):
+                return {"result": data.upper(), "length": len(data)}
+            elif isinstance(data, (list, tuple)):
+                return {"result": len(data), "items": list(data)}
+            else:
+                return {"result": str(data), "type": type(data).__name__}
+        except Exception as e:
+            return {"error": str(e)}'''
         ]
         return random.choice(impl_options)
     
