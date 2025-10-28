@@ -844,35 +844,14 @@ if __name__ == "__main__":
         
         generated_files = [file1, file2]
         
-        print("-" * 60)
-        print("🔧 开始Git操作...")
-        
-        # Git操作
-        if self.git_add_and_commit(generated_files):
-            if self.git_push():
-                print("=" * 60)
-                print("🎉 每日代码生成流程完成!")
-                print(f"📁 生成文件:")
-                for file in generated_files:
-                    print(f"   📄 {os.path.basename(file)}")
-                print("🔄 已自动提交到Git仓库")
-                print(f"🎲 今日种子: {self.seed} (用于重现)")
-            else:
-                print("=" * 60)
-                print("⚠️  文件已生成，但推送失败")
-                print("📁 生成文件:")
-                for file in generated_files:
-                    print(f"   📄 {os.path.basename(file)}")
-                print("\n提示: 请手动执行以下命令同步代码:")
-                print("  1. git pull --rebase")
-                print("  2. git push")
-        else:
-            print("=" * 60)
-            print("ℹ️  文件已生成")
-            print(f"📁 生成文件:")
-            for file in generated_files:
-                print(f"   📄 {os.path.basename(file)}")
-            print("⚠️  文件没有变化，未创建新提交")
+        print("=" * 60)
+        print("🎉 代码生成完成!")
+        print(f"📁 生成文件:")
+        for file in generated_files:
+            print(f"   📄 {os.path.basename(file)}")
+        print(f"🎲 今日种子: {self.seed} (用于重现)")
+        print("\n💡 提示: 生成的文件仅供本地使用，不会提交到Git仓库")
+        print("=" * 60)
 
 def main():
     """主函数"""
