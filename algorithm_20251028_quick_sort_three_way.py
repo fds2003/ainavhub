@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-快速排序优化实现 - 实现快速排序优化实现 - 每日自动生成
+快速排序优化实现 - 每日自动生成
 文件名: algorithm_20251028_quick_sort_three_way.py
 创建时间: 2025-10-28
 作者: Python高级工程师
@@ -46,9 +46,9 @@ def test_quick_sort_three_way():
     
     for i, test_case in enumerate(test_cases):
         try:
-            result = {function_name}(test_case["input"])
+            result = {{function_name}}(test_case["input"])
             expected = test_case["expected"]
-            assert result == expected, f"测试用例 {{i+1}} 失败: 期望 {{expected}}, 实际 {{result}}"
+            assert result == expected, f"测试用例 {{i+1}} 失败: 期望 {{expected}}, 实际{{result}}"
             print(f"✓ 测试用例 {{i+1}} 通过")
         except Exception as e:
             print(f"✗ 测试用例 {{i+1}} 失败: {{str(e)}}")
@@ -64,10 +64,10 @@ def benchmark_quick_sort_three_way():
     test_data = [random.randint(1, 1000) for _ in range(1000)]
     
     start_time = time.time()
-    {function_name}(test_data.copy())
+    {{function_name}}(test_data.copy())
     end_time = time.time()
     
-    print(f"排序 1000 个元素耗时: {{end_time - start_time:.4f}} 秒")
+    print(f"排序 1000 个元素耗时: {{{{end_time - start_time:.4f}}}} 秒")
     
     print("性能测试完成!")
 
