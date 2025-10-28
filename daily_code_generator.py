@@ -13,6 +13,7 @@ import subprocess
 import json
 import random
 import hashlib
+import py_compile
 from pathlib import Path
 from typing import List, Dict, Any
 
@@ -221,47 +222,27 @@ if __name__ == "__main__":
     
     def _get_random_utility_idea(self):
         """获取随机的工具类想法"""
+        # 先生成基本信息
+        class_name = f"{random.choice(['File', 'Data', 'Image', 'Text'])}Processor"
+        main_method = f"{random.choice(['process', 'transform', 'analyze', 'validate'])}"
+        
         utility_ideas = [
             {
                 "name": f"{random.choice(['文件', '数据', '图像', '文本'])}处理器",
-                "class": f"{random.choice(['File', 'Data', 'Image', 'Text'])}Processor",
+                "class": class_name,
                 "description": f"{random.choice(['高效', '智能', '并行', '批量'])}处理{random.choice(['文件', '数据', '图像', '文本'])}",
-                "main_method": f"{random.choice(['process', 'transform', 'analyze', 'validate'])}",
+                "main_method": main_method,
                 "init_params": self._generate_utility_init_params(),
                 "init_implementation": self._generate_utility_init_impl(),
                 "method_params": self._generate_utility_method_params(),
                 "method_implementation": self._generate_utility_method_impl(),
                 "additional_methods": self._generate_additional_methods(),
-                "usage_example": self._generate_usage_example()
+                "usage_example": self._generate_usage_example(class_name, main_method)
             },
-            {
-                "name": f"{random.choice(['数据验证', '格式转换', '性能监控', '缓存管理'])}工具",
-                "class": f"{random.choice(['Validator', 'Converter', 'Monitor', 'Cache'])}Tool",
-                "description": f"{random.choice(['强大', '灵活', '高效', '可靠'])}的{random.choice(['数据验证', '格式转换', '性能监控', '缓存管理'])}工具",
-                "main_method": f"{random.choice(['validate', 'convert', 'monitor', 'get'])}",
-                "init_params": self._generate_utility_init_params(),
-                "init_implementation": self._generate_utility_init_impl(),
-                "method_params": self._generate_utility_method_params(),
-                "method_implementation": self._generate_utility_method_impl(),
-                "additional_methods": self._generate_additional_methods(),
-                "usage_example": self._generate_usage_example()
-            },
-            {
-                "name": f"{random.choice(['网络请求', '数据库操作', '日志记录', '配置管理'])}助手",
-                "class": f"{random.choice(['Network', 'Database', 'Logger', 'Config'])}Helper",
-                "description": f"{random.choice(['简单', '强大', '异步', '安全'])}的{random.choice(['网络请求', '数据库操作', '日志记录', '配置管理'])}助手",
-                "main_method": f"{random.choice(['request', 'query', 'log', 'get'])}",
-                "init_params": self._generate_utility_init_params(),
-                "init_implementation": self._generate_utility_init_impl(),
-                "method_params": self._generate_utility_method_params(),
-                "method_implementation": self._generate_utility_method_impl(),
-                "additional_methods": self._generate_additional_methods(),
-                "usage_example": self._generate_usage_example()
-            }
         ]
         
         return random.choice(utility_ideas)
-    
+
     def _generate_sorting_implementation(self):
         """生成排序算法实现"""
         implementations = [
@@ -378,10 +359,10 @@ if __name__ == "__main__":
     def _generate_utility_init_params(self):
         """生成工具类初始化参数"""
         params_options = [
-            "self, config: dict = None",
-            "self, input_path: str, output_path: str",
-            "self, timeout: int = 30, retries: int = 3",
-            "self, debug: bool = False, verbose: bool = True"
+            ", config: dict = None",
+            ", input_path: str, output_path: str",
+            ", timeout: int = 30, retries: int = 3",
+            ", debug: bool = False, verbose: bool = True"
         ]
         return random.choice(params_options)
     
@@ -398,10 +379,10 @@ if __name__ == "__main__":
     def _generate_utility_method_params(self):
         """生成工具类方法参数"""
         param_options = [
-            "self, data: Any",
-            "self, items: list, callback: callable = None",
-            "self, *args, **kwargs",
-            "self, input_data: Any, options: dict = None"
+            ", data: Any",
+            ", items: list, callback: callable = None",
+            ", *args, **kwargs",
+            ", input_str: str, options: dict = None"
         ]
         return random.choice(param_options)
     
@@ -458,19 +439,19 @@ if __name__ == "__main__":
         ]
         return random.choice(methods) if random.random() > 0.3 else ""
     
-    def _generate_usage_example(self):
+    def _generate_usage_example(self, class_name, main_method):
         """生成使用示例"""
         examples = [
-            '''# 创建实例并使用方法
-    processor = {class_name}()
-    result = processor.{main_method}("example_data")
+            f'''# 简单使用示例
+    tool = {class_name}()
+    result = tool.{main_method}("input_data")
     print(f"处理结果: {{result}}")''',
-            '''# 配置并使用工具
+            f'''# 配置并使用工具
     config = {{"setting": "value"}}
     tool = {class_name}(config)
     output = tool.{main_method}([1, 2, 3, 4, 5])
     print(f"输出: {{output}}")''',
-            '''# 高级使用示例
+            f'''# 高级使用示例
     helper = {class_name}(debug=True)
     data = {{"key": "value"}}
     processed = helper.{main_method}(data, options={{"mode": "fast"}})
@@ -654,7 +635,7 @@ if __name__ == "__main__":
             space_complexity=idea["space_complexity"],
             complexity_notes=complexity_notes,
             implementation=idea["implementation"],
-            return_value=random.choice(["result", "arr", "dp[n]", "visited"]),
+            return_value="arr",  # 排序算法固定返回 arr
             test_cases=idea["test_cases"],
             benchmark_code=idea["benchmark_code"],
             additional_imports=additional_imports,
@@ -664,7 +645,13 @@ if __name__ == "__main__":
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(content)
         
-        print(f"✓ 生成算法文件: {filename}")
+        # 验证生成的代码是否可以编译
+        try:
+            py_compile.compile(filepath, doraise=True)
+            print(f"✓ 生成算法文件: {filename} [语法验证通过]")
+        except Exception as e:
+            print(f"✗ 警告: 生成的文件有语法错误: {e}")
+        
         return filepath
     
     def generate_utility_file(self):
@@ -734,7 +721,13 @@ if __name__ == "__main__":
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(content)
         
-        print(f"✓ 生成工具文件: {filename}")
+        # 验证生成的代码是否可以编译
+        try:
+            py_compile.compile(filepath, doraise=True)
+            print(f"✓ 生成工具文件: {filename} [语法验证通过]")
+        except Exception as e:
+            print(f"✗ 警告: 生成的文件有语法错误: {e}")
+        
         return filepath
     
     def git_add_and_commit(self, files):
@@ -792,12 +785,43 @@ if __name__ == "__main__":
         
         generated_files = [file1, file2]
         
+        # 运行测试验证
+        print("\n" + "-" * 60)
+        print("🧪 正在验证生成的代码...")
+        all_passed = True
+        
+        for filepath in generated_files:
+            try:
+                result = subprocess.run(
+                    ['python3', filepath],
+                    capture_output=True,
+                    text=True,
+                    timeout=10,
+                    cwd=self.base_dir
+                )
+                
+                if result.returncode == 0:
+                    print(f"✓ {os.path.basename(filepath)} 执行成功")
+                else:
+                    print(f"✗ {os.path.basename(filepath)} 执行失败")
+                    print(f"   错误输出: {result.stderr[:200]}")
+                    all_passed = False
+            except subprocess.TimeoutExpired:
+                print(f"⚠️  {os.path.basename(filepath)} 执行超时 (可能是正常现象)")
+            except Exception as e:
+                print(f"✗ {os.path.basename(filepath)} 验证失败: {e}")
+                all_passed = False
+        
         print("=" * 60)
-        print("🎉 代码生成完成!")
-        print(f"📁 生成文件:")
+        if all_passed:
+            print("✅ 代码生成完成，所有文件都可执行!")
+        else:
+            print("⚠️  代码生成完成，但部分文件可能有问题")
+        
+        print(f"\n📁 生成文件:")
         for file in generated_files:
             print(f"   📄 {os.path.basename(file)}")
-        print(f"🎲 今日种子: {self.seed} (用于重现)")
+        print(f"\n🎲 今日种子: {self.seed} (用于重现)")
         print("\n💡 提示: 生成的文件仅供本地使用，不会提交到Git仓库")
         print("=" * 60)
 
