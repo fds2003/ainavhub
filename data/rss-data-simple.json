@@ -1,13 +1,22 @@
 {
   "articles": [
     {
-      "title": "Everyone prefers human writers, including AI",
-      "title_zh": "Everyone prefers human writers, including AI",
-      "description": "arXiv:2510.08831v1 Announce Type: new \nAbstract: As AI writing tools become widespread, we need to understand how both humans and machines evaluate literary style, a domain where objective standards are elusive and judgments are inherently subjective. We conducted controlled experiments using Raymond Queneau's Exercises in Style (1947) to measure attribution bias across evaluators. Study 1 compared human participants (N=556) and AI models (N=13) evaluating literary passages from Queneau versus G",
-      "link": "https://arxiv.org/abs/2510.08831",
+      "title": "Foundation of Intelligence: Review of Math Word Problems from Human Cognition Perspective",
+      "title_zh": "Foundation of Intelligence: Review of Math Word Problems from Human Cognition Perspective",
+      "description": "arXiv:2510.21999v1 Announce Type: new \nAbstract: Math word problem (MWP) serves as a fundamental research topic in artificial intelligence (AI) dating back to 1960s. This research aims to advance the reasoning abilities of AI by mirroring the human-like cognitive intelligence. The mainstream technological paradigm has evolved from the early rule-based methods, to deep learning models, and is rapidly advancing towards large language models. However, the field still lacks a systematic taxonomy for",
+      "link": "https://arxiv.org/abs/2510.21999",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-13"
+      "date": "2025-10-28"
+    },
+    {
+      "title": "A Multi-Component AI Framework for Computational Psychology: From Robust Predictive Modeling to Deployed Generative Dialogue",
+      "title_zh": "A Multi-Component AI Framework for Computational Psychology: From Robust Predictive Modeling to Deployed Generative Dialogue",
+      "description": "arXiv:2510.21720v1 Announce Type: new \nAbstract: The confluence of Artificial Intelligence and Computational Psychology presents an opportunity to model, understand, and interact with complex human psychological states through computational means. This paper presents a comprehensive, multi-faceted framework designed to bridge the gap between isolated predictive modeling and an interactive system for psychological analysis. The methodology encompasses a rigorous, end-to-end development lifecycle.",
+      "link": "https://arxiv.org/abs/2510.21720",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-28"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -17,15 +26,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "ReviewerToo: Should AI Join The Program Committee? A Look At The Future of Peer Review",
-      "title_zh": "ReviewerToo: Should AI Join The Program Committee? A Look At The Future of Peer Review",
-      "description": "arXiv:2510.08867v1 Announce Type: new \nAbstract: Peer review is the cornerstone of scientific publishing, yet it suffers from inconsistencies, reviewer subjectivity, and scalability challenges. We introduce ReviewerToo, a modular framework for studying and deploying AI-assisted peer review to complement human judgment with systematic and consistent assessments. ReviewerToo supports systematic experiments with specialized reviewer personas and structured evaluation criteria, and can be partially ",
-      "link": "https://arxiv.org/abs/2510.08867",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-13"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -91,58 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare",
-      "title_zh": "GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare",
-      "description": "arXiv:2510.08872v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved remarkable progress in reasoning, yet sometimes produce responses that are suboptimal for users in tasks such as writing, information seeking, or providing practical guidance. Conventional alignment practices typically assume that maximizing model reward also maximizes user welfare, but this assumption frequently fails in practice: models may over-clarify or generate overly verbose reasoning when users pr",
-      "link": "https://arxiv.org/abs/2510.08872",
+      "title": "LLM-AR: LLM-powered Automated Reasoning Framework",
+      "title_zh": "LLM-AR: LLM-powered Automated Reasoning Framework",
+      "description": "arXiv:2510.22034v1 Announce Type: new \nAbstract: Large language models (LLMs) can already identify patterns and reason effectively, yet their variable accuracy hampers adoption in high-stakes decision-making applications. In this paper, we study this issue from a venture capital perspective by predicting idea-stage startup success based on founder traits. (i) To build a reliable prediction model, we introduce LLM-AR, a pipeline inspired by neural-symbolic systems that distils LLM-generated heuri",
+      "link": "https://arxiv.org/abs/2510.22034",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-13"
+      "date": "2025-10-28"
     },
     {
-      "title": "Robust Heuristic Algorithm Design with LLMs",
-      "title_zh": "Robust Heuristic Algorithm Design with LLMs",
-      "description": "arXiv:2510.08755v1 Announce Type: new \nAbstract: We posit that we can generate more robust and performant heuristics if we augment approaches using LLMs for heuristic design with tools that explain why heuristics underperform and suggestions about how to fix them. We find even simple ideas that (1) expose the LLM to instances where the heuristic underperforms; (2) explain why they occur; and (3) specialize design to regions in the input space, can produce more robust algorithms compared to exist",
-      "link": "https://arxiv.org/abs/2510.08755",
+      "title": "SIGN: Schema-Induced Games for Naming",
+      "title_zh": "SIGN: Schema-Induced Games for Naming",
+      "description": "arXiv:2510.21855v1 Announce Type: new \nAbstract: Real-world AI systems are tackling increasingly complex problems, often through interactions among large language model (LLM) agents. When these agents develop inconsistent conventions, coordination can break down. Applications such as collaborative coding and distributed planning therefore require reliable, consistent communication, and scalability is a central concern as systems grow. We introduce Schema-Induced Games for Naming (SIGN), a naming",
+      "link": "https://arxiv.org/abs/2510.21855",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-13"
+      "date": "2025-10-28"
     },
     {
-      "title": "Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents",
-      "title_zh": "Hypothesis Hunting with Evolving Networks of Autonomous Scientific Agents",
-      "description": "arXiv:2510.08619v1 Announce Type: new \nAbstract: Large-scale scientific datasets -- spanning health biobanks, cell atlases, Earth reanalyses, and more -- create opportunities for exploratory discovery unconstrained by specific research questions. We term this process hypothesis hunting: the cumulative search for insight through sustained exploration across vast and complex hypothesis spaces. To support it, we introduce AScience, a framework modeling discovery as the interaction of agents, networ",
-      "link": "https://arxiv.org/abs/2510.08619",
+      "title": "Computational Hardness of Reinforcement Learning with Partial $q^{\\pi}$-Realizability",
+      "title_zh": "Computational Hardness of Reinforcement Learning with Partial $q^{\\pi}$-Realizability",
+      "description": "arXiv:2510.21888v1 Announce Type: new \nAbstract: This paper investigates the computational complexity of reinforcement learning in a novel linear function approximation regime, termed partial $q^{\\pi}$-realizability. In this framework, the objective is to learn an $\\epsilon$-optimal policy with respect to a predefined policy set $\\Pi$, under the assumption that all value functions for policies in $\\Pi$ are linearly realizable. The assumptions of this framework are weaker than those in $q^{\\pi}$-",
+      "link": "https://arxiv.org/abs/2510.21888",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-13"
+      "date": "2025-10-28"
     },
     {
-      "title": "Optimizing delivery for quick commerce factoring qualitative assessment of generated routes",
-      "title_zh": "Optimizing delivery for quick commerce factoring qualitative assessment of generated routes",
-      "description": "arXiv:2510.08671v1 Announce Type: new \nAbstract: Indias e-commerce market is projected to grow rapidly, with last-mile delivery accounting for nearly half of operational expenses. Although vehicle routing problem (VRP) based solvers are widely used for delivery planning, their effectiveness in real-world scenarios is limited due to unstructured addresses, incomplete maps, and computational constraints in distance estimation. This study proposes a framework that employs large language models (LLM",
-      "link": "https://arxiv.org/abs/2510.08671",
+      "title": "Towards Error-Centric Intelligence II: Energy-Structured Causal Models",
+      "title_zh": "Towards Error-Centric Intelligence II: Energy-Structured Causal Models",
+      "description": "arXiv:2510.22050v1 Announce Type: new \nAbstract: Contemporary machine learning optimizes for predictive accuracy, yet systems that achieve state of the art performance remain causally opaque: their internal representations provide no principled handle for intervention. We can retrain such models, but we cannot surgically edit specific mechanisms while holding others fixed, because learned latent variables lack causal semantics. We argue for a conceptual reorientation: intelligence is the ability",
+      "link": "https://arxiv.org/abs/2510.22050",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-13"
+      "date": "2025-10-28"
     },
     {
-      "title": "COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context",
-      "title_zh": "COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context",
-      "description": "arXiv:2510.08790v1 Announce Type: new \nAbstract: Long-horizon tasks that require sustained reasoning and multiple tool interactions remain challenging for LLM agents: small errors compound across steps, and even state-of-the-art models often hallucinate or lose coherence. We identify context management as the central bottleneck -- extended histories cause agents to overlook critical evidence or become distracted by irrelevant information, thus failing to replan or reflect from previous mistakes.",
-      "link": "https://arxiv.org/abs/2510.08790",
+      "title": "PREFINE: Personalized Story Generation via Simulated User Critics and User-Specific Rubric Generation",
+      "title_zh": "PREFINE: Personalized Story Generation via Simulated User Critics and User-Specific Rubric Generation",
+      "description": "arXiv:2510.21721v1 Announce Type: new \nAbstract: While recent advances in Large Language Models (LLMs) have improved the quality of creative text generation, significant challenges remain in producing personalized stories that reflect individual user preferences. Conventional approaches rely on explicit feedback or fine-tuning, which presents practical issues regarding user burden, data collection, computational costs, and privacy. In this work, we propose PREFINE (Persona-and-Rubric Guided Crit",
+      "link": "https://arxiv.org/abs/2510.21721",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-13"
+      "date": "2025-10-28"
     },
     {
-      "title": "What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment",
-      "title_zh": "What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment",
-      "description": "arXiv:2510.08847v1 Announce Type: new \nAbstract: We introduce the Agent GPA (Goal-Plan-Action) framework: an evaluation paradigm based on an agent's operational loop of setting goals, devising plans, and executing actions. The framework includes five evaluation metrics: Goal Fulfillment, Logical Consistency, Execution Efficiency, Plan Quality, and Plan Adherence. Logical Consistency checks that an agent's actions are consistent with its prior actions. Execution Efficiency checks whether the agen",
-      "link": "https://arxiv.org/abs/2510.08847",
+      "title": "Performance Trade-offs of Optimizing Small Language Models for E-Commerce",
+      "title_zh": "Performance Trade-offs of Optimizing Small Language Models for E-Commerce",
+      "description": "arXiv:2510.21970v1 Announce Type: new \nAbstract: Large Language Models (LLMs) offer state-of-the-art performance in natural language understanding and generation tasks. However, the deployment of leading commercial models for specialized tasks, such as e-commerce, is often hindered by high computational costs, latency, and operational expenses. This paper investigates the viability of smaller, open-weight models as a resource-efficient alternative. We present a methodology for optimizing a one-b",
+      "link": "https://arxiv.org/abs/2510.21970",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-13"
+      "date": "2025-10-28"
     }
   ]
 }
