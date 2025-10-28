@@ -1,14 +1,24 @@
 {
   "articles": [
     {
-      "title": "Epistemic Deference to AI",
-      "link": "https://arxiv.org/abs/2510.21043",
-      "description": "arXiv:2510.21043v1 Announce Type: new \nAbstract: When should we defer to AI outputs over human expert judgment? Drawing on recent work in social epistemology, I motivate the idea that some AI systems qualify as Artificial Epistemic Authorities (AEAs) due to their demonstrated reliability and epistemic superiority. I then introduce AI Preemptionism, the view that AEA outputs should replace rather than supplement a user's independent epistemic reasons. I show that classic objections to preemptioni",
-      "pubDate": "2025-10-27T04:00:00.000Z",
+      "title": "Foundation of Intelligence: Review of Math Word Problems from Human Cognition Perspective",
+      "link": "https://arxiv.org/abs/2510.21999",
+      "description": "arXiv:2510.21999v1 Announce Type: new \nAbstract: Math word problem (MWP) serves as a fundamental research topic in artificial intelligence (AI) dating back to 1960s. This research aims to advance the reasoning abilities of AI by mirroring the human-like cognitive intelligence. The mainstream technological paradigm has evolved from the early rule-based methods, to deep learning models, and is rapidly advancing towards large language models. However, the field still lacks a systematic taxonomy for",
+      "pubDate": "2025-10-28T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 31,
+      "title_zh": "Foundation of Intelligence: Review of Math Word Problems from Human Cognition Perspective"
+    },
+    {
+      "title": "A Multi-Component AI Framework for Computational Psychology: From Robust Predictive Modeling to Deployed Generative Dialogue",
+      "link": "https://arxiv.org/abs/2510.21720",
+      "description": "arXiv:2510.21720v1 Announce Type: new \nAbstract: The confluence of Artificial Intelligence and Computational Psychology presents an opportunity to model, understand, and interact with complex human psychological states through computational means. This paper presents a comprehensive, multi-faceted framework designed to bridge the gap between isolated predictive modeling and an interactive system for psychological analysis. The methodology encompasses a rigorous, end-to-end development lifecycle.",
+      "pubDate": "2025-10-28T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 28,
-      "title_zh": "Epistemic Deference to AI"
+      "title_zh": "A Multi-Component AI Framework for Computational Psychology: From Robust Predictive Modeling to Deployed Generative Dialogue"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,16 +29,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance",
-      "link": "https://arxiv.org/abs/2510.21117",
-      "description": "arXiv:2510.21117v1 Announce Type: new \nAbstract: This paper presents a first empirical study of agentic AI as autonomous decision-makers in decentralized governance. Using more than 3K proposals from major protocols, we build an agentic AI voter that interprets proposal contexts, retrieves historical deliberation data, and independently determines its voting position. The agent operates within a realistic financial simulation environment grounded in verifiable blockchain data, implemented throug",
-      "pubDate": "2025-10-27T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 24,
-      "title_zh": "DAO-AI: Evaluating Collective Decision-Making through Agentic AI in Decentralized Governance"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -101,69 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Confounding Robust Deep Reinforcement Learning: A Causal Approach",
-      "link": "https://arxiv.org/abs/2510.21110",
-      "description": "arXiv:2510.21110v1 Announce Type: new \nAbstract: A key task in Artificial Intelligence is learning effective policies for controlling agents in unknown environments to optimize performance measures. Off-policy learning methods, like Q-learning, allow learners to make optimal decisions based on past experiences. This paper studies off-policy learning from biased data in complex and high-dimensional domains where \\emph{unobserved confounding} cannot be ruled out a priori. Building on the well-cele",
-      "pubDate": "2025-10-27T04:00:00.000Z",
+      "title": "LLM-AR: LLM-powered Automated Reasoning Framework",
+      "link": "https://arxiv.org/abs/2510.22034",
+      "description": "arXiv:2510.22034v1 Announce Type: new \nAbstract: Large language models (LLMs) can already identify patterns and reason effectively, yet their variable accuracy hampers adoption in high-stakes decision-making applications. In this paper, we study this issue from a venture capital perspective by predicting idea-stage startup success based on founder traits. (i) To build a reliable prediction model, we introduce LLM-AR, a pipeline inspired by neural-symbolic systems that distils LLM-generated heuri",
+      "pubDate": "2025-10-28T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Confounding Robust Deep Reinforcement Learning: A Causal Approach"
+      "aiScore": 15,
+      "title_zh": "LLM-AR: LLM-powered Automated Reasoning Framework"
     },
     {
-      "title": "Cultural Alien Sampler: Open-ended art generation balancing originality and coherence",
-      "link": "https://arxiv.org/abs/2510.20849",
-      "description": "arXiv:2510.20849v1 Announce Type: new \nAbstract: In open-ended domains like art, autonomous agents must generate ideas that are both original and internally coherent, yet current Large Language Models (LLMs) either default to familiar cultural patterns or sacrifice coherence when pushed toward novelty. We address this by introducing the Cultural Alien Sampler (CAS), a concept-selection method that explicitly separates compositional fit from cultural typicality. CAS uses two GPT-2 models fine-tun",
-      "pubDate": "2025-10-27T04:00:00.000Z",
+      "title": "SIGN: Schema-Induced Games for Naming",
+      "link": "https://arxiv.org/abs/2510.21855",
+      "description": "arXiv:2510.21855v1 Announce Type: new \nAbstract: Real-world AI systems are tackling increasingly complex problems, often through interactions among large language model (LLM) agents. When these agents develop inconsistent conventions, coordination can break down. Applications such as collaborative coding and distributed planning therefore require reliable, consistent communication, and scalability is a central concern as systems grow. We introduce Schema-Induced Games for Naming (SIGN), a naming",
+      "pubDate": "2025-10-28T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Cultural Alien Sampler: Open-ended art generation balancing originality and coherence"
+      "aiScore": 7,
+      "title_zh": "SIGN: Schema-Induced Games for Naming"
     },
     {
-      "title": "NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge",
-      "link": "https://arxiv.org/abs/2510.21144",
-      "description": "arXiv:2510.21144v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) empowers Large Language Models (LLMs) to dynamically integrate external knowledge during inference, improving their factual accuracy and adaptability. However, adversaries can inject poisoned external knowledge to override the model's internal memory. While existing attacks iteratively manipulate retrieval content or prompt structure of RAG, they largely ignore the model's internal representation dynamics and n",
-      "pubDate": "2025-10-27T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "NeuroGenPoisoning: Neuron-Guided Attacks on Retrieval-Augmented Generation of LLM via Genetic Optimization of External Knowledge"
-    },
-    {
-      "title": "PanicToCalm: A Proactive Counseling Agent for Panic Attacks",
-      "link": "https://arxiv.org/abs/2510.21143",
-      "description": "arXiv:2510.21143v1 Announce Type: new \nAbstract: Panic attacks are acute episodes of fear and distress, in which timely, appropriate intervention can significantly help individuals regain stability. However, suitable datasets for training such models remain scarce due to ethical and logistical issues. To address this, we introduce PACE, which is a dataset that includes high-distress episodes constructed from first-person narratives, and structured around the principles of Psychological First Aid",
-      "pubDate": "2025-10-27T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "PanicToCalm: A Proactive Counseling Agent for Panic Attacks"
-    },
-    {
-      "title": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM",
-      "link": "https://arxiv.org/abs/2510.20838",
-      "description": "arXiv:2510.20838v1 Announce Type: new \nAbstract: This study introduces a human-in-the-loop pipeline that converts unscaled, hand-drawn floor plan sketches into semantically consistent 3D BIM models. The workflow leverages multimodal large language models (MLLMs) within a multi-agent framework, combining perceptual extraction, human feedback, schema validation, and automated BIM scripting. Initially, sketches are iteratively refined into a structured JSON layout of walls, doors, and windows. Late",
-      "pubDate": "2025-10-27T04:00:00.000Z",
+      "title": "Computational Hardness of Reinforcement Learning with Partial $q^{\\pi}$-Realizability",
+      "link": "https://arxiv.org/abs/2510.21888",
+      "description": "arXiv:2510.21888v1 Announce Type: new \nAbstract: This paper investigates the computational complexity of reinforcement learning in a novel linear function approximation regime, termed partial $q^{\\pi}$-realizability. In this framework, the objective is to learn an $\\epsilon$-optimal policy with respect to a predefined policy set $\\Pi$, under the assumption that all value functions for policies in $\\Pi$ are linearly realizable. The assumptions of this framework are weaker than those in $q^{\\pi}$-",
+      "pubDate": "2025-10-28T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Sketch2BIM: A Multi-Agent Human-AI Collaborative Pipeline to Convert Hand-Drawn Floor Plans to 3D BIM"
+      "title_zh": "Computational Hardness of Reinforcement Learning with Partial $q^{\\pi}$-Realizability"
     },
     {
-      "title": "From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL",
-      "link": "https://arxiv.org/abs/2510.21045",
-      "description": "arXiv:2510.21045v1 Announce Type: new \nAbstract: The complexity of Structured Query Language (SQL) and the specialized nature of geospatial functions in tools like PostGIS present significant barriers to non-experts seeking to analyze spatial data. While Large Language Models (LLMs) offer promise for translating natural language into SQL (Text-to-SQL), single-agent approaches often struggle with the semantic and syntactic complexities of spatial queries. To address this, we propose a multi-agent",
-      "pubDate": "2025-10-27T04:00:00.000Z",
+      "title": "Towards Error-Centric Intelligence II: Energy-Structured Causal Models",
+      "link": "https://arxiv.org/abs/2510.22050",
+      "description": "arXiv:2510.22050v1 Announce Type: new \nAbstract: Contemporary machine learning optimizes for predictive accuracy, yet systems that achieve state of the art performance remain causally opaque: their internal representations provide no principled handle for intervention. We can retrain such models, but we cannot surgically edit specific mechanisms while holding others fixed, because learned latent variables lack causal semantics. We argue for a conceptual reorientation: intelligence is the ability",
+      "pubDate": "2025-10-28T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "From Questions to Queries: An AI-powered Multi-Agent Framework for Spatial Text-to-SQL"
+      "title_zh": "Towards Error-Centric Intelligence II: Energy-Structured Causal Models"
+    },
+    {
+      "title": "PREFINE: Personalized Story Generation via Simulated User Critics and User-Specific Rubric Generation",
+      "link": "https://arxiv.org/abs/2510.21721",
+      "description": "arXiv:2510.21721v1 Announce Type: new \nAbstract: While recent advances in Large Language Models (LLMs) have improved the quality of creative text generation, significant challenges remain in producing personalized stories that reflect individual user preferences. Conventional approaches rely on explicit feedback or fine-tuning, which presents practical issues regarding user burden, data collection, computational costs, and privacy. In this work, we propose PREFINE (Persona-and-Rubric Guided Crit",
+      "pubDate": "2025-10-28T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "PREFINE: Personalized Story Generation via Simulated User Critics and User-Specific Rubric Generation"
+    },
+    {
+      "title": "Performance Trade-offs of Optimizing Small Language Models for E-Commerce",
+      "link": "https://arxiv.org/abs/2510.21970",
+      "description": "arXiv:2510.21970v1 Announce Type: new \nAbstract: Large Language Models (LLMs) offer state-of-the-art performance in natural language understanding and generation tasks. However, the deployment of leading commercial models for specialized tasks, such as e-commerce, is often hindered by high computational costs, latency, and operational expenses. This paper investigates the viability of smaller, open-weight models as a resource-efficient alternative. We present a methodology for optimizing a one-b",
+      "pubDate": "2025-10-28T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Performance Trade-offs of Optimizing Small Language Models for E-Commerce"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-10-28T03:35:31.390Z",
+    "generatedAt": "2025-10-28T04:12:26.639Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
