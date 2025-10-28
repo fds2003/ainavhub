@@ -186,76 +186,24 @@ if __name__ == "__main__":
     
     def _get_random_algorithm_idea(self):
         """获取随机的算法想法"""
+        # 生成函数名
+        func_name = f"quick_sort_{random.choice(['optimized', 'efficient', 'three_way', 'randomized'])}"
+        
         algorithm_ideas = [
             # 排序算法
             {
                 "category": "sorting",
                 "name": "快速排序优化实现",
-                "function": f"quick_sort_{random.choice(['optimized', 'efficient', 'three_way', 'randomized'])}",
+                "function": func_name,
                 "params": "arr: list, low: int = 0, high: int = None",
-                "param_docs": "    arr (list): 待排序数组\\n    low (int): 起始索引\\n    high (int): 结束索引",
+                "param_docs": "    arr (list): 待排序数组\n    low (int): 起始索引\n    high (int): 结束索引",
                 "return_docs": "list: 排序后的数组",
                 "time_complexity": f"{random.choice(['O(n log n)', 'O(n log n) 平均', 'O(n²) 最坏'])}",
                 "space_complexity": f"{random.choice(['O(log n)', 'O(n)', 'O(1)'])}",
                 "implementation": self._generate_sorting_implementation(),
-                "test_cases": self._generate_sorting_test_cases(),
-                "benchmark_code": self._generate_sorting_benchmark()
+                "test_cases": self._generate_sorting_test_cases(func_name),
+                "benchmark_code": self._generate_sorting_benchmark(func_name)
             },
-            {
-                "category": "sorting",
-                "name": "归并排序实现",
-                "function": f"merge_sort_{random.choice(['iterative', 'recursive', 'optimized'])}",
-                "params": "arr: list",
-                "param_docs": "    arr (list): 待排序数组",
-                "return_docs": "list: 排序后的数组",
-                "time_complexity": "O(n log n)",
-                "space_complexity": "O(n)",
-                "implementation": self._generate_sorting_implementation(),
-                "test_cases": self._generate_sorting_test_cases(),
-                "benchmark_code": self._generate_sorting_benchmark()
-            },
-            # 搜索算法
-            {
-                "category": "searching",
-                "name": f"{random.choice(['二分搜索', '插值搜索', '指数搜索'])}",
-                "function": f"{random.choice(['binary', 'interpolation', 'exponential'])}_search",
-                "params": "arr: list, target: int",
-                "param_docs": "    arr (list): 已排序数组\\n    target (int): 目标值",
-                "return_docs": "int: 目标索引，未找到返回-1",
-                "time_complexity": f"{random.choice(['O(log n)', 'O(log log n)', 'O(n)'])}",
-                "space_complexity": f"{random.choice(['O(1)', 'O(log n)'])}",
-                "implementation": self._generate_search_implementation(),
-                "test_cases": self._generate_search_test_cases(),
-                "benchmark_code": self._generate_search_benchmark()
-            },
-            # 图算法
-            {
-                "category": "graph",
-                "name": f"{random.choice(['深度优先搜索', '广度优先搜索', 'Dijkstra算法'])}",
-                "function": f"{random.choice(['dfs', 'bfs', 'dijkstra'])}",
-                "params": f"{random.choice(['graph: dict, start: any', 'graph: list, start: int'])}",
-                "param_docs": "    graph: 图结构\\n    start: 起始节点",
-                "return_docs": f"{random.choice(['list: 遍历顺序', 'dict: 最短距离', 'set: 访问过的节点'])}",
-                "time_complexity": f"{random.choice(['O(V+E)', 'O(E log V)', 'O(V²)'])}",
-                "space_complexity": f"{random.choice(['O(V)', 'O(V+E)', 'O(1)'])}",
-                "implementation": self._generate_graph_implementation(),
-                "test_cases": self._generate_graph_test_cases(),
-                "benchmark_code": self._generate_graph_benchmark()
-            },
-            # 动态规划
-            {
-                "category": "dynamic_programming",
-                "name": f"{random.choice(['斐波那契数列', '最长公共子序列', '背包问题'])}",
-                "function": f"{random.choice(['fibonacci', 'lcs', 'knapsack'])}",
-                "params": f"{random.choice(['n: int', 's1: str, s2: str', 'weights: list, values: list, capacity: int'])}",
-                "param_docs": self._generate_dp_param_docs(),
-                "return_docs": self._generate_dp_return_docs(),
-                "time_complexity": f"{random.choice(['O(n)', 'O(n²)', 'O(2^n)'])}",
-                "space_complexity": f"{random.choice(['O(n)', 'O(1)', 'O(n²)'])}",
-                "implementation": self._generate_dp_implementation(),
-                "test_cases": self._generate_dp_test_cases(),
-                "benchmark_code": self._generate_dp_benchmark()
-            }
         ]
         
         # 根据日期选择不同的算法类别
@@ -530,30 +478,30 @@ if __name__ == "__main__":
         ]
         return random.choice(examples)
     
-    def _generate_sorting_test_cases(self):
+    def _generate_sorting_test_cases(self, function_name):
         """生成排序测试用例"""
-        return '''test_cases = [
-        {"input": [64, 34, 25, 12, 22, 11, 90], "expected": [11, 12, 22, 25, 34, 64, 90]},
-        {"input": [5, 2, 8, 1, 9], "expected": [1, 2, 5, 8, 9]},
-        {"input": [1], "expected": [1]},
-        {"input": [], "expected": []}
+        return f'''test_cases = [
+        {{"input": [64, 34, 25, 12, 22, 11, 90], "expected": [11, 12, 22, 25, 34, 64, 90]}},
+        {{"input": [5, 2, 8, 1, 9], "expected": [1, 2, 5, 8, 9]}},
+        {{"input": [1], "expected": [1]}},
+        {{"input": [], "expected": []}}
     ]
     
     for i, test_case in enumerate(test_cases):
         try:
-            result = {{function_name}}(test_case["input"])
+            result = {function_name}(test_case["input"])
             expected = test_case["expected"]
             assert result == expected, f"测试用例 {{i+1}} 失败: 期望 {{expected}}, 实际{{result}}"
             print(f"✓ 测试用例 {{i+1}} 通过")
         except Exception as e:
             print(f"✗ 测试用例 {{i+1}} 失败: {{str(e)}}")'''
     
-    def _generate_search_test_cases(self):
+    def _generate_search_test_cases(self, function_name):
         """生成搜索测试用例"""
-        return '''test_cases = [
-        {"input": ([1, 2, 3, 4, 5], 3), "expected": 2},
-        {"input": ([1, 2, 3, 4, 5], 6), "expected": -1},
-        {"input": ([], 1), "expected": -1}
+        return f'''test_cases = [
+        {{"input": ([1, 2, 3, 4, 5], 3), "expected": 2}},
+        {{"input": ([1, 2, 3, 4, 5], 6), "expected": -1}},
+        {{"input": ([], 1), "expected": -1}}
     ]
     
     for i, test_case in enumerate(test_cases):
@@ -565,9 +513,9 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"✗ 测试用例 {{i+1}} 失败: {{str(e)}}")'''
     
-    def _generate_graph_test_cases(self):
+    def _generate_graph_test_cases(self, function_name):
         """生成图算法测试用例"""
-        return '''# 图测试用例
+        return f'''# 图测试用例
     graph = {{
         'A': ['B', 'C'],
         'B': ['D', 'E'],
@@ -581,11 +529,11 @@ if __name__ == "__main__":
     print(f"遍历结果: {{result}}")
     assert len(result) == 6, f"应该访问6个节点，实际访问了{{len(result)}}个"'''
     
-    def _generate_dp_test_cases(self):
+    def _generate_dp_test_cases(self, function_name):
         """生成动态规划测试用例"""
-        return '''test_cases = [
-        {"input": (10,), "expected": 55},  # 斐波那契
-        {"input": ("ABCDGH", "AEDFHR"), "expected": 3},  # LCS
+        return f'''test_cases = [
+        {{"input": (10,), "expected": 55}},  # 斐波那契
+        {{"input": ("ABCDGH", "AEDFHR"), "expected": 3}},  # LCS
     ]
     
     for i, test_case in enumerate(test_cases):
@@ -597,58 +545,58 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"✗ 测试用例 {{i+1}} 失败: {{str(e)}}")'''
     
-    def _generate_sorting_benchmark(self):
+    def _generate_sorting_benchmark(self, function_name):
         """生成排序性能测试"""
-        return '''# 生成测试数据
+        return f'''# 生成测试数据
     test_data = [random.randint(1, 1000) for _ in range(1000)]
     
     start_time = time.time()
-    {{function_name}}(test_data.copy())
+    {function_name}(test_data.copy())
     end_time = time.time()
     
-    print(f"排序 1000 个元素耗时: {{{{end_time - start_time:.4f}}}} 秒")'''
+    print(f"排序 1000 个元素耗时: {{end_time - start_time:.4f}} 秒")'''
     
-    def _generate_search_benchmark(self):
+    def _generate_search_benchmark(self, function_name):
         """生成搜索性能测试"""
-        return '''# 生成测试数据
+        return f'''# 生成测试数据
     test_data = list(range(1, 10001))
     target = random.choice(test_data)
     
     start_time = time.time()
-    result = {{function_name}}(test_data, target)
+    result = {function_name}(test_data, target)
     end_time = time.time()
     
-    print(f"在 10000 个元素中搜索耗时: {{{{end_time - start_time:.6f}}}} 秒")
-    print(f"找到目标在索引: {{{{result}}}}")'''
+    print(f"在 10000 个元素中搜索耗时: {{end_time - start_time:.6f}} 秒")
+    print(f"找到目标在索引: {{result}}")'''
     
-    def _generate_graph_benchmark(self):
+    def _generate_graph_benchmark(self, function_name):
         """生成图算法性能测试"""
-        return '''# 创建大型测试图
-    large_graph = {{{{i: [i+1, i+2] for i in range(1000)}}}}
+        return f'''# 创建大型测试图
+    large_graph = {{i: [i+1, i+2] for i in range(1000)}}
     large_graph[999] = []
     large_graph[1000] = []
     
     start_time = time.time()
-    result = {{function_name}}(large_graph, 0)
+    result = {function_name}(large_graph, 0)
     end_time = time.time()
     
-    print(f"遍历 1000 个节点的图耗时: {{{{end_time - start_time:.4f}}}} 秒")'''
+    print(f"遍历 1000 个节点的图耗时: {{end_time - start_time:.4f}} 秒")'''
     
-    def _generate_dp_benchmark(self):
+    def _generate_dp_benchmark(self, function_name):
         """生成动态规划性能测试"""
-        return '''start_time = time.time()
-    result = {{function_name}}(30)  # 计算第30个Fibonacci数
+        return f'''start_time = time.time()
+    result = {function_name}(30)  # 计算第30个Fibonacci数
     end_time = time.time()
     
-    print(f"计算 Fibonacci(30) 耗时: {{{{end_time - start_time:.6f}}}} 秒")
-    print(f"结果: {{{{result}}}}")'''
+    print(f"计算 Fibonacci(30) 耗时: {{end_time - start_time:.6f}} 秒")
+    print(f"结果: {{result}}")'''
     
     def _generate_dp_param_docs(self):
         """生成动态规划参数文档"""
         return random.choice([
             "    n (int): 斐波那契数列位置",
-            "    s1 (str): 第一个字符串\\n    s2 (str): 第二个字符串",
-            "    weights (list): 物品重量列表\\n    values (list): 物品价值列表\\n    capacity (int): 背包容量"
+            "    s1 (str): 第一个字符串\n    s2 (str): 第二个字符串",
+            "    weights (list): 物品重量列表\n    values (list): 物品价值列表\n    capacity (int): 背包容量"
         ])
     
     def _generate_dp_return_docs(self):
