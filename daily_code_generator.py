@@ -792,17 +792,22 @@ if __name__ == "__main__":
     def git_add_and_commit(self, files):
         """Git添加和提交"""
         try:
+            # 检查文件是否有变化（在add之前）
+            has_changes = False
+            for file in files:
+                result = subprocess.run(['git', 'status', '--porcelain', file], 
+                                      capture_output=True, text=True, cwd=self.base_dir)
+                if result.stdout.strip():
+                    has_changes = True
+                    break
+            
+            if not has_changes:
+                print("⚠️  文件已存在且没有变化，跳过提交")
+                return True
+            
             # 添加文件到Git
             subprocess.run(['git', 'add'] + files, check=True, cwd=self.base_dir)
             print("✓ 文件已添加到Git暂存区")
-            
-            # 检查是否有变化需要提交
-            result = subprocess.run(['git', 'status', '--porcelain'], 
-                                  capture_output=True, text=True, cwd=self.base_dir)
-            
-            if not result.stdout.strip():
-                print("⚠️  没有新的变化需要提交")
-                return True
             
             # 提交更改
             commit_message = f"每日代码提交 - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - 种子:{self.seed}"
@@ -853,9 +858,21 @@ if __name__ == "__main__":
                 print("🔄 已自动提交到Git仓库")
                 print(f"🎲 今日种子: {self.seed} (用于重现)")
             else:
-                print("⚠️  文件已提交到本地仓库，但推送失败")
+                print("=" * 60)
+                print("⚠️  文件已生成，但推送失败")
+                print("📁 生成文件:")
+                for file in generated_files:
+                    print(f"   📄 {os.path.basename(file)}")
+                print("\n提示: 请手动执行以下命令同步代码:")
+                print("  1. git pull --rebase")
+                print("  2. git push")
         else:
-            print("❌ Git操作失败，请检查Git配置")
+            print("=" * 60)
+            print("ℹ️  文件已生成")
+            print(f"📁 生成文件:")
+            for file in generated_files:
+                print(f"   📄 {os.path.basename(file)}")
+            print("⚠️  文件没有变化，未创建新提交")
 
 def main():
     """主函数"""
