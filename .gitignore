@@ -39,3 +39,16 @@ temp/
 
 # Server logs
 server.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Code generator files (not part of this project)
+algorithm_*.py
+utility_*.py
+code_generator_config.json
+daily_code_generator.py
