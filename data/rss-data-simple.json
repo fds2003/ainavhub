@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "title": "Foundation of Intelligence: Review of Math Word Problems from Human Cognition Perspective",
-      "title_zh": "Foundation of Intelligence: Review of Math Word Problems from Human Cognition Perspective",
-      "description": "arXiv:2510.21999v1 Announce Type: new \nAbstract: Math word problem (MWP) serves as a fundamental research topic in artificial intelligence (AI) dating back to 1960s. This research aims to advance the reasoning abilities of AI by mirroring the human-like cognitive intelligence. The mainstream technological paradigm has evolved from the early rule-based methods, to deep learning models, and is rapidly advancing towards large language models. However, the field still lacks a systematic taxonomy for",
-      "link": "https://arxiv.org/abs/2510.21999",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-28"
-    },
-    {
-      "title": "A Multi-Component AI Framework for Computational Psychology: From Robust Predictive Modeling to Deployed Generative Dialogue",
-      "title_zh": "A Multi-Component AI Framework for Computational Psychology: From Robust Predictive Modeling to Deployed Generative Dialogue",
-      "description": "arXiv:2510.21720v1 Announce Type: new \nAbstract: The confluence of Artificial Intelligence and Computational Psychology presents an opportunity to model, understand, and interact with complex human psychological states through computational means. This paper presents a comprehensive, multi-faceted framework designed to bridge the gap between isolated predictive modeling and an interactive system for psychological analysis. The methodology encompasses a rigorous, end-to-end development lifecycle.",
-      "link": "https://arxiv.org/abs/2510.21720",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-28"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -55,6 +37,24 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",
+      "title_zh": "Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",
+      "description": "arXiv:2510.23883v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) and endowed with planning, tool use, memory, and autonomy, are emerging as powerful, flexible platforms for automation. Their ability to autonomously execute tasks across web, software, and physical environments creates new and amplified security risks, distinct from both traditional AI safety and conventional software security. This survey outlines a taxonomy of threats specific to agenti",
+      "link": "https://arxiv.org/abs/2510.23883",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-29"
+    },
+    {
+      "title": "Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model Driven Control for Digital Twins",
+      "title_zh": "Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model Driven Control for Digital Twins",
+      "description": "arXiv:2510.23882v1 Announce Type: new \nAbstract: This work investigates the use of digital twins for dynamical system modeling and control, integrating physics-based, data-driven, and hybrid approaches with both traditional and AI-driven controllers. Using a miniature greenhouse as a test platform, four predictive models Linear, Physics-Based Modeling (PBM), Long Short Term Memory (LSTM), and Hybrid Analysis and Modeling (HAM) are developed and compared under interpolation and extrapolation scen",
+      "link": "https://arxiv.org/abs/2510.23882",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-29"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -62,6 +62,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "Evaluating In Silico Creativity: An Expert Review of AI Chess Compositions",
+      "title_zh": "Evaluating In Silico Creativity: An Expert Review of AI Chess Compositions",
+      "description": "arXiv:2510.23772v1 Announce Type: new \nAbstract: The rapid advancement of Generative AI has raised significant questions regarding its ability to produce creative and novel outputs. Our recent work investigates this question within the domain of chess puzzles and presents an AI system designed to generate puzzles characterized by aesthetic appeal, novelty, counter-intuitive and unique solutions. We briefly discuss our method below and refer the reader to the technical paper for more details. To ",
+      "link": "https://arxiv.org/abs/2510.23772",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-10-29"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -91,58 +100,49 @@
       "date": "2021-10-21"
     },
     {
-      "title": "LLM-AR: LLM-powered Automated Reasoning Framework",
-      "title_zh": "LLM-AR: LLM-powered Automated Reasoning Framework",
-      "description": "arXiv:2510.22034v1 Announce Type: new \nAbstract: Large language models (LLMs) can already identify patterns and reason effectively, yet their variable accuracy hampers adoption in high-stakes decision-making applications. In this paper, we study this issue from a venture capital perspective by predicting idea-stage startup success based on founder traits. (i) To build a reliable prediction model, we introduce LLM-AR, a pipeline inspired by neural-symbolic systems that distils LLM-generated heuri",
-      "link": "https://arxiv.org/abs/2510.22034",
+      "title": "Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models",
+      "title_zh": "Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models",
+      "description": "arXiv:2510.23824v1 Announce Type: new \nAbstract: Coordinating multiple autonomous agents in shared environments under decentralized conditions is a long-standing challenge in robotics and artificial intelligence. This work addresses the problem of decentralized goal assignment for multi-agent path planning, where agents independently generate ranked preferences over goals based on structured representations of the environment, including grid visualizations and scenario data. After this reasoning",
+      "link": "https://arxiv.org/abs/2510.23824",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-28"
+      "date": "2025-10-29"
     },
     {
-      "title": "SIGN: Schema-Induced Games for Naming",
-      "title_zh": "SIGN: Schema-Induced Games for Naming",
-      "description": "arXiv:2510.21855v1 Announce Type: new \nAbstract: Real-world AI systems are tackling increasingly complex problems, often through interactions among large language model (LLM) agents. When these agents develop inconsistent conventions, coordination can break down. Applications such as collaborative coding and distributed planning therefore require reliable, consistent communication, and scalability is a central concern as systems grow. We introduce Schema-Induced Games for Naming (SIGN), a naming",
-      "link": "https://arxiv.org/abs/2510.21855",
+      "title": "AI and the Decentering of Disciplinary Creativity",
+      "title_zh": "AI and the Decentering of Disciplinary Creativity",
+      "description": "arXiv:2510.23734v1 Announce Type: new \nAbstract: This paper examines the role of artificial intelligence in scientific problem-solving, with a focus on its implications for disciplinary creativity. Drawing on recent work in the philosophy of creativity, I distinguish between creative approaches and creative products, and introduce the concept of disciplinary creativity -the creative application of discipline-specific expertise to a valued problem within that field. Through two cases in mathemati",
+      "link": "https://arxiv.org/abs/2510.23734",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-28"
+      "date": "2025-10-29"
     },
     {
-      "title": "Computational Hardness of Reinforcement Learning with Partial $q^{\\pi}$-Realizability",
-      "title_zh": "Computational Hardness of Reinforcement Learning with Partial $q^{\\pi}$-Realizability",
-      "description": "arXiv:2510.21888v1 Announce Type: new \nAbstract: This paper investigates the computational complexity of reinforcement learning in a novel linear function approximation regime, termed partial $q^{\\pi}$-realizability. In this framework, the objective is to learn an $\\epsilon$-optimal policy with respect to a predefined policy set $\\Pi$, under the assumption that all value functions for policies in $\\Pi$ are linearly realizable. The assumptions of this framework are weaker than those in $q^{\\pi}$-",
-      "link": "https://arxiv.org/abs/2510.21888",
+      "title": "Generating Creative Chess Puzzles",
+      "title_zh": "Generating Creative Chess Puzzles",
+      "description": "arXiv:2510.23881v1 Announce Type: new \nAbstract: While Generative AI rapidly advances in various domains, generating truly creative, aesthetic, and counter-intuitive outputs remains a challenge. This paper presents an approach to tackle these difficulties in the domain of chess puzzles. We start by benchmarking Generative AI architectures, and then introduce an RL framework with novel rewards based on chess engine search statistics to overcome some of those shortcomings. The rewards are designed",
+      "link": "https://arxiv.org/abs/2510.23881",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-28"
+      "date": "2025-10-29"
     },
     {
-      "title": "Towards Error-Centric Intelligence II: Energy-Structured Causal Models",
-      "title_zh": "Towards Error-Centric Intelligence II: Energy-Structured Causal Models",
-      "description": "arXiv:2510.22050v1 Announce Type: new \nAbstract: Contemporary machine learning optimizes for predictive accuracy, yet systems that achieve state of the art performance remain causally opaque: their internal representations provide no principled handle for intervention. We can retrain such models, but we cannot surgically edit specific mechanisms while holding others fixed, because learned latent variables lack causal semantics. We argue for a conceptual reorientation: intelligence is the ability",
-      "link": "https://arxiv.org/abs/2510.22050",
+      "title": "Why Foundation Models in Pathology Are Failing",
+      "title_zh": "Why Foundation Models in Pathology Are Failing",
+      "description": "arXiv:2510.23807v1 Announce Type: new \nAbstract: In non-medical domains, foundation models (FMs) have revolutionized computer vision and language processing through large-scale self-supervised and multimodal learning. Consequently, their rapid adoption in computational pathology was expected to deliver comparable breakthroughs in cancer diagnosis, prognostication, and multimodal retrieval. However, recent systematic evaluations reveal fundamental weaknesses: low diagnostic accuracy, poor robustn",
+      "link": "https://arxiv.org/abs/2510.23807",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-28"
+      "date": "2025-10-29"
     },
     {
-      "title": "PREFINE: Personalized Story Generation via Simulated User Critics and User-Specific Rubric Generation",
-      "title_zh": "PREFINE: Personalized Story Generation via Simulated User Critics and User-Specific Rubric Generation",
-      "description": "arXiv:2510.21721v1 Announce Type: new \nAbstract: While recent advances in Large Language Models (LLMs) have improved the quality of creative text generation, significant challenges remain in producing personalized stories that reflect individual user preferences. Conventional approaches rely on explicit feedback or fine-tuning, which presents practical issues regarding user burden, data collection, computational costs, and privacy. In this work, we propose PREFINE (Persona-and-Rubric Guided Crit",
-      "link": "https://arxiv.org/abs/2510.21721",
+      "title": "Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents",
+      "title_zh": "Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents",
+      "description": "arXiv:2510.23691v1 Announce Type: new \nAbstract: We present Game-TARS, a generalist game agent trained with a unified, scalable action space anchored to human-aligned native keyboard-mouse inputs. Unlike API- or GUI-based approaches, this paradigm enables large-scale continual pre-training across heterogeneous domains, including OS, web, and simulation games. Game-TARS is pre-trained on over 500B tokens with diverse trajectories and multimodal data. Key techniques include a decaying continual lo",
+      "link": "https://arxiv.org/abs/2510.23691",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-10-28"
-    },
-    {
-      "title": "Performance Trade-offs of Optimizing Small Language Models for E-Commerce",
-      "title_zh": "Performance Trade-offs of Optimizing Small Language Models for E-Commerce",
-      "description": "arXiv:2510.21970v1 Announce Type: new \nAbstract: Large Language Models (LLMs) offer state-of-the-art performance in natural language understanding and generation tasks. However, the deployment of leading commercial models for specialized tasks, such as e-commerce, is often hindered by high computational costs, latency, and operational expenses. This paper investigates the viability of smaller, open-weight models as a resource-efficient alternative. We present a methodology for optimizing a one-b",
-      "link": "https://arxiv.org/abs/2510.21970",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-10-28"
+      "date": "2025-10-29"
     }
   ]
 }
