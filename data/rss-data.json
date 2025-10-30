@@ -41,26 +41,6 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",
-      "link": "https://arxiv.org/abs/2510.23883",
-      "description": "arXiv:2510.23883v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) and endowed with planning, tool use, memory, and autonomy, are emerging as powerful, flexible platforms for automation. Their ability to autonomously execute tasks across web, software, and physical environments creates new and amplified security risks, distinct from both traditional AI safety and conventional software security. This survey outlines a taxonomy of threats specific to agenti",
-      "pubDate": "2025-10-29T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18.5,
-      "title_zh": "Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges"
-    },
-    {
-      "title": "Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model Driven Control for Digital Twins",
-      "link": "https://arxiv.org/abs/2510.23882",
-      "description": "arXiv:2510.23882v1 Announce Type: new \nAbstract: This work investigates the use of digital twins for dynamical system modeling and control, integrating physics-based, data-driven, and hybrid approaches with both traditional and AI-driven controllers. Using a miniature greenhouse as a test platform, four predictive models Linear, Physics-Based Modeling (PBM), Long Short Term Memory (LSTM), and Hybrid Analysis and Modeling (HAM) are developed and compared under interpolation and extrapolation scen",
-      "pubDate": "2025-10-29T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18,
-      "title_zh": "Hybrid Modeling, Sim-to-Real Reinforcement Learning, and Large Language Model Driven Control for Digital Twins"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -69,16 +49,6 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "Evaluating In Silico Creativity: An Expert Review of AI Chess Compositions",
-      "link": "https://arxiv.org/abs/2510.23772",
-      "description": "arXiv:2510.23772v1 Announce Type: new \nAbstract: The rapid advancement of Generative AI has raised significant questions regarding its ability to produce creative and novel outputs. Our recent work investigates this question within the domain of chess puzzles and presents an AI system designed to generate puzzles characterized by aesthetic appeal, novelty, counter-intuitive and unique solutions. We briefly discuss our method below and refer the reader to the technical paper for more details. To ",
-      "pubDate": "2025-10-29T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "Evaluating In Silico Creativity: An Expert Review of AI Chess Compositions"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -111,59 +81,89 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models",
-      "link": "https://arxiv.org/abs/2510.23824",
-      "description": "arXiv:2510.23824v1 Announce Type: new \nAbstract: Coordinating multiple autonomous agents in shared environments under decentralized conditions is a long-standing challenge in robotics and artificial intelligence. This work addresses the problem of decentralized goal assignment for multi-agent path planning, where agents independently generate ranked preferences over goals based on structured representations of the environment, including grid visualizations and scenario data. After this reasoning",
-      "pubDate": "2025-10-29T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13.5,
-      "title_zh": "Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models"
-    },
-    {
-      "title": "AI and the Decentering of Disciplinary Creativity",
-      "link": "https://arxiv.org/abs/2510.23734",
-      "description": "arXiv:2510.23734v1 Announce Type: new \nAbstract: This paper examines the role of artificial intelligence in scientific problem-solving, with a focus on its implications for disciplinary creativity. Drawing on recent work in the philosophy of creativity, I distinguish between creative approaches and creative products, and introduce the concept of disciplinary creativity -the creative application of discipline-specific expertise to a valued problem within that field. Through two cases in mathemati",
-      "pubDate": "2025-10-29T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "AI and the Decentering of Disciplinary Creativity"
-    },
-    {
-      "title": "Generating Creative Chess Puzzles",
-      "link": "https://arxiv.org/abs/2510.23881",
-      "description": "arXiv:2510.23881v1 Announce Type: new \nAbstract: While Generative AI rapidly advances in various domains, generating truly creative, aesthetic, and counter-intuitive outputs remains a challenge. This paper presents an approach to tackle these difficulties in the domain of chess puzzles. We start by benchmarking Generative AI architectures, and then introduce an RL framework with novel rewards based on chess engine search statistics to overcome some of those shortcomings. The rewards are designed",
-      "pubDate": "2025-10-29T04:00:00.000Z",
+      "title": "FELA: A Multi-Agent Evolutionary System for Feature Engineering of Industrial Event Log Data",
+      "link": "https://arxiv.org/abs/2510.25223",
+      "description": "arXiv:2510.25223v1 Announce Type: new \nAbstract: Event log data, recording fine-grained user actions and system events, represent one of the most valuable assets for modern digital services. However, the complexity and heterogeneity of industrial event logs--characterized by large scale, high dimensionality, diverse data types, and intricate temporal or relational structures--make feature engineering extremely challenging. Existing automatic feature engineering approaches, such as AutoML or gene",
+      "pubDate": "2025-10-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "Generating Creative Chess Puzzles"
+      "title_zh": "FELA: A Multi-Agent Evolutionary System for Feature Engineering of Industrial Event Log Data"
     },
     {
-      "title": "Why Foundation Models in Pathology Are Failing",
-      "link": "https://arxiv.org/abs/2510.23807",
-      "description": "arXiv:2510.23807v1 Announce Type: new \nAbstract: In non-medical domains, foundation models (FMs) have revolutionized computer vision and language processing through large-scale self-supervised and multimodal learning. Consequently, their rapid adoption in computational pathology was expected to deliver comparable breakthroughs in cancer diagnosis, prognostication, and multimodal retrieval. However, recent systematic evaluations reveal fundamental weaknesses: low diagnostic accuracy, poor robustn",
-      "pubDate": "2025-10-29T04:00:00.000Z",
+      "title": "KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA",
+      "link": "https://arxiv.org/abs/2510.25101",
+      "description": "arXiv:2510.25101v1 Announce Type: new \nAbstract: Knowledge Base Question Answering (KBQA) aims to answer natural-language questions over a structured Knowledge Base (KB). Recent work improves KBQA by adopting an agentic reasoning paradigm, in which Large Language Models (LLMs) iteratively decompose a question, generate its corresponding logical queries, and interact with the KB to derive the answer. However, these methods typically fine-tune LLMs on reasoning trajectories synthesized via process",
+      "pubDate": "2025-10-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Why Foundation Models in Pathology Are Failing"
+      "aiScore": 11,
+      "title_zh": "KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA"
     },
     {
-      "title": "Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents",
-      "link": "https://arxiv.org/abs/2510.23691",
-      "description": "arXiv:2510.23691v1 Announce Type: new \nAbstract: We present Game-TARS, a generalist game agent trained with a unified, scalable action space anchored to human-aligned native keyboard-mouse inputs. Unlike API- or GUI-based approaches, this paradigm enables large-scale continual pre-training across heterogeneous domains, including OS, web, and simulation games. Game-TARS is pre-trained on over 500B tokens with diverse trajectories and multimodal data. Key techniques include a decaying continual lo",
-      "pubDate": "2025-10-29T04:00:00.000Z",
+      "title": "Scheduling Your LLM Reinforcement Learning with Reasoning Trees",
+      "link": "https://arxiv.org/abs/2510.24832",
+      "description": "arXiv:2510.24832v1 Announce Type: new \nAbstract: Using Reinforcement Learning with Verifiable Rewards (RLVR) to optimize Large Language Models (LLMs) can be conceptualized as progressively editing a query's `Reasoning Tree'. This process involves exploring nodes (tokens) and dynamically modifying the model's policy at each node. When combined with data scheduling, this process yields further gains in data efficiency and accuracy. However, existing RLVR data scheduling methods typically rely on p",
+      "pubDate": "2025-10-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents"
+      "aiScore": 9,
+      "title_zh": "Scheduling Your LLM Reinforcement Learning with Reasoning Trees"
+    },
+    {
+      "title": "H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts",
+      "link": "https://arxiv.org/abs/2510.25091",
+      "description": "arXiv:2510.25091v1 Announce Type: new \nAbstract: Stock movement prediction remains fundamentally challenging due to complex temporal dependencies, heterogeneous modalities, and dynamically evolving inter-stock relationships. Existing approaches often fail to unify structural, semantic, and regime-adaptive modeling within a scalable framework. This work introduces H3M-SSMoEs, a novel Hypergraph-based MultiModal architecture with LLM reasoning and Style-Structured Mixture of Experts, integrating t",
+      "pubDate": "2025-10-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 9,
+      "title_zh": "H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts"
+    },
+    {
+      "title": "RAVR: Reference-Answer-guided Variational Reasoning for Large Language Models",
+      "link": "https://arxiv.org/abs/2510.25206",
+      "description": "arXiv:2510.25206v1 Announce Type: new \nAbstract: Reinforcement learning (RL) can refine the reasoning abilities of large language models (LLMs), but critically depends on a key prerequisite: the LLM can already generate high-utility reasoning paths with non-negligible probability. For tasks beyond the LLM's current competence, such reasoning path can be hard to sample, and learning risks reinforcing familiar but suboptimal reasoning. We are motivated by the insight from cognitive science that Wh",
+      "pubDate": "2025-10-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "RAVR: Reference-Answer-guided Variational Reasoning for Large Language Models"
+    },
+    {
+      "title": "Aligning Large Language Models with Procedural Rules: An Autoregressive State-Tracking Prompting for In-Game Trading",
+      "link": "https://arxiv.org/abs/2510.25014",
+      "description": "arXiv:2510.25014v1 Announce Type: new \nAbstract: Large Language Models (LLMs) enable dynamic game interactions but fail to follow essential procedural flows in rule-governed trading systems, eroding player trust. This work resolves the core tension between the creative flexibility of LLMs and the procedural demands of in-game trading (browse-offer-review-confirm). To this end, Autoregressive State-Tracking Prompting (ASTP) is introduced, a methodology centered on a strategically orchestrated pro",
+      "pubDate": "2025-10-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Aligning Large Language Models with Procedural Rules: An Autoregressive State-Tracking Prompting for In-Game Trading"
+    },
+    {
+      "title": "Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision",
+      "link": "https://arxiv.org/abs/2510.25205",
+      "description": "arXiv:2510.25205v1 Announce Type: new \nAbstract: Autonomous driving is an emerging technology that is expected to bring significant social, economic, and environmental benefits. However, these benefits come with rising energy consumption by computation engines, limiting the driving range of vehicles, especially electric ones. Perception computing is typically the most power-intensive component, as it relies on largescale deep learning models to extract environmental features. Recently, numerous ",
+      "pubDate": "2025-10-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision"
+    },
+    {
+      "title": "Taming the Real-world Complexities in CPT E/M Coding with Large Language Models",
+      "link": "https://arxiv.org/abs/2510.25007",
+      "description": "arXiv:2510.25007v1 Announce Type: new \nAbstract: Evaluation and Management (E/M) coding, under the Current Procedural Terminology (CPT) taxonomy, documents medical services provided to patients by physicians. Used primarily for billing purposes, it is in physicians' best interest to provide accurate CPT E/M codes. %While important, it is an auxiliary task that adds to physicians' documentation burden. Automating this coding task will help alleviate physicians' documentation burden, improve billi",
+      "pubDate": "2025-10-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5.5,
+      "title_zh": "Taming the Real-world Complexities in CPT E/M Coding with Large Language Models"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-10-30T03:37:34.055Z",
+    "generatedAt": "2025-10-30T04:12:00.627Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.375
+    "averageScore": 14.21875
   }
 }
