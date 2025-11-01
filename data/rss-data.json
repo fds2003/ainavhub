@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Humains-Junior: A 3.8B Language Model Achieving GPT-4o-Level Factual Accuracy by Directed Exoskeleton Reasoning",
-      "link": "https://arxiv.org/abs/2510.25933",
-      "description": "arXiv:2510.25933v1 Announce Type: new \nAbstract: We introduce Humans-Junior, a 3.8B model that matches GPT-4o on the FACTS Grounding public subset within a $\\pm 5$ pp equivalence margin.\n  Results. On Q1--Q500 under identical judges, GPT-4o scores 73.5% (95% CI 69.5--77.2) and Humans-Junior 72.7% (95% CI 68.7--76.5); the paired difference is 0.8 pp (bootstrap 95% CI $-3.1$ to $+4.7$; permutation $p = 0.72$; Cohen's $d = 0.023$). TOST establishes equivalence at $\\pm 5$ pp (not at $\\pm 3$ pp). Whe",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 29,
-      "title_zh": "Humains-Junior: A 3.8B Language Model Achieving GPT-4o-Level Factual Accuracy by Directed Exoskeleton Reasoning"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -39,16 +29,6 @@
       "category": "行业趋势",
       "aiScore": 24,
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
-    },
-    {
-      "title": "Through the Judge's Eyes: Inferred Thinking Traces Improve Reliability of LLM Raters",
-      "link": "https://arxiv.org/abs/2510.25860",
-      "description": "arXiv:2510.25860v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as raters for evaluation tasks. However, their reliability is often limited for subjective tasks, when human judgments involve subtle reasoning beyond annotation labels. Thinking traces, the reasoning behind a judgment, are highly informative but challenging to collect and curate. We present a human-LLM collaborative framework to infer thinking traces from label-only annotations. The proposed fram",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 21,
-      "title_zh": "Through the Judge's Eyes: Inferred Thinking Traces Improve Reliability of LLM Raters"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -99,71 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "SciTrust 2.0: A Comprehensive Framework for Evaluating Trustworthiness of Large Language Models in Scientific Applications",
-      "link": "https://arxiv.org/abs/2510.25908",
-      "description": "arXiv:2510.25908v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated transformative potential in scientific research, yet their deployment in high-stakes contexts raises significant trustworthiness concerns. Here, we introduce SciTrust 2.0, a comprehensive framework for evaluating LLM trustworthiness in scientific applications across four dimensions: truthfulness, adversarial robustness, scientific safety, and scientific ethics. Our framework incorporates novel, open-e",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "SciTrust 2.0: A Comprehensive Framework for Evaluating Trustworthiness of Large Language Models in Scientific Applications"
-    },
-    {
-      "title": "An Agentic Framework for Rapid Deployment of Edge AI Solutions in Industry 5.0",
-      "link": "https://arxiv.org/abs/2510.25813",
-      "description": "arXiv:2510.25813v1 Announce Type: new \nAbstract: We present a novel framework for Industry 5.0 that simplifies the deployment of AI models on edge devices in various industrial settings. The design reduces latency and avoids external data transfer by enabling local inference and real-time processing. Our implementation is agent-based, which means that individual agents, whether human, algorithmic, or collaborative, are responsible for well-defined tasks, enabling flexibility and simplifying inte",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "An Agentic Framework for Rapid Deployment of Edge AI Solutions in Industry 5.0"
-    },
-    {
-      "title": "Towards Piece-by-Piece Explanations for Chess Positions with SHAP",
-      "link": "https://arxiv.org/abs/2510.25775",
-      "description": "arXiv:2510.25775v1 Announce Type: new \nAbstract: Contemporary chess engines offer precise yet opaque evaluations, typically expressed as centipawn scores. While effective for decision-making, these outputs obscure the underlying contributions of individual pieces or patterns. In this paper, we explore adapting SHAP (SHapley Additive exPlanations) to the domain of chess analysis, aiming to attribute a chess engines evaluation to specific pieces on the board. By treating pieces as features and sys",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Towards Piece-by-Piece Explanations for Chess Positions with SHAP"
-    },
-    {
-      "title": "Approximating Human Preferences Using a Multi-Judge Learned System",
-      "link": "https://arxiv.org/abs/2510.25884",
-      "description": "arXiv:2510.25884v1 Announce Type: new \nAbstract: Aligning LLM-based judges with human preferences is a significant challenge, as they are difficult to calibrate and often suffer from rubric sensitivity, bias, and instability. Overcoming this challenge advances key applications, such as creating reliable reward models for Reinforcement Learning from Human Feedback (RLHF) and building effective routing systems that select the best-suited model for a given user query. In this work, we propose a fra",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Approximating Human Preferences Using a Multi-Judge Learned System"
-    },
-    {
-      "title": "FinOps Agent -- A Use-Case for IT Infrastructure and Cost Optimization",
-      "link": "https://arxiv.org/abs/2510.25914",
-      "description": "arXiv:2510.25914v1 Announce Type: new \nAbstract: FinOps (Finance + Operations) represents an operational framework and cultural practice which maximizes cloud business value through collaborative financial accountability across engineering, finance, and business teams. FinOps practitioners face a fundamental challenge: billing data arrives in heterogeneous formats, taxonomies, and metrics from multiple cloud providers and internal systems which eventually lead to synthesizing actionable insights",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6.5,
-      "title_zh": "FinOps Agent -- A Use-Case for IT Infrastructure and Cost Optimization"
-    },
-    {
-      "title": "Symbolically Scaffolded Play: Designing Role-Sensitive Prompts for Generative NPC Dialogue",
-      "link": "https://arxiv.org/abs/2510.25820",
-      "description": "arXiv:2510.25820v1 Announce Type: new \nAbstract: Large Language Models (LLMs) promise to transform interactive games by enabling non-player characters (NPCs) to sustain unscripted dialogue. Yet it remains unclear whether constrained prompts actually improve player experience. We investigate this question through The Interview, a voice-based detective game powered by GPT-4o. A within-subjects usability study ($N=10$) compared high-constraint (HCP) and low-constraint (LCP) prompts, revealing no re",
-      "pubDate": "2025-10-31T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Symbolically Scaffolded Play: Designing Role-Sensitive Prompts for Generative NPC Dialogue"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2025-11-01T03:37:25.738Z",
+    "totalCount": 8,
+    "generatedAt": "2025-11-01T04:10:45.809Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 16.53125
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
