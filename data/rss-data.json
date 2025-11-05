@@ -1,14 +1,24 @@
 {
   "articles": [
     {
-      "title": "The Denario project: Deep knowledge AI agents for scientific discovery",
-      "link": "https://arxiv.org/abs/2510.26887",
-      "description": "arXiv:2510.26887v1 Announce Type: new \nAbstract: We present Denario, an AI multi-agent system designed to serve as a scientific research assistant. Denario can perform many different tasks, such as generating ideas, checking the literature, developing research plans, writing and executing code, making plots, and drafting and reviewing a scientific paper. The system has a modular architecture, allowing it to handle specific tasks, such as generating an idea, or carrying out end-to-end scientific ",
-      "pubDate": "2025-11-04T05:00:00.000Z",
+      "title": "Advancing AI Challenges for the United States Department of the Air Force",
+      "link": "https://arxiv.org/abs/2511.00267",
+      "description": "arXiv:2511.00267v1 Announce Type: new \nAbstract: The DAF-MIT AI Accelerator is a collaboration between the United States Department of the Air Force (DAF) and the Massachusetts Institute of Technology (MIT). This program pioneers fundamental advances in artificial intelligence (AI) to expand the competitive advantage of the United States in the defense and civilian sectors. In recent years, AI Accelerator projects have developed and launched public challenge problems aimed at advancing AI resear",
+      "pubDate": "2025-11-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 28,
-      "title_zh": "The Denario project: Deep knowledge AI agents for scientific discovery"
+      "aiScore": 49,
+      "title_zh": "Advancing AI Challenges for the United States Department of the Air Force"
+    },
+    {
+      "title": "Engineering.ai: A Platform for Teams of AI Engineers in Computational Design",
+      "link": "https://arxiv.org/abs/2511.00122",
+      "description": "arXiv:2511.00122v1 Announce Type: new \nAbstract: In modern engineering practice, human engineers collaborate in specialized teams to design complex products, with each expert completing their respective tasks while communicating and exchanging results and data with one another. While this division of expertise is essential for managing multidisciplinary complexity, it demands substantial development time and cost. Recently, we introduced OpenFOAMGPT (1.0, 2.0), which functions as an autonomous A",
+      "pubDate": "2025-11-05T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 35,
+      "title_zh": "Engineering.ai: A Platform for Teams of AI Engineers in Computational Design"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -41,16 +51,6 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement",
-      "link": "https://arxiv.org/abs/2510.27051",
-      "description": "arXiv:2510.27051v1 Announce Type: new \nAbstract: Enterprise AI agents must continuously adapt to maintain accuracy, reduce latency, and remain aligned with user needs. We present a practical implementation of a data flywheel in NVInfo AI, NVIDIA's Mixture-of-Experts (MoE) Knowledge Assistant serving over 30,000 employees. By operationalizing a MAPE-driven data flywheel, we built a closed-loop system that systematically addresses failures in retrieval-augmented generation (RAG) pipelines and enab",
-      "pubDate": "2025-11-04T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 20,
-      "title_zh": "Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -59,16 +59,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Glia: A Human-Inspired AI for Automated Systems Design and Optimization",
-      "link": "https://arxiv.org/abs/2510.27176",
-      "description": "arXiv:2510.27176v1 Announce Type: new \nAbstract: Can an AI autonomously design mechanisms for computer systems on par with the creativity and reasoning of human experts? We present Glia, an AI architecture for networked systems design that uses large language models (LLMs) in a human-inspired, multi-agent workflow. Each agent specializes in reasoning, experimentation, and analysis, collaborating through an evaluation framework that grounds abstract reasoning in empirical feedback. Unlike prior M",
-      "pubDate": "2025-11-04T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 19,
-      "title_zh": "Glia: A Human-Inspired AI for Automated Systems Design and Optimization"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -111,59 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations",
-      "link": "https://arxiv.org/abs/2510.26905",
-      "description": "arXiv:2510.26905v1 Announce Type: new \nAbstract: Cyber-physical systems increasingly rely on Foundational Models such as Large Language Models (LLMs) and Vision-Language Models (VLMs) to increase autonomy through enhanced perception, inference, and planning. However, these models also introduce new types of errors, such as hallucinations, overgeneralizations, and context misalignments, resulting in incorrect and flawed decisions. To address this, we introduce the concept of Cognition Envelopes, ",
-      "pubDate": "2025-11-04T05:00:00.000Z",
+      "title": "Multimodal Detection of Fake Reviews using BERT and ResNet-50",
+      "link": "https://arxiv.org/abs/2511.00020",
+      "description": "arXiv:2511.00020v1 Announce Type: new \nAbstract: In the current digital commerce landscape, user-generated reviews play a critical role in shaping consumer behavior, product reputation, and platform credibility. However, the proliferation of fake or misleading reviews often generated by bots, paid agents, or AI models poses a significant threat to trust and transparency within review ecosystems. Existing detection models primarily rely on unimodal, typically textual, data and therefore fail to c",
+      "pubDate": "2025-11-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations"
+      "title_zh": "Multimodal Detection of Fake Reviews using BERT and ResNet-50"
     },
     {
-      "title": "SUSTAINABLE Platform: Seamless Smart Farming Integration Towards Agronomy Automation",
-      "link": "https://arxiv.org/abs/2510.26989",
-      "description": "arXiv:2510.26989v1 Announce Type: new \nAbstract: The global agricultural sector is undergoing a transformative shift, driven by increasing food demands, climate variability and the need for sustainable practices. SUSTAINABLE is a smart farming platform designed to integrate IoT, AI, satellite imaging, and role-based task orchestration to enable efficient, traceable, and sustainable agriculture with a pilot usecase in viticulture. This paper explores current smart agriculture solutions, presents ",
-      "pubDate": "2025-11-04T05:00:00.000Z",
+      "title": "Better Call CLAUSE: A Discrepancy Benchmark for Auditing LLMs Legal Reasoning Capabilities",
+      "link": "https://arxiv.org/abs/2511.00340",
+      "description": "arXiv:2511.00340v1 Announce Type: new \nAbstract: The rapid integration of large language models (LLMs) into high-stakes legal work has exposed a critical gap: no benchmark exists to systematically stress-test their reliability against the nuanced, adversarial, and often subtle flaws present in real-world contracts. To address this, we introduce CLAUSE, a first-of-its-kind benchmark designed to evaluate the fragility of an LLM's legal reasoning. We study the capabilities of LLMs to detect and rea",
+      "pubDate": "2025-11-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6.5,
-      "title_zh": "SUSTAINABLE Platform: Seamless Smart Farming Integration Towards Agronomy Automation"
+      "aiScore": 7,
+      "title_zh": "Better Call CLAUSE: A Discrepancy Benchmark for Auditing LLMs Legal Reasoning Capabilities"
     },
     {
-      "title": "CATArena: Evaluation of LLM Agents through Iterative Tournament Competitions",
-      "link": "https://arxiv.org/abs/2510.26852",
-      "description": "arXiv:2510.26852v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have evolved from basic text generation to autonomously completing complex tasks through interaction with external tools. However, current benchmarks mainly assess end-to-end performance in fixed scenarios, restricting evaluation to specific skills and suffering from score saturation and growing dependence on expert annotation as agent capabilities improve. In this work, we emphasize the importance of learning abi",
-      "pubDate": "2025-11-04T05:00:00.000Z",
+      "title": "Advancing Cognitive Science with LLMs",
+      "link": "https://arxiv.org/abs/2511.00206",
+      "description": "arXiv:2511.00206v1 Announce Type: new \nAbstract: Cognitive science faces ongoing challenges in knowledge synthesis and conceptual clarity, in part due to its multifaceted and interdisciplinary nature. Recent advances in artificial intelligence, particularly the development of large language models (LLMs), offer tools that may help to address these issues. This review examines how LLMs can support areas where the field has historically struggled, including establishing cross-disciplinary connecti",
+      "pubDate": "2025-11-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "CATArena: Evaluation of LLM Agents through Iterative Tournament Competitions"
+      "aiScore": 5,
+      "title_zh": "Advancing Cognitive Science with LLMs"
     },
     {
-      "title": "e1: Learning Adaptive Control of Reasoning Effort",
-      "link": "https://arxiv.org/abs/2510.27042",
-      "description": "arXiv:2510.27042v1 Announce Type: new \nAbstract: Increasing the thinking budget of AI models can significantly improve accuracy, but not all questions warrant the same amount of reasoning. Users may prefer to allocate different amounts of reasoning effort depending on how they value output quality versus latency and cost. To leverage this tradeoff effectively, users need fine-grained control over the amount of thinking used for a particular query, but few approaches enable such control. Existing",
-      "pubDate": "2025-11-04T05:00:00.000Z",
+      "title": "ARC-GEN: A Mimetic Procedural Benchmark Generator for the Abstraction and Reasoning Corpus",
+      "link": "https://arxiv.org/abs/2511.00162",
+      "description": "arXiv:2511.00162v2 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus remains one of the most compelling and challenging benchmarks for tracking progress toward achieving Artificial General Intelligence. In contrast to other evaluation datasets designed to assess an agent's task-specific skills or accumulated knowledge, the ARC-AGI suite is specifically targeted at measuring skill acquisition efficiency, a trait that has (so far) been lacking in even the most sophisticated machin",
+      "pubDate": "2025-11-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "e1: Learning Adaptive Control of Reasoning Effort"
+      "aiScore": 4,
+      "title_zh": "ARC-GEN: A Mimetic Procedural Benchmark Generator for the Abstraction and Reasoning Corpus"
     },
     {
-      "title": "Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base",
-      "link": "https://arxiv.org/abs/2510.26854",
-      "description": "arXiv:2510.26854v1 Announce Type: new \nAbstract: Most scientific materials compress reasoning, presenting conclusions while omitting the derivational chains that justify them. This compression hinders verification by lacking explicit, step-wise justifications and inhibits cross-domain links by collapsing the very pathways that establish the logical and causal connections between concepts. We introduce a scalable framework that decompresses scientific reasoning, constructing a verifiable Long Cha",
-      "pubDate": "2025-11-04T05:00:00.000Z",
+      "title": "Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures",
+      "link": "https://arxiv.org/abs/2511.00194",
+      "description": "arXiv:2511.00194v1 Announce Type: new \nAbstract: We present an improved incremental selection algorithm of the selection algorithm presented in [1] and prove all the selected conjectures.",
+      "pubDate": "2025-11-05T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Incremental Selection of Most-Filtering Conjectures and Proofs of the Selected Conjectures"
+    },
+    {
+      "title": "QuantumBench: A Benchmark for Quantum Problem Solving",
+      "link": "https://arxiv.org/abs/2511.00092",
+      "description": "arXiv:2511.00092v1 Announce Type: new \nAbstract: Large language models are now integrated into many scientific workflows, accelerating data analysis, hypothesis generation, and design space exploration. In parallel with this growth, there is a growing need to carefully evaluate whether models accurately capture domain-specific knowledge and notation, since general-purpose benchmarks rarely reflect these requirements. This gap is especially clear in quantum science, which features non-intuitive p",
+      "pubDate": "2025-11-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base"
+      "title_zh": "QuantumBench: A Benchmark for Quantum Problem Solving"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-11-05T04:13:11.486Z",
+    "generatedAt": "2025-11-05T05:10:59.965Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.09375
+    "averageScore": 17.25
   }
 }
