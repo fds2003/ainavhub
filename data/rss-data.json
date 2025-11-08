@@ -51,16 +51,6 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
-      "title": "Evaluating Control Protocols for Untrusted AI Agents",
-      "link": "https://arxiv.org/abs/2511.02997",
-      "description": "arXiv:2511.02997v1 Announce Type: new \nAbstract: As AI systems become more capable and widely deployed as agents, ensuring their safe operation becomes critical. AI control offers one approach to mitigating the risk from untrusted AI agents by monitoring their actions and intervening or auditing when necessary. Evaluating the safety of these protocols requires understanding both their effectiveness against current attacks and their robustness to adaptive adversaries. In this work, we systematica",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "Evaluating Control Protocols for Untrusted AI Agents"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -89,81 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "No-Human in the Loop: Agentic Evaluation at Scale for Recommendation",
-      "link": "https://arxiv.org/abs/2511.03051",
-      "description": "arXiv:2511.03051v1 Announce Type: new \nAbstract: Evaluating large language models (LLMs) as judges is increasingly critical for building scalable and trustworthy evaluation pipelines. We present ScalingEval, a large-scale benchmarking study that systematically compares 36 LLMs, including GPT, Gemini, Claude, and Llama, across multiple product categories using a consensus-driven evaluation protocol. Our multi-agent framework aggregates pattern audits and issue codes into ground-truth labels via s",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "No-Human in the Loop: Agentic Evaluation at Scale for Recommendation"
-    },
-    {
-      "title": "Large language models require a new form of oversight: capability-based monitoring",
-      "link": "https://arxiv.org/abs/2511.03106",
-      "description": "arXiv:2511.03106v1 Announce Type: new \nAbstract: The rapid adoption of large language models (LLMs) in healthcare has been accompanied by scrutiny of their oversight. Existing monitoring approaches, inherited from traditional machine learning (ML), are task-based and founded on assumed performance degradation arising from dataset drift. In contrast, with LLMs, inevitable model degradation due to changes in populations compared to the training dataset cannot be assumed, because LLMs were not trai",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Large language models require a new form of oversight: capability-based monitoring"
-    },
-    {
-      "title": "Using Multi-modal Large Language Model to Boost Fireworks Algorithm's Ability in Settling Challenging Optimization Tasks",
-      "link": "https://arxiv.org/abs/2511.03137",
-      "description": "arXiv:2511.03137v1 Announce Type: new \nAbstract: As optimization problems grow increasingly complex and diverse, advancements in optimization techniques and paradigm innovations hold significant importance. The challenges posed by optimization problems are primarily manifested in their non-convexity, high-dimensionality, black-box nature, and other unfavorable characteristics. Traditional zero-order or first-order methods, which are often characterized by low efficiency, inaccurate gradient info",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 9.5,
-      "title_zh": "Using Multi-modal Large Language Model to Boost Fireworks Algorithm's Ability in Settling Challenging Optimization Tasks"
-    },
-    {
-      "title": "Epidemiology of Large Language Models: A Benchmark for Observational Distribution Knowledge",
-      "link": "https://arxiv.org/abs/2511.03070",
-      "description": "arXiv:2511.03070v1 Announce Type: new \nAbstract: Artificial intelligence (AI) systems hold great promise for advancing various scientific disciplines, and are increasingly used in real-world applications. Despite their remarkable progress, further capabilities are expected in order to achieve more general types of intelligence. A critical distinction in this context is between factual knowledge, which can be evaluated against true or false answers (e.g., \"what is the capital of England?\"), and p",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Epidemiology of Large Language Models: A Benchmark for Observational Distribution Knowledge"
-    },
-    {
-      "title": "A Proprietary Model-Based Safety Response Framework for AI Agents",
-      "link": "https://arxiv.org/abs/2511.03138",
-      "description": "arXiv:2511.03138v1 Announce Type: new \nAbstract: With the widespread application of Large Language Models (LLMs), their associated security issues have become increasingly prominent, severely constraining their trustworthy deployment in critical domains. This paper proposes a novel safety response framework designed to systematically safeguard LLMs at both the input and output levels. At the input level, the framework employs a supervised fine-tuning-based safety classification model. Through a ",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "A Proprietary Model-Based Safety Response Framework for AI Agents"
-    },
-    {
-      "title": "PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis Framework",
-      "link": "https://arxiv.org/abs/2511.03023",
-      "description": "arXiv:2511.03023v1 Announce Type: new \nAbstract: Open data repositories hold potential for evidence-based decision-making, yet are inaccessible to non-experts lacking expertise in dataset discovery, schema mapping, and statistical analysis. Large language models show promise for individual tasks, but end-to-end analytical workflows expose fundamental limitations: attention dilutes across growing contexts, specialized reasoning patterns interfere, and errors propagate undetected. We present Publi",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "PublicAgent: Multi-Agent Design Principles From an LLM-Based Open Data Analysis Framework"
-    },
-    {
-      "title": "miniF2F-Lean Revisited: Reviewing Limitations and Charting a Path Forward",
-      "link": "https://arxiv.org/abs/2511.03108",
-      "description": "arXiv:2511.03108v1 Announce Type: new \nAbstract: We perform a thorough analysis of the formal and informal statements in the miniF2F benchmark from the perspective of an AI system that is tasked to participate in a math Olympiad consisting of the problems in miniF2F. In such setting, the model has to read and comprehend the problems in natural language, formalize them in Lean language, then proceed with proving the problems, and it will get credit for each problem if the formal proof corresponds",
-      "pubDate": "2025-11-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "miniF2F-Lean Revisited: Reviewing Limitations and Charting a Path Forward"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2025-11-08T04:11:28.465Z",
+    "totalCount": 8,
+    "generatedAt": "2025-11-08T05:09:15.209Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 14.78125
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
