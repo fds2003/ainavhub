@@ -11,14 +11,34 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
-      "title": "Reasoning Is All You Need for Urban Planning AI",
-      "link": "https://arxiv.org/abs/2511.05375",
-      "description": "arXiv:2511.05375v1 Announce Type: new \nAbstract: AI has proven highly successful at urban planning analysis -- learning patterns from data to predict future conditions. The next frontier is AI-assisted decision-making: agents that recommend sites, allocate resources, and evaluate trade-offs while reasoning transparently about constraints and stakeholder values. Recent breakthroughs in reasoning AI -- CoT prompting, ReAct, and multi-agent collaboration frameworks -- now make this vision achievabl",
-      "pubDate": "2025-11-11T05:00:00.000Z",
+      "title": "Analysing Environmental Efficiency in AI for X-Ray Diagnosis",
+      "link": "https://arxiv.org/abs/2511.07436",
+      "description": "arXiv:2511.07436v1 Announce Type: new \nAbstract: The integration of AI tools into medical applications has aimed to improve the efficiency of diagnosis. The emergence of large language models (LLMs), such as ChatGPT and Claude, has expanded this integration even further. Because of LLM versatility and ease of use through APIs, these larger models are often utilised even though smaller, custom models can be used instead. In this paper, LLMs and small discriminative models are integrated into a Me",
+      "pubDate": "2025-11-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 27,
+      "title_zh": "Analysing Environmental Efficiency in AI for X-Ray Diagnosis"
+    },
+    {
+      "title": "Procedural Knowledge Improves Agentic LLM Workflows",
+      "link": "https://arxiv.org/abs/2511.07568",
+      "description": "arXiv:2511.07568v1 Announce Type: new \nAbstract: Large language models (LLMs) often struggle when performing agentic tasks without substantial tool support, prom-pt engineering, or fine tuning. Despite research showing that domain-dependent, procedural knowledge can dramatically increase planning efficiency, little work evaluates its potential for improving LLM performance on agentic tasks that may require implicit planning. We formalize, implement, and evaluate an agentic LLM workflow that leve",
+      "pubDate": "2025-11-12T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 24,
-      "title_zh": "Reasoning Is All You Need for Urban Planning AI"
+      "title_zh": "Procedural Knowledge Improves Agentic LLM Workflows"
+    },
+    {
+      "title": "Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for High-Stakes Decisions",
+      "link": "https://arxiv.org/abs/2511.07669",
+      "description": "arXiv:2511.07669v1 Announce Type: new \nAbstract: Current large language models (LLMs) excel in verifiable domains where outputs can be checked before action but prove less reliable for high-stakes strategic decisions with uncertain outcomes. This gap, driven by mutually reinforcing cognitive biases in both humans and artificial intelligence (AI) systems, threatens the defensibility of valuations and sustainability of investments in the sector.\n  This report describes a framework emerging from sy",
+      "pubDate": "2025-11-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 24,
+      "title_zh": "Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for High-Stakes Decisions"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -41,6 +61,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Towards AI-Assisted Generation of Military Training Scenarios",
+      "link": "https://arxiv.org/abs/2511.07690",
+      "description": "arXiv:2511.07690v1 Announce Type: new \nAbstract: Achieving expert-level performance in simulation-based training relies on the creation of complex, adaptable scenarios, a traditionally laborious and resource intensive process. Although prior research explored scenario generation for military training, pre-LLM AI tools struggled to generate sufficiently complex or adaptable scenarios. This paper introduces a multi-agent, multi-modal reasoning framework that leverages Large Language Models (LLMs) ",
+      "pubDate": "2025-11-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 23.5,
+      "title_zh": "Towards AI-Assisted Generation of Military Training Scenarios"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -59,16 +89,6 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "AI-Powered Citation Auditing: A Zero-Assumption Protocol for Systematic Reference Verification in Academic Research",
-      "link": "https://arxiv.org/abs/2511.04683",
-      "description": "arXiv:2511.04683v1 Announce Type: cross \nAbstract: Academic citation integrity faces persistent challenges, with research indicating 20% of citations contain errors and manual verification requiring months of expert time. This paper presents a novel AI-powered methodology for systematic, comprehensive reference auditing using agentic AI with tool-use capabilities. We develop a zero-assumption verification protocol that independently validates every reference against multiple academic databases (",
-      "pubDate": "2025-11-11T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "AI-Powered Citation Auditing: A Zero-Assumption Protocol for Systematic Reference Verification in Academic Research"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -101,69 +121,49 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance",
-      "link": "https://arxiv.org/abs/2511.05311",
-      "description": "arXiv:2511.05311v1 Announce Type: new \nAbstract: Economic constraints, limited availability of datasets for reproducibility and shortages of specialized expertise have long been recognized as key challenges to the adoption and advancement of predictive maintenance (PdM) in the automotive sector. Recent progress in large language models (LLMs) presents an opportunity to overcome these barriers and speed up the transition of PdM from research to industrial practice. Under these conditions, we expl",
-      "pubDate": "2025-11-11T05:00:00.000Z",
+      "title": "AI-Driven Contribution Evaluation and Conflict Resolution: A Framework & Design for Group Workload Investigation",
+      "link": "https://arxiv.org/abs/2511.07667",
+      "description": "arXiv:2511.07667v1 Announce Type: new \nAbstract: The equitable assessment of individual contribution in teams remains a persistent challenge, where conflict and disparity in workload can result in unfair performance evaluation, often requiring manual intervention - a costly and challenging process. We survey existing tool features and identify a gap in conflict resolution methods and AI integration. To address this, we propose a framework and implementation design for a novel AI-enhanced tool th",
+      "pubDate": "2025-11-12T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance"
+      "aiScore": 15,
+      "title_zh": "AI-Driven Contribution Evaluation and Conflict Resolution: A Framework & Design for Group Workload Investigation"
     },
     {
-      "title": "Efficient Deployment of CNN Models on Multiple In-Memory Computing Units",
-      "link": "https://arxiv.org/abs/2511.04682",
-      "description": "arXiv:2511.04682v1 Announce Type: cross \nAbstract: In-Memory Computing (IMC) represents a paradigm shift in deep learning acceleration by mitigating data movement bottlenecks and leveraging the inherent parallelism of memory-based computations. The efficient deployment of Convolutional Neural Networks (CNNs) on IMC-based hardware necessitates the use of advanced task allocation strategies for achieving maximum computational efficiency. In this work, we exploit an IMC Emulator (IMCE) with multipl",
-      "pubDate": "2025-11-11T05:00:00.000Z",
+      "title": "AIA Forecaster: Technical Report",
+      "link": "https://arxiv.org/abs/2511.07678",
+      "description": "arXiv:2511.07678v1 Announce Type: new \nAbstract: This technical report describes the AIA Forecaster, a Large Language Model (LLM)-based system for judgmental forecasting using unstructured data. The AIA Forecaster approach combines three core elements: agentic search over high-quality news sources, a supervisor agent that reconciles disparate forecasts for the same event, and a set of statistical calibration techniques to counter behavioral biases in large language models. On the ForecastBench b",
+      "pubDate": "2025-11-12T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Efficient Deployment of CNN Models on Multiple In-Memory Computing Units"
+      "aiScore": 10,
+      "title_zh": "AIA Forecaster: Technical Report"
     },
     {
-      "title": "Real-Time Reasoning Agents in Evolving Environments",
-      "link": "https://arxiv.org/abs/2511.04898",
-      "description": "arXiv:2511.04898v1 Announce Type: new \nAbstract: Agents in the real world must make not only logical but also timely judgments. This requires continuous awareness of the dynamic environment: hazards emerge, opportunities arise, and other agents act, while the agent's reasoning is still unfolding. Despite advances in language model reasoning, existing approaches fail to account for this dynamic nature. We introduce real-time reasoning as a new problem formulation for agents in evolving environmen",
-      "pubDate": "2025-11-11T05:00:00.000Z",
+      "title": "Agentic Educational Content Generation for African Languages on Edge Devices",
+      "link": "https://arxiv.org/abs/2511.07437",
+      "description": "arXiv:2511.07437v1 Announce Type: new \nAbstract: Addressing educational inequity in Sub-Saharan Africa, this research presents an autonomous agent-orchestrated framework for decentralized, culturally adaptive educational content generation on edge devices. The system leverages four specialized agents that work together to generate contextually appropriate educational content. Experimental validation on platforms including Raspberry Pi 4B and NVIDIA Jetson Nano demonstrates significant performanc",
+      "pubDate": "2025-11-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Agentic Educational Content Generation for African Languages on Edge Devices"
+    },
+    {
+      "title": "Beyond Correctness: Confidence-Aware Reward Modeling for Enhancing Large Language Model Reasoning",
+      "link": "https://arxiv.org/abs/2511.07483",
+      "description": "arXiv:2511.07483v1 Announce Type: new \nAbstract: Recent advancements in large language models (LLMs) have shifted the post-training paradigm from traditional instruction tuning and human preference alignment toward reinforcement learning (RL) focused on reasoning capabilities. However, numerous technical reports indicate that purely rule-based reward RL frequently results in poor-quality reasoning chains or inconsistencies between reasoning processes and final answers, particularly when the base",
+      "pubDate": "2025-11-12T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Real-Time Reasoning Agents in Evolving Environments"
-    },
-    {
-      "title": "DMA: Online RAG Alignment with Human Feedback",
-      "link": "https://arxiv.org/abs/2511.04880",
-      "description": "arXiv:2511.04880v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) systems often rely on static retrieval, limiting adaptation to evolving intent and content drift. We introduce Dynamic Memory Alignment (DMA), an online learning framework that systematically incorporates multi-granularity human feedback to align ranking in interactive settings. DMA organizes document-, list-, and response-level signals into a coherent learning pipeline: supervised training for pointwise and li",
-      "pubDate": "2025-11-11T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "DMA: Online RAG Alignment with Human Feedback"
-    },
-    {
-      "title": "ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property",
-      "link": "https://arxiv.org/abs/2511.04956",
-      "description": "arXiv:2511.04956v1 Announce Type: new \nAbstract: High-Risk Property (HRP) classification is critical at U.S. Department of Energy (DOE) sites, where inventories include sensitive and often dual-use equipment. Compliance must track evolving rules designated by various export control policies to make transparent and auditable decisions. Traditional expert-only workflows are time-consuming, backlog-prone, and struggle to keep pace with shifting regulatory boundaries. We demo ORCHID, a modular agent",
-      "pubDate": "2025-11-11T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property"
-    },
-    {
-      "title": "Stateful KV Cache Management for LLMs: Balancing Space, Time, Accuracy, and Positional Fidelity",
-      "link": "https://arxiv.org/abs/2511.04686",
-      "description": "arXiv:2511.04686v1 Announce Type: cross \nAbstract: The Key-Value (KV) cache is integral to efficient autoregressive inference in large language models (LLMs), yet its unbounded growth in stateful multi-turn scenarios presents major challenges. This paper examines the interplay between KV cache management strategies, the architectural context limits of models like meta-llama/Meta-Llama-3-8b-instruct, and the often-overlooked integrity of positional encodings. Through empirical analysis using a st",
-      "pubDate": "2025-11-11T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Stateful KV Cache Management for LLMs: Balancing Space, Time, Accuracy, and Positional Fidelity"
+      "title_zh": "Beyond Correctness: Confidence-Aware Reward Modeling for Enhancing Large Language Model Reasoning"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-11-12T04:13:58.341Z",
+    "generatedAt": "2025-11-12T05:11:11.189Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.875
+    "averageScore": 18.53125
   }
 }
