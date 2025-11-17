@@ -71,6 +71,78 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction",
+      "title_zh": "Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction",
+      "description": "arXiv:2511.10853v1 Announce Type: new \nAbstract: Traffic collision reconstruction traditionally relies on human expertise, often yielding inconsistent results when analyzing incomplete multimodal data. This study develops a multi-agent AI framework that reconstructs pre-crash scenarios and infers vehicle behaviors from fragmented collision data. We present a two-phase collaborative framework combining reconstruction and reasoning phases. The system processes 277 rear-end lead vehicle deceleratio",
+      "link": "https://arxiv.org/abs/2511.10853",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
+    },
+    {
+      "title": "Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning",
+      "title_zh": "Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning",
+      "description": "arXiv:2511.10857v1 Announce Type: new \nAbstract: Conventional planning units or urban regions, such as census tracts, zip codes, or neighborhoods, often do not capture the specific demands of local communities and lack the flexibility to implement effective strategies for hazard prevention or response. To support the creation of dynamic planning units, we introduce a planning support system with agentic AI that enables users to generate demand-oriented regions for disaster planning, integrating ",
+      "link": "https://arxiv.org/abs/2511.10857",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
+    },
+    {
+      "title": "The Second Law of Intelligence: Controlling Ethical Entropy in Autonomous Systems",
+      "title_zh": "The Second Law of Intelligence: Controlling Ethical Entropy in Autonomous Systems",
+      "description": "arXiv:2511.10704v1 Announce Type: new \nAbstract: We propose that unconstrained artificial intelligence obeys a Second Law analogous to thermodynamics, where ethical entropy, defined as a measure of divergence from intended goals, increases spontaneously without continuous alignment work. For gradient-based optimizers, we define this entropy over a finite set of goals {g_i} as S = -{\\Sigma} p(g_i; theta) ln p(g_i; theta), and we prove that its time derivative dS/dt >= 0, driven by exploration noi",
+      "link": "https://arxiv.org/abs/2511.10704",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
+    },
+    {
+      "title": "Multi-Agent Legal Verifier Systems for Data Transfer Planning",
+      "title_zh": "Multi-Agent Legal Verifier Systems for Data Transfer Planning",
+      "description": "arXiv:2511.10925v1 Announce Type: new \nAbstract: Legal compliance in AI-driven data transfer planning is becoming increasingly critical under stringent privacy regulations such as the Japanese Act on the Protection of Personal Information (APPI). We propose a multi-agent legal verifier that decomposes compliance checking into specialized agents for statutory interpretation, business context evaluation, and risk assessment, coordinated through a structured synthesis protocol. Evaluated on a strat",
+      "link": "https://arxiv.org/abs/2511.10925",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
+    },
+    {
+      "title": "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents",
+      "title_zh": "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents",
+      "description": "arXiv:2511.10705v1 Announce Type: new \nAbstract: Graphical User Interface (GUI) task automation constitutes a critical frontier in artificial intelligence research. While effective GUI agents synergistically integrate planning and grounding capabilities, current methodologies exhibit two fundamental limitations: (1) insufficient exploitation of cross-model synergies, and (2) over-reliance on synthetic data generation without sufficient utilization. To address these challenges, we propose Co-EPG,",
+      "link": "https://arxiv.org/abs/2511.10705",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
+    },
+    {
+      "title": "From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models",
+      "title_zh": "From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models",
+      "description": "arXiv:2511.10788v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have made reasoning a central benchmark for evaluating intelligence. While prior surveys focus on efficiency by examining how to shorten reasoning chains or reduce computation, this view overlooks a fundamental challenge: current LLMs apply uniform reasoning strategies regardless of task complexity, generating long traces for trivial problems while failing to extend reasoning for difficult tasks. Thi",
+      "link": "https://arxiv.org/abs/2511.10788",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
+    },
+    {
+      "title": "HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments",
+      "title_zh": "HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments",
+      "description": "arXiv:2511.10810v1 Announce Type: new \nAbstract: Operational safety at mission-critical work sites is a top priority given the complex and hazardous nature of daily tasks. This paper presents the Human-Agent Risk Navigation and Event Safety System (HARNESS), a modular AI framework designed to forecast hazardous events and analyze operational risks in U.S. Department of Energy (DOE) environments. HARNESS integrates Large Language Models (LLMs) with structured work data, historical event retrieval",
+      "link": "https://arxiv.org/abs/2511.10810",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
+    },
+    {
+      "title": "LLM enhanced graph inference for long-term disease progression modelling",
+      "title_zh": "LLM enhanced graph inference for long-term disease progression modelling",
+      "description": "arXiv:2511.10890v1 Announce Type: new \nAbstract: Understanding the interactions between biomarkers among brain regions during neurodegenerative disease is essential for unravelling the mechanisms underlying disease progression. For example, pathophysiological models of Alzheimer's Disease (AD) typically describe how variables, such as regional levels of toxic proteins, interact spatiotemporally within a dynamical system driven by an underlying biological substrate, often based on brain connectiv",
+      "link": "https://arxiv.org/abs/2511.10890",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-17"
     }
   ]
 }
