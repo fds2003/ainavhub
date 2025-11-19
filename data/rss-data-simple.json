@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Artificial Intelligence Agents in Music Analysis: An Integrative Perspective Based on Two Use Cases",
+      "title_zh": "Artificial Intelligence Agents in Music Analysis: An Integrative Perspective Based on Two Use Cases",
+      "description": "arXiv:2511.13987v1 Announce Type: new \nAbstract: This paper presents an integrative review and experimental validation of artificial intelligence (AI) agents applied to music analysis and education. We synthesize the historical evolution from rule-based models to contemporary approaches involving deep learning, multi-agent architectures, and retrieval-augmented generation (RAG) frameworks. The pedagogical implications are evaluated through a dual-case methodology: (1) the use of generative AI pl",
+      "link": "https://arxiv.org/abs/2511.13987",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-19"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -26,6 +35,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "When AI Does Science: Evaluating the Autonomous AI Scientist KOSMOS in Radiation Biology",
+      "title_zh": "When AI Does Science: Evaluating the Autonomous AI Scientist KOSMOS in Radiation Biology",
+      "description": "arXiv:2511.13825v1 Announce Type: new \nAbstract: Agentic AI \"scientists\" now use language models to search the literature, run analyses, and generate hypotheses. We evaluate KOSMOS, an autonomous AI scientist, on three problems in radiation biology using simple random-gene null benchmarks. Hypothesis 1: baseline DNA damage response (DDR) capacity across cell lines predicts the p53 transcriptional response after irradiation (GSE30240). Hypothesis 2: baseline expression of OGT and CDO1 predicts th",
+      "link": "https://arxiv.org/abs/2511.13825",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-11-19"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -73,76 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction",
-      "title_zh": "Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction",
-      "description": "arXiv:2511.10853v1 Announce Type: new \nAbstract: Traffic collision reconstruction traditionally relies on human expertise, often yielding inconsistent results when analyzing incomplete multimodal data. This study develops a multi-agent AI framework that reconstructs pre-crash scenarios and infers vehicle behaviors from fragmented collision data. We present a two-phase collaborative framework combining reconstruction and reasoning phases. The system processes 277 rear-end lead vehicle deceleratio",
-      "link": "https://arxiv.org/abs/2511.10853",
+      "title": "Syn-STARTS: Synthesized START Triage Scenario Generation Framework for Scalable LLM Evaluation",
+      "title_zh": "Syn-STARTS: Synthesized START Triage Scenario Generation Framework for Scalable LLM Evaluation",
+      "description": "arXiv:2511.14023v1 Announce Type: new \nAbstract: Triage is a critically important decision-making process in mass casualty incidents (MCIs) to maximize victim survival rates. While the role of AI in such situations is gaining attention for making optimal decisions within limited resources and time, its development and performance evaluation require benchmark datasets of sufficient quantity and quality. However, MCIs occur infrequently, and sufficient records are difficult to accumulate at the sc",
+      "link": "https://arxiv.org/abs/2511.14023",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-18"
+      "date": "2025-11-19"
     },
     {
-      "title": "Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning",
-      "title_zh": "Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning",
-      "description": "arXiv:2511.10857v1 Announce Type: new \nAbstract: Conventional planning units or urban regions, such as census tracts, zip codes, or neighborhoods, often do not capture the specific demands of local communities and lack the flexibility to implement effective strategies for hazard prevention or response. To support the creation of dynamic planning units, we introduce a planning support system with agentic AI that enables users to generate demand-oriented regions for disaster planning, integrating ",
-      "link": "https://arxiv.org/abs/2511.10857",
+      "title": "Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios",
+      "title_zh": "Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios",
+      "description": "arXiv:2511.13970v1 Announce Type: new \nAbstract: Training vision models to detect workplace hazards accurately requires realistic images of unsafe conditions that could lead to accidents. However, acquiring such datasets is difficult because capturing accident-triggering scenarios as they occur is nearly impossible. To overcome this limitation, this study presents a novel scene graph-guided generative AI framework that synthesizes photorealistic images of hazardous scenarios grounded in historic",
+      "link": "https://arxiv.org/abs/2511.13970",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-18"
+      "date": "2025-11-19"
     },
     {
-      "title": "The Second Law of Intelligence: Controlling Ethical Entropy in Autonomous Systems",
-      "title_zh": "The Second Law of Intelligence: Controlling Ethical Entropy in Autonomous Systems",
-      "description": "arXiv:2511.10704v1 Announce Type: new \nAbstract: We propose that unconstrained artificial intelligence obeys a Second Law analogous to thermodynamics, where ethical entropy, defined as a measure of divergence from intended goals, increases spontaneously without continuous alignment work. For gradient-based optimizers, we define this entropy over a finite set of goals {g_i} as S = -{\\Sigma} p(g_i; theta) ln p(g_i; theta), and we prove that its time derivative dS/dt >= 0, driven by exploration noi",
-      "link": "https://arxiv.org/abs/2511.10704",
+      "title": "CORGI: Efficient Pattern Matching With Quadratic Guarantees",
+      "title_zh": "CORGI: Efficient Pattern Matching With Quadratic Guarantees",
+      "description": "arXiv:2511.13942v1 Announce Type: new \nAbstract: Rule-based systems must solve complex matching problems within tight time constraints to be effective in real-time applications, such as planning and reactive control for AI agents, as well as low-latency relational database querying. Pattern-matching systems can encounter issues where exponential time and space are required to find matches for rules with many underconstrained variables, or which produce combinatorial intermediate partial matches ",
+      "link": "https://arxiv.org/abs/2511.13942",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-18"
+      "date": "2025-11-19"
     },
     {
-      "title": "Multi-Agent Legal Verifier Systems for Data Transfer Planning",
-      "title_zh": "Multi-Agent Legal Verifier Systems for Data Transfer Planning",
-      "description": "arXiv:2511.10925v1 Announce Type: new \nAbstract: Legal compliance in AI-driven data transfer planning is becoming increasingly critical under stringent privacy regulations such as the Japanese Act on the Protection of Personal Information (APPI). We propose a multi-agent legal verifier that decomposes compliance checking into specialized agents for statutory interpretation, business context evaluation, and risk assessment, coordinated through a structured synthesis protocol. Evaluated on a strat",
-      "link": "https://arxiv.org/abs/2511.10925",
+      "title": "KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures",
+      "title_zh": "KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures",
+      "description": "arXiv:2511.13798v1 Announce Type: new \nAbstract: Microbial Fuel Cells (MFCs) offer a promising pathway for sustainable energy generation by converting organic matter into electricity through microbial processes. A key factor influencing MFC performance is the anode structure, where design and material properties play a crucial role. Existing predictive models struggle to capture the complex geometric dependencies necessary to optimize these structures. To solve this problem, we propose KANGURA: ",
+      "link": "https://arxiv.org/abs/2511.13798",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-18"
+      "date": "2025-11-19"
     },
     {
-      "title": "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents",
-      "title_zh": "Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents",
-      "description": "arXiv:2511.10705v1 Announce Type: new \nAbstract: Graphical User Interface (GUI) task automation constitutes a critical frontier in artificial intelligence research. While effective GUI agents synergistically integrate planning and grounding capabilities, current methodologies exhibit two fundamental limitations: (1) insufficient exploitation of cross-model synergies, and (2) over-reliance on synthetic data generation without sufficient utilization. To address these challenges, we propose Co-EPG,",
-      "link": "https://arxiv.org/abs/2511.10705",
+      "title": "AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance",
+      "title_zh": "AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance",
+      "description": "arXiv:2511.14043v1 Announce Type: new \nAbstract: AI Scientific Assistant Core (AISAC) is an integrated multi-agent system developed at Argonne National Laboratory for scientific and engineering workflows. AISAC builds on established technologies - LangGraph for orchestration, FAISS for vector search, and SQLite for persistence - and integrates them into a unified system prototype focused on transparency, provenance tracking, and scientific adaptability.\n  The system implements a Router-Planner-C",
+      "link": "https://arxiv.org/abs/2511.14043",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-18"
+      "date": "2025-11-19"
     },
     {
-      "title": "From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models",
-      "title_zh": "From Efficiency to Adaptivity: A Deeper Look at Adaptive Reasoning in Large Language Models",
-      "description": "arXiv:2511.10788v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have made reasoning a central benchmark for evaluating intelligence. While prior surveys focus on efficiency by examining how to shorten reasoning chains or reduce computation, this view overlooks a fundamental challenge: current LLMs apply uniform reasoning strategies regardless of task complexity, generating long traces for trivial problems while failing to extend reasoning for difficult tasks. Thi",
-      "link": "https://arxiv.org/abs/2511.10788",
+      "title": "Jailbreaking Large Vision Language Models in Intelligent Transportation Systems",
+      "title_zh": "Jailbreaking Large Vision Language Models in Intelligent Transportation Systems",
+      "description": "arXiv:2511.13892v1 Announce Type: new \nAbstract: Large Vision Language Models (LVLMs) demonstrate strong capabilities in multimodal reasoning and many real-world applications, such as visual question answering. However, LVLMs are highly vulnerable to jailbreaking attacks. This paper systematically analyzes the vulnerabilities of LVLMs integrated in Intelligent Transportation Systems (ITS) under carefully crafted jailbreaking attacks. First, we carefully construct a dataset with harmful queries r",
+      "link": "https://arxiv.org/abs/2511.13892",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-18"
-    },
-    {
-      "title": "HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments",
-      "title_zh": "HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments",
-      "description": "arXiv:2511.10810v1 Announce Type: new \nAbstract: Operational safety at mission-critical work sites is a top priority given the complex and hazardous nature of daily tasks. This paper presents the Human-Agent Risk Navigation and Event Safety System (HARNESS), a modular AI framework designed to forecast hazardous events and analyze operational risks in U.S. Department of Energy (DOE) environments. HARNESS integrates Large Language Models (LLMs) with structured work data, historical event retrieval",
-      "link": "https://arxiv.org/abs/2511.10810",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-11-18"
-    },
-    {
-      "title": "LLM enhanced graph inference for long-term disease progression modelling",
-      "title_zh": "LLM enhanced graph inference for long-term disease progression modelling",
-      "description": "arXiv:2511.10890v1 Announce Type: new \nAbstract: Understanding the interactions between biomarkers among brain regions during neurodegenerative disease is essential for unravelling the mechanisms underlying disease progression. For example, pathophysiological models of Alzheimer's Disease (AD) typically describe how variables, such as regional levels of toxic proteins, interact spatiotemporally within a dynamical system driven by an underlying biological substrate, often based on brain connectiv",
-      "link": "https://arxiv.org/abs/2511.10890",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-11-18"
+      "date": "2025-11-19"
     }
   ]
 }
