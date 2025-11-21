@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Artificial Intelligence Agents in Music Analysis: An Integrative Perspective Based on Two Use Cases",
-      "link": "https://arxiv.org/abs/2511.13987",
-      "description": "arXiv:2511.13987v1 Announce Type: new \nAbstract: This paper presents an integrative review and experimental validation of artificial intelligence (AI) agents applied to music analysis and education. We synthesize the historical evolution from rule-based models to contemporary approaches involving deep learning, multi-agent architectures, and retrieval-augmented generation (RAG) frameworks. The pedagogical implications are evaluated through a dual-case methodology: (1) the use of generative AI pl",
-      "pubDate": "2025-11-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 30,
-      "title_zh": "Artificial Intelligence Agents in Music Analysis: An Integrative Perspective Based on Two Use Cases"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -19,6 +9,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Project Rachel: Can an AI Become a Scholarly Author?",
+      "link": "https://arxiv.org/abs/2511.14819",
+      "description": "arXiv:2511.14819v1 Announce Type: new \nAbstract: This paper documents Project Rachel, an action research study that created and tracked a complete AI academic identity named Rachel So. Through careful publication of AI-generated research papers, we investigate how the scholarly ecosystem responds to AI authorship. Rachel So published 10+ papers between March and October 2025, was cited, and received a peer review invitation. We discuss the implications of AI authorship on publishers, researchers",
+      "pubDate": "2025-11-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 24,
+      "title_zh": "Project Rachel: Can an AI Become a Scholarly Author?"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -39,16 +39,6 @@
       "category": "行业趋势",
       "aiScore": 24,
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
-    },
-    {
-      "title": "When AI Does Science: Evaluating the Autonomous AI Scientist KOSMOS in Radiation Biology",
-      "link": "https://arxiv.org/abs/2511.13825",
-      "description": "arXiv:2511.13825v1 Announce Type: new \nAbstract: Agentic AI \"scientists\" now use language models to search the literature, run analyses, and generate hypotheses. We evaluate KOSMOS, an autonomous AI scientist, on three problems in radiation biology using simple random-gene null benchmarks. Hypothesis 1: baseline DNA damage response (DDR) capacity across cell lines predicts the p53 transcriptional response after irradiation (GSE30240). Hypothesis 2: baseline expression of OGT and CDO1 predicts th",
-      "pubDate": "2025-11-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 20,
-      "title_zh": "When AI Does Science: Evaluating the Autonomous AI Scientist KOSMOS in Radiation Biology"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -101,69 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Syn-STARTS: Synthesized START Triage Scenario Generation Framework for Scalable LLM Evaluation",
-      "link": "https://arxiv.org/abs/2511.14023",
-      "description": "arXiv:2511.14023v1 Announce Type: new \nAbstract: Triage is a critically important decision-making process in mass casualty incidents (MCIs) to maximize victim survival rates. While the role of AI in such situations is gaining attention for making optimal decisions within limited resources and time, its development and performance evaluation require benchmark datasets of sufficient quantity and quality. However, MCIs occur infrequently, and sufficient records are difficult to accumulate at the sc",
-      "pubDate": "2025-11-20T05:00:00.000Z",
+      "title": "Learning Interestingness in Automated Mathematical Theory Formation",
+      "link": "https://arxiv.org/abs/2511.14778",
+      "description": "arXiv:2511.14778v1 Announce Type: new \nAbstract: We take two key steps in automating the open-ended discovery of new mathematical theories, a grand challenge in artificial intelligence. First, we introduce $\\emph{FERMAT}$, a reinforcement learning (RL) environment that models concept discovery and theorem-proving using a set of symbolic actions, opening up a range of RL problems relevant to theory discovery. Second, we explore a specific problem through $\\emph{FERMAT}$: automatically scoring the",
+      "pubDate": "2025-11-21T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 14,
-      "title_zh": "Syn-STARTS: Synthesized START Triage Scenario Generation Framework for Scalable LLM Evaluation"
+      "aiScore": 12,
+      "title_zh": "Learning Interestingness in Automated Mathematical Theory Formation"
     },
     {
-      "title": "Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios",
-      "link": "https://arxiv.org/abs/2511.13970",
-      "description": "arXiv:2511.13970v1 Announce Type: new \nAbstract: Training vision models to detect workplace hazards accurately requires realistic images of unsafe conditions that could lead to accidents. However, acquiring such datasets is difficult because capturing accident-triggering scenarios as they occur is nearly impossible. To overcome this limitation, this study presents a novel scene graph-guided generative AI framework that synthesizes photorealistic images of hazardous scenarios grounded in historic",
-      "pubDate": "2025-11-20T05:00:00.000Z",
+      "title": "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization",
+      "link": "https://arxiv.org/abs/2511.15055",
+      "description": "arXiv:2511.15055v1 Announce Type: new \nAbstract: Human-like agents have long been one of the goals in pursuing artificial intelligence. Although reinforcement learning (RL) has achieved superhuman performance in many domains, relatively little attention has been focused on designing human-like RL agents. As a result, many reward-driven RL agents often exhibit unnatural behaviors compared to humans, raising concerns for both interpretability and trustworthiness. To achieve human-like behavior in ",
+      "pubDate": "2025-11-21T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Scene Graph-Guided Generative AI Framework for Synthesizing and Evaluating Industrial Hazard Scenarios"
+      "aiScore": 7,
+      "title_zh": "Learning Human-Like RL Agents Through Trajectory Optimization With Action Quantization"
     },
     {
-      "title": "CORGI: Efficient Pattern Matching With Quadratic Guarantees",
-      "link": "https://arxiv.org/abs/2511.13942",
-      "description": "arXiv:2511.13942v1 Announce Type: new \nAbstract: Rule-based systems must solve complex matching problems within tight time constraints to be effective in real-time applications, such as planning and reactive control for AI agents, as well as low-latency relational database querying. Pattern-matching systems can encounter issues where exponential time and space are required to find matches for rules with many underconstrained variables, or which produce combinatorial intermediate partial matches ",
-      "pubDate": "2025-11-20T05:00:00.000Z",
+      "title": "Subnational Geocoding of Global Disasters Using Large Language Models",
+      "link": "https://arxiv.org/abs/2511.14788",
+      "description": "arXiv:2511.14788v1 Announce Type: new \nAbstract: Subnational location data of disaster events are critical for risk assessment and disaster risk reduction. Disaster databases such as EM-DAT often report locations in unstructured textual form, with inconsistent granularity or spelling, that make it difficult to integrate with spatial datasets. We present a fully automated LLM-assisted workflow that processes and cleans textual location information using GPT-4o, and assigns geometries by cross-che",
+      "pubDate": "2025-11-21T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "CORGI: Efficient Pattern Matching With Quadratic Guarantees"
+      "aiScore": 6,
+      "title_zh": "Subnational Geocoding of Global Disasters Using Large Language Models"
     },
     {
-      "title": "KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures",
-      "link": "https://arxiv.org/abs/2511.13798",
-      "description": "arXiv:2511.13798v1 Announce Type: new \nAbstract: Microbial Fuel Cells (MFCs) offer a promising pathway for sustainable energy generation by converting organic matter into electricity through microbial processes. A key factor influencing MFC performance is the anode structure, where design and material properties play a crucial role. Existing predictive models struggle to capture the complex geometric dependencies necessary to optimize these structures. To solve this problem, we propose KANGURA: ",
-      "pubDate": "2025-11-20T05:00:00.000Z",
+      "title": "Task Specific Sharpness Aware O-RAN Resource Management using Multi Agent Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2511.15002",
+      "description": "arXiv:2511.15002v1 Announce Type: new \nAbstract: Next-generation networks utilize the Open Radio Access Network (O-RAN) architecture to enable dynamic resource management, facilitated by the RAN Intelligent Controller (RIC). While deep reinforcement learning (DRL) models show promise in optimizing network resources, they often struggle with robustness and generalizability in dynamic environments. This paper introduces a novel resource management approach that enhances the Soft Actor Critic (SAC)",
+      "pubDate": "2025-11-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Task Specific Sharpness Aware O-RAN Resource Management using Multi Agent Reinforcement Learning"
+    },
+    {
+      "title": "ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression",
+      "link": "https://arxiv.org/abs/2511.15069",
+      "description": "arXiv:2511.15069v1 Announce Type: new \nAbstract: In this paper, we propose ProRAC (Progression-based Reasoning about Actions and Change), a neuro-symbolic framework that leverages LLMs to tackle RAC problems. ProRAC extracts fundamental RAC elements including actions and questions from the problem, progressively executes each action to derive the final state, and then evaluates the query against the progressed state to arrive at an answer. We evaluate ProRAC on several RAC benchmarks, and the re",
+      "pubDate": "2025-11-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression"
+    },
+    {
+      "title": "Uncertainty-Aware Measurement of Scenario Suite Representativeness for Autonomous Systems",
+      "link": "https://arxiv.org/abs/2511.14853",
+      "description": "arXiv:2511.14853v1 Announce Type: new \nAbstract: Assuring the trustworthiness and safety of AI systems, e.g., autonomous vehicles (AV), depends critically on the data-related safety properties, e.g., representativeness, completeness, etc., of the datasets used for their training and testing. Among these properties, this paper focuses on representativeness-the extent to which the scenario-based data used for training and testing, reflect the operational conditions that the system is designed to o",
+      "pubDate": "2025-11-21T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "KANGURA: Kolmogorov-Arnold Network-Based Geometry-Aware Learning with Unified Representation Attention for 3D Modeling of Complex Structures"
+      "title_zh": "Uncertainty-Aware Measurement of Scenario Suite Representativeness for Autonomous Systems"
     },
     {
-      "title": "AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance",
-      "link": "https://arxiv.org/abs/2511.14043",
-      "description": "arXiv:2511.14043v1 Announce Type: new \nAbstract: AI Scientific Assistant Core (AISAC) is an integrated multi-agent system developed at Argonne National Laboratory for scientific and engineering workflows. AISAC builds on established technologies - LangGraph for orchestration, FAISS for vector search, and SQLite for persistence - and integrates them into a unified system prototype focused on transparency, provenance tracking, and scientific adaptability.\n  The system implements a Router-Planner-C",
-      "pubDate": "2025-11-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance"
-    },
-    {
-      "title": "Jailbreaking Large Vision Language Models in Intelligent Transportation Systems",
-      "link": "https://arxiv.org/abs/2511.13892",
-      "description": "arXiv:2511.13892v1 Announce Type: new \nAbstract: Large Vision Language Models (LVLMs) demonstrate strong capabilities in multimodal reasoning and many real-world applications, such as visual question answering. However, LVLMs are highly vulnerable to jailbreaking attacks. This paper systematically analyzes the vulnerabilities of LVLMs integrated in Intelligent Transportation Systems (ITS) under carefully crafted jailbreaking attacks. First, we carefully construct a dataset with harmful queries r",
-      "pubDate": "2025-11-20T05:00:00.000Z",
+      "title": "Ask WhAI:Probing Belief Formation in Role-Primed LLM Agents",
+      "link": "https://arxiv.org/abs/2511.14780",
+      "description": "arXiv:2511.14780v1 Announce Type: new \nAbstract: We present Ask WhAI, a systems-level framework for inspecting and perturbing belief states in multi-agent interactions. The framework records and replays agent interactions, supports out-of-band queries into each agent's beliefs and rationale, and enables counterfactual evidence injection to test how belief structures respond to new information. We apply the framework to a medical case simulator notable for its multi-agent shared memory (a time-st",
+      "pubDate": "2025-11-21T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Jailbreaking Large Vision Language Models in Intelligent Transportation Systems"
+      "title_zh": "Ask WhAI:Probing Belief Formation in Role-Primed LLM Agents"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-11-21T04:13:12.148Z",
+    "generatedAt": "2025-11-21T05:10:39.657Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.0625
+    "averageScore": 14.3125
   }
 }
