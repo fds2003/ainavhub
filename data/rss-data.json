@@ -31,6 +31,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Stable diffusion models reveal a persisting human and AI gap in visual creativity",
+      "link": "https://arxiv.org/abs/2511.16814",
+      "description": "arXiv:2511.16814v1 Announce Type: new \nAbstract: While recent research suggests Large Language Models match human creative performance in divergent thinking tasks, visual creativity remains underexplored. This study compared image generation in human participants (Visual Artists and Non Artists) and using an image generation AI model (two prompting conditions with varying human input: high for Human Inspired, low for Self Guided). Human raters (N=255) and GPT4o evaluated the creativity of the re",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 22,
+      "title_zh": "Stable diffusion models reveal a persisting human and AI gap in visual creativity"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -79,11 +89,81 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Fantastic Bugs and Where to Find Them in AI Benchmarks",
+      "link": "https://arxiv.org/abs/2511.16842",
+      "description": "arXiv:2511.16842v1 Announce Type: new \nAbstract: Benchmarks are pivotal in driving AI progress, and invalid benchmark questions frequently undermine their reliability. Manually identifying and correcting errors among thousands of benchmark questions is not only infeasible but also a critical bottleneck for reliable evaluation. In this work, we introduce a framework for systematic benchmark revision that leverages statistical analysis of response patterns to flag potentially invalid questions for",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 15,
+      "title_zh": "Fantastic Bugs and Where to Find Them in AI Benchmarks"
+    },
+    {
+      "title": "MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists",
+      "link": "https://arxiv.org/abs/2511.16997",
+      "description": "arXiv:2511.16997v1 Announce Type: new \nAbstract: The emergence of AI Scientists has demonstrated remarkable potential in automating scientific research. However, current approaches largely conceptualize scientific discovery as a solitary optimization or search process, overlooking that knowledge production is inherently a social and historical endeavor. Human scientific insight stems from two distinct yet interconnected sources. First is the individual cognitive trajectory, where a researcher's ",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists"
+    },
+    {
+      "title": "Hybrid Differential Reward: Combining Temporal Difference and Action Gradients for Efficient Multi-Agent Reinforcement Learning in Cooperative Driving",
+      "link": "https://arxiv.org/abs/2511.16916",
+      "description": "arXiv:2511.16916v1 Announce Type: new \nAbstract: In multi-vehicle cooperative driving tasks involving high-frequency continuous control, traditional state-based reward functions suffer from the issue of vanishing reward differences. This phenomenon results in a low signal-to-noise ratio (SNR) for policy gradients, significantly hindering algorithm convergence and performance improvement. To address this challenge, this paper proposes a novel Hybrid Differential Reward (HDR) mechanism. We first t",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Hybrid Differential Reward: Combining Temporal Difference and Action Gradients for Efficient Multi-Agent Reinforcement Learning in Cooperative Driving"
+    },
+    {
+      "title": "MIR: Efficient Exploration in Episodic Multi-Agent Reinforcement Learning via Mutual Intrinsic Reward",
+      "link": "https://arxiv.org/abs/2511.17165",
+      "description": "arXiv:2511.17165v1 Announce Type: new \nAbstract: Episodic rewards present a significant challenge in reinforcement learning. While intrinsic reward methods have demonstrated effectiveness in single-agent rein-forcement learning scenarios, their application to multi-agent reinforcement learn-ing (MARL) remains problematic. The primary difficulties stem from two fac-tors: (1) the exponential sparsity of joint action trajectories that lead to rewards as the exploration space expands, and (2) existi",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "MIR: Efficient Exploration in Episodic Multi-Agent Reinforcement Learning via Mutual Intrinsic Reward"
+    },
+    {
+      "title": "The Belief-Desire-Intention Ontology for modelling mental reality and agency",
+      "link": "https://arxiv.org/abs/2511.17162",
+      "description": "arXiv:2511.17162v1 Announce Type: new \nAbstract: The Belief-Desire-Intention (BDI) model is a cornerstone for representing rational agency in artificial intelligence and cognitive sciences. Yet, its integration into structured, semantically interoperable knowledge representations remains limited. This paper presents a formal BDI Ontology, conceived as a modular Ontology Design Pattern (ODP) that captures the cognitive architecture of agents through beliefs, desires, intentions, and their dynamic",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "The Belief-Desire-Intention Ontology for modelling mental reality and agency"
+    },
+    {
+      "title": "Cognitive BASIC: An In-Model Interpreted Reasoning Language for LLMs",
+      "link": "https://arxiv.org/abs/2511.16837",
+      "description": "arXiv:2511.16837v1 Announce Type: new \nAbstract: Cognitive BASIC is a minimal, BASIC-style prompting language and in-model interpreter that structures large language model (LLM) reasoning into explicit, stepwise execution traces. Inspired by the simplicity of retro BASIC, we repurpose numbered lines and simple commands as an interpretable cognitive control layer. Modern LLMs can reliably simulate such short programs, enabling transparent multi-step reasoning inside the model. A natural-language ",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Cognitive BASIC: An In-Model Interpreted Reasoning Language for LLMs"
+    },
+    {
+      "title": "Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism",
+      "link": "https://arxiv.org/abs/2511.17198",
+      "description": "arXiv:2511.17198v1 Announce Type: new \nAbstract: LLM-driven agents, particularly those using general frameworks like ReAct or human-inspired role-playing, often struggle in specialized domains that necessitate rigorously structured workflows. Fields such as remote sensing, requiring specialized tools (e.g., correction, spectral indices calculation), and multi-step procedures (e.g., numerous intermediate products and optional steps), significantly challenge generalized approaches. To address this",
+      "pubDate": "2025-11-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2025-11-24T04:24:54.488Z",
+    "totalCount": 16,
+    "generatedAt": "2025-11-24T05:12:10.938Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 14.3125
   }
 }
