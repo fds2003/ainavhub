@@ -7,7 +7,7 @@
       "link": "https://arxiv.org/abs/2511.17743",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -48,11 +48,11 @@
     {
       "title": "Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop",
       "title_zh": "Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop",
-      "description": "arXiv:2511.17673v1 Announce Type: new \nAbstract: Large language model agents suffer from fundamental architectural problems: entangled reasoning and execution, memory volatility, and uncontrolled action sequences. We introduce Structured Cognitive Loop (SCL), a modular architecture that explicitly separates agent cognition into five phases: Retrieval, Cognition, Control, Action, and Memory (R-CCAM). At the core of SCL is Soft Symbolic Control, an adaptive governance mechanism that applies symbol",
+      "description": "arXiv:2511.17673v2 Announce Type: new \nAbstract: Large language model agents suffer from fundamental architectural problems: entangled reasoning and execution, memory volatility, and uncontrolled action sequences. We introduce Structured Cognitive Loop (SCL), a modular architecture that explicitly separates agent cognition into five phases: Retrieval, Cognition, Control, Action, and Memory (R-CCAM). At the core of SCL is Soft Symbolic Control, an adaptive governance mechanism that applies symbol",
       "link": "https://arxiv.org/abs/2511.17673",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -70,7 +70,7 @@
       "link": "https://arxiv.org/abs/2511.17644",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -106,7 +106,7 @@
       "link": "https://arxiv.org/abs/2511.17833",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     },
     {
       "title": "Training Emergent Joint Associations: A Reinforcement Learning Approach to Creative Thinking in Language Models",
@@ -115,7 +115,7 @@
       "link": "https://arxiv.org/abs/2511.17876",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     },
     {
       "title": "Cognitive Inception: Agentic Reasoning against Visual Deceptions by Injecting Skepticism",
@@ -124,7 +124,7 @@
       "link": "https://arxiv.org/abs/2511.17672",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     },
     {
       "title": "Alignment Faking - the Train -> Deploy Asymmetry: Through a Game-Theoretic Lens with Bayesian-Stackelberg Equilibria",
@@ -133,7 +133,7 @@
       "link": "https://arxiv.org/abs/2511.17937",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     },
     {
       "title": "Leveraging Evidence-Guided LLMs to Enhance Trustworthy Depression Diagnosis",
@@ -142,7 +142,7 @@
       "link": "https://arxiv.org/abs/2511.17947",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-11-25"
+      "date": "2025-11-26"
     }
   ]
 }
