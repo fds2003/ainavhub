@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "AI- and Ontology-Based Enhancements to FMEA for Advanced Systems Engineering: Current Developments and Future Directions",
-      "link": "https://arxiv.org/abs/2511.17743",
-      "description": "arXiv:2511.17743v1 Announce Type: new \nAbstract: This article presents a state-of-the-art review of recent advances aimed at transforming traditional Failure Mode and Effects Analysis (FMEA) into a more intelligent, data-driven, and semantically enriched process. As engineered systems grow in complexity, conventional FMEA methods, largely manual, document-centric, and expert-dependent, have become increasingly inadequate for addressing the demands of modern systems engineering. We examine how te",
-      "pubDate": "2025-11-26T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 30.5,
-      "title_zh": "AI- and Ontology-Based Enhancements to FMEA for Advanced Systems Engineering: Current Developments and Future Directions"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -19,6 +9,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM Hybrid Architecture",
+      "link": "https://arxiv.org/abs/2511.20942",
+      "description": "arXiv:2511.20942v1 Announce Type: new \nAbstract: In procedural skill learning, instructional explanations must convey not just steps, but the causal, goal-directed, and compositional logic behind them. Large language models (LLMs) often produce fluent yet shallow responses that miss this structure. We present Ivy, an AI coaching system that delivers structured, multi-step explanations by combining symbolic Task-Method-Knowledge (TMK) models with a generative interpretation layer-an LLM that cons",
+      "pubDate": "2025-11-27T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 27,
+      "title_zh": "Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM Hybrid Architecture"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -41,6 +41,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI",
+      "link": "https://arxiv.org/abs/2511.20686",
+      "description": "arXiv:2511.20686v1 Announce Type: new \nAbstract: The rapid evolution of generative AI necessitates robust safety evaluations. However, current safety datasets are predominantly English-centric, failing to capture specific risks in non-English, socio-cultural contexts such as Korean, and are often limited to the text modality. To address this gap, we introduce AssurAI, a new quality-controlled Korean multimodal dataset for evaluating the safety of generative AI. First, we define a taxonomy of 35 ",
+      "pubDate": "2025-11-27T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -49,16 +59,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop",
-      "link": "https://arxiv.org/abs/2511.17673",
-      "description": "arXiv:2511.17673v2 Announce Type: new \nAbstract: Large language model agents suffer from fundamental architectural problems: entangled reasoning and execution, memory volatility, and uncontrolled action sequences. We introduce Structured Cognitive Loop (SCL), a modular architecture that explicitly separates agent cognition into five phases: Retrieval, Cognition, Control, Action, and Memory (R-CCAM). At the core of SCL is Soft Symbolic Control, an adaptive governance mechanism that applies symbol",
-      "pubDate": "2025-11-26T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 17,
-      "title_zh": "Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -71,14 +71,14 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
-      "title": "Hybrid Neuro-Symbolic Models for Ethical AI in Risk-Sensitive Domains",
-      "link": "https://arxiv.org/abs/2511.17644",
-      "description": "arXiv:2511.17644v1 Announce Type: new \nAbstract: Artificial intelligence deployed in risk-sensitive domains such as healthcare, finance, and security must not only achieve predictive accuracy but also ensure transparency, ethical alignment, and compliance with regulatory expectations. Hybrid neuro symbolic models combine the pattern-recognition strengths of neural networks with the interpretability and logical rigor of symbolic reasoning, making them well-suited for these contexts. This paper su",
-      "pubDate": "2025-11-26T05:00:00.000Z",
+      "title": "Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring",
+      "link": "https://arxiv.org/abs/2511.20679",
+      "description": "arXiv:2511.20679v1 Announce Type: new \nAbstract: Hyperbolic geometry is an effective geometry for embedding hierarchical data structures. Hyperbolic learning has therefore become increasingly prominent in machine learning applications where data is hierarchically organized or governed by hierarchical semantics, ranging from recommendation systems to computer vision. The quality of hyperbolic embeddings is tightly coupled to the structure of the input hierarchy, which is often derived from knowle",
+      "pubDate": "2025-11-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 16,
-      "title_zh": "Hybrid Neuro-Symbolic Models for Ethical AI in Risk-Sensitive Domains"
+      "title_zh": "Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -111,59 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Learning to Debug: LLM-Organized Knowledge Trees for Solving RTL Assertion Failures",
-      "link": "https://arxiv.org/abs/2511.17833",
-      "description": "arXiv:2511.17833v1 Announce Type: new \nAbstract: Debugging is the dominant cost in modern hardware verification, where assertion failures are among the most frequent and expensive to resolve. While Large Language Models (LLMs) show promise, they often fail to capture the precise, reusable expertise that engineers apply, leading to inaccurate responses. We propose GROVE, a hierarchical knowledge management framework that learns and organizes reusable debugging expertise into an LLM-organized know",
-      "pubDate": "2025-11-26T05:00:00.000Z",
+      "title": "Guaranteed Optimal Compositional Explanations for Neurons",
+      "link": "https://arxiv.org/abs/2511.20934",
+      "description": "arXiv:2511.20934v1 Announce Type: new \nAbstract: While neurons are the basic units of deep neural networks, it is still unclear what they learn and if their knowledge is aligned with that of humans. Compositional explanations aim to answer this question by describing the spatial alignment between neuron activations and concepts through logical rules. These logical descriptions are typically computed via a search over all possible concept combinations. Since computing the spatial alignment over t",
+      "pubDate": "2025-11-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Learning to Debug: LLM-Organized Knowledge Trees for Solving RTL Assertion Failures"
+      "aiScore": 11,
+      "title_zh": "Guaranteed Optimal Compositional Explanations for Neurons"
     },
     {
-      "title": "Training Emergent Joint Associations: A Reinforcement Learning Approach to Creative Thinking in Language Models",
-      "link": "https://arxiv.org/abs/2511.17876",
-      "description": "arXiv:2511.17876v1 Announce Type: new \nAbstract: Associative thinking--the ability to connect seemingly unrelated ideas--is a foundational element of human creativity and problem-solving. This paper explores whether reinforcement learning (RL) guided by associative thinking principles can enhance a model's performance across diverse generative tasks, including story writing, code generation, and chart creation. We introduce a reinforcement learning framework that uses a prompt-based evaluation m",
-      "pubDate": "2025-11-26T05:00:00.000Z",
+      "title": "Learning Multi-Access Point Coordination in Agentic AI Wi-Fi with Large Language Models",
+      "link": "https://arxiv.org/abs/2511.20719",
+      "description": "arXiv:2511.20719v1 Announce Type: new \nAbstract: Multi-access point coordination (MAPC) is a key technology for enhancing throughput in next-generation Wi-Fi within dense overlapping basic service sets. However, existing MAPC protocols rely on static, protocol-defined rules, which limits their ability to adapt to dynamic network conditions such as varying interference levels and topologies. To address this limitation, we propose a novel Agentic AI Wi-Fi framework where each access point, modeled",
+      "pubDate": "2025-11-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Training Emergent Joint Associations: A Reinforcement Learning Approach to Creative Thinking in Language Models"
+      "aiScore": 8,
+      "title_zh": "Learning Multi-Access Point Coordination in Agentic AI Wi-Fi with Large Language Models"
     },
     {
-      "title": "Cognitive Inception: Agentic Reasoning against Visual Deceptions by Injecting Skepticism",
-      "link": "https://arxiv.org/abs/2511.17672",
-      "description": "arXiv:2511.17672v1 Announce Type: new \nAbstract: As the development of AI-generated contents (AIGC), multi-modal Large Language Models (LLM) struggle to identify generated visual inputs from real ones. Such shortcoming causes vulnerability against visual deceptions, where the models are deceived by generated contents, and the reliability of reasoning processes is jeopardized. Therefore, facing rapidly emerging generative models and diverse data distribution, it is of vital importance to improve ",
-      "pubDate": "2025-11-26T05:00:00.000Z",
+      "title": "Paraconsistent-Lib: an intuitive PAL2v algorithm Python Library",
+      "link": "https://arxiv.org/abs/2511.20700",
+      "description": "arXiv:2511.20700v1 Announce Type: new \nAbstract: This paper introduces Paraconsistent-Lib, an open-source, easy-to-use Python library for building PAL2v algorithms in reasoning and decision-making systems. Paraconsistent-Lib is designed as a general-purpose library of PAL2v standard calculations, presenting three types of results: paraconsistent analysis in one of the 12 classical lattice PAL2v regions, paraconsistent analysis node (PAN) outputs, and a decision output. With Paraconsistent-Lib, w",
+      "pubDate": "2025-11-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "Cognitive Inception: Agentic Reasoning against Visual Deceptions by Injecting Skepticism"
+      "aiScore": 5,
+      "title_zh": "Paraconsistent-Lib: an intuitive PAL2v algorithm Python Library"
     },
     {
-      "title": "Alignment Faking - the Train -> Deploy Asymmetry: Through a Game-Theoretic Lens with Bayesian-Stackelberg Equilibria",
-      "link": "https://arxiv.org/abs/2511.17937",
-      "description": "arXiv:2511.17937v1 Announce Type: new \nAbstract: Alignment faking is a form of strategic deception in AI in which models selectively comply with training objectives when they infer that they are in training, while preserving different behavior outside training. The phenomenon was first documented for Claude 3 Opus and later examined across additional large language models. In these setups, the word \"training\" refers to simulated training via prompts without parameter updates, so the observed eff",
-      "pubDate": "2025-11-26T05:00:00.000Z",
+      "title": "A Brief History of Digital Twin Technology",
+      "link": "https://arxiv.org/abs/2511.20695",
+      "description": "arXiv:2511.20695v1 Announce Type: new \nAbstract: Emerging from NASA's spacecraft simulations in the 1960s, digital twin technology has advanced through industrial adoption to spark a healthcare transformation. A digital twin is a dynamic, data-driven virtual counterpart of a physical system, continuously updated through real-time data streams and capable of bidirectional interaction. In medicine, digital twin integrates imaging, biosensors, and computational models to generate patient-specific s",
+      "pubDate": "2025-11-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Alignment Faking - the Train -> Deploy Asymmetry: Through a Game-Theoretic Lens with Bayesian-Stackelberg Equilibria"
+      "title_zh": "A Brief History of Digital Twin Technology"
     },
     {
-      "title": "Leveraging Evidence-Guided LLMs to Enhance Trustworthy Depression Diagnosis",
-      "link": "https://arxiv.org/abs/2511.17947",
-      "description": "arXiv:2511.17947v1 Announce Type: new \nAbstract: Large language models (LLMs) show promise in automating clinical diagnosis, yet their non-transparent decision-making and limited alignment with diagnostic standards hinder trust and clinical adoption. We address this challenge by proposing a two-stage diagnostic framework that enhances transparency, trustworthiness, and reliability. First, we introduce Evidence-Guided Diagnostic Reasoning (EGDR), which guides LLMs to generate structured diagnosti",
-      "pubDate": "2025-11-26T05:00:00.000Z",
+      "title": "$A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators",
+      "link": "https://arxiv.org/abs/2511.20693",
+      "description": "arXiv:2511.20693v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong potential in automating the design of agentic workflows. However, existing methods still rely heavily on manually predefined operators, limiting generalization and scalability. To address this issue, we propose $A^2Flow$, a fully automated framework for agentic workflow generation based on self-adaptive abstraction operators. $A^2Flow$ employs a three-stage operator extraction process: 1) Case-based I",
+      "pubDate": "2025-11-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Leveraging Evidence-Guided LLMs to Enhance Trustworthy Depression Diagnosis"
+      "aiScore": 3,
+      "title_zh": "$A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-11-27T04:13:45.020Z",
+    "generatedAt": "2025-11-27T05:10:52.416Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.65625
+    "averageScore": 15.9375
   }
 }
