@@ -11,16 +11,6 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
-      "title": "Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM Hybrid Architecture",
-      "link": "https://arxiv.org/abs/2511.20942",
-      "description": "arXiv:2511.20942v1 Announce Type: new \nAbstract: In procedural skill learning, instructional explanations must convey not just steps, but the causal, goal-directed, and compositional logic behind them. Large language models (LLMs) often produce fluent yet shallow responses that miss this structure. We present Ivy, an AI coaching system that delivers structured, multi-step explanations by combining symbolic Task-Method-Knowledge (TMK) models with a generative interpretation layer-an LLM that cons",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 27,
-      "title_zh": "Improving Procedural Skill Explanations via Constrained Generation: A Symbolic-LLM Hybrid Architecture"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -41,16 +31,6 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI",
-      "link": "https://arxiv.org/abs/2511.20686",
-      "description": "arXiv:2511.20686v1 Announce Type: new \nAbstract: The rapid evolution of generative AI necessitates robust safety evaluations. However, current safety datasets are predominantly English-centric, failing to capture specific risks in non-English, socio-cultural contexts such as Korean, and are often limited to the text modality. To address this gap, we introduce AssurAI, a new quality-controlled Korean multimodal dataset for evaluating the safety of generative AI. First, we define a taxonomy of 35 ",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 20,
-      "title_zh": "AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -69,16 +49,6 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring",
-      "link": "https://arxiv.org/abs/2511.20679",
-      "description": "arXiv:2511.20679v1 Announce Type: new \nAbstract: Hyperbolic geometry is an effective geometry for embedding hierarchical data structures. Hyperbolic learning has therefore become increasingly prominent in machine learning applications where data is hierarchically organized or governed by hierarchical semantics, ranging from recommendation systems to computer vision. The quality of hyperbolic embeddings is tightly coupled to the structure of the input hierarchy, which is often derived from knowle",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -109,61 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Guaranteed Optimal Compositional Explanations for Neurons",
-      "link": "https://arxiv.org/abs/2511.20934",
-      "description": "arXiv:2511.20934v1 Announce Type: new \nAbstract: While neurons are the basic units of deep neural networks, it is still unclear what they learn and if their knowledge is aligned with that of humans. Compositional explanations aim to answer this question by describing the spatial alignment between neuron activations and concepts through logical rules. These logical descriptions are typically computed via a search over all possible concept combinations. Since computing the spatial alignment over t",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Guaranteed Optimal Compositional Explanations for Neurons"
-    },
-    {
-      "title": "Learning Multi-Access Point Coordination in Agentic AI Wi-Fi with Large Language Models",
-      "link": "https://arxiv.org/abs/2511.20719",
-      "description": "arXiv:2511.20719v1 Announce Type: new \nAbstract: Multi-access point coordination (MAPC) is a key technology for enhancing throughput in next-generation Wi-Fi within dense overlapping basic service sets. However, existing MAPC protocols rely on static, protocol-defined rules, which limits their ability to adapt to dynamic network conditions such as varying interference levels and topologies. To address this limitation, we propose a novel Agentic AI Wi-Fi framework where each access point, modeled",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Learning Multi-Access Point Coordination in Agentic AI Wi-Fi with Large Language Models"
-    },
-    {
-      "title": "Paraconsistent-Lib: an intuitive PAL2v algorithm Python Library",
-      "link": "https://arxiv.org/abs/2511.20700",
-      "description": "arXiv:2511.20700v1 Announce Type: new \nAbstract: This paper introduces Paraconsistent-Lib, an open-source, easy-to-use Python library for building PAL2v algorithms in reasoning and decision-making systems. Paraconsistent-Lib is designed as a general-purpose library of PAL2v standard calculations, presenting three types of results: paraconsistent analysis in one of the 12 classical lattice PAL2v regions, paraconsistent analysis node (PAN) outputs, and a decision output. With Paraconsistent-Lib, w",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Paraconsistent-Lib: an intuitive PAL2v algorithm Python Library"
-    },
-    {
-      "title": "A Brief History of Digital Twin Technology",
-      "link": "https://arxiv.org/abs/2511.20695",
-      "description": "arXiv:2511.20695v1 Announce Type: new \nAbstract: Emerging from NASA's spacecraft simulations in the 1960s, digital twin technology has advanced through industrial adoption to spark a healthcare transformation. A digital twin is a dynamic, data-driven virtual counterpart of a physical system, continuously updated through real-time data streams and capable of bidirectional interaction. In medicine, digital twin integrates imaging, biosensors, and computational models to generate patient-specific s",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "A Brief History of Digital Twin Technology"
-    },
-    {
-      "title": "$A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators",
-      "link": "https://arxiv.org/abs/2511.20693",
-      "description": "arXiv:2511.20693v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong potential in automating the design of agentic workflows. However, existing methods still rely heavily on manually predefined operators, limiting generalization and scalability. To address this issue, we propose $A^2Flow$, a fully automated framework for agentic workflow generation based on self-adaptive abstraction operators. $A^2Flow$ employs a three-stage operator extraction process: 1) Case-based I",
-      "pubDate": "2025-11-27T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "$A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2025-11-28T04:13:56.362Z",
+    "totalCount": 8,
+    "generatedAt": "2025-11-28T05:11:19.300Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 15.9375
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
