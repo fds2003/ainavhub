@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "A perceptual bias of AI Logical Argumentation Ability in Writing",
+      "title_zh": "A perceptual bias of AI Logical Argumentation Ability in Writing",
+      "description": "arXiv:2511.22151v1 Announce Type: new \nAbstract: Can machines think? This is a central question in artificial intelligence research. However, there is a substantial divergence of views on the answer to this question. Why do people have such significant differences of opinion, even when they are observing the same real world performance of artificial intelligence? The ability of logical reasoning like humans is often used as a criterion to assess whether a machine can think. This study explores w",
+      "link": "https://arxiv.org/abs/2511.22151",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -28,6 +37,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Hybrid Stackelberg Game and Diffusion-based Auction for Two-tier Agentic AI Task Offloading in Internet of Agents",
+      "title_zh": "Hybrid Stackelberg Game and Diffusion-based Auction for Two-tier Agentic AI Task Offloading in Internet of Agents",
+      "description": "arXiv:2511.22076v1 Announce Type: new \nAbstract: The Internet of Agents (IoA) is rapidly gaining prominence as a foundational architecture for interconnected intelligent systems, designed to facilitate seamless discovery, communication, and collaborative reasoning among a vast network of Artificial Intelligence (AI) agents. Powered by Large Language and Vision-Language Models, IoA enables the development of interactive, rational agents capable of complex cooperation, moving far beyond traditiona",
+      "link": "https://arxiv.org/abs/2511.22076",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -35,6 +53,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Evaluating Strategies for Synthesizing Clinical Notes for Medical Multimodal AI",
+      "title_zh": "Evaluating Strategies for Synthesizing Clinical Notes for Medical Multimodal AI",
+      "description": "arXiv:2511.21827v1 Announce Type: new \nAbstract: Multimodal (MM) learning is emerging as a promising paradigm in biomedical artificial intelligence (AI) applications, integrating complementary modality, which highlight different aspects of patient health. The scarcity of large heterogeneous biomedical MM data has restrained the development of robust models for medical AI applications. In the dermatology domain, for instance, skin lesion datasets typically include only images linked to minimal me",
+      "link": "https://arxiv.org/abs/2511.21827",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -71,6 +98,51 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Real-Time Procedural Learning From Experience for AI Agents",
+      "title_zh": "Real-Time Procedural Learning From Experience for AI Agents",
+      "description": "arXiv:2511.22074v1 Announce Type: new \nAbstract: Learning how to do things from trial and error in real time is a hallmark of biological intelligence, yet most LLM-based agents lack mechanisms to acquire procedural knowledge after deployment. We propose Procedural Recall for Agents with eXperiences Indexed by State (PRAXIS), a lightweight post-training learning mechanism that stores the consequences of actions and retrieves them by jointly matching environmental and internal states of past episo",
+      "link": "https://arxiv.org/abs/2511.22074",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world scenarios",
+      "title_zh": "WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world scenarios",
+      "description": "arXiv:2511.22154v1 Announce Type: new \nAbstract: We introduce WearVQA, the first benchmark specifically designed to evaluate the Visual Question Answering (VQA) capabilities of multi-model AI assistant on wearable devices like smart glasses. Unlike prior benchmarks that focus on high-quality, third-person imagery, WearVQA reflects the unique challenges of ego-centric interaction-where visual inputs may be occluded, poorly lit, unzoomed, or blurry, and questions are grounded in realistic wearable",
+      "link": "https://arxiv.org/abs/2511.22154",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation",
+      "title_zh": "Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation",
+      "description": "arXiv:2511.22235v1 Announce Type: new \nAbstract: The rapid development of large vision-language model (VLM) has greatly promoted the research of GUI agent. However, GUI agents still face significant challenges in handling long-horizon tasks. First, single-agent models struggle to balance high-level capabilities and low-level execution capability, facing prevalent issues of responsibility coupling and capability conflicts. Second, agents lack awareness of the task state, leading to progress loss ",
+      "link": "https://arxiv.org/abs/2511.22235",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning",
+      "title_zh": "Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning",
+      "description": "arXiv:2511.22226v1 Announce Type: new \nAbstract: The standard theory of model-free reinforcement learning assumes that the environment dynamics are stationary and that agents are decoupled from their environment, such that policies are treated as being separate from the world they inhabit. This leads to theoretical challenges in the multi-agent setting where the non-stationarity induced by the learning of other agents demands prospective learning based on prediction models. To accurately model o",
+      "link": "https://arxiv.org/abs/2511.22226",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis",
+      "title_zh": "Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis",
+      "description": "arXiv:2511.22033v1 Announce Type: new \nAbstract: Diabetic retinopathy (DR) grading plays a critical role in early clinical intervention and vision preservation. Recent explorations predominantly focus on visual lesion feature extraction through data processing and domain decoupling strategies. However, they generally overlook domain-invariant pathological patterns and underutilize the rich contextual knowledge of foundation models, relying solely on visual information, which is insufficient for ",
+      "link": "https://arxiv.org/abs/2511.22033",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-01"
     }
   ]
 }
