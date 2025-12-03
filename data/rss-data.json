@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence",
+      "link": "https://arxiv.org/abs/2512.02280",
+      "description": "arXiv:2512.02280v1 Announce Type: new \nAbstract: Artificial intelligence has advanced rapidly across perception, language, reasoning, and multimodal domains. Yet despite these achievements, modern AI systems remain fun- damentally limited in their ability to self-monitor, self-correct, and regulate their behavior autonomously in dynamic contexts. This paper identifies and analyzes seven core deficiencies that constrain contemporary AI models: the absence of intrinsic self- monitoring, lack of me",
+      "pubDate": "2025-12-03T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 36,
+      "title_zh": "Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence"
+    },
+    {
+      "title": "STRIDE: A Systematic Framework for Selecting AI Modalities - Agentic AI, AI Assistants, or LLM Calls",
+      "link": "https://arxiv.org/abs/2512.02228",
+      "description": "arXiv:2512.02228v1 Announce Type: new \nAbstract: The rapid shift from stateless large language models (LLMs) to autonomous, goal-driven agents raises a central question: When is agentic AI truly necessary? While agents enable multi-step reasoning, persistent memory, and tool orchestration, deploying them indiscriminately leads to higher cost, complexity, and risk.\n  We present STRIDE (Systematic Task Reasoning Intelligence Deployment Evaluator), a framework that provides principled recommendatio",
+      "pubDate": "2025-12-03T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 35.5,
+      "title_zh": "STRIDE: A Systematic Framework for Selecting AI Modalities - Agentic AI, AI Assistants, or LLM Calls"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -9,16 +29,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "A Rosetta Stone for AI Benchmarks",
-      "link": "https://arxiv.org/abs/2512.00193",
-      "description": "arXiv:2512.00193v1 Announce Type: new \nAbstract: Most AI benchmarks saturate within years or even months after they are introduced, making it hard to study long-run trends in AI capabilities. To address this challenge, we build a statistical framework that stitches benchmarks together, putting model capabilities and benchmark difficulties on a single numerical scale. This acts as a \"Rosetta Stone\", allowing us to compare models across a wide range of abilities and time, even if they are not eval",
-      "pubDate": "2025-12-02T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 24,
-      "title_zh": "A Rosetta Stone for AI Benchmarks"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -91,79 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions",
-      "link": "https://arxiv.org/abs/2512.00097",
-      "description": "arXiv:2512.00097v1 Announce Type: new \nAbstract: Automated theorem proving in Euclidean geometry, particularly for International Mathematical Olympiad (IMO) level problems, remains a major challenge and an important research focus in Artificial Intelligence. In this paper, we present a highly efficient method for geometry theorem proving that runs entirely on CPUs without relying on neural network-based inference. Our initial study shows that a simple random strategy for adding auxiliary points ",
-      "pubDate": "2025-12-02T05:00:00.000Z",
+      "title": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses",
+      "link": "https://arxiv.org/abs/2512.02282",
+      "description": "arXiv:2512.02282v1 Announce Type: new \nAbstract: Large language models (LLMs) now mediate many web-based mental- health, crisis, and other emotionally sensitive services, yet their psychosocial safety in these settings remains poorly understood and weakly evaluated. We present DialogGuard, a multi-agent frame- work for assessing psychosocial risks in LLM-generated responses along five high-severity dimensions: privacy violations, discrimi- natory behaviour, mental manipulation, psychological har",
+      "pubDate": "2025-12-03T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions"
+      "aiScore": 15,
+      "title_zh": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses"
     },
     {
-      "title": "Chunking Strategies for Multimodal AI Systems",
-      "link": "https://arxiv.org/abs/2512.00185",
-      "description": "arXiv:2512.00185v1 Announce Type: new \nAbstract: Our goal is to consolidate the landscape of multimodal chunking strategies, providing researchers and practitioners with a technical foundation and design space for developing more effective and efficient multimodal AI systems. This survey paves the way for innovations in robust chunking pipelines that scale with modality complexity, enhance processing accuracy, and improve generative coherence in real-world applications. This survey provides a co",
-      "pubDate": "2025-12-02T05:00:00.000Z",
+      "title": "The 4/$\\delta$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
+      "link": "https://arxiv.org/abs/2512.02080",
+      "description": "arXiv:2512.02080v1 Announce Type: new \nAbstract: The idea of using Formal Verification tools with large language models (LLMs) has enabled scaling software verification beyond manual workflows. However, current methods remain unreliable. Without a solid theoretical footing, the refinement process can wander; sometimes it settles, sometimes it loops back, and sometimes it breaks away from any stable trajectory. This work bridges this critical gap by developing an LLM-Verifier Convergence Theorem,",
+      "pubDate": "2025-12-03T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "The 4/$\\delta$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee"
+    },
+    {
+      "title": "From monoliths to modules: Decomposing transducers for efficient world modelling",
+      "link": "https://arxiv.org/abs/2512.02193",
+      "description": "arXiv:2512.02193v1 Announce Type: new \nAbstract: World models have been recently proposed as sandbox environments in which AI agents can be trained and evaluated before deployment. Although realistic world models often have high computational demands, efficient modelling is usually possible by exploiting the fact that real-world scenarios tend to involve subcomponents that interact in a modular manner. In this paper, we explore this idea by developing a framework for decomposing complex world mo",
+      "pubDate": "2025-12-03T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "Chunking Strategies for Multimodal AI Systems"
+      "title_zh": "From monoliths to modules: Decomposing transducers for efficient world modelling"
     },
     {
-      "title": "RL-Struct: A Lightweight Reinforcement Learning Framework for Reliable Structured Output in LLMs",
-      "link": "https://arxiv.org/abs/2512.00319",
-      "description": "arXiv:2512.00319v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in natural language generation and reasoning. However, their integration into automated software ecosystems is often hindered by the \"Structure Gap\" - the inherent tension between the probabilistic nature of token generation and the deterministic requirements of structured data formats (e.g., JSON, XML). Traditional Supervised Fine-Tuning (SFT) often fails to enforce strict syn",
-      "pubDate": "2025-12-02T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "RL-Struct: A Lightweight Reinforcement Learning Framework for Reliable Structured Output in LLMs"
-    },
-    {
-      "title": "CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System",
-      "link": "https://arxiv.org/abs/2512.00331",
-      "description": "arXiv:2512.00331v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as conversational tutors in STEM education, yet most systems still rely on a single LLM with a static retrieval-augmented generation (RAG) pipeline over course materials. This design struggles in complex domains such as digital signal processing (DSP), where tutors must maintain coherent long-term student models, manage heterogeneous knowledge bases, and adapt teaching strategies over extended",
-      "pubDate": "2025-12-02T05:00:00.000Z",
+      "title": "Benchmarking LLM Agents for Wealth-Management Workflows",
+      "link": "https://arxiv.org/abs/2512.02230",
+      "description": "arXiv:2512.02230v1 Announce Type: new \nAbstract: Modern work relies on an assortment of digital collaboration tools, yet routine processes continue to suffer from human error and delay. To address this gap, this dissertation extends TheAgentCompany with a finance-focused environment and investigates whether a general purpose LLM agent can complete representative wealth-management tasks both accurately and economically. This study introduces synthetic domain data, enriches colleague simulations, ",
+      "pubDate": "2025-12-03T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "CogEvo-Edu: Cognitive Evolution Educational Multi-Agent Collaborative System"
+      "title_zh": "Benchmarking LLM Agents for Wealth-Management Workflows"
     },
     {
-      "title": "Reasoning Under Pressure: How do Training Incentives Influence Chain-of-Thought Monitorability?",
-      "link": "https://arxiv.org/abs/2512.00218",
-      "description": "arXiv:2512.00218v1 Announce Type: new \nAbstract: AI systems that output their reasoning in natural language offer an opportunity for safety -- we can \\emph{monitor} their chain of thought (CoT) for undesirable reasoning, such as the pursuit of harmful objectives. However, the extent to which CoT faithfully reflects the underlying reasoning process, and hence the extent to which it can be usefully monitored, may be influenced by certain aspects of training. We investigate how different \\emph{trai",
-      "pubDate": "2025-12-02T05:00:00.000Z",
+      "title": "TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?",
+      "link": "https://arxiv.org/abs/2512.02261",
+      "description": "arXiv:2512.02261v1 Announce Type: new \nAbstract: LLM-based trading agents are increasingly deployed in real-world financial markets to perform autonomous analysis and execution. However, their reliability and robustness under adversarial or faulty conditions remain largely unexamined, despite operating in high-risk, irreversible financial environments. We propose TradeTrap, a unified evaluation framework for systematically stress-testing both adaptive and procedural autonomous trading agents. Tr",
+      "pubDate": "2025-12-03T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?"
+    },
+    {
+      "title": "Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code",
+      "link": "https://arxiv.org/abs/2512.02170",
+      "description": "arXiv:2512.02170v1 Announce Type: new \nAbstract: Flowcharts are common tools for communicating processes but are often shared as static images that cannot be easily edited or reused. We present \\textsc{Flowchart2Mermaid}, a lightweight web system that converts flowchart images into editable Mermaid.js code which is a markup language for visual workflows, using a detailed system prompt and vision-language models. The interface supports mixed-initiative refinement through inline text editing, drag",
+      "pubDate": "2025-12-03T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Reasoning Under Pressure: How do Training Incentives Influence Chain-of-Thought Monitorability?"
-    },
-    {
-      "title": "Trification: A Comprehensive Tree-based Strategy Planner and Structural Verification for Fact-Checking",
-      "link": "https://arxiv.org/abs/2512.00267",
-      "description": "arXiv:2512.00267v1 Announce Type: new \nAbstract: Technological advancement allows information to be shared in just a single click, which has enabled the rapid spread of false information. This makes automated fact-checking system necessary to ensure the safety and integrity of our online media ecosystem. Previous methods have demonstrated the effectiveness of decomposing the claim into simpler sub-tasks and utilizing LLM-based multi agent system to execute them. However, those models faces two l",
-      "pubDate": "2025-12-02T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Trification: A Comprehensive Tree-based Strategy Planner and Structural Verification for Fact-Checking"
-    },
-    {
-      "title": "Echo-N1: Affective RL Frontier",
-      "link": "https://arxiv.org/abs/2512.00344",
-      "description": "arXiv:2512.00344v1 Announce Type: new \nAbstract: The LLM field has spent a year perfecting RL for tasks machines already excel at, math, code, and deterministic reasoning, while completely sidestepping the domain that actually defines human intelligence: subjective, emotionally grounded, personality sensitive conversation. This space has often been regarded as inherently subjective and challenging to formalize, making it appear unsuitable for conventional RL pipelines. We show that it is not onl",
-      "pubDate": "2025-12-02T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Echo-N1: Affective RL Frontier"
+      "title_zh": "Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-12-03T04:19:00.906Z",
+    "generatedAt": "2025-12-03T05:10:48.598Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.1875
+    "averageScore": 17.71875
   }
 }
