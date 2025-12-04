@@ -3,20 +3,20 @@
     {
       "title": "Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence",
       "title_zh": "Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence",
-      "description": "arXiv:2512.02280v1 Announce Type: new \nAbstract: Artificial intelligence has advanced rapidly across perception, language, reasoning, and multimodal domains. Yet despite these achievements, modern AI systems remain fun- damentally limited in their ability to self-monitor, self-correct, and regulate their behavior autonomously in dynamic contexts. This paper identifies and analyzes seven core deficiencies that constrain contemporary AI models: the absence of intrinsic self- monitoring, lack of me",
+      "description": "arXiv:2512.02280v1 Announce Type: new \nAbstract: Artificial intelligence has advanced rapidly across perception, language, reasoning, and multimodal domains. Yet despite these achievements, modern AI systems remain fundamentally limited in their ability to self-monitor, self-correct, and regulate their behavior autonomously in dynamic contexts. This paper identifies and analyzes seven core deficiencies that constrain contemporary AI models: the absence of intrinsic self-monitoring, lack of meta-",
       "link": "https://arxiv.org/abs/2512.02280",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     },
     {
-      "title": "STRIDE: A Systematic Framework for Selecting AI Modalities - Agentic AI, AI Assistants, or LLM Calls",
-      "title_zh": "STRIDE: A Systematic Framework for Selecting AI Modalities - Agentic AI, AI Assistants, or LLM Calls",
+      "title": "STRIDE: A Systematic Framework for Selecting AI Modalities -- Agentic AI, AI Assistants, or LLM Calls",
+      "title_zh": "STRIDE: A Systematic Framework for Selecting AI Modalities -- Agentic AI, AI Assistants, or LLM Calls",
       "description": "arXiv:2512.02228v1 Announce Type: new \nAbstract: The rapid shift from stateless large language models (LLMs) to autonomous, goal-driven agents raises a central question: When is agentic AI truly necessary? While agents enable multi-step reasoning, persistent memory, and tool orchestration, deploying them indiscriminately leads to higher cost, complexity, and risk.\n  We present STRIDE (Systematic Task Reasoning Intelligence Deployment Evaluator), a framework that provides principled recommendatio",
       "link": "https://arxiv.org/abs/2512.02228",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -93,11 +93,11 @@
     {
       "title": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses",
       "title_zh": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses",
-      "description": "arXiv:2512.02282v1 Announce Type: new \nAbstract: Large language models (LLMs) now mediate many web-based mental- health, crisis, and other emotionally sensitive services, yet their psychosocial safety in these settings remains poorly understood and weakly evaluated. We present DialogGuard, a multi-agent frame- work for assessing psychosocial risks in LLM-generated responses along five high-severity dimensions: privacy violations, discrimi- natory behaviour, mental manipulation, psychological har",
+      "description": "arXiv:2512.02282v1 Announce Type: new \nAbstract: Large language models (LLMs) now mediate many web-based mental-health, crisis, and other emotionally sensitive services, yet their psychosocial safety in these settings remains poorly understood and weakly evaluated. We present DialogGuard, a multi-agent framework for assessing psychosocial risks in LLM-generated responses along five high-severity dimensions: privacy violations, discriminatory behaviour, mental manipulation, psychological harm, an",
       "link": "https://arxiv.org/abs/2512.02282",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     },
     {
       "title": "The 4/$\\delta$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
@@ -106,7 +106,7 @@
       "link": "https://arxiv.org/abs/2512.02080",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     },
     {
       "title": "From monoliths to modules: Decomposing transducers for efficient world modelling",
@@ -115,7 +115,7 @@
       "link": "https://arxiv.org/abs/2512.02193",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     },
     {
       "title": "Benchmarking LLM Agents for Wealth-Management Workflows",
@@ -124,7 +124,7 @@
       "link": "https://arxiv.org/abs/2512.02230",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     },
     {
       "title": "TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?",
@@ -133,16 +133,16 @@
       "link": "https://arxiv.org/abs/2512.02261",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     },
     {
       "title": "Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code",
       "title_zh": "Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code",
-      "description": "arXiv:2512.02170v1 Announce Type: new \nAbstract: Flowcharts are common tools for communicating processes but are often shared as static images that cannot be easily edited or reused. We present \\textsc{Flowchart2Mermaid}, a lightweight web system that converts flowchart images into editable Mermaid.js code which is a markup language for visual workflows, using a detailed system prompt and vision-language models. The interface supports mixed-initiative refinement through inline text editing, drag",
+      "description": "arXiv:2512.02170v2 Announce Type: new \nAbstract: Flowcharts are common tools for communicating processes but are often shared as static images that cannot be easily edited or reused. We present Flowchart2Mermaid, a lightweight web system that converts flowchart images into editable Mermaid.js code which is a markup language for visual workflows, using a detailed system prompt and vision-language models. The interface supports mixed-initiative refinement through inline text editing, drag-and-drop",
       "link": "https://arxiv.org/abs/2512.02170",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-03"
+      "date": "2025-12-04"
     }
   ]
 }
