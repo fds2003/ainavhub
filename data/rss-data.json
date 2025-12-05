@@ -31,6 +31,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Artificial Intelligence Applications in Horizon Scanning for Infectious Diseases",
+      "link": "https://arxiv.org/abs/2512.04287",
+      "description": "arXiv:2512.04287v1 Announce Type: new \nAbstract: This review explores the integration of Artificial Intelligence into Horizon Scanning, focusing on identifying and responding to emerging threats and opportunities linked to Infectious Diseases. We examine how AI tools can enhance signal detection, data monitoring, scenario analysis, and decision support. We also address the risks associated with AI adoption and propose strategies for effective implementation and governance. The findings contribut",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 22,
+      "title_zh": "Artificial Intelligence Applications in Horizon Scanning for Infectious Diseases"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -39,6 +49,16 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "The Geometry of Benchmarks: A New Path Toward AGI",
+      "link": "https://arxiv.org/abs/2512.04276",
+      "description": "arXiv:2512.04276v1 Announce Type: new \nAbstract: Benchmarks are the primary tool for assessing progress in artificial intelligence (AI), yet current practice evaluates models on isolated test suites and provides little guidance for reasoning about generality or autonomous self-improvement. Here we introduce a geometric framework in which all psychometric batteries for AI agents are treated as points in a structured moduli space, and agent performance is described by capability functionals over t",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 19,
+      "title_zh": "The Geometry of Benchmarks: A New Path Toward AGI"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -81,89 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Multimodal Reinforcement Learning with Agentic Verifier for AI Agents",
-      "link": "https://arxiv.org/abs/2512.03438",
-      "description": "arXiv:2512.03438v1 Announce Type: new \nAbstract: Agentic reasoning models trained with multimodal reinforcement learning (MMRL) have become increasingly capable, yet they are almost universally optimized using sparse, outcome-based rewards computed based on the final answers. Richer rewards computed from the reasoning tokens can improve learning significantly by providing more fine-grained guidance. However, it is challenging to compute more informative rewards in MMRL beyond those based on outc",
+      "title": "Orchestrator Multi-Agent Clinical Decision Support System for Secondary Headache Diagnosis in Primary Care",
+      "link": "https://arxiv.org/abs/2512.04207",
+      "description": "arXiv:2512.04207v1 Announce Type: new \nAbstract: Unlike most primary headaches, secondary headaches need specialized care and can have devastating consequences if not treated promptly. Clinical guidelines highlight several 'red flag' features, such as thunderclap onset, meningismus, papilledema, focal neurologic deficits, signs of temporal arteritis, systemic illness, and the 'worst headache of their life' presentation. Despite these guidelines, determining which patients require urgent evaluati",
       "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 14.5,
-      "title_zh": "Multimodal Reinforcement Learning with Agentic Verifier for AI Agents"
+      "aiScore": 9,
+      "title_zh": "Orchestrator Multi-Agent Clinical Decision Support System for Secondary Headache Diagnosis in Primary Care"
     },
     {
-      "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
-      "link": "https://arxiv.org/abs/2512.03318",
-      "description": "arXiv:2512.03318v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have demonstrated impressive capabilities for social interaction and are increasingly being deployed in situations where they might engage with both human and artificial agents. These interactions represent a critical frontier for LLM-based agents, yet existing evaluation methods fail to measure how well these capabilities generalize to novel social situations. In this paper, we introduce a method for evaluating t",
-      "pubDate": "2025-12-05T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia"
-    },
-    {
-      "title": "Beyond the Black Box: A Cognitive Architecture for Explainable and Aligned AI",
-      "link": "https://arxiv.org/abs/2512.03072",
-      "description": "arXiv:2512.03072v1 Announce Type: new \nAbstract: Current AI paradigms, as \"architects of experience,\" face fundamental challenges in explainability and value alignment. This paper introduces \"Weight-Calculatism,\" a novel cognitive architecture grounded in first principles, and demonstrates its potential as a viable pathway toward Artificial General Intelligence (AGI). The architecture deconstructs cognition into indivisible Logical Atoms and two fundamental operations: Pointing and Comparison. D",
-      "pubDate": "2025-12-05T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "Beyond the Black Box: A Cognitive Architecture for Explainable and Aligned AI"
-    },
-    {
-      "title": "Exploring Syntropic Frameworks in AI Alignment: A Philosophical Investigation",
-      "link": "https://arxiv.org/abs/2512.03048",
-      "description": "arXiv:2512.03048v1 Announce Type: new \nAbstract: I argue that AI alignment should be reconceived as architecting syntropic, reasons-responsive agents through process-based, multi-agent, developmental mechanisms rather than encoding fixed human value content. The paper makes three philosophical contributions. First, I articulate the ``specification trap'' argument demonstrating why content-based value specification appears structurally unstable due to the conjunction of the is-ought gap, value pl",
+      "title": "Solving N-Queen Problem using Las Vegas Algorithm with State Pruning",
+      "link": "https://arxiv.org/abs/2512.04139",
+      "description": "arXiv:2512.04139v1 Announce Type: new \nAbstract: The N-Queens problem, placing all N queens in a N x N chessboard where none attack the other, is a classic problem for constraint satisfaction algorithms. While complete methods like backtracking guarantee a solution, their exponential time complexity makes them impractical for large-scale instances thus, stochastic approaches, such as Las Vegas algorithm, are preferred. While it offers faster approximate solutions, it suffers from significant per",
       "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "Exploring Syntropic Frameworks in AI Alignment: A Philosophical Investigation"
+      "title_zh": "Solving N-Queen Problem using Las Vegas Algorithm with State Pruning"
     },
     {
-      "title": "When Do Symbolic Solvers Enhance Reasoning in Large Language Models?",
-      "link": "https://arxiv.org/abs/2512.03272",
-      "description": "arXiv:2512.03272v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) achieve strong performance on complex reasoning tasks by generating long Chains of Thought (CoTs). However, this paradigm might incur substantial token overhead, especially when models \"overthink\" by producing lengthy reasoning chains, which can even lead to incorrect answers. A promising direction is the symbolic-solver-integrated approach, which leverages the code generation capabilities of LLMs to translate reasoni",
+      "title": "Towards better dense rewards in Reinforcement Learning Applications",
+      "link": "https://arxiv.org/abs/2512.04302",
+      "description": "arXiv:2512.04302v1 Announce Type: new \nAbstract: Finding meaningful and accurate dense rewards is a fundamental task in the field of reinforcement learning (RL) that enables agents to explore environments more efficiently. In traditional RL settings, agents learn optimal policies through interactions with an environment guided by reward signals. However, when these signals are sparse, delayed, or poorly aligned with the intended task objectives, agents often struggle to learn effectively. Dense ",
       "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "When Do Symbolic Solvers Enhance Reasoning in Large Language Models?"
+      "aiScore": 8,
+      "title_zh": "Towards better dense rewards in Reinforcement Learning Applications"
     },
     {
-      "title": "Multi-Agent Reinforcement Learning with Communication-Constrained Priors",
-      "link": "https://arxiv.org/abs/2512.03528",
-      "description": "arXiv:2512.03528v1 Announce Type: new \nAbstract: Communication is one of the effective means to improve the learning of cooperative policy in multi-agent systems. However, in most real-world scenarios, lossy communication is a prevalent issue. Existing multi-agent reinforcement learning with communication, due to their limited scalability and robustness, struggles to apply to complex and dynamic real-world environments. To address these challenges, we propose a generalized communication-constrai",
+      "title": "Balancing Safety and Helpfulness in Healthcare AI Assistants through Iterative Preference Alignment",
+      "link": "https://arxiv.org/abs/2512.04210",
+      "description": "arXiv:2512.04210v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly used in healthcare, yet ensuring their safety and trustworthiness remains a barrier to deployment. Conversational medical assistants must avoid unsafe compliance without over-refusing benign queries. We present an iterative post-deployment alignment framework that applies Kahneman-Tversky Optimization (KTO) and Direct Preference Optimization (DPO) to refine models against domain-specific safety signals",
       "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Multi-Agent Reinforcement Learning with Communication-Constrained Priors"
+      "aiScore": 4,
+      "title_zh": "Balancing Safety and Helpfulness in Healthcare AI Assistants through Iterative Preference Alignment"
     },
     {
-      "title": "PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of Long-Horizon Tasks",
-      "link": "https://arxiv.org/abs/2512.03549",
-      "description": "arXiv:2512.03549v1 Announce Type: new \nAbstract: We introduce PARC, a coding agent for the autonomous and robust execution of long-horizon computational tasks. PARC is built on a hierarchical multi-agent architecture incorporating task planning, execution, and a mechanism that evaluates its own actions and their outcomes from an independent context and provides feedback, namely self-assessment and self-feedback. This design enables PARC to detect and correct high-level strategic errors and susta",
+      "title": "Toward Virtuous Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2512.04246",
+      "description": "arXiv:2512.04246v1 Announce Type: new \nAbstract: This paper critiques common patterns in machine ethics for Reinforcement Learning (RL) and argues for a virtue focused alternative. We highlight two recurring limitations in much of the current literature: (i) rule based (deontological) methods that encode duties as constraints or shields often struggle under ambiguity and nonstationarity and do not cultivate lasting habits, and (ii) many reward based approaches, especially single objective RL, im",
       "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5.5,
-      "title_zh": "PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of Long-Horizon Tasks"
+      "aiScore": 4,
+      "title_zh": "Toward Virtuous Reinforcement Learning"
     },
     {
-      "title": "EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths",
-      "link": "https://arxiv.org/abs/2512.03571",
-      "description": "arXiv:2512.03571v1 Announce Type: new \nAbstract: We introduce a new approach to agent programming, the development of LLM-based agents. Current approaches to agent programming often entangle two aspects of agent design: the core workflow logic and the inference-time strategy (e.g., tree search). We introduce \"probabilistic angelic nondeterminism\" (\"PAN\"), a programming model that disentangles these two concerns, allowing the programmer to describe the agent workflow and independently experiment ",
+      "title": "Addressing Logical Fallacies In Scientific Reasoning From Large Language Models: Towards a Dual-Inference Training Framework",
+      "link": "https://arxiv.org/abs/2512.04228",
+      "description": "arXiv:2512.04228v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have transformed natural language processing and hold growing promise for advancing science, healthcare, and decision-making. Yet their training paradigms remain dominated by affirmation-based inference, akin to \\textit{modus ponens}, where accepted premises yield predicted consequents. While effective for generative fluency, this one-directional approach leaves models vulnerable to logical fallacies, adversarial manip",
       "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths"
+      "title_zh": "Addressing Logical Fallacies In Scientific Reasoning From Large Language Models: Towards a Dual-Inference Training Framework"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-12-05T17:10:41.197Z",
+    "generatedAt": "2025-12-05T18:16:37.682Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.125
+    "averageScore": 14.875
   }
 }
