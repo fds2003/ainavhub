@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "title": "Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence",
-      "link": "https://arxiv.org/abs/2512.02280",
-      "description": "arXiv:2512.02280v1 Announce Type: new \nAbstract: Artificial intelligence has advanced rapidly across perception, language, reasoning, and multimodal domains. Yet despite these achievements, modern AI systems remain fundamentally limited in their ability to self-monitor, self-correct, and regulate their behavior autonomously in dynamic contexts. This paper identifies and analyzes seven core deficiencies that constrain contemporary AI models: the absence of intrinsic self-monitoring, lack of meta-",
-      "pubDate": "2025-12-04T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 36,
-      "title_zh": "Bridging the Gap: Toward Cognitive Autonomy in Artificial Intelligence"
-    },
-    {
-      "title": "STRIDE: A Systematic Framework for Selecting AI Modalities -- Agentic AI, AI Assistants, or LLM Calls",
-      "link": "https://arxiv.org/abs/2512.02228",
-      "description": "arXiv:2512.02228v1 Announce Type: new \nAbstract: The rapid shift from stateless large language models (LLMs) to autonomous, goal-driven agents raises a central question: When is agentic AI truly necessary? While agents enable multi-step reasoning, persistent memory, and tool orchestration, deploying them indiscriminately leads to higher cost, complexity, and risk.\n  We present STRIDE (Systematic Task Reasoning Intelligence Deployment Evaluator), a framework that provides principled recommendatio",
-      "pubDate": "2025-12-04T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 35.5,
-      "title_zh": "STRIDE: A Systematic Framework for Selecting AI Modalities -- Agentic AI, AI Assistants, or LLM Calls"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -101,69 +81,89 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses",
-      "link": "https://arxiv.org/abs/2512.02282",
-      "description": "arXiv:2512.02282v1 Announce Type: new \nAbstract: Large language models (LLMs) now mediate many web-based mental-health, crisis, and other emotionally sensitive services, yet their psychosocial safety in these settings remains poorly understood and weakly evaluated. We present DialogGuard, a multi-agent framework for assessing psychosocial risks in LLM-generated responses along five high-severity dimensions: privacy violations, discriminatory behaviour, mental manipulation, psychological harm, an",
-      "pubDate": "2025-12-04T05:00:00.000Z",
+      "title": "Multimodal Reinforcement Learning with Agentic Verifier for AI Agents",
+      "link": "https://arxiv.org/abs/2512.03438",
+      "description": "arXiv:2512.03438v1 Announce Type: new \nAbstract: Agentic reasoning models trained with multimodal reinforcement learning (MMRL) have become increasingly capable, yet they are almost universally optimized using sparse, outcome-based rewards computed based on the final answers. Richer rewards computed from the reasoning tokens can improve learning significantly by providing more fine-grained guidance. However, it is challenging to compute more informative rewards in MMRL beyond those based on outc",
+      "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses"
+      "aiScore": 14.5,
+      "title_zh": "Multimodal Reinforcement Learning with Agentic Verifier for AI Agents"
     },
     {
-      "title": "The 4/$\\delta$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
-      "link": "https://arxiv.org/abs/2512.02080",
-      "description": "arXiv:2512.02080v1 Announce Type: new \nAbstract: The idea of using Formal Verification tools with large language models (LLMs) has enabled scaling software verification beyond manual workflows. However, current methods remain unreliable. Without a solid theoretical footing, the refinement process can wander; sometimes it settles, sometimes it loops back, and sometimes it breaks away from any stable trajectory. This work bridges this critical gap by developing an LLM-Verifier Convergence Theorem,",
-      "pubDate": "2025-12-04T05:00:00.000Z",
+      "title": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia",
+      "link": "https://arxiv.org/abs/2512.03318",
+      "description": "arXiv:2512.03318v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have demonstrated impressive capabilities for social interaction and are increasingly being deployed in situations where they might engage with both human and artificial agents. These interactions represent a critical frontier for LLM-based agents, yet existing evaluation methods fail to measure how well these capabilities generalize to novel social situations. In this paper, we introduce a method for evaluating t",
+      "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "The 4/$\\delta$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee"
+      "title_zh": "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia"
     },
     {
-      "title": "From monoliths to modules: Decomposing transducers for efficient world modelling",
-      "link": "https://arxiv.org/abs/2512.02193",
-      "description": "arXiv:2512.02193v1 Announce Type: new \nAbstract: World models have been recently proposed as sandbox environments in which AI agents can be trained and evaluated before deployment. Although realistic world models often have high computational demands, efficient modelling is usually possible by exploiting the fact that real-world scenarios tend to involve subcomponents that interact in a modular manner. In this paper, we explore this idea by developing a framework for decomposing complex world mo",
-      "pubDate": "2025-12-04T05:00:00.000Z",
+      "title": "Beyond the Black Box: A Cognitive Architecture for Explainable and Aligned AI",
+      "link": "https://arxiv.org/abs/2512.03072",
+      "description": "arXiv:2512.03072v1 Announce Type: new \nAbstract: Current AI paradigms, as \"architects of experience,\" face fundamental challenges in explainability and value alignment. This paper introduces \"Weight-Calculatism,\" a novel cognitive architecture grounded in first principles, and demonstrates its potential as a viable pathway toward Artificial General Intelligence (AGI). The architecture deconstructs cognition into indivisible Logical Atoms and two fundamental operations: Pointing and Comparison. D",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 10,
+      "title_zh": "Beyond the Black Box: A Cognitive Architecture for Explainable and Aligned AI"
+    },
+    {
+      "title": "Exploring Syntropic Frameworks in AI Alignment: A Philosophical Investigation",
+      "link": "https://arxiv.org/abs/2512.03048",
+      "description": "arXiv:2512.03048v1 Announce Type: new \nAbstract: I argue that AI alignment should be reconceived as architecting syntropic, reasons-responsive agents through process-based, multi-agent, developmental mechanisms rather than encoding fixed human value content. The paper makes three philosophical contributions. First, I articulate the ``specification trap'' argument demonstrating why content-based value specification appears structurally unstable due to the conjunction of the is-ought gap, value pl",
+      "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "From monoliths to modules: Decomposing transducers for efficient world modelling"
+      "title_zh": "Exploring Syntropic Frameworks in AI Alignment: A Philosophical Investigation"
     },
     {
-      "title": "Benchmarking LLM Agents for Wealth-Management Workflows",
-      "link": "https://arxiv.org/abs/2512.02230",
-      "description": "arXiv:2512.02230v1 Announce Type: new \nAbstract: Modern work relies on an assortment of digital collaboration tools, yet routine processes continue to suffer from human error and delay. To address this gap, this dissertation extends TheAgentCompany with a finance-focused environment and investigates whether a general purpose LLM agent can complete representative wealth-management tasks both accurately and economically. This study introduces synthetic domain data, enriches colleague simulations, ",
-      "pubDate": "2025-12-04T05:00:00.000Z",
+      "title": "When Do Symbolic Solvers Enhance Reasoning in Large Language Models?",
+      "link": "https://arxiv.org/abs/2512.03272",
+      "description": "arXiv:2512.03272v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) achieve strong performance on complex reasoning tasks by generating long Chains of Thought (CoTs). However, this paradigm might incur substantial token overhead, especially when models \"overthink\" by producing lengthy reasoning chains, which can even lead to incorrect answers. A promising direction is the symbolic-solver-integrated approach, which leverages the code generation capabilities of LLMs to translate reasoni",
+      "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Benchmarking LLM Agents for Wealth-Management Workflows"
+      "title_zh": "When Do Symbolic Solvers Enhance Reasoning in Large Language Models?"
     },
     {
-      "title": "TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?",
-      "link": "https://arxiv.org/abs/2512.02261",
-      "description": "arXiv:2512.02261v1 Announce Type: new \nAbstract: LLM-based trading agents are increasingly deployed in real-world financial markets to perform autonomous analysis and execution. However, their reliability and robustness under adversarial or faulty conditions remain largely unexamined, despite operating in high-risk, irreversible financial environments. We propose TradeTrap, a unified evaluation framework for systematically stress-testing both adaptive and procedural autonomous trading agents. Tr",
-      "pubDate": "2025-12-04T05:00:00.000Z",
+      "title": "Multi-Agent Reinforcement Learning with Communication-Constrained Priors",
+      "link": "https://arxiv.org/abs/2512.03528",
+      "description": "arXiv:2512.03528v1 Announce Type: new \nAbstract: Communication is one of the effective means to improve the learning of cooperative policy in multi-agent systems. However, in most real-world scenarios, lossy communication is a prevalent issue. Existing multi-agent reinforcement learning with communication, due to their limited scalability and robustness, struggles to apply to complex and dynamic real-world environments. To address these challenges, we propose a generalized communication-constrai",
+      "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?"
+      "title_zh": "Multi-Agent Reinforcement Learning with Communication-Constrained Priors"
     },
     {
-      "title": "Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code",
-      "link": "https://arxiv.org/abs/2512.02170",
-      "description": "arXiv:2512.02170v2 Announce Type: new \nAbstract: Flowcharts are common tools for communicating processes but are often shared as static images that cannot be easily edited or reused. We present Flowchart2Mermaid, a lightweight web system that converts flowchart images into editable Mermaid.js code which is a markup language for visual workflows, using a detailed system prompt and vision-language models. The interface supports mixed-initiative refinement through inline text editing, drag-and-drop",
-      "pubDate": "2025-12-04T05:00:00.000Z",
+      "title": "PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of Long-Horizon Tasks",
+      "link": "https://arxiv.org/abs/2512.03549",
+      "description": "arXiv:2512.03549v1 Announce Type: new \nAbstract: We introduce PARC, a coding agent for the autonomous and robust execution of long-horizon computational tasks. PARC is built on a hierarchical multi-agent architecture incorporating task planning, execution, and a mechanism that evaluates its own actions and their outcomes from an independent context and provides feedback, namely self-assessment and self-feedback. This design enables PARC to detect and correct high-level strategic errors and susta",
+      "pubDate": "2025-12-05T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code"
+      "aiScore": 5.5,
+      "title_zh": "PARC: An Autonomous Self-Reflective Coding Agent for Robust Execution of Long-Horizon Tasks"
+    },
+    {
+      "title": "EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths",
+      "link": "https://arxiv.org/abs/2512.03571",
+      "description": "arXiv:2512.03571v1 Announce Type: new \nAbstract: We introduce a new approach to agent programming, the development of LLM-based agents. Current approaches to agent programming often entangle two aspects of agent design: the core workflow logic and the inference-time strategy (e.g., tree search). We introduce \"probabilistic angelic nondeterminism\" (\"PAN\"), a programming model that disentangles these two concerns, allowing the programmer to describe the agent workflow and independently experiment ",
+      "pubDate": "2025-12-05T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-12-05T04:19:43.043Z",
+    "generatedAt": "2025-12-05T05:10:44.812Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 17.71875
+    "averageScore": 14.125
   }
 }
