@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "title": "MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare",
-      "link": "https://arxiv.org/abs/2512.05365",
-      "description": "arXiv:2512.05365v1 Announce Type: new \nAbstract: Healthcare AI systems have historically faced challenges in merging contextual reasoning, long-term state management, and human-verifiable workflows into a cohesive framework. This paper introduces a completely innovative architecture and concept: combining the Model Context Protocol (MCP) with a specific clinical application, known as MCP-AI. This integration allows intelligent agents to reason over extended periods, collaborate securely, and adh",
-      "pubDate": "2025-12-08T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 44,
-      "title_zh": "MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare"
-    },
-    {
-      "title": "Bridging Traditional Machine Learning and Large Language Models: A Two-Part Course Design for Modern AI Education",
-      "link": "https://arxiv.org/abs/2512.05167",
-      "description": "arXiv:2512.05167v1 Announce Type: new \nAbstract: This paper presents an innovative pedagogical approach for teaching artificial intelligence and data science that systematically bridges traditional machine learning techniques with modern Large Language Models (LLMs). We describe a course structured in two sequential and complementary parts: foundational machine learning concepts and contemporary LLM applications. This design enables students to develop a comprehensive understanding of AI evoluti",
-      "pubDate": "2025-12-08T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 38.5,
-      "title_zh": "Bridging Traditional Machine Learning and Large Language Models: A Two-Part Course Design for Modern AI Education"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -51,14 +31,14 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "AI & Human Co-Improvement for Safer Co-Superintelligence",
-      "link": "https://arxiv.org/abs/2512.05356",
-      "description": "arXiv:2512.05356v1 Announce Type: new \nAbstract: Self-improvement is a goal currently exciting the field of AI, but is fraught with danger, and may take time to fully achieve. We advocate that a more achievable and better goal for humanity is to maximize co-improvement: collaboration between human researchers and AIs to achieve co-superintelligence. That is, specifically targeting improving AI systems' ability to work with human researchers to conduct AI research together, from ideation to exper",
-      "pubDate": "2025-12-08T05:00:00.000Z",
+      "title": "AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems",
+      "link": "https://arxiv.org/abs/2512.06240",
+      "description": "arXiv:2512.06240v1 Announce Type: new \nAbstract: Money laundering and financial fraud remain major threats to global financial stability, costing trillions annually and challenging regulatory oversight. This paper reviews how artificial intelligence (AI) applications can modernize Anti-Money Laundering (AML) workflows by improving detection accuracy, lowering false-positive rates, and reducing the operational burden of manual investigations, thereby supporting more sustainable development. It fu",
+      "pubDate": "2025-12-09T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 20,
-      "title_zh": "AI & Human Co-Improvement for Safer Co-Superintelligence"
+      "aiScore": 23,
+      "title_zh": "AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -111,59 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "On the Computability of Artificial General Intelligence",
-      "link": "https://arxiv.org/abs/2512.05212",
-      "description": "arXiv:2512.05212v1 Announce Type: new \nAbstract: In recent years we observed rapid and significant advancements in artificial intelligence (A.I.). So much so that many wonder how close humanity is to developing an A.I. model that can achieve human level of intelligence, also known as artificial general intelligence (A.G.I.). In this work we look at this question and we attempt to define the upper bounds, not just of A.I., but rather of any machine-computable process (a.k.a. an algorithm). To ans",
-      "pubDate": "2025-12-08T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "On the Computability of Artificial General Intelligence"
-    },
-    {
-      "title": "Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations",
-      "link": "https://arxiv.org/abs/2512.05156",
-      "description": "arXiv:2512.05156v1 Announce Type: new \nAbstract: Evaluating faithfulness of Large Language Models (LLMs) to a given task is a complex challenge. We propose two new unsupervised metrics for faithfulness evaluation using insights from information theory and thermodynamics. Our approach treats an LLM as a bipartite information engine where hidden layers act as a Maxwell demon controlling transformations of context $C $ into answer $A$ via prompt $Q$. We model Question-Context-Answer (QCA) triplets ",
-      "pubDate": "2025-12-08T05:00:00.000Z",
+      "title": "Going All-In on LLM Accuracy: Fake Prediction Markets, Real Confidence Signals",
+      "link": "https://arxiv.org/abs/2512.05998",
+      "description": "arXiv:2512.05998v1 Announce Type: new \nAbstract: Large language models are increasingly used to evaluate other models, yet these judgments typically lack any representation of confidence. This pilot study tests whether framing an evaluation task as a betting game (a fictional prediction market with its own LLM currency) improves forecasting accuracy and surfaces calibrated confidence signals. We generated 100 math and logic questions with verifiable answers. Six Baseline models (three current-ge",
+      "pubDate": "2025-12-09T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "Semantic Faithfulness and Entropy Production Measures to Tame Your LLM Demons and Manage Hallucinations"
+      "title_zh": "Going All-In on LLM Accuracy: Fake Prediction Markets, Real Confidence Signals"
     },
     {
-      "title": "Documenting SME Processes with Conversational AI: From Tacit Knowledge to BPMN",
-      "link": "https://arxiv.org/abs/2512.05122",
-      "description": "arXiv:2512.05122v1 Announce Type: new \nAbstract: Small and medium-sized enterprises (SMEs) still depend heavily on tacit, experience-based know-how that rarely makes its way into formal documentation. This paper introduces a large-language-model (LLM)-driven conversational assistant that captures such knowledge on the shop floor and converts it incrementally and interactively into standards-compliant Business Process Model and Notation (BPMN) 2.0 diagrams. Powered by Gemini 2.5 Pro and delivered",
-      "pubDate": "2025-12-08T05:00:00.000Z",
+      "title": "Deep learning for autism detection using clinical notes: A comparison of transfer learning for a transparent and black-box approach",
+      "link": "https://arxiv.org/abs/2512.06161",
+      "description": "arXiv:2512.06161v1 Announce Type: new \nAbstract: Autism spectrum disorder (ASD) is a complex neurodevelopmental condition whose rising prevalence places increasing demands on a lengthy diagnostic process. Machine learning (ML) has shown promise in automating ASD diagnosis, but most existing models operate as black boxes and are typically trained on a single dataset, limiting their generalizability. In this study, we introduce a transparent and interpretable ML approach that leverages BioBERT, a ",
+      "pubDate": "2025-12-09T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Documenting SME Processes with Conversational AI: From Tacit Knowledge to BPMN"
+      "aiScore": 12,
+      "title_zh": "Deep learning for autism detection using clinical notes: A comparison of transfer learning for a transparent and black-box approach"
     },
     {
-      "title": "Resolving Zadehs Paradox Axiomatic Possibility Theory as a Foundation for Reliable Artificial Intelligence",
-      "link": "https://arxiv.org/abs/2512.05257",
-      "description": "arXiv:2512.05257v1 Announce Type: new \nAbstract: This work advances and substantiates the thesis that the resolution of this crisis lies in the domain of possibility theory, specifically in the axiomatic approach developed in Bychkovs article. Unlike numerous attempts to fix Dempster rule, this approach builds from scratch a logically consistent and mathematically rigorous foundation for working with uncertainty, using the dualistic apparatus of possibility and necessity measures. The aim of thi",
-      "pubDate": "2025-12-08T05:00:00.000Z",
+      "title": "GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols",
+      "link": "https://arxiv.org/abs/2512.06404",
+      "description": "arXiv:2512.06404v1 Announce Type: new \nAbstract: Predictive atomistic simulations have propelled materials discovery, yet routine setup and debugging still demand computer specialists. This know-how gap limits Integrated Computational Materials Engineering (ICME), where state-of-the-art codes exist but remain cumbersome for non-experts. We address this bottleneck with GENIUS, an AI-agentic workflow that fuses a smart Quantum ESPRESSO knowledge graph with a tiered hierarchy of large language mode",
+      "pubDate": "2025-12-09T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 11,
+      "title_zh": "GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols"
+    },
+    {
+      "title": "Smart Spatial Planning in Egypt: An Algorithm-Driven Approach to Public Service Evaluation in Qena City",
+      "link": "https://arxiv.org/abs/2512.06431",
+      "description": "arXiv:2512.06431v1 Announce Type: new \nAbstract: National planning standards for public services in Egypt often fail to align with unique local characteristics. Addressing this gap, this study develops a tailored planning model for Qena City. Using a hybrid methodology (descriptive, analytical, and experimental), the research utilizes Python programming to generate an intelligent spatial analysis algorithm based on Voronoi Diagrams. This approach creates city-specific planning criteria and evalu",
+      "pubDate": "2025-12-09T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Smart Spatial Planning in Egypt: An Algorithm-Driven Approach to Public Service Evaluation in Qena City"
+    },
+    {
+      "title": "Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression",
+      "link": "https://arxiv.org/abs/2512.06393",
+      "description": "arXiv:2512.06393v1 Announce Type: new \nAbstract: Large language models (LLMs) excel across many natural language tasks, yet their generalisation to structural perturbations in logical contexts remains poorly understood. We introduce a controlled evaluation framework that probes reasoning reliability through four targeted stress tests: (1) rule deletion, removing either redundant or essential rules from a multi-step inference chain; (2) contradictory evidence injection; (3) logic-preserving rewri",
+      "pubDate": "2025-12-09T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 5,
-      "title_zh": "Resolving Zadehs Paradox Axiomatic Possibility Theory as a Foundation for Reliable Artificial Intelligence"
+      "title_zh": "Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression"
     },
     {
-      "title": "ChipMind: Retrieval-Augmented Reasoning for Long-Context Circuit Design Specifications",
-      "link": "https://arxiv.org/abs/2512.05371",
-      "description": "arXiv:2512.05371v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) demonstrate immense potential for automating integrated circuit (IC) development, their practical deployment is fundamentally limited by restricted context windows. Existing context-extension methods struggle to achieve effective semantic modeling and thorough multi-hop reasoning over extensive, intricate circuit specifications. To address this, we introduce ChipMind, a novel knowledge graph-augmented reasoning f",
-      "pubDate": "2025-12-08T05:00:00.000Z",
+      "title": "ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment",
+      "link": "https://arxiv.org/abs/2512.06196",
+      "description": "arXiv:2512.06196v1 Announce Type: new \nAbstract: As agents based on large language models are increasingly deployed to long-horizon tasks, maintaining their alignment with stakeholder preferences becomes critical. Effective alignment in such settings requires reward models that are interpretable so that stakeholders can understand and audit model objectives. Moreover, reward models must be capable of steering agents at interaction time, allowing preference shifts to be incorporated without retra",
+      "pubDate": "2025-12-09T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "ChipMind: Retrieval-Augmented Reasoning for Long-Context Circuit Design Specifications"
+      "aiScore": 4,
+      "title_zh": "ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment"
+    },
+    {
+      "title": "UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems",
+      "link": "https://arxiv.org/abs/2512.06406",
+      "description": "arXiv:2512.06406v1 Announce Type: new \nAbstract: Large language models(LLMs) are increasingly expanding their real-world applications across domains, e.g., question answering, autonomous driving, and automatic software development. Despite this achievement, LLMs, as data-driven systems, often make incorrect predictions, which can lead to potential losses in safety-critical scenarios. To address this issue and measure the confidence of model outputs, multiple uncertainty quantification(UQ) criter",
+      "pubDate": "2025-12-09T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-12-09T04:19:21.302Z",
+    "generatedAt": "2025-12-09T05:10:53.736Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 18.96875
+    "averageScore": 14.875
   }
 }
