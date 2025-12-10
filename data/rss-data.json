@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "Can AI autonomously build, operate, and use the entire data stack?",
+      "link": "https://arxiv.org/abs/2512.07926",
+      "description": "arXiv:2512.07926v1 Announce Type: new \nAbstract: Enterprise data management is a monumental task. It spans data architecture and systems, integration, quality, governance, and continuous improvement. While AI assistants can help specific persona, such as data engineers and stewards, to navigate and configure the data stack, they fall far short of full automation. However, as AI becomes increasingly capable of tackling tasks that have previously resisted automation due to inherent complexities, w",
+      "pubDate": "2025-12-10T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 29,
+      "title_zh": "Can AI autonomously build, operate, and use the entire data stack?"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -31,16 +41,6 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems",
-      "link": "https://arxiv.org/abs/2512.06240",
-      "description": "arXiv:2512.06240v1 Announce Type: new \nAbstract: Money laundering and financial fraud remain major threats to global financial stability, costing trillions annually and challenging regulatory oversight. This paper reviews how artificial intelligence (AI) applications can modernize Anti-Money Laundering (AML) workflows by improving detection accuracy, lowering false-positive rates, and reducing the operational burden of manual investigations, thereby supporting more sustainable development. It fu",
-      "pubDate": "2025-12-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 23,
-      "title_zh": "AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -49,6 +49,16 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "Toward an AI Reasoning-Enabled System for Patient-Clinical Trial Matching",
+      "link": "https://arxiv.org/abs/2512.08026",
+      "description": "arXiv:2512.08026v1 Announce Type: new \nAbstract: Screening patients for clinical trial eligibility remains a manual, time-consuming, and resource-intensive process. We present a secure, scalable proof-of-concept system for Artificial Intelligence (AI)-augmented patient-trial matching that addresses key implementation challenges: integrating heterogeneous electronic health record (EHR) data, facilitating expert review, and maintaining rigorous security standards. Leveraging open-source, reasoning",
+      "pubDate": "2025-12-10T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 17,
+      "title_zh": "Toward an AI Reasoning-Enabled System for Patient-Clinical Trial Matching"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -91,79 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Going All-In on LLM Accuracy: Fake Prediction Markets, Real Confidence Signals",
-      "link": "https://arxiv.org/abs/2512.05998",
-      "description": "arXiv:2512.05998v1 Announce Type: new \nAbstract: Large language models are increasingly used to evaluate other models, yet these judgments typically lack any representation of confidence. This pilot study tests whether framing an evaluation task as a betting game (a fictional prediction market with its own LLM currency) improves forecasting accuracy and surfaces calibrated confidence signals. We generated 100 math and logic questions with verifiable answers. Six Baseline models (three current-ge",
-      "pubDate": "2025-12-09T05:00:00.000Z",
+      "title": "Impact of Data-Oriented and Object-Oriented Design on Performance and Cache Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs",
+      "link": "https://arxiv.org/abs/2512.07841",
+      "description": "arXiv:2512.07841v1 Announce Type: new \nAbstract: The growing performance gap between multi-core CPUs and main memory necessitates hardware-aware software design paradigms. This study provides a comprehensive performance analysis of Data Oriented Design (DOD) versus the traditional Object-Oriented Design (OOD), focusing on cache utilization and efficiency in multi-threaded environments. We developed and compared four distinct versions of the A* search algorithm: single-threaded OOD (ST-OOD), sing",
+      "pubDate": "2025-12-10T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 13,
+      "title_zh": "Impact of Data-Oriented and Object-Oriented Design on Performance and Cache Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs"
+    },
+    {
+      "title": "AgentEval: Generative Agents as Reliable Proxies for Human Evaluation of AI-Generated Content",
+      "link": "https://arxiv.org/abs/2512.08273",
+      "description": "arXiv:2512.08273v1 Announce Type: new \nAbstract: Modern businesses are increasingly challenged by the time and expense required to generate and assess high-quality content. Human writers face time constraints, and extrinsic evaluations can be costly. While Large Language Models (LLMs) offer potential in content creation, concerns about the quality of AI-generated content persist. Traditional evaluation methods, like human surveys, further add operational costs, highlighting the need for efficien",
+      "pubDate": "2025-12-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "Going All-In on LLM Accuracy: Fake Prediction Markets, Real Confidence Signals"
+      "title_zh": "AgentEval: Generative Agents as Reliable Proxies for Human Evaluation of AI-Generated Content"
     },
     {
-      "title": "Deep learning for autism detection using clinical notes: A comparison of transfer learning for a transparent and black-box approach",
-      "link": "https://arxiv.org/abs/2512.06161",
-      "description": "arXiv:2512.06161v1 Announce Type: new \nAbstract: Autism spectrum disorder (ASD) is a complex neurodevelopmental condition whose rising prevalence places increasing demands on a lengthy diagnostic process. Machine learning (ML) has shown promise in automating ASD diagnosis, but most existing models operate as black boxes and are typically trained on a single dataset, limiting their generalizability. In this study, we introduce a transparent and interpretable ML approach that leverages BioBERT, a ",
-      "pubDate": "2025-12-09T05:00:00.000Z",
+      "title": "Scalable Back-End for an AI-Based Diabetes Prediction Application",
+      "link": "https://arxiv.org/abs/2512.08147",
+      "description": "arXiv:2512.08147v1 Announce Type: new \nAbstract: The rising global prevalence of diabetes necessitates early detection to prevent severe complications. While AI-powered prediction applications offer a promising solution, they require a responsive and scalable back-end architecture to serve a large user base effectively. This paper details the development and evaluation of a scalable back-end system designed for a mobile diabetes prediction application. The primary objective was to maintain a fai",
+      "pubDate": "2025-12-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Deep learning for autism detection using clinical notes: A comparison of transfer learning for a transparent and black-box approach"
+      "aiScore": 8,
+      "title_zh": "Scalable Back-End for an AI-Based Diabetes Prediction Application"
     },
     {
-      "title": "GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols",
-      "link": "https://arxiv.org/abs/2512.06404",
-      "description": "arXiv:2512.06404v1 Announce Type: new \nAbstract: Predictive atomistic simulations have propelled materials discovery, yet routine setup and debugging still demand computer specialists. This know-how gap limits Integrated Computational Materials Engineering (ICME), where state-of-the-art codes exist but remain cumbersome for non-experts. We address this bottleneck with GENIUS, an AI-agentic workflow that fuses a smart Quantum ESPRESSO knowledge graph with a tiered hierarchy of large language mode",
-      "pubDate": "2025-12-09T05:00:00.000Z",
+      "title": "Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions",
+      "link": "https://arxiv.org/abs/2512.08230",
+      "description": "arXiv:2512.08230v1 Announce Type: new \nAbstract: Learning about the causal structure of the world is a fundamental problem for human cognition. Causal models and especially causal learning have proved to be difficult for large pretrained models using standard techniques of deep learning. In contrast, cognitive scientists have applied advances in our formal understanding of causation in computer science, particularly within the Causal Bayes Net formalism, to understand human causal learning. In t",
+      "pubDate": "2025-12-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols"
+      "aiScore": 8,
+      "title_zh": "Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions"
     },
     {
-      "title": "Smart Spatial Planning in Egypt: An Algorithm-Driven Approach to Public Service Evaluation in Qena City",
-      "link": "https://arxiv.org/abs/2512.06431",
-      "description": "arXiv:2512.06431v1 Announce Type: new \nAbstract: National planning standards for public services in Egypt often fail to align with unique local characteristics. Addressing this gap, this study develops a tailored planning model for Qena City. Using a hybrid methodology (descriptive, analytical, and experimental), the research utilizes Python programming to generate an intelligent spatial analysis algorithm based on Voronoi Diagrams. This approach creates city-specific planning criteria and evalu",
-      "pubDate": "2025-12-09T05:00:00.000Z",
+      "title": "Large Language Models for Education and Research: An Empirical and User Survey-based Analysis",
+      "link": "https://arxiv.org/abs/2512.08057",
+      "description": "arXiv:2512.08057v1 Announce Type: new \nAbstract: Pretrained Large Language Models (LLMs) have achieved remarkable success across diverse domains, with education and research emerging as particularly impactful areas. Among current state-of-the-art LLMs, ChatGPT and DeepSeek exhibit strong capabilities in mathematics, science, medicine, literature, and programming. In this study, we present a comprehensive evaluation of these two LLMs through background technology analysis, empirical experiments, ",
+      "pubDate": "2025-12-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Smart Spatial Planning in Egypt: An Algorithm-Driven Approach to Public Service Evaluation in Qena City"
+      "title_zh": "Large Language Models for Education and Research: An Empirical and User Survey-based Analysis"
     },
     {
-      "title": "Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression",
-      "link": "https://arxiv.org/abs/2512.06393",
-      "description": "arXiv:2512.06393v1 Announce Type: new \nAbstract: Large language models (LLMs) excel across many natural language tasks, yet their generalisation to structural perturbations in logical contexts remains poorly understood. We introduce a controlled evaluation framework that probes reasoning reliability through four targeted stress tests: (1) rule deletion, removing either redundant or essential rules from a multi-step inference chain; (2) contradictory evidence injection; (3) logic-preserving rewri",
-      "pubDate": "2025-12-09T05:00:00.000Z",
+      "title": "Reasoning Models Ace the CFA Exams",
+      "link": "https://arxiv.org/abs/2512.08270",
+      "description": "arXiv:2512.08270v1 Announce Type: new \nAbstract: Previous research has reported that large language models (LLMs) demonstrate poor performance on the Chartered Financial Analyst (CFA) exams. However, recent reasoning models have achieved strong results on graduate-level academic and professional examinations across various disciplines. In this paper, we evaluate state-of-the-art reasoning models on a set of mock CFA exams consisting of 980 questions across three Level I exams, two Level II exams",
+      "pubDate": "2025-12-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression"
-    },
-    {
-      "title": "ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment",
-      "link": "https://arxiv.org/abs/2512.06196",
-      "description": "arXiv:2512.06196v1 Announce Type: new \nAbstract: As agents based on large language models are increasingly deployed to long-horizon tasks, maintaining their alignment with stakeholder preferences becomes critical. Effective alignment in such settings requires reward models that are interpretable so that stakeholders can understand and audit model objectives. Moreover, reward models must be capable of steering agents at interaction time, allowing preference shifts to be incorporated without retra",
-      "pubDate": "2025-12-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "ARCANE: A Multi-Agent Framework for Interpretable and Configurable Alignment"
-    },
-    {
-      "title": "UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems",
-      "link": "https://arxiv.org/abs/2512.06406",
-      "description": "arXiv:2512.06406v1 Announce Type: new \nAbstract: Large language models(LLMs) are increasingly expanding their real-world applications across domains, e.g., question answering, autonomous driving, and automatic software development. Despite this achievement, LLMs, as data-driven systems, often make incorrect predictions, which can lead to potential losses in safety-critical scenarios. To address this issue and measure the confidence of model outputs, multiple uncertainty quantification(UQ) criter",
-      "pubDate": "2025-12-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems"
+      "aiScore": 6,
+      "title_zh": "Reasoning Models Ace the CFA Exams"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-12-10T04:23:41.732Z",
+    "generatedAt": "2025-12-10T05:12:35.651Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.875
+    "averageScore": 16.25
   }
 }
