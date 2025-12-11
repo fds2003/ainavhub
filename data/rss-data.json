@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "Can AI autonomously build, operate, and use the entire data stack?",
-      "link": "https://arxiv.org/abs/2512.07926",
-      "description": "arXiv:2512.07926v1 Announce Type: new \nAbstract: Enterprise data management is a monumental task. It spans data architecture and systems, integration, quality, governance, and continuous improvement. While AI assistants can help specific persona, such as data engineers and stewards, to navigate and configure the data stack, they fall far short of full automation. However, as AI becomes increasingly capable of tackling tasks that have previously resisted automation due to inherent complexities, w",
-      "pubDate": "2025-12-10T05:00:00.000Z",
+      "title": "AI TIPS 2.0: A Comprehensive Framework for Operationalizing AI Governance",
+      "link": "https://arxiv.org/abs/2512.09114",
+      "description": "arXiv:2512.09114v1 Announce Type: new \nAbstract: The deployment of AI systems faces three critical governance challenges that current frameworks fail to adequately address. First, organizations struggle with inadequate risk assessment at the use case level, exemplified by the Humana class action lawsuit and other high impact cases where an AI system deployed to production exhibited both significant bias and high error rates, resulting in improper healthcare claim denials. Each AI use case presen",
+      "pubDate": "2025-12-11T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 29,
-      "title_zh": "Can AI autonomously build, operate, and use the entire data stack?"
+      "aiScore": 41,
+      "title_zh": "AI TIPS 2.0: A Comprehensive Framework for Operationalizing AI Governance"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -41,6 +41,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing",
+      "link": "https://arxiv.org/abs/2512.09882",
+      "description": "arXiv:2512.09882v1 Announce Type: new \nAbstract: We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability tria",
+      "pubDate": "2025-12-11T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -51,16 +61,6 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "Toward an AI Reasoning-Enabled System for Patient-Clinical Trial Matching",
-      "link": "https://arxiv.org/abs/2512.08026",
-      "description": "arXiv:2512.08026v1 Announce Type: new \nAbstract: Screening patients for clinical trial eligibility remains a manual, time-consuming, and resource-intensive process. We present a secure, scalable proof-of-concept system for Artificial Intelligence (AI)-augmented patient-trial matching that addresses key implementation challenges: integrating heterogeneous electronic health record (EHR) data, facilitating expert review, and maintaining rigorous security standards. Leveraging open-source, reasoning",
-      "pubDate": "2025-12-10T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 17,
-      "title_zh": "Toward an AI Reasoning-Enabled System for Patient-Clinical Trial Matching"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -69,6 +69,16 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2512.09829",
+      "description": "arXiv:2512.09829v1 Announce Type: new \nAbstract: The massive scale of modern AI accelerators presents critical challenges to traditional fault assessment methodologies, which face prohibitive computational costs and provide poor coverage of critical failure modes. This paper introduces RIFT (Reinforcement Learning-guided Intelligent Fault Targeting), a scalable framework that automates the discovery of minimal, high-impact fault scenarios for efficient design-time fault assessment. RIFT transfor",
+      "pubDate": "2025-12-11T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -101,69 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Impact of Data-Oriented and Object-Oriented Design on Performance and Cache Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs",
-      "link": "https://arxiv.org/abs/2512.07841",
-      "description": "arXiv:2512.07841v1 Announce Type: new \nAbstract: The growing performance gap between multi-core CPUs and main memory necessitates hardware-aware software design paradigms. This study provides a comprehensive performance analysis of Data Oriented Design (DOD) versus the traditional Object-Oriented Design (OOD), focusing on cache utilization and efficiency in multi-threaded environments. We developed and compared four distinct versions of the A* search algorithm: single-threaded OOD (ST-OOD), sing",
-      "pubDate": "2025-12-10T05:00:00.000Z",
+      "title": "Visual Categorization Across Minds and Models: Cognitive Analysis of Human Labeling and Neuro-Symbolic Integration",
+      "link": "https://arxiv.org/abs/2512.09340",
+      "description": "arXiv:2512.09340v1 Announce Type: new \nAbstract: Understanding how humans and AI systems interpret ambiguous visual stimuli offers critical insight into the nature of perception, reasoning, and decision-making. This paper examines image labeling performance across human participants and deep neural networks, focusing on low-resolution, perceptually degraded stimuli. Drawing from computational cognitive science, cognitive architectures, and connectionist-symbolic hybrid models, we contrast human ",
+      "pubDate": "2025-12-11T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Impact of Data-Oriented and Object-Oriented Design on Performance and Cache Utilization with Artificial Intelligence Algorithms in Multi-Threaded CPUs"
+      "aiScore": 15,
+      "title_zh": "Visual Categorization Across Minds and Models: Cognitive Analysis of Human Labeling and Neuro-Symbolic Integration"
     },
     {
-      "title": "AgentEval: Generative Agents as Reliable Proxies for Human Evaluation of AI-Generated Content",
-      "link": "https://arxiv.org/abs/2512.08273",
-      "description": "arXiv:2512.08273v1 Announce Type: new \nAbstract: Modern businesses are increasingly challenged by the time and expense required to generate and assess high-quality content. Human writers face time constraints, and extrinsic evaluations can be costly. While Large Language Models (LLMs) offer potential in content creation, concerns about the quality of AI-generated content persist. Traditional evaluation methods, like human surveys, further add operational costs, highlighting the need for efficien",
-      "pubDate": "2025-12-10T05:00:00.000Z",
+      "title": "SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation",
+      "link": "https://arxiv.org/abs/2512.09142",
+      "description": "arXiv:2512.09142v1 Announce Type: new \nAbstract: We present SDialog, an MIT-licensed open-source Python toolkit that unifies dialog generation, evaluation and mechanistic interpretability into a single end-to-end framework for building and analyzing LLM-based conversational agents. Built around a standardized \\texttt{Dialog} representation, SDialog provides: (1) persona-driven multi-agent simulation with composable orchestration for controlled, synthetic dialog generation, (2) comprehensive eval",
+      "pubDate": "2025-12-11T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "AgentEval: Generative Agents as Reliable Proxies for Human Evaluation of AI-Generated Content"
+      "aiScore": 9,
+      "title_zh": "SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation"
     },
     {
-      "title": "Scalable Back-End for an AI-Based Diabetes Prediction Application",
-      "link": "https://arxiv.org/abs/2512.08147",
-      "description": "arXiv:2512.08147v1 Announce Type: new \nAbstract: The rising global prevalence of diabetes necessitates early detection to prevent severe complications. While AI-powered prediction applications offer a promising solution, they require a responsive and scalable back-end architecture to serve a large user base effectively. This paper details the development and evaluation of a scalable back-end system designed for a mobile diabetes prediction application. The primary objective was to maintain a fai",
-      "pubDate": "2025-12-10T05:00:00.000Z",
+      "title": "Architectures for Building Agentic AI",
+      "link": "https://arxiv.org/abs/2512.09458",
+      "description": "arXiv:2512.09458v1 Announce Type: new \nAbstract: This chapter argues that the reliability of agentic and generative AI is chiefly an architectural property. We define agentic systems as goal-directed, tool-using decision makers operating in closed loops, and show how reliability emerges from principled componentisation (goal manager, planner, tool-router, executor, memory, verifiers, safety monitor, telemetry), disciplined interfaces (schema-constrained, validated, least-privilege tool calls), a",
+      "pubDate": "2025-12-11T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "Scalable Back-End for an AI-Based Diabetes Prediction Application"
+      "title_zh": "Architectures for Building Agentic AI"
     },
     {
-      "title": "Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions",
-      "link": "https://arxiv.org/abs/2512.08230",
-      "description": "arXiv:2512.08230v1 Announce Type: new \nAbstract: Learning about the causal structure of the world is a fundamental problem for human cognition. Causal models and especially causal learning have proved to be difficult for large pretrained models using standard techniques of deep learning. In contrast, cognitive scientists have applied advances in our formal understanding of causation in computer science, particularly within the Causal Bayes Net formalism, to understand human causal learning. In t",
-      "pubDate": "2025-12-10T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions"
-    },
-    {
-      "title": "Large Language Models for Education and Research: An Empirical and User Survey-based Analysis",
-      "link": "https://arxiv.org/abs/2512.08057",
-      "description": "arXiv:2512.08057v1 Announce Type: new \nAbstract: Pretrained Large Language Models (LLMs) have achieved remarkable success across diverse domains, with education and research emerging as particularly impactful areas. Among current state-of-the-art LLMs, ChatGPT and DeepSeek exhibit strong capabilities in mathematics, science, medicine, literature, and programming. In this study, we present a comprehensive evaluation of these two LLMs through background technology analysis, empirical experiments, ",
-      "pubDate": "2025-12-10T05:00:00.000Z",
+      "title": "Calibrated Trust in Dealing with LLM Hallucinations: A Qualitative Study",
+      "link": "https://arxiv.org/abs/2512.09088",
+      "description": "arXiv:2512.09088v1 Announce Type: new \nAbstract: Hallucinations are outputs by Large Language Models (LLMs) that are factually incorrect yet appear plausible [1]. This paper investigates how such hallucinations influence users' trust in LLMs and users' interaction with LLMs. To explore this in everyday use, we conducted a qualitative study with 192 participants. Our findings show that hallucinations do not result in blanket mistrust but instead lead to context-sensitive trust calibration. Buildi",
+      "pubDate": "2025-12-11T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Large Language Models for Education and Research: An Empirical and User Survey-based Analysis"
+      "title_zh": "Calibrated Trust in Dealing with LLM Hallucinations: A Qualitative Study"
     },
     {
-      "title": "Reasoning Models Ace the CFA Exams",
-      "link": "https://arxiv.org/abs/2512.08270",
-      "description": "arXiv:2512.08270v1 Announce Type: new \nAbstract: Previous research has reported that large language models (LLMs) demonstrate poor performance on the Chartered Financial Analyst (CFA) exams. However, recent reasoning models have achieved strong results on graduate-level academic and professional examinations across various disciplines. In this paper, we evaluate state-of-the-art reasoning models on a set of mock CFA exams consisting of 980 questions across three Level I exams, two Level II exams",
-      "pubDate": "2025-12-10T05:00:00.000Z",
+      "title": "Interpretation as Linear Transformation: A Cognitive-Geometric Model of Belief and Meaning",
+      "link": "https://arxiv.org/abs/2512.09831",
+      "description": "arXiv:2512.09831v1 Announce Type: new \nAbstract: This paper develops a geometric framework for modeling belief, motivation, and influence across cognitively heterogeneous agents. Each agent is represented by a personalized value space, a vector space encoding the internal dimensions through which the agent interprets and evaluates meaning. Beliefs are formalized as structured vectors-abstract beings-whose transmission is mediated by linear interpretation maps. A belief survives communication onl",
+      "pubDate": "2025-12-11T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Reasoning Models Ace the CFA Exams"
+      "aiScore": 4,
+      "title_zh": "Interpretation as Linear Transformation: A Cognitive-Geometric Model of Belief and Meaning"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2025-12-11T04:25:45.741Z",
+    "generatedAt": "2025-12-11T05:13:56.913Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.25
+    "averageScore": 17.5
   }
 }
