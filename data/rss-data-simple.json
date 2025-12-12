@@ -1,13 +1,13 @@
 {
   "articles": [
     {
-      "title": "AI TIPS 2.0: A Comprehensive Framework for Operationalizing AI Governance",
-      "title_zh": "AI TIPS 2.0: A Comprehensive Framework for Operationalizing AI Governance",
-      "description": "arXiv:2512.09114v1 Announce Type: new \nAbstract: The deployment of AI systems faces three critical governance challenges that current frameworks fail to adequately address. First, organizations struggle with inadequate risk assessment at the use case level, exemplified by the Humana class action lawsuit and other high impact cases where an AI system deployed to production exhibited both significant bias and high error rates, resulting in improper healthcare claim denials. Each AI use case presen",
-      "link": "https://arxiv.org/abs/2512.09114",
+      "title": "Mind the Gap! Pathways Towards Unifying AI Safety and Ethics Research",
+      "title_zh": "Mind the Gap! Pathways Towards Unifying AI Safety and Ethics Research",
+      "description": "arXiv:2512.10058v1 Announce Type: new \nAbstract: While much research in artificial intelligence (AI) has focused on scaling capabilities, the accelerating pace of development makes countervailing work on producing harmless, \"aligned\" systems increasingly urgent. Yet research on alignment has diverged along two largely parallel tracks: safety--centered on scaled intelligence, deceptive or scheming behaviors, and existential risk--and ethics--focused on present harms, the reproduction of social bi",
+      "link": "https://arxiv.org/abs/2512.10058",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-11"
+      "date": "2025-12-12"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -37,15 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing",
-      "title_zh": "Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing",
-      "description": "arXiv:2512.09882v1 Announce Type: new \nAbstract: We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability tria",
-      "link": "https://arxiv.org/abs/2512.09882",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-11"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -62,15 +53,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning",
-      "title_zh": "RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning",
-      "description": "arXiv:2512.09829v1 Announce Type: new \nAbstract: The massive scale of modern AI accelerators presents critical challenges to traditional fault assessment methodologies, which face prohibitive computational costs and provide poor coverage of critical failure modes. This paper introduces RIFT (Reinforcement Learning-guided Intelligent Fault Targeting), a scalable framework that automates the discovery of minimal, high-impact fault scenarios for efficient design-time fault assessment. RIFT transfor",
-      "link": "https://arxiv.org/abs/2512.09829",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-11"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -100,49 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Visual Categorization Across Minds and Models: Cognitive Analysis of Human Labeling and Neuro-Symbolic Integration",
-      "title_zh": "Visual Categorization Across Minds and Models: Cognitive Analysis of Human Labeling and Neuro-Symbolic Integration",
-      "description": "arXiv:2512.09340v1 Announce Type: new \nAbstract: Understanding how humans and AI systems interpret ambiguous visual stimuli offers critical insight into the nature of perception, reasoning, and decision-making. This paper examines image labeling performance across human participants and deep neural networks, focusing on low-resolution, perceptually degraded stimuli. Drawing from computational cognitive science, cognitive architectures, and connectionist-symbolic hybrid models, we contrast human ",
-      "link": "https://arxiv.org/abs/2512.09340",
+      "title": "ExaCraft: Dynamic Learning Context Adaptation for Personalized Educational Examples",
+      "title_zh": "ExaCraft: Dynamic Learning Context Adaptation for Personalized Educational Examples",
+      "description": "arXiv:2512.09931v1 Announce Type: new \nAbstract: Learning is most effective when it's connected to relevant, relatable examples that resonate with learners on a personal level. However, existing educational AI tools don't focus on generating examples or adapting to learners' changing understanding, struggles, or growing skills. We've developed ExaCraft, an AI system that generates personalized examples by adapting to the learner's dynamic context. Through the Google Gemini AI and Python Flask AP",
+      "link": "https://arxiv.org/abs/2512.09931",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-11"
+      "date": "2025-12-12"
     },
     {
-      "title": "SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation",
-      "title_zh": "SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation",
-      "description": "arXiv:2512.09142v1 Announce Type: new \nAbstract: We present SDialog, an MIT-licensed open-source Python toolkit that unifies dialog generation, evaluation and mechanistic interpretability into a single end-to-end framework for building and analyzing LLM-based conversational agents. Built around a standardized \\texttt{Dialog} representation, SDialog provides: (1) persona-driven multi-agent simulation with composable orchestration for controlled, synthetic dialog generation, (2) comprehensive eval",
-      "link": "https://arxiv.org/abs/2512.09142",
+      "title": "SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration",
+      "title_zh": "SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration",
+      "description": "arXiv:2512.10046v1 Announce Type: new \nAbstract: Recent advances in foundation models have shown promising results in developing generalist robotics that can perform diverse tasks in open-ended scenarios given multimodal inputs. However, current work has been mainly focused on indoor, household scenarios. In this work, we present SimWorld-Robotics~(SWR), a simulation platform for embodied AI in large-scale, photorealistic urban environments. Built on Unreal Engine 5, SWR procedurally generates u",
+      "link": "https://arxiv.org/abs/2512.10046",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-11"
+      "date": "2025-12-12"
     },
     {
-      "title": "Architectures for Building Agentic AI",
-      "title_zh": "Architectures for Building Agentic AI",
-      "description": "arXiv:2512.09458v1 Announce Type: new \nAbstract: This chapter argues that the reliability of agentic and generative AI is chiefly an architectural property. We define agentic systems as goal-directed, tool-using decision makers operating in closed loops, and show how reliability emerges from principled componentisation (goal manager, planner, tool-router, executor, memory, verifiers, safety monitor, telemetry), disciplined interfaces (schema-constrained, validated, least-privilege tool calls), a",
-      "link": "https://arxiv.org/abs/2512.09458",
+      "title": "Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit",
+      "title_zh": "Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit",
+      "description": "arXiv:2512.10092v1 Announce Type: new \nAbstract: Analyzing large-scale text corpora is a core challenge in machine learning, crucial for tasks like identifying undesirable model behaviors or biases in training data. Current methods often rely on costly LLM-based techniques (e.g. annotating dataset differences) or dense embedding models (e.g. for clustering), which lack control over the properties of interest. We propose using sparse autoencoders (SAEs) to create SAE embeddings: representations w",
+      "link": "https://arxiv.org/abs/2512.10092",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-11"
+      "date": "2025-12-12"
     },
     {
-      "title": "Calibrated Trust in Dealing with LLM Hallucinations: A Qualitative Study",
-      "title_zh": "Calibrated Trust in Dealing with LLM Hallucinations: A Qualitative Study",
-      "description": "arXiv:2512.09088v1 Announce Type: new \nAbstract: Hallucinations are outputs by Large Language Models (LLMs) that are factually incorrect yet appear plausible [1]. This paper investigates how such hallucinations influence users' trust in LLMs and users' interaction with LLMs. To explore this in everyday use, we conducted a qualitative study with 192 participants. Our findings show that hallucinations do not result in blanket mistrust but instead lead to context-sensitive trust calibration. Buildi",
-      "link": "https://arxiv.org/abs/2512.09088",
+      "title": "Linear socio-demographic representations emerge in Large Language Models from indirect cues",
+      "title_zh": "Linear socio-demographic representations emerge in Large Language Models from indirect cues",
+      "description": "arXiv:2512.10065v1 Announce Type: new \nAbstract: We investigate how LLMs encode sociodemographic attributes of human conversational partners inferred from indirect cues such as names and occupations. We show that LLMs develop linear representations of user demographics within activation space, wherein stereotypically associated attributes are encoded along interpretable geometric directions. We first probe residual streams across layers of four open transformer-based LLMs (Magistral 24B, Qwen3 1",
+      "link": "https://arxiv.org/abs/2512.10065",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-11"
+      "date": "2025-12-12"
     },
     {
-      "title": "Interpretation as Linear Transformation: A Cognitive-Geometric Model of Belief and Meaning",
-      "title_zh": "Interpretation as Linear Transformation: A Cognitive-Geometric Model of Belief and Meaning",
-      "description": "arXiv:2512.09831v1 Announce Type: new \nAbstract: This paper develops a geometric framework for modeling belief, motivation, and influence across cognitively heterogeneous agents. Each agent is represented by a personalized value space, a vector space encoding the internal dimensions through which the agent interprets and evaluates meaning. Beliefs are formalized as structured vectors-abstract beings-whose transmission is mediated by linear interpretation maps. A belief survives communication onl",
-      "link": "https://arxiv.org/abs/2512.09831",
+      "title": "Suzume-chan: Your Personal Navigator as an Embodied Information Hub",
+      "title_zh": "Suzume-chan: Your Personal Navigator as an Embodied Information Hub",
+      "description": "arXiv:2512.09932v1 Announce Type: new \nAbstract: Access to expert knowledge often requires real-time human communication. Digital tools improve access to information but rarely create the sense of connection needed for deep understanding. This study addresses this issue using Social Presence Theory, which explains how a feeling of \"being together\" enhances communication. An \"Embodied Information Hub\" is proposed as a new way to share knowledge through physical and conversational interaction. The",
+      "link": "https://arxiv.org/abs/2512.09932",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-11"
+      "date": "2025-12-12"
+    },
+    {
+      "title": "Parallel Decoder Transformer: Model-Internal Parallel Decoding with Speculative Invariance via Note Conditioning",
+      "title_zh": "Parallel Decoder Transformer: Model-Internal Parallel Decoding with Speculative Invariance via Note Conditioning",
+      "description": "arXiv:2512.10054v1 Announce Type: new \nAbstract: Autoregressive decoding in Large Language Models (LLMs) is inherently sequential, creating a latency bottleneck that scales linearly with output length. While ``Decomposition-and-Fill'' methods like Skeleton-of-Thought attempt to parallelize generation via external orchestration, they suffer from \\textit{coherence drift} due to the lack of cross-stream communication. In this work, we introduce the \\textbf{Parallel Decoder Transformer (PDT)}, a par",
+      "link": "https://arxiv.org/abs/2512.10054",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-12"
+    },
+    {
+      "title": "Exploring LLMs for Scientific Information Extraction Using The SciEx Framework",
+      "title_zh": "Exploring LLMs for Scientific Information Extraction Using The SciEx Framework",
+      "description": "arXiv:2512.10004v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly touted as powerful tools for automating scientific information extraction. However, existing methods and tools often struggle with the realities of scientific literature: long-context documents, multi-modal content, and reconciling varied and inconsistent fine-grained information across multiple publications into standardized formats. These challenges are further compounded when the desired data schema",
+      "link": "https://arxiv.org/abs/2512.10004",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-12"
     }
   ]
 }
