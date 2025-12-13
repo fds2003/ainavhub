@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Mind the Gap! Pathways Towards Unifying AI Safety and Ethics Research",
-      "link": "https://arxiv.org/abs/2512.10058",
-      "description": "arXiv:2512.10058v1 Announce Type: new \nAbstract: While much research in artificial intelligence (AI) has focused on scaling capabilities, the accelerating pace of development makes countervailing work on producing harmless, \"aligned\" systems increasingly urgent. Yet research on alignment has diverged along two largely parallel tracks: safety--centered on scaled intelligence, deceptive or scheming behaviors, and existential risk--and ethics--focused on present harms, the reproduction of social bi",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 28,
-      "title_zh": "Mind the Gap! Pathways Towards Unifying AI Safety and Ethics Research"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -89,81 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "ExaCraft: Dynamic Learning Context Adaptation for Personalized Educational Examples",
-      "link": "https://arxiv.org/abs/2512.09931",
-      "description": "arXiv:2512.09931v1 Announce Type: new \nAbstract: Learning is most effective when it's connected to relevant, relatable examples that resonate with learners on a personal level. However, existing educational AI tools don't focus on generating examples or adapting to learners' changing understanding, struggles, or growing skills. We've developed ExaCraft, an AI system that generates personalized examples by adapting to the learner's dynamic context. Through the Google Gemini AI and Python Flask AP",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "ExaCraft: Dynamic Learning Context Adaptation for Personalized Educational Examples"
-    },
-    {
-      "title": "SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration",
-      "link": "https://arxiv.org/abs/2512.10046",
-      "description": "arXiv:2512.10046v1 Announce Type: new \nAbstract: Recent advances in foundation models have shown promising results in developing generalist robotics that can perform diverse tasks in open-ended scenarios given multimodal inputs. However, current work has been mainly focused on indoor, household scenarios. In this work, we present SimWorld-Robotics~(SWR), a simulation platform for embodied AI in large-scale, photorealistic urban environments. Built on Unreal Engine 5, SWR procedurally generates u",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 11.5,
-      "title_zh": "SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration"
-    },
-    {
-      "title": "Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit",
-      "link": "https://arxiv.org/abs/2512.10092",
-      "description": "arXiv:2512.10092v1 Announce Type: new \nAbstract: Analyzing large-scale text corpora is a core challenge in machine learning, crucial for tasks like identifying undesirable model behaviors or biases in training data. Current methods often rely on costly LLM-based techniques (e.g. annotating dataset differences) or dense embedding models (e.g. for clustering), which lack control over the properties of interest. We propose using sparse autoencoders (SAEs) to create SAE embeddings: representations w",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit"
-    },
-    {
-      "title": "Linear socio-demographic representations emerge in Large Language Models from indirect cues",
-      "link": "https://arxiv.org/abs/2512.10065",
-      "description": "arXiv:2512.10065v1 Announce Type: new \nAbstract: We investigate how LLMs encode sociodemographic attributes of human conversational partners inferred from indirect cues such as names and occupations. We show that LLMs develop linear representations of user demographics within activation space, wherein stereotypically associated attributes are encoded along interpretable geometric directions. We first probe residual streams across layers of four open transformer-based LLMs (Magistral 24B, Qwen3 1",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Linear socio-demographic representations emerge in Large Language Models from indirect cues"
-    },
-    {
-      "title": "Suzume-chan: Your Personal Navigator as an Embodied Information Hub",
-      "link": "https://arxiv.org/abs/2512.09932",
-      "description": "arXiv:2512.09932v1 Announce Type: new \nAbstract: Access to expert knowledge often requires real-time human communication. Digital tools improve access to information but rarely create the sense of connection needed for deep understanding. This study addresses this issue using Social Presence Theory, which explains how a feeling of \"being together\" enhances communication. An \"Embodied Information Hub\" is proposed as a new way to share knowledge through physical and conversational interaction. The",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Suzume-chan: Your Personal Navigator as an Embodied Information Hub"
-    },
-    {
-      "title": "Parallel Decoder Transformer: Model-Internal Parallel Decoding with Speculative Invariance via Note Conditioning",
-      "link": "https://arxiv.org/abs/2512.10054",
-      "description": "arXiv:2512.10054v1 Announce Type: new \nAbstract: Autoregressive decoding in Large Language Models (LLMs) is inherently sequential, creating a latency bottleneck that scales linearly with output length. While ``Decomposition-and-Fill'' methods like Skeleton-of-Thought attempt to parallelize generation via external orchestration, they suffer from \\textit{coherence drift} due to the lack of cross-stream communication. In this work, we introduce the \\textbf{Parallel Decoder Transformer (PDT)}, a par",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Parallel Decoder Transformer: Model-Internal Parallel Decoding with Speculative Invariance via Note Conditioning"
-    },
-    {
-      "title": "Exploring LLMs for Scientific Information Extraction Using The SciEx Framework",
-      "link": "https://arxiv.org/abs/2512.10004",
-      "description": "arXiv:2512.10004v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly touted as powerful tools for automating scientific information extraction. However, existing methods and tools often struggle with the realities of scientific literature: long-context documents, multi-modal content, and reconciling varied and inconsistent fine-grained information across multiple publications into standardized formats. These challenges are further compounded when the desired data schema",
-      "pubDate": "2025-12-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Exploring LLMs for Scientific Information Extraction Using The SciEx Framework"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2025-12-13T04:16:12.125Z",
+    "totalCount": 8,
+    "generatedAt": "2025-12-13T05:10:45.991Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 14.71875
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
