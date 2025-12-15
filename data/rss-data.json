@@ -31,6 +31,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Three methods, one problem: Classical and AI approaches to no-three-in-line",
+      "link": "https://arxiv.org/abs/2512.11469",
+      "description": "arXiv:2512.11469v1 Announce Type: new \nAbstract: The No-Three-In-Line problem asks for the maximum number of points that can be placed on an n by n grid with no three collinear, representing a famous problem in combinatorial geometry. While classical methods like Integer Linear Programming (ILP) guarantee optimal solutions, they face exponential scaling with grid size, and recent advances in machine learning offer promising alternatives for pattern-based approximation. This paper presents the fi",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "Three methods, one problem: Classical and AI approaches to no-three-in-line"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -79,11 +89,81 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling",
+      "link": "https://arxiv.org/abs/2512.11187",
+      "description": "arXiv:2512.11187v1 Announce Type: new \nAbstract: Online Freight Exchange Systems (OFEX) play a crucial role in modern freight logistics by facilitating real-time matching between shippers and carrier. However, efficient combinatorial bundling of transporation jobs remains a bottleneck. We model the OFEX combinatorial bundling problem as a multi-commodity one-to-one pickup-and-delivery selective traveling salesperson problem (m1-PDSTSP), which optimizes revenue-driven freight bundling under capac",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling"
+    },
+    {
+      "title": "A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy Generation",
+      "link": "https://arxiv.org/abs/2512.11270",
+      "description": "arXiv:2512.11270v1 Announce Type: new \nAbstract: Applying reinforcement learning (RL) to real-world tasks requires converting informal descriptions into a formal Markov decision process (MDP), implementing an executable environment, and training a policy agent. Automating this process is challenging due to modeling errors, fragile code, and misaligned objectives, which often impede policy training. We introduce an agentic large language model (LLM)-based framework for automated MDP modeling and ",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 11,
+      "title_zh": "A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy Generation"
+    },
+    {
+      "title": "CORL: Reinforcement Learning of MILP Policies Solved via Branch and Bound",
+      "link": "https://arxiv.org/abs/2512.11169",
+      "description": "arXiv:2512.11169v1 Announce Type: new \nAbstract: Combinatorial sequential decision making problems are typically modeled as mixed integer linear programs (MILPs) and solved via branch and bound (B&B) algorithms. The inherent difficulty of modeling MILPs that accurately represent stochastic real world problems leads to suboptimal performance in the real world. Recently, machine learning methods have been applied to build MILP models for decision quality rather than how accurately they model the r",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 10,
+      "title_zh": "CORL: Reinforcement Learning of MILP Policies Solved via Branch and Bound"
+    },
+    {
+      "title": "AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints",
+      "link": "https://arxiv.org/abs/2512.11426",
+      "description": "arXiv:2512.11426v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based multi-agent systems (MAS) are becoming indispensable building blocks for web-scale applications such as web search, social network analytics, and online customer support, where cost-effectiveness is increasingly the primary constraint for large-scale deployment. While recent work improves MAS cost-effectiveness by shaping inter-agent communication topologies and selecting agent backbones, it rarely models and optim",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 9,
+      "title_zh": "AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints"
+    },
+    {
+      "title": "Back to the Baseline: Examining Baseline Effects on Explainability Metrics",
+      "link": "https://arxiv.org/abs/2512.11433",
+      "description": "arXiv:2512.11433v1 Announce Type: new \nAbstract: Attribution methods are among the most prevalent techniques in Explainable Artificial Intelligence (XAI) and are usually evaluated and compared using Fidelity metrics, with Insertion and Deletion being the most popular. These metrics rely on a baseline function to alter the pixels of the input image that the attribution map deems most important. In this work, we highlight a critical problem with these metrics: the choice of a given baseline will i",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 9,
+      "title_zh": "Back to the Baseline: Examining Baseline Effects on Explainability Metrics"
+    },
+    {
+      "title": "Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance",
+      "link": "https://arxiv.org/abs/2512.11421",
+      "description": "arXiv:2512.11421v1 Announce Type: new \nAbstract: Large Language Models demonstrate strong reasoning and generation abilities, yet their behavior in multi-turn tasks often lacks reliability and verifiability. We present a task completion framework that enables LLM-based agents to act under explicit behavioral guidance in environments described by reinforcement learning formalisms with defined observation, action, and reward signals.\n  The framework integrates three components: a lightweight task ",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance"
+    },
+    {
+      "title": "TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning",
+      "link": "https://arxiv.org/abs/2512.11271",
+      "description": "arXiv:2512.11271v1 Announce Type: new \nAbstract: Real-world trip planning requires transforming open-ended user requests into executable itineraries under strict spatial, temporal, and budgetary constraints while aligning with user preferences. Existing LLM-based agents struggle with constraint satisfaction, tool coordination, and efficiency, often producing infeasible or costly plans. To address these limitations, we present TriFlow, a progressive multi-agent framework that unifies structured r",
+      "pubDate": "2025-12-15T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2025-12-15T04:39:16.769Z",
+    "totalCount": 16,
+    "generatedAt": "2025-12-15T05:16:27.856Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 15.375
   }
 }
