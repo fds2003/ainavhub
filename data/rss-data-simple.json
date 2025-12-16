@@ -28,13 +28,13 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Three methods, one problem: Classical and AI approaches to no-three-in-line",
-      "title_zh": "Three methods, one problem: Classical and AI approaches to no-three-in-line",
-      "description": "arXiv:2512.11469v1 Announce Type: new \nAbstract: The No-Three-In-Line problem asks for the maximum number of points that can be placed on an n by n grid with no three collinear, representing a famous problem in combinatorial geometry. While classical methods like Integer Linear Programming (ILP) guarantee optimal solutions, they face exponential scaling with grid size, and recent advances in machine learning offer promising alternatives for pattern-based approximation. This paper presents the fi",
-      "link": "https://arxiv.org/abs/2512.11469",
+      "title": "AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org",
+      "title_zh": "AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org",
+      "description": "arXiv:2512.11935v1 Announce Type: new \nAbstract: Artificial intelligence is reshaping scientific discovery, yet its use in materials research remains limited by fragmented computational ecosystems, reproducibility challenges, and dependence on commercial large language models (LLMs). Here we introduce AGAPI (AtomGPT.org API), an open-access agentic AI platform that integrates more than eight open-source LLMs with over twenty materials-science API endpoints, unifying databases, simulation tools, ",
+      "link": "https://arxiv.org/abs/2512.11935",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -82,67 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling",
-      "title_zh": "Deep Learning--Accelerated Multi-Start Large Neighborhood Search for Real-time Freight Bundling",
-      "description": "arXiv:2512.11187v1 Announce Type: new \nAbstract: Online Freight Exchange Systems (OFEX) play a crucial role in modern freight logistics by facilitating real-time matching between shippers and carrier. However, efficient combinatorial bundling of transporation jobs remains a bottleneck. We model the OFEX combinatorial bundling problem as a multi-commodity one-to-one pickup-and-delivery selective traveling salesperson problem (m1-PDSTSP), which optimizes revenue-driven freight bundling under capac",
-      "link": "https://arxiv.org/abs/2512.11187",
+      "title": "CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving",
+      "title_zh": "CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving",
+      "description": "arXiv:2512.11920v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized natural language processing tasks, but their deployment in datacenter environments faces significant challenges due to the massive memory requirements of key-value (KV) caches. During the autoregressive decoding process, KV caches consume substantial GPU memory, limiting batch sizes and overall system throughput. To address these challenges, we propose \\textbf{CXL-SpecKV}, a novel disaggregated KV-c",
+      "link": "https://arxiv.org/abs/2512.11920",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     },
     {
-      "title": "A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy Generation",
-      "title_zh": "A-LAMP: Agentic LLM-Based Framework for Automated MDP Modeling and Policy Generation",
-      "description": "arXiv:2512.11270v1 Announce Type: new \nAbstract: Applying reinforcement learning (RL) to real-world tasks requires converting informal descriptions into a formal Markov decision process (MDP), implementing an executable environment, and training a policy agent. Automating this process is challenging due to modeling errors, fragile code, and misaligned objectives, which often impede policy training. We introduce an agentic large language model (LLM)-based framework for automated MDP modeling and ",
-      "link": "https://arxiv.org/abs/2512.11270",
+      "title": "Mirror Mode in Fire Emblem: Beating Players at their own Game with Imitation and Reinforcement Learning",
+      "title_zh": "Mirror Mode in Fire Emblem: Beating Players at their own Game with Imitation and Reinforcement Learning",
+      "description": "arXiv:2512.11902v1 Announce Type: new \nAbstract: Enemy strategies in turn-based games should be surprising and unpredictable. This study introduces Mirror Mode, a new game mode where the enemy AI mimics the personal strategy of a player to challenge them to keep changing their gameplay. A simplified version of the Nintendo strategy video game Fire Emblem Heroes has been built in Unity, with a Standard Mode and a Mirror Mode. Our first set of experiments find a suitable model for the task to imit",
+      "link": "https://arxiv.org/abs/2512.11902",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     },
     {
-      "title": "CORL: Reinforcement Learning of MILP Policies Solved via Branch and Bound",
-      "title_zh": "CORL: Reinforcement Learning of MILP Policies Solved via Branch and Bound",
-      "description": "arXiv:2512.11169v1 Announce Type: new \nAbstract: Combinatorial sequential decision making problems are typically modeled as mixed integer linear programs (MILPs) and solved via branch and bound (B&B) algorithms. The inherent difficulty of modeling MILPs that accurately represent stochastic real world problems leads to suboptimal performance in the real world. Recently, machine learning methods have been applied to build MILP models for decision quality rather than how accurately they model the r",
-      "link": "https://arxiv.org/abs/2512.11169",
+      "title": "A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models",
+      "title_zh": "A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models",
+      "description": "arXiv:2512.11835v1 Announce Type: new \nAbstract: Large language models (LLMs) are often deployed as powerful yet opaque systems, leaving open how their internal memory and \"self-like\" behavior should be governed in a principled and auditable way. The Artificial Age Score (AAS) was previously introduced and mathematically justified through three theorems that characterise it as a metric of artificial memory aging. Building on this foundation, the present work develops an engineering-oriented, cla",
+      "link": "https://arxiv.org/abs/2512.11835",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     },
     {
-      "title": "AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints",
-      "title_zh": "AgentBalance: Backbone-then-Topology Design for Cost-Effective Multi-Agent Systems under Budget Constraints",
-      "description": "arXiv:2512.11426v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based multi-agent systems (MAS) are becoming indispensable building blocks for web-scale applications such as web search, social network analytics, and online customer support, where cost-effectiveness is increasingly the primary constraint for large-scale deployment. While recent work improves MAS cost-effectiveness by shaping inter-agent communication topologies and selecting agent backbones, it rarely models and optim",
-      "link": "https://arxiv.org/abs/2512.11426",
+      "title": "Structured Personalization: Modeling Constraints as Matroids for Data-Minimal LLM Agents",
+      "title_zh": "Structured Personalization: Modeling Constraints as Matroids for Data-Minimal LLM Agents",
+      "description": "arXiv:2512.11907v1 Announce Type: new \nAbstract: Personalizing Large Language Model (LLM) agents requires conditioning them on user-specific data, creating a critical trade-off between task utility and data disclosure. While the utility of adding user data often exhibits diminishing returns (i.e., submodularity), enabling near-optimal greedy selection, real-world personalization is complicated by structural constraints. These include logical dependencies (e.g., selecting fact A requires fact B),",
+      "link": "https://arxiv.org/abs/2512.11907",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     },
     {
-      "title": "Back to the Baseline: Examining Baseline Effects on Explainability Metrics",
-      "title_zh": "Back to the Baseline: Examining Baseline Effects on Explainability Metrics",
-      "description": "arXiv:2512.11433v1 Announce Type: new \nAbstract: Attribution methods are among the most prevalent techniques in Explainable Artificial Intelligence (XAI) and are usually evaluated and compared using Fidelity metrics, with Insertion and Deletion being the most popular. These metrics rely on a baseline function to alter the pixels of the input image that the attribution map deems most important. In this work, we highlight a critical problem with these metrics: the choice of a given baseline will i",
-      "link": "https://arxiv.org/abs/2512.11433",
+      "title": "Hypergame Rationalisability: Solving Agent Misalignment In Strategic Play",
+      "title_zh": "Hypergame Rationalisability: Solving Agent Misalignment In Strategic Play",
+      "description": "arXiv:2512.11942v1 Announce Type: new \nAbstract: Differences in perception, information asymmetries, and bounded rationality lead game-theoretic players to derive a private, subjective view of the game that may diverge from the underlying ground-truth scenario and may be misaligned with other players' interpretations. While typical game-theoretic assumptions often overlook such heterogeneity, hypergame theory provides the mathematical framework to reason about mismatched mental models. Although ",
+      "link": "https://arxiv.org/abs/2512.11942",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     },
     {
-      "title": "Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance",
-      "title_zh": "Towards Trustworthy Multi-Turn LLM Agents via Behavioral Guidance",
-      "description": "arXiv:2512.11421v1 Announce Type: new \nAbstract: Large Language Models demonstrate strong reasoning and generation abilities, yet their behavior in multi-turn tasks often lacks reliability and verifiability. We present a task completion framework that enables LLM-based agents to act under explicit behavioral guidance in environments described by reinforcement learning formalisms with defined observation, action, and reward signals.\n  The framework integrates three components: a lightweight task ",
-      "link": "https://arxiv.org/abs/2512.11421",
+      "title": "Causal Strengths and Leaky Beliefs: Interpreting LLM Reasoning via Noisy-OR Causal Bayes Nets",
+      "title_zh": "Causal Strengths and Leaky Beliefs: Interpreting LLM Reasoning via Noisy-OR Causal Bayes Nets",
+      "description": "arXiv:2512.11909v1 Announce Type: new \nAbstract: The nature of intelligence in both humans and machines is a longstanding question. While there is no universally accepted definition, the ability to reason causally is often regarded as a pivotal aspect of intelligence (Lake et al., 2017). Evaluating causal reasoning in LLMs and humans on the same tasks provides hence a more comprehensive understanding of their respective strengths and weaknesses. Our study asks: (Q1) Are LLMs aligned with humans ",
+      "link": "https://arxiv.org/abs/2512.11909",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     },
     {
-      "title": "TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning",
-      "title_zh": "TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning",
-      "description": "arXiv:2512.11271v1 Announce Type: new \nAbstract: Real-world trip planning requires transforming open-ended user requests into executable itineraries under strict spatial, temporal, and budgetary constraints while aligning with user preferences. Existing LLM-based agents struggle with constraint satisfaction, tool coordination, and efficiency, often producing infeasible or costly plans. To address these limitations, we present TriFlow, a progressive multi-agent framework that unifies structured r",
-      "link": "https://arxiv.org/abs/2512.11271",
+      "title": "Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis",
+      "title_zh": "Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis",
+      "description": "arXiv:2512.11912v1 Announce Type: new \nAbstract: A systematic, comparative investigation into the effects of low-quality data reveals a stark spectrum of robustness across modern probabilistic models. We find that autoregressive language models, from token prediction to sequence-to-sequence tasks, are remarkably resilient (for GPT-2, test NLL increases modestly from 2.87 to 3.59 despite 50% token corruption). By contrast, under the same levels of data corruption, class-conditional diffusion mode",
+      "link": "https://arxiv.org/abs/2512.11912",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-15"
+      "date": "2025-12-16"
     }
   ]
 }
