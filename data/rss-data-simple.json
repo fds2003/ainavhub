@@ -10,6 +10,24 @@
       "date": "2021-10-28"
     },
     {
+      "title": "AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach",
+      "title_zh": "AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach",
+      "description": "arXiv:2512.13714v1 Announce Type: new \nAbstract: LLM implementations are failing in highly regulated industries owing to instability issues, inconsistent reasoning, hallucinations and performance variability, especially in workflows. These reliability issues restrict safe use of LLM in areas that need the precision of facts and consistent behavior (Aiyappa et al., 2023). The current methods of stabilization, such as, reinforcement learning with human feedback (RLHF) and supervised fine-tuning, o",
+      "link": "https://arxiv.org/abs/2512.13714",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-17"
+    },
+    {
+      "title": "ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making",
+      "title_zh": "ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making",
+      "description": "arXiv:2512.13716v1 Announce Type: new \nAbstract: Personalized decision-making is essential for human-AI interaction, enabling AI agents to act in alignment with individual users' value preferences. As AI systems expand into real-world applications, adapting to personalized values beyond task completion or collective alignment has become a critical challenge. We address this by proposing a value-driven approach to personalized decision-making. Human values serve as stable, transferable signals th",
+      "link": "https://arxiv.org/abs/2512.13716",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-17"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -26,15 +44,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org",
-      "title_zh": "AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org",
-      "description": "arXiv:2512.11935v1 Announce Type: new \nAbstract: Artificial intelligence is reshaping scientific discovery, yet its use in materials research remains limited by fragmented computational ecosystems, reproducibility challenges, and dependence on commercial large language models (LLMs). Here we introduce AGAPI (AtomGPT.org API), an open-access agentic AI platform that integrates more than eight open-source LLMs with over twenty materials-science API endpoints, unifying databases, simulation tools, ",
-      "link": "https://arxiv.org/abs/2512.11935",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-16"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -82,67 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving",
-      "title_zh": "CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving",
-      "description": "arXiv:2512.11920v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized natural language processing tasks, but their deployment in datacenter environments faces significant challenges due to the massive memory requirements of key-value (KV) caches. During the autoregressive decoding process, KV caches consume substantial GPU memory, limiting batch sizes and overall system throughput. To address these challenges, we propose \\textbf{CXL-SpecKV}, a novel disaggregated KV-c",
-      "link": "https://arxiv.org/abs/2512.11920",
+      "title": "Meta Hierarchical Reinforcement Learning for Scalable Resource Management in O-RAN",
+      "title_zh": "Meta Hierarchical Reinforcement Learning for Scalable Resource Management in O-RAN",
+      "description": "arXiv:2512.13715v1 Announce Type: new \nAbstract: The increasing complexity of modern applications demands wireless networks capable of real time adaptability and efficient resource management. The Open Radio Access Network (O-RAN) architecture, with its RAN Intelligent Controller (RIC) modules, has emerged as a pivotal solution for dynamic resource management and network slicing. While artificial intelligence (AI) driven methods have shown promise, most approaches struggle to maintain performanc",
+      "link": "https://arxiv.org/abs/2512.13715",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-16"
+      "date": "2025-12-17"
     },
     {
-      "title": "Mirror Mode in Fire Emblem: Beating Players at their own Game with Imitation and Reinforcement Learning",
-      "title_zh": "Mirror Mode in Fire Emblem: Beating Players at their own Game with Imitation and Reinforcement Learning",
-      "description": "arXiv:2512.11902v1 Announce Type: new \nAbstract: Enemy strategies in turn-based games should be surprising and unpredictable. This study introduces Mirror Mode, a new game mode where the enemy AI mimics the personal strategy of a player to challenge them to keep changing their gameplay. A simplified version of the Nintendo strategy video game Fire Emblem Heroes has been built in Unity, with a Standard Mode and a Mirror Mode. Our first set of experiments find a suitable model for the task to imit",
-      "link": "https://arxiv.org/abs/2512.11902",
+      "title": "Mathematics and Coding are Universal AI Benchmarks",
+      "title_zh": "Mathematics and Coding are Universal AI Benchmarks",
+      "description": "arXiv:2512.13764v1 Announce Type: new \nAbstract: We study the special role of mathematics and coding inside the moduli space of psychometric batteries for AI agents. Building on the AAI framework and GVU dynamics from previous works, we define the Mathematics Fiber and show that, when paired with formal proof kernels (e.g. Lean, Coq), GVU flows on this fiber admit spectrally stable self-improvement regimes due to oracle-like verification. Our main technical result is a density theorem: under uni",
+      "link": "https://arxiv.org/abs/2512.13764",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-16"
+      "date": "2025-12-17"
     },
     {
-      "title": "A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models",
-      "title_zh": "A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models",
-      "description": "arXiv:2512.11835v1 Announce Type: new \nAbstract: Large language models (LLMs) are often deployed as powerful yet opaque systems, leaving open how their internal memory and \"self-like\" behavior should be governed in a principled and auditable way. The Artificial Age Score (AAS) was previously introduced and mathematically justified through three theorems that characterise it as a metric of artificial memory aging. Building on this foundation, the present work develops an engineering-oriented, cla",
-      "link": "https://arxiv.org/abs/2512.11835",
+      "title": "Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents",
+      "title_zh": "Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents",
+      "description": "arXiv:2512.13704v1 Announce Type: new \nAbstract: The performance of production machine learning systems is fundamentally limited by the quality of their training data. In high-stakes industrial applications, noisy labels can degrade performance and erode user trust. This paper presents Adjudicator, a system that addresses the critical data mining challenge of automatically identifying and correcting label noise and has been validated for production deployment. Adjudicator models this as a neuro-",
+      "link": "https://arxiv.org/abs/2512.13704",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-16"
+      "date": "2025-12-17"
     },
     {
-      "title": "Structured Personalization: Modeling Constraints as Matroids for Data-Minimal LLM Agents",
-      "title_zh": "Structured Personalization: Modeling Constraints as Matroids for Data-Minimal LLM Agents",
-      "description": "arXiv:2512.11907v1 Announce Type: new \nAbstract: Personalizing Large Language Model (LLM) agents requires conditioning them on user-specific data, creating a critical trade-off between task utility and data disclosure. While the utility of adding user data often exhibits diminishing returns (i.e., submodularity), enabling near-optimal greedy selection, real-world personalization is complicated by structural constraints. These include logical dependencies (e.g., selecting fact A requires fact B),",
-      "link": "https://arxiv.org/abs/2512.11907",
+      "title": "LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms",
+      "title_zh": "LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms",
+      "description": "arXiv:2512.13713v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly being utilized as autonomous agents, yet their ability to coordinate in distributed systems remains poorly understood. We introduce \\textbf{LoopBench}, a benchmark to evaluate LLM reasoning in distributed symmetry breaking and meta-cognitive thinking. The benchmark focuses on coloring odd cycle graphs ($C_3, C_5, C_{11}$) with limited colors, where deterministic, non-communicating agents fail in infini",
+      "link": "https://arxiv.org/abs/2512.13713",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-16"
+      "date": "2025-12-17"
     },
     {
-      "title": "Hypergame Rationalisability: Solving Agent Misalignment In Strategic Play",
-      "title_zh": "Hypergame Rationalisability: Solving Agent Misalignment In Strategic Play",
-      "description": "arXiv:2512.11942v1 Announce Type: new \nAbstract: Differences in perception, information asymmetries, and bounded rationality lead game-theoretic players to derive a private, subjective view of the game that may diverge from the underlying ground-truth scenario and may be misaligned with other players' interpretations. While typical game-theoretic assumptions often overlook such heterogeneity, hypergame theory provides the mathematical framework to reason about mismatched mental models. Although ",
-      "link": "https://arxiv.org/abs/2512.11942",
+      "title": "Compressed Causal Reasoning: Quantization and GraphRAG Effects on Interventional and Counterfactual Accuracy",
+      "title_zh": "Compressed Causal Reasoning: Quantization and GraphRAG Effects on Interventional and Counterfactual Accuracy",
+      "description": "arXiv:2512.13725v1 Announce Type: new \nAbstract: Causal reasoning in Large Language Models spanning association, intervention, and counterfactual inference is essential for reliable decision making in high stakes settings. As deployment shifts toward edge and resource constrained environments, quantized models such as INT8 and NF4 are becoming standard. Yet the impact of precision reduction on formal causal reasoning is poorly understood. To our knowledge, this is the first study to systematical",
+      "link": "https://arxiv.org/abs/2512.13725",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-16"
+      "date": "2025-12-17"
     },
     {
-      "title": "Causal Strengths and Leaky Beliefs: Interpreting LLM Reasoning via Noisy-OR Causal Bayes Nets",
-      "title_zh": "Causal Strengths and Leaky Beliefs: Interpreting LLM Reasoning via Noisy-OR Causal Bayes Nets",
-      "description": "arXiv:2512.11909v1 Announce Type: new \nAbstract: The nature of intelligence in both humans and machines is a longstanding question. While there is no universally accepted definition, the ability to reason causally is often regarded as a pivotal aspect of intelligence (Lake et al., 2017). Evaluating causal reasoning in LLMs and humans on the same tasks provides hence a more comprehensive understanding of their respective strengths and weaknesses. Our study asks: (Q1) Are LLMs aligned with humans ",
-      "link": "https://arxiv.org/abs/2512.11909",
+      "title": "Leveraging LLMs for Structured Data Extraction from Unstructured Patient Records",
+      "title_zh": "Leveraging LLMs for Structured Data Extraction from Unstructured Patient Records",
+      "description": "arXiv:2512.13700v1 Announce Type: new \nAbstract: Manual chart review remains an extremely time-consuming and resource-intensive component of clinical research, requiring experts to extract often complex information from unstructured electronic health record (EHR) narratives. We present a secure, modular framework for automated structured feature extraction from clinical notes leveraging locally deployed large language models (LLMs) on institutionally approved, Health Insurance Portability and Ac",
+      "link": "https://arxiv.org/abs/2512.13700",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-16"
-    },
-    {
-      "title": "Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis",
-      "title_zh": "Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis",
-      "description": "arXiv:2512.11912v1 Announce Type: new \nAbstract: A systematic, comparative investigation into the effects of low-quality data reveals a stark spectrum of robustness across modern probabilistic models. We find that autoregressive language models, from token prediction to sequence-to-sequence tasks, are remarkably resilient (for GPT-2, test NLL increases modestly from 2.87 to 3.59 despite 50% token corruption). By contrast, under the same levels of data corruption, class-conditional diffusion mode",
-      "link": "https://arxiv.org/abs/2512.11912",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-16"
+      "date": "2025-12-17"
     }
   ]
 }
