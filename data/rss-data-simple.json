@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
       "title": "AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach",
       "title_zh": "AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach",
       "description": "arXiv:2512.13714v1 Announce Type: new \nAbstract: LLM implementations are failing in highly regulated industries owing to instability issues, inconsistent reasoning, hallucinations and performance variability, especially in workflows. These reliability issues restrict safe use of LLM in areas that need the precision of facts and consistent behavior (Aiyappa et al., 2023). The current methods of stabilization, such as, reinforcement learning with human feedback (RLHF) and supervised fine-tuning, o",
@@ -17,6 +26,69 @@
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2025-12-18"
+    },
+    {
+      "title": "Best Practices for Building the AI Development Platform in Government",
+      "title_zh": "Best Practices for Building the AI Development Platform in Government",
+      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
+      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
     },
     {
       "title": "Meta Hierarchical Reinforcement Learning for Scalable Resource Management in O-RAN",
