@@ -28,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats",
+      "title_zh": "Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats",
+      "description": "arXiv:2512.17041v1 Announce Type: new \nAbstract: Agentic AI is increasingly being explored and introduced in both manually driven and autonomous vehicles, leading to the notion of Agentic Vehicles (AgVs), with capabilities such as memory-based personalization, goal interpretation, strategic reasoning, and tool-mediated assistance. While frameworks such as the OWASP Agentic AI Security Risks highlight vulnerabilities in reasoning-driven AI systems, they are not designed for safety-critical cyber-",
+      "link": "https://arxiv.org/abs/2512.17041",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
+      "title_zh": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
+      "description": "arXiv:2512.16969v1 Announce Type: new \nAbstract: Despite advances in scientific AI, a coherent framework for Scientific General Intelligence (SGI)-the ability to autonomously conceive, investigate, and reason across scientific domains-remains lacking. We present an operational SGI definition grounded in the Practical Inquiry Model (PIM: Deliberation, Conception, Action, Perception) and operationalize it via four scientist-aligned tasks: deep research, idea generation, dry/wet experiments, and ex",
+      "link": "https://arxiv.org/abs/2512.16969",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "Reinforcement Learning for Self-Improving Agent with Skill Library",
+      "title_zh": "Reinforcement Learning for Self-Improving Agent with Skill Library",
+      "description": "arXiv:2512.17102v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have demonstrated remarkable capabilities in complex reasoning and multi-turn interactions but struggle to continuously improve and adapt when deployed in new environments. One promising approach is implementing skill libraries that allow agents to learn, validate, and apply new skills. However, current skill library approaches rely primarily on LLM prompting, making consistent skill library implementation c",
+      "link": "https://arxiv.org/abs/2512.17102",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering",
+      "title_zh": "UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering",
+      "description": "arXiv:2512.17043v1 Announce Type: new \nAbstract: Knowledge Graph Question Answering (KGQA) has traditionally focused on entity-centric queries that return a single answer entity. However, real-world queries are often relational, seeking to understand how entities are associated. In this work, we introduce relation-centric KGQA, a complementary setting where the answer is a subgraph capturing the semantic connections among entities rather than an individual entity. The main challenge lies in the ",
+      "link": "https://arxiv.org/abs/2512.17043",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "Value Under Ignorance in Universal Artificial Intelligence",
+      "title_zh": "Value Under Ignorance in Universal Artificial Intelligence",
+      "description": "arXiv:2512.17086v1 Announce Type: new \nAbstract: We generalize the AIXI reinforcement learning agent to admit a wider class of utility functions. Assigning a utility to each possible interaction history forces us to confront the ambiguity that some hypotheses in the agent's belief distribution only predict a finite prefix of the history, which is sometimes interpreted as implying a chance of death equal to a quantity called the semimeasure loss. This death interpretation suggests one way to assi",
+      "link": "https://arxiv.org/abs/2512.17086",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "PAACE: A Plan-Aware Automated Agent Context Engineering Framework",
+      "title_zh": "PAACE: A Plan-Aware Automated Agent Context Engineering Framework",
+      "description": "arXiv:2512.16970v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly deployed in complex, multi-step workflows involving planning, tool use, reflection, and interaction with external knowledge systems. These workflows generate rapidly expanding contexts that must be curated, transformed, and compressed to maintain fidelity, avoid attention dilution, and reduce inference cost. Prior work on summarization and query-aware compression largely ignores the multi-step, pl",
+      "link": "https://arxiv.org/abs/2512.16970",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations",
+      "title_zh": "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations",
+      "description": "arXiv:2512.17066v1 Announce Type: new \nAbstract: Human conflict is often attributed to threats against material conditions and symbolic values, yet it remains unclear how they interact and which dominates. Progress is limited by weak causal control, ethical constraints, and scarce temporal data. We address these barriers using simulations of large language model (LLM)-driven agents in virtual societies, independently varying realistic and symbolic threat while tracking actions, language, and att",
+      "link": "https://arxiv.org/abs/2512.17066",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
+    },
+    {
+      "title": "A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving",
+      "title_zh": "A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving",
+      "description": "arXiv:2512.17093v1 Announce Type: new \nAbstract: The rise of large language models (LLMs) has sparked interest in coding assistants. While general-purpose programming languages are well supported, generating code for domain-specific languages remains a challenging problem for LLMs. In this paper, we focus on the LLM-based generation of code for Answer Set Programming (ASP), a particularly effective approach for finding solutions to combinatorial search problems. The effectiveness of LLMs in ASP ",
+      "link": "https://arxiv.org/abs/2512.17093",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-22"
     }
   ]
 }
