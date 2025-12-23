@@ -28,15 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats",
-      "title_zh": "Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats",
-      "description": "arXiv:2512.17041v1 Announce Type: new \nAbstract: Agentic AI is increasingly being explored and introduced in both manually driven and autonomous vehicles, leading to the notion of Agentic Vehicles (AgVs), with capabilities such as memory-based personalization, goal interpretation, strategic reasoning, and tool-mediated assistance. While frameworks such as the OWASP Agentic AI Security Risks highlight vulnerabilities in reasoning-driven AI systems, they are not designed for safety-critical cyber-",
-      "link": "https://arxiv.org/abs/2512.17041",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-22"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -82,67 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
-      "title_zh": "Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows",
-      "description": "arXiv:2512.16969v1 Announce Type: new \nAbstract: Despite advances in scientific AI, a coherent framework for Scientific General Intelligence (SGI)-the ability to autonomously conceive, investigate, and reason across scientific domains-remains lacking. We present an operational SGI definition grounded in the Practical Inquiry Model (PIM: Deliberation, Conception, Action, Perception) and operationalize it via four scientist-aligned tasks: deep research, idea generation, dry/wet experiments, and ex",
-      "link": "https://arxiv.org/abs/2512.16969",
+      "title": "MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical Subject Classification",
+      "title_zh": "MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical Subject Classification",
+      "description": "arXiv:2512.18256v1 Announce Type: new \nAbstract: Automated Theorem Proving (ATP) represents a core research direction in artificial intelligence for achieving formal reasoning and verification, playing a significant role in advancing machine intelligence. However, current large language model (LLM)-based theorem provers suffer from limitations such as restricted domain coverage and weak generalization in mathematical reasoning. To address these issues, we propose MSC-180, a benchmark for evaluat",
+      "link": "https://arxiv.org/abs/2512.18256",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-22"
+      "date": "2025-12-23"
     },
     {
-      "title": "Reinforcement Learning for Self-Improving Agent with Skill Library",
-      "title_zh": "Reinforcement Learning for Self-Improving Agent with Skill Library",
-      "description": "arXiv:2512.17102v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have demonstrated remarkable capabilities in complex reasoning and multi-turn interactions but struggle to continuously improve and adapt when deployed in new environments. One promising approach is implementing skill libraries that allow agents to learn, validate, and apply new skills. However, current skill library approaches rely primarily on LLM prompting, making consistent skill library implementation c",
-      "link": "https://arxiv.org/abs/2512.17102",
+      "title": "Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications",
+      "title_zh": "Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications",
+      "description": "arXiv:2512.18135v1 Announce Type: new \nAbstract: Integrating causal inference (CI) with reinforcement learning (RL) has emerged as a powerful paradigm to address critical limitations in classical RL, including low explainability, lack of robustness and generalization failures. Traditional RL techniques, which typically rely on correlation-driven decision-making, struggle when faced with distribution shifts, confounding variables, and dynamic environments. Causal reinforcement learning (CRL), lev",
+      "link": "https://arxiv.org/abs/2512.18135",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-22"
+      "date": "2025-12-23"
     },
     {
-      "title": "UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering",
-      "title_zh": "UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering",
-      "description": "arXiv:2512.17043v1 Announce Type: new \nAbstract: Knowledge Graph Question Answering (KGQA) has traditionally focused on entity-centric queries that return a single answer entity. However, real-world queries are often relational, seeking to understand how entities are associated. In this work, we introduce relation-centric KGQA, a complementary setting where the answer is a subgraph capturing the semantic connections among entities rather than an individual entity. The main challenge lies in the ",
-      "link": "https://arxiv.org/abs/2512.17043",
+      "title": "NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI",
+      "title_zh": "NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI",
+      "description": "arXiv:2512.18177v1 Announce Type: new \nAbstract: Accurate yet interpretable image-based diagnosis remains a central challenge in medical AI, particularly in settings characterized by limited data, subtle visual cues, and high-stakes clinical decision-making. Most existing vision models rely on purely data-driven learning and produce black-box predictions with limited interpretability and poor cross-domain generalization, hindering their real-world clinical adoption. We present NEURO-GUARD, a nov",
+      "link": "https://arxiv.org/abs/2512.18177",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-22"
+      "date": "2025-12-23"
     },
     {
-      "title": "Value Under Ignorance in Universal Artificial Intelligence",
-      "title_zh": "Value Under Ignorance in Universal Artificial Intelligence",
-      "description": "arXiv:2512.17086v1 Announce Type: new \nAbstract: We generalize the AIXI reinforcement learning agent to admit a wider class of utility functions. Assigning a utility to each possible interaction history forces us to confront the ambiguity that some hypotheses in the agent's belief distribution only predict a finite prefix of the history, which is sometimes interpreted as implying a chance of death equal to a quantity called the semimeasure loss. This death interpretation suggests one way to assi",
-      "link": "https://arxiv.org/abs/2512.17086",
+      "title": "Sophia: A Persistent Agent Framework of Artificial Life",
+      "title_zh": "Sophia: A Persistent Agent Framework of Artificial Life",
+      "description": "arXiv:2512.18202v1 Announce Type: new \nAbstract: The development of LLMs has elevated AI agents from task-specific tools to long-lived, decision-making entities. Yet, most architectures remain static and reactive, tethered to manually defined, narrow scenarios. These systems excel at perception (System 1) and deliberation (System 2) but lack a persistent meta-layer to maintain identity, verify reasoning, and align short-term actions with long-term survival. We first propose a third stratum, Syst",
+      "link": "https://arxiv.org/abs/2512.18202",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-22"
+      "date": "2025-12-23"
     },
     {
-      "title": "PAACE: A Plan-Aware Automated Agent Context Engineering Framework",
-      "title_zh": "PAACE: A Plan-Aware Automated Agent Context Engineering Framework",
-      "description": "arXiv:2512.16970v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly deployed in complex, multi-step workflows involving planning, tool use, reflection, and interaction with external knowledge systems. These workflows generate rapidly expanding contexts that must be curated, transformed, and compressed to maintain fidelity, avoid attention dilution, and reduce inference cost. Prior work on summarization and query-aware compression largely ignores the multi-step, pl",
-      "link": "https://arxiv.org/abs/2512.16970",
+      "title": "Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks",
+      "title_zh": "Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks",
+      "description": "arXiv:2512.18094v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled multi-agent systems (MAS) in which multiple agents argue, critique, and coordinate to solve complex tasks, making communication topology a first-class design choice. Yet most existing LLM-based MAS either adopt fully connected graphs, simple sparse rings, or ad-hoc dynamic selection, with little structural guidance. In this work, we revisit classic theory on small-world (SW) networks and ask: what changes ",
+      "link": "https://arxiv.org/abs/2512.18094",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-22"
+      "date": "2025-12-23"
     },
     {
-      "title": "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations",
-      "title_zh": "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations",
-      "description": "arXiv:2512.17066v1 Announce Type: new \nAbstract: Human conflict is often attributed to threats against material conditions and symbolic values, yet it remains unclear how they interact and which dominates. Progress is limited by weak causal control, ethical constraints, and scarce temporal data. We address these barriers using simulations of large language model (LLM)-driven agents in virtual societies, independently varying realistic and symbolic threat while tracking actions, language, and att",
-      "link": "https://arxiv.org/abs/2512.17066",
+      "title": "NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework",
+      "title_zh": "NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework",
+      "description": "arXiv:2512.18189v1 Announce Type: new \nAbstract: Cognitive computing models offer a formal and interpretable way to characterize human's deliberation and decision-making, yet their development remains labor-intensive. In this paper, we propose NL2CA, a novel method for auto-formalizing cognitive decision-making rules from natural language descriptions of human experience. Different from most related work that exploits either pure manual or human guided interactive modeling, our method is fully a",
+      "link": "https://arxiv.org/abs/2512.18189",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-22"
+      "date": "2025-12-23"
     },
     {
-      "title": "A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving",
-      "title_zh": "A Solver-in-the-Loop Framework for Improving LLMs on Answer Set Programming for Logic Puzzle Solving",
-      "description": "arXiv:2512.17093v1 Announce Type: new \nAbstract: The rise of large language models (LLMs) has sparked interest in coding assistants. While general-purpose programming languages are well supported, generating code for domain-specific languages remains a challenging problem for LLMs. In this paper, we focus on the LLM-based generation of code for Answer Set Programming (ASP), a particularly effective approach for finding solutions to combinatorial search problems. The effectiveness of LLMs in ASP ",
-      "link": "https://arxiv.org/abs/2512.17093",
+      "title": "Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability",
+      "title_zh": "Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability",
+      "description": "arXiv:2512.18092v1 Announce Type: new \nAbstract: Neuron identification is a popular tool in mechanistic interpretability, aiming to uncover the human-interpretable concepts represented by individual neurons in deep networks. While algorithms such as Network Dissection and CLIP-Dissect achieve great empirical success, a rigorous theoretical foundation remains absent, which is crucial to enable trustworthy and reliable explanations. In this work, we observe that neuron identification can be viewed",
+      "link": "https://arxiv.org/abs/2512.18092",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-22"
+      "date": "2025-12-23"
+    },
+    {
+      "title": "Propose, Solve, Verify: Self-Play Through Formal Verification",
+      "title_zh": "Propose, Solve, Verify: Self-Play Through Formal Verification",
+      "description": "arXiv:2512.18160v1 Announce Type: new \nAbstract: Training models through self-play alone (without any human data) has been a longstanding goal in AI, but its effectiveness for training large language models remains unclear, particularly in code generation where rewards based on unit tests are brittle and prone to error propagation. We study self-play in the verified code generation setting, where formal verification provides reliable correctness signals. We introduce Propose, Solve, Verify (PSV)",
+      "link": "https://arxiv.org/abs/2512.18160",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-23"
     }
   ]
 }
