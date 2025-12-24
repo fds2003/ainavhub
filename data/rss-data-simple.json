@@ -73,76 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical Subject Classification",
-      "title_zh": "MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical Subject Classification",
-      "description": "arXiv:2512.18256v1 Announce Type: new \nAbstract: Automated Theorem Proving (ATP) represents a core research direction in artificial intelligence for achieving formal reasoning and verification, playing a significant role in advancing machine intelligence. However, current large language model (LLM)-based theorem provers suffer from limitations such as restricted domain coverage and weak generalization in mathematical reasoning. To address these issues, we propose MSC-180, a benchmark for evaluat",
-      "link": "https://arxiv.org/abs/2512.18256",
+      "title": "Reason2Decide: Rationale-Driven Multi-Task Learning",
+      "title_zh": "Reason2Decide: Rationale-Driven Multi-Task Learning",
+      "description": "arXiv:2512.20074v1 Announce Type: new \nAbstract: Despite the wide adoption of Large Language Models (LLM)s, clinical decision support systems face a critical challenge: achieving high predictive accuracy while generating explanations aligned with the predictions. Current approaches suffer from exposure bias leading to misaligned explanations. We propose Reason2Decide, a two-stage training framework that addresses key challenges in self-rationalization, including exposure bias and task separation",
+      "link": "https://arxiv.org/abs/2512.20074",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     },
     {
-      "title": "Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications",
-      "title_zh": "Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications",
-      "description": "arXiv:2512.18135v1 Announce Type: new \nAbstract: Integrating causal inference (CI) with reinforcement learning (RL) has emerged as a powerful paradigm to address critical limitations in classical RL, including low explainability, lack of robustness and generalization failures. Traditional RL techniques, which typically rely on correlation-driven decision-making, struggle when faced with distribution shifts, confounding variables, and dynamic environments. Causal reinforcement learning (CRL), lev",
-      "link": "https://arxiv.org/abs/2512.18135",
+      "title": "Scaling Reinforcement Learning for Content Moderation with Large Language Models",
+      "title_zh": "Scaling Reinforcement Learning for Content Moderation with Large Language Models",
+      "description": "arXiv:2512.20061v1 Announce Type: new \nAbstract: Content moderation at scale remains one of the most pressing challenges in today's digital ecosystem, where billions of user- and AI-generated artifacts must be continuously evaluated for policy violations. Although recent advances in large language models (LLMs) have demonstrated strong potential for policy-grounded moderation, the practical challenges of training these systems to achieve expert-level accuracy in real-world settings remain largel",
+      "link": "https://arxiv.org/abs/2512.20061",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     },
     {
-      "title": "NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI",
-      "title_zh": "NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI",
-      "description": "arXiv:2512.18177v1 Announce Type: new \nAbstract: Accurate yet interpretable image-based diagnosis remains a central challenge in medical AI, particularly in settings characterized by limited data, subtle visual cues, and high-stakes clinical decision-making. Most existing vision models rely on purely data-driven learning and produce black-box predictions with limited interpretability and poor cross-domain generalization, hindering their real-world clinical adoption. We present NEURO-GUARD, a nov",
-      "link": "https://arxiv.org/abs/2512.18177",
+      "title": "PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research",
+      "title_zh": "PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research",
+      "description": "arXiv:2512.19799v1 Announce Type: new \nAbstract: Advances in LLMs have produced agents with knowledge and operational capabilities comparable to human scientists, suggesting potential to assist, accelerate, and automate research. However, existing studies mainly evaluate such systems on well-defined benchmarks or general tasks like literature retrieval, limiting their end-to-end problem-solving ability in open scientific scenarios. This is particularly true in physics, which is abstract, mathema",
+      "link": "https://arxiv.org/abs/2512.19799",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     },
     {
-      "title": "Sophia: A Persistent Agent Framework of Artificial Life",
-      "title_zh": "Sophia: A Persistent Agent Framework of Artificial Life",
-      "description": "arXiv:2512.18202v1 Announce Type: new \nAbstract: The development of LLMs has elevated AI agents from task-specific tools to long-lived, decision-making entities. Yet, most architectures remain static and reactive, tethered to manually defined, narrow scenarios. These systems excel at perception (System 1) and deliberation (System 2) but lack a persistent meta-layer to maintain identity, verify reasoning, and align short-term actions with long-term survival. We first propose a third stratum, Syst",
-      "link": "https://arxiv.org/abs/2512.18202",
+      "title": "A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution",
+      "title_zh": "A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution",
+      "description": "arXiv:2512.19882v1 Announce Type: new \nAbstract: The distribution of relief supplies to shelters is a critical aspect of post-disaster humanitarian logistics. In major disasters, prepositioned supplies often fall short of meeting all demands. We address the problem of planning vehicle routes from a distribution center to shelters while allocating limited relief supplies. To balance efficiency and equity, we formulate a bi-objective problem: minimizing a Gini-index-based measure of inequity in un",
+      "link": "https://arxiv.org/abs/2512.19882",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     },
     {
-      "title": "Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks",
-      "title_zh": "Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks",
-      "description": "arXiv:2512.18094v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled multi-agent systems (MAS) in which multiple agents argue, critique, and coordinate to solve complex tasks, making communication topology a first-class design choice. Yet most existing LLM-based MAS either adopt fully connected graphs, simple sparse rings, or ad-hoc dynamic selection, with little structural guidance. In this work, we revisit classic theory on small-world (SW) networks and ask: what changes ",
-      "link": "https://arxiv.org/abs/2512.18094",
+      "title": "MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization",
+      "title_zh": "MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization",
+      "description": "arXiv:2512.20135v1 Announce Type: new \nAbstract: Molecular editing and optimization are multi-step problems that require iteratively improving properties while keeping molecules chemically valid and structurally similar. We frame both tasks as sequential, tool-guided decisions and introduce MolAct, an agentic reinforcement learning framework that employs a two-stage training paradigm: first building editing capability, then optimizing properties while reusing the learned editing behaviors. To th",
+      "link": "https://arxiv.org/abs/2512.20135",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     },
     {
-      "title": "NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework",
-      "title_zh": "NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework",
-      "description": "arXiv:2512.18189v1 Announce Type: new \nAbstract: Cognitive computing models offer a formal and interpretable way to characterize human's deliberation and decision-making, yet their development remains labor-intensive. In this paper, we propose NL2CA, a novel method for auto-formalizing cognitive decision-making rules from natural language descriptions of human experience. Different from most related work that exploits either pure manual or human guided interactive modeling, our method is fully a",
-      "link": "https://arxiv.org/abs/2512.18189",
+      "title": "Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches",
+      "title_zh": "Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches",
+      "description": "arXiv:2512.20082v1 Announce Type: new \nAbstract: Financial sentiment analysis plays a crucial role in informing investment decisions, assessing market risk, and predicting stock price trends. Existing works in financial sentiment analysis have not considered the impact of stock prices or market feedback on sentiment analysis. In this paper, we propose an adaptive framework that integrates large language models (LLMs) with real-world stock market feedback to improve sentiment classification in th",
+      "link": "https://arxiv.org/abs/2512.20082",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     },
     {
-      "title": "Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability",
-      "title_zh": "Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability",
-      "description": "arXiv:2512.18092v1 Announce Type: new \nAbstract: Neuron identification is a popular tool in mechanistic interpretability, aiming to uncover the human-interpretable concepts represented by individual neurons in deep networks. While algorithms such as Network Dissection and CLIP-Dissect achieve great empirical success, a rigorous theoretical foundation remains absent, which is crucial to enable trustworthy and reliable explanations. In this work, we observe that neuron identification can be viewed",
-      "link": "https://arxiv.org/abs/2512.18092",
+      "title": "Discovering Lie Groups with Flow Matching",
+      "title_zh": "Discovering Lie Groups with Flow Matching",
+      "description": "arXiv:2512.20043v1 Announce Type: new \nAbstract: Symmetry is fundamental to understanding physical systems, and at the same time, can improve performance and sample efficiency in machine learning. Both pursuits require knowledge of the underlying symmetries in data. To address this, we propose learning symmetries directly from data via flow matching on Lie groups. We formulate symmetry discovery as learning a distribution over a larger hypothesis group, such that the learned distribution matches",
+      "link": "https://arxiv.org/abs/2512.20043",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     },
     {
-      "title": "Propose, Solve, Verify: Self-Play Through Formal Verification",
-      "title_zh": "Propose, Solve, Verify: Self-Play Through Formal Verification",
-      "description": "arXiv:2512.18160v1 Announce Type: new \nAbstract: Training models through self-play alone (without any human data) has been a longstanding goal in AI, but its effectiveness for training large language models remains unclear, particularly in code generation where rewards based on unit tests are brittle and prone to error propagation. We study self-play in the verified code generation setting, where formal verification provides reliable correctness signals. We introduce Propose, Solve, Verify (PSV)",
-      "link": "https://arxiv.org/abs/2512.18160",
+      "title": "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test",
+      "title_zh": "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test",
+      "description": "arXiv:2512.19992v1 Announce Type: new \nAbstract: The integration of embodied agents into human environments demands embodied social intelligence: reasoning over both social norms and physical constraints. However, existing evaluations fail to address this integration, as they are limited to either disembodied social reasoning (e.g., in text) or socially-agnostic physical tasks. Both approaches fail to assess an agent's ability to integrate and trade off both physical and social constraints withi",
+      "link": "https://arxiv.org/abs/2512.19992",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-23"
+      "date": "2025-12-24"
     }
   ]
 }
