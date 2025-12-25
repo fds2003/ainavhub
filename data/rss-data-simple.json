@@ -79,7 +79,7 @@
       "link": "https://arxiv.org/abs/2512.20074",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     },
     {
       "title": "Scaling Reinforcement Learning for Content Moderation with Large Language Models",
@@ -88,7 +88,7 @@
       "link": "https://arxiv.org/abs/2512.20061",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     },
     {
       "title": "PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research",
@@ -97,7 +97,7 @@
       "link": "https://arxiv.org/abs/2512.19799",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     },
     {
       "title": "A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution",
@@ -106,25 +106,25 @@
       "link": "https://arxiv.org/abs/2512.19882",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     },
     {
       "title": "MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization",
       "title_zh": "MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization",
-      "description": "arXiv:2512.20135v1 Announce Type: new \nAbstract: Molecular editing and optimization are multi-step problems that require iteratively improving properties while keeping molecules chemically valid and structurally similar. We frame both tasks as sequential, tool-guided decisions and introduce MolAct, an agentic reinforcement learning framework that employs a two-stage training paradigm: first building editing capability, then optimizing properties while reusing the learned editing behaviors. To th",
+      "description": "arXiv:2512.20135v2 Announce Type: new \nAbstract: Molecular editing and optimization are multi-step problems that require iteratively improving properties while keeping molecules chemically valid and structurally similar. We frame both tasks as sequential, tool-guided decisions and introduce MolAct, an agentic reinforcement learning framework that employs a two-stage training paradigm: first building editing capability, then optimizing properties while reusing the learned editing behaviors. To th",
       "link": "https://arxiv.org/abs/2512.20135",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     },
     {
       "title": "Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches",
       "title_zh": "Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches",
-      "description": "arXiv:2512.20082v1 Announce Type: new \nAbstract: Financial sentiment analysis plays a crucial role in informing investment decisions, assessing market risk, and predicting stock price trends. Existing works in financial sentiment analysis have not considered the impact of stock prices or market feedback on sentiment analysis. In this paper, we propose an adaptive framework that integrates large language models (LLMs) with real-world stock market feedback to improve sentiment classification in th",
+      "description": "arXiv:2512.20082v2 Announce Type: new \nAbstract: Financial sentiment analysis plays a crucial role in informing investment decisions, assessing market risk, and predicting stock price trends. Existing works in financial sentiment analysis have not considered the impact of stock prices or market feedback on sentiment analysis. In this paper, we propose an adaptive framework that integrates large language models (LLMs) with real-world stock market feedback to improve sentiment classification in th",
       "link": "https://arxiv.org/abs/2512.20082",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     },
     {
       "title": "Discovering Lie Groups with Flow Matching",
@@ -133,7 +133,7 @@
       "link": "https://arxiv.org/abs/2512.20043",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     },
     {
       "title": "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test",
@@ -142,7 +142,7 @@
       "link": "https://arxiv.org/abs/2512.19992",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-24"
+      "date": "2025-12-25"
     }
   ]
 }
