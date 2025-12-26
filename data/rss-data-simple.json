@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "AIAuditTrack: A Framework for AI Security system",
+      "title_zh": "AIAuditTrack: A Framework for AI Security system",
+      "description": "arXiv:2512.20649v1 Announce Type: new \nAbstract: The rapid expansion of AI-driven applications powered by large language models has led to a surge in AI interaction data, raising urgent challenges in security, accountability, and risk traceability. This paper presents AiAuditTrack (AAT), a blockchain-based framework for AI usage traffic recording and governance. AAT leverages decentralized identity (DID) and verifiable credentials (VC) to establish trusted and identifiable AI entities, and recor",
+      "link": "https://arxiv.org/abs/2512.20649",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-26"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -35,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data",
+      "title_zh": "MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data",
+      "description": "arXiv:2512.20630v1 Announce Type: new \nAbstract: Foundation model reliability assessment typically requires thousands of evaluation examples, making it computationally expensive and time-consuming for real-world deployment. We introduce microprobe, a novel approach that achieves comprehensive reliability assessment using only 100 strategically selected probe examples. Our method combines strategic prompt diversity across five key reliability dimensions with advanced uncertainty quantification an",
+      "link": "https://arxiv.org/abs/2512.20630",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-26"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -73,76 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Reason2Decide: Rationale-Driven Multi-Task Learning",
-      "title_zh": "Reason2Decide: Rationale-Driven Multi-Task Learning",
-      "description": "arXiv:2512.20074v1 Announce Type: new \nAbstract: Despite the wide adoption of Large Language Models (LLM)s, clinical decision support systems face a critical challenge: achieving high predictive accuracy while generating explanations aligned with the predictions. Current approaches suffer from exposure bias leading to misaligned explanations. We propose Reason2Decide, a two-stage training framework that addresses key challenges in self-rationalization, including exposure bias and task separation",
-      "link": "https://arxiv.org/abs/2512.20074",
+      "title": "BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization",
+      "title_zh": "BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization",
+      "description": "arXiv:2512.20623v1 Announce Type: new \nAbstract: Smart home lighting systems consume 15-20% of residential energy but lack adaptive intelligence to optimize for user comfort and energy efficiency simultaneously. We present BitRL-Light, a novel framework combining 1-bit quantized Large Language Models (LLMs) with Deep Q-Network (DQN) reinforcement learning for real-time smart home lighting control on edge devices. Our approach deploys a 1-bit quantized Llama-3.2-1B model on Raspberry Pi hardware,",
+      "link": "https://arxiv.org/abs/2512.20623",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-25"
+      "date": "2025-12-26"
     },
     {
-      "title": "Scaling Reinforcement Learning for Content Moderation with Large Language Models",
-      "title_zh": "Scaling Reinforcement Learning for Content Moderation with Large Language Models",
-      "description": "arXiv:2512.20061v1 Announce Type: new \nAbstract: Content moderation at scale remains one of the most pressing challenges in today's digital ecosystem, where billions of user- and AI-generated artifacts must be continuously evaluated for policy violations. Although recent advances in large language models (LLMs) have demonstrated strong potential for policy-grounded moderation, the practical challenges of training these systems to achieve expert-level accuracy in real-world settings remain largel",
-      "link": "https://arxiv.org/abs/2512.20061",
+      "title": "Erkang-Diagnosis-1.1 Technical Report",
+      "title_zh": "Erkang-Diagnosis-1.1 Technical Report",
+      "description": "arXiv:2512.20632v1 Announce Type: new \nAbstract: This report provides a detailed introduction to Erkang-Diagnosis-1.1 model, our AI healthcare consulting assistant developed using Alibaba Qwen-3 model. The Erkang model integrates approximately 500GB of high-quality structured medical knowledge, employing a hybrid approach combining enhanced pre-training and retrieval-enhanced generation to create a secure, reliable, and professional AI health advisor. Through 3-5 efficient interaction rounds, Er",
+      "link": "https://arxiv.org/abs/2512.20632",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-25"
+      "date": "2025-12-26"
     },
     {
-      "title": "PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research",
-      "title_zh": "PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research",
-      "description": "arXiv:2512.19799v1 Announce Type: new \nAbstract: Advances in LLMs have produced agents with knowledge and operational capabilities comparable to human scientists, suggesting potential to assist, accelerate, and automate research. However, existing studies mainly evaluate such systems on well-defined benchmarks or general tasks like literature retrieval, limiting their end-to-end problem-solving ability in open scientific scenarios. This is particularly true in physics, which is abstract, mathema",
-      "link": "https://arxiv.org/abs/2512.19799",
+      "title": "Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence",
+      "title_zh": "Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence",
+      "description": "arXiv:2512.20651v1 Announce Type: new \nAbstract: Large language models (LLMs) face inherent limitations in memory, including restricted context windows, long-term knowledge forgetting, redundant information accumulation, and hallucination generation. These issues severely constrain sustained dialogue and personalized services. This paper proposes the Memory Bear system, which constructs a human-like memory architecture grounded in cognitive science principles. By integrating multimodal informati",
+      "link": "https://arxiv.org/abs/2512.20651",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-25"
+      "date": "2025-12-26"
     },
     {
-      "title": "A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution",
-      "title_zh": "A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution",
-      "description": "arXiv:2512.19882v1 Announce Type: new \nAbstract: The distribution of relief supplies to shelters is a critical aspect of post-disaster humanitarian logistics. In major disasters, prepositioned supplies often fall short of meeting all demands. We address the problem of planning vehicle routes from a distribution center to shelters while allocating limited relief supplies. To balance efficiency and equity, we formulate a bi-objective problem: minimizing a Gini-index-based measure of inequity in un",
-      "link": "https://arxiv.org/abs/2512.19882",
+      "title": "Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment",
+      "title_zh": "Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment",
+      "description": "arXiv:2512.20624v1 Announce Type: new \nAbstract: This study introduces a quantum inspired framework for optimizing the exploration exploitation tradeoff in multiagent reinforcement learning, applied to UAVassisted 6G network deployment. We consider a cooperative scenario where ten intelligent UAVs autonomously coordinate to maximize signal coverage and support efficient network expansion under partial observability and dynamic conditions. The proposed approach integrates classical MARL algorithm",
+      "link": "https://arxiv.org/abs/2512.20624",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-25"
+      "date": "2025-12-26"
     },
     {
-      "title": "MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization",
-      "title_zh": "MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization",
-      "description": "arXiv:2512.20135v2 Announce Type: new \nAbstract: Molecular editing and optimization are multi-step problems that require iteratively improving properties while keeping molecules chemically valid and structurally similar. We frame both tasks as sequential, tool-guided decisions and introduce MolAct, an agentic reinforcement learning framework that employs a two-stage training paradigm: first building editing capability, then optimizing properties while reusing the learned editing behaviors. To th",
-      "link": "https://arxiv.org/abs/2512.20135",
+      "title": "Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)",
+      "title_zh": "Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)",
+      "description": "arXiv:2512.20628v1 Announce Type: new \nAbstract: This volume presents the proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025), held in Nagaoka, Japan, on December 3-5, 2025. The conference, organized in cooperation with the IEICE Proceedings Series, provides a multidisciplinary forum for researchers in artificial intelligence, knowledge engineering, human-computer interaction, and creativity support systems. The proceedings inclu",
+      "link": "https://arxiv.org/abs/2512.20628",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-25"
+      "date": "2025-12-26"
     },
     {
-      "title": "Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches",
-      "title_zh": "Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches",
-      "description": "arXiv:2512.20082v2 Announce Type: new \nAbstract: Financial sentiment analysis plays a crucial role in informing investment decisions, assessing market risk, and predicting stock price trends. Existing works in financial sentiment analysis have not considered the impact of stock prices or market feedback on sentiment analysis. In this paper, we propose an adaptive framework that integrates large language models (LLMs) with real-world stock market feedback to improve sentiment classification in th",
-      "link": "https://arxiv.org/abs/2512.20082",
+      "title": "Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning",
+      "title_zh": "Reasoning Relay: Evaluating Stability and Interchangeability of Large Language Models in Mathematical Reasoning",
+      "description": "arXiv:2512.20647v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) prompting has significantly advanced the reasoning capabilities of large language models (LLMs). While prior work focuses on improving model performance through internal reasoning strategies, little is known about the interchangeability of reasoning across different models. In this work, we explore whether a partially completed reasoning chain from one model can be reliably continued by another model, either within the same ",
+      "link": "https://arxiv.org/abs/2512.20647",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-25"
-    },
-    {
-      "title": "Discovering Lie Groups with Flow Matching",
-      "title_zh": "Discovering Lie Groups with Flow Matching",
-      "description": "arXiv:2512.20043v1 Announce Type: new \nAbstract: Symmetry is fundamental to understanding physical systems, and at the same time, can improve performance and sample efficiency in machine learning. Both pursuits require knowledge of the underlying symmetries in data. To address this, we propose learning symmetries directly from data via flow matching on Lie groups. We formulate symmetry discovery as learning a distribution over a larger hypothesis group, such that the learned distribution matches",
-      "link": "https://arxiv.org/abs/2512.20043",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-25"
-    },
-    {
-      "title": "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test",
-      "title_zh": "S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test",
-      "description": "arXiv:2512.19992v1 Announce Type: new \nAbstract: The integration of embodied agents into human environments demands embodied social intelligence: reasoning over both social norms and physical constraints. However, existing evaluations fail to address this integration, as they are limited to either disembodied social reasoning (e.g., in text) or socially-agnostic physical tasks. Both approaches fail to assess an agent's ability to integrate and trade off both physical and social constraints withi",
-      "link": "https://arxiv.org/abs/2512.19992",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-25"
+      "date": "2025-12-26"
     }
   ]
 }
