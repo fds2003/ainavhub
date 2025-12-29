@@ -10,6 +10,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning",
+      "title_zh": "Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning",
+      "description": "arXiv:2512.21699v1 Announce Type: new \nAbstract: Agentic AI represents a major shift in how autonomous systems reason, plan, and execute multi-step tasks through the coordination of Large Language Models (LLMs), Vision Language Models (VLMs), tools, and external services. While these systems enable powerful new capabilities, increasing autonomy introduces critical challenges related to explainability, accountability, robustness, and governance, especially when agent outputs influence downstream ",
+      "link": "https://arxiv.org/abs/2512.21699",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design",
+      "title_zh": "AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design",
+      "description": "arXiv:2512.21613v1 Announce Type: new \nAbstract: In this paper, we propose AMS-IO-Agent, a domain-specialized LLM-based agent for structure-aware input/output (I/O) subsystem generation in analog and mixed-signal (AMS) integrated circuits (ICs). The central contribution of this work is a framework that connects natural language design intent with industrial-level AMS IC design deliverables. AMS-IO-Agent integrates two key capabilities: (1) a structured domain knowledge base that captures reusabl",
+      "link": "https://arxiv.org/abs/2512.21613",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
+    },
+    {
+      "title": "Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing",
+      "title_zh": "Multiple-play Stochastic Bandits with Prioritized Arm Capacity Sharing",
+      "description": "arXiv:2512.21626v1 Announce Type: new \nAbstract: This paper proposes a variant of multiple-play stochastic bandits tailored to resource allocation problems arising from LLM applications, edge intelligence, etc. The model is composed of $M$ arms and $K$ plays. Each arm has a stochastic number of capacities, and each unit of capacity is associated with a reward function. Each play is associated with a priority weight. When multiple plays compete for the arm capacity, the arm capacity is allocated ",
+      "link": "https://arxiv.org/abs/2512.21626",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
+    },
+    {
+      "title": "NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent",
+      "title_zh": "NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent",
+      "description": "arXiv:2512.21578v1 Announce Type: new \nAbstract: We present the development and optimization of PayPal's Commerce Agent, powered by NEMO-4-PAYPAL, a multi-agent system designed to revolutionize agentic commerce on the PayPal platform. Through our strategic partnership with NVIDIA, we leveraged the NeMo Framework for LLM model fine-tuning to enhance agent performance. Specifically, we optimized the Search and Discovery agent by replacing our base model with a fine-tuned Nemotron small language mo",
+      "link": "https://arxiv.org/abs/2512.21578",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
+    },
+    {
+      "title": "From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration",
+      "title_zh": "From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration",
+      "description": "arXiv:2512.21360v1 Announce Type: new \nAbstract: Background: The House-Tree-Person (HTP) drawing test, introduced by John Buck in 1948, remains a widely used projective technique in clinical psychology. However, it has long faced challenges such as heterogeneous scoring standards, reliance on examiners subjective experience, and a lack of a unified quantitative coding system.\n  Results: Quantitative experiments showed that the mean semantic similarity between Multimodal Large Language Model (MLL",
+      "link": "https://arxiv.org/abs/2512.21360",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
+    },
+    {
+      "title": "A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning",
+      "title_zh": "A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning",
+      "description": "arXiv:2512.21583v1 Announce Type: new \nAbstract: With the rapid growth of large language models (LLMs) and vision-language models (VLMs) in medicine, simply integrating clinical text and medical imaging does not guarantee reliable reasoning. Existing multimodal models often produce hallucinations or inconsistent chains of thought, limiting clinical trust. We propose a diagnostic framework built upon LLaVA that combines vision-language alignment with logic-regularized reasoning. The system includ",
+      "link": "https://arxiv.org/abs/2512.21583",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
+    },
+    {
+      "title": "Democratizing Drug Discovery with an Orchestrated, Knowledge-Driven Multi-Agent Team for User-Guided Therapeutic Design",
+      "title_zh": "Democratizing Drug Discovery with an Orchestrated, Knowledge-Driven Multi-Agent Team for User-Guided Therapeutic Design",
+      "description": "arXiv:2512.21623v1 Announce Type: new \nAbstract: Therapeutic discovery remains a formidable challenge, impeded by the fragmentation of specialized domains and the execution gap between computational design and physiological validation. Although generative AI offers promise, current models often function as passive assistants rather than as autonomous executors. Here, we introduce OrchestRA, a human-in-the-loop multi-agent platform that unifies biology, chemistry, and pharmacology into an autonom",
+      "link": "https://arxiv.org/abs/2512.21623",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
+    },
+    {
+      "title": "LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis",
+      "title_zh": "LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis",
+      "description": "arXiv:2512.21482v1 Announce Type: new \nAbstract: Sophisticated text-centric forgeries, fueled by rapid AIGC advancements, pose a significant threat to societal security and information authenticity. Current methods for text-centric forgery analysis are often limited to coarse-grained visual analysis and lack the capacity for sophisticated reasoning. Moreover, they typically treat detection, grounding, and explanation as discrete sub-tasks, overlooking their intrinsic relationships for holistic p",
+      "link": "https://arxiv.org/abs/2512.21482",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2025-12-29"
     }
   ]
 }
