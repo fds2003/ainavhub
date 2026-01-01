@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems",
-      "title_zh": "With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems",
-      "description": "arXiv:2512.22211v1 Announce Type: new \nAbstract: Agentic AI systems present both significant opportunities and novel risks due to their capacity for autonomous action, encompassing tasks such as code execution, internet interaction, and file modification. This poses considerable challenges for effective organizational governance, particularly in comprehensively identifying, assessing, and mitigating diverse and evolving risks. To tackle this, we introduce the Agentic Risk \\& Capability (ARC) Fra",
-      "link": "https://arxiv.org/abs/2512.22211",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-31"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -17,24 +8,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "HalluMat: Detecting Hallucinations in LLM-Generated Materials Science Content Through Multi-Stage Verification",
-      "title_zh": "HalluMat: Detecting Hallucinations in LLM-Generated Materials Science Content Through Multi-Stage Verification",
-      "description": "arXiv:2512.22396v1 Announce Type: new \nAbstract: Artificial Intelligence (AI), particularly Large Language Models (LLMs), is transforming scientific discovery, enabling rapid knowledge generation and hypothesis formulation. However, a critical challenge is hallucination, where LLMs generate factually incorrect or misleading information, compromising research integrity. To address this, we introduce HalluMatData, a benchmark dataset for evaluating hallucination detection methods, factual consiste",
-      "link": "https://arxiv.org/abs/2512.22396",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-31"
-    },
-    {
-      "title": "We are not able to identify AI-generated images",
-      "title_zh": "We are not able to identify AI-generated images",
-      "description": "arXiv:2512.22236v1 Announce Type: new \nAbstract: AI-generated images are now pervasive online, yet many people believe they can easily tell them apart from real photographs. We test this assumption through an interactive web experiment where participants classify 20 images as real or AI-generated. Our dataset contains 120 difficult cases: real images sampled from CC12M, and carefully curated AI-generated counterparts produced with MidJourney. In total, 165 users completed 233 sessions. Their ave",
-      "link": "https://arxiv.org/abs/2512.22236",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2025-12-31"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -73,6 +46,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution",
+      "title_zh": "CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution",
+      "description": "arXiv:2512.23880v1 Announce Type: new \nAbstract: Large language model (LLM) agents currently depend on predefined tools or brittle tool generation, constraining their capability and adaptability to complex scientific tasks. We introduce CASCADE, a self-evolving agentic framework representing an early instantiation of the transition from \"LLM + tool use\" to \"LLM + skill acquisition\". CASCADE enables agents to master complex external tools and codify knowledge through two meta-skills: continuous l",
+      "link": "https://arxiv.org/abs/2512.23880",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-01"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -100,49 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh",
-      "title_zh": "Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh",
-      "description": "arXiv:2512.22210v1 Announce Type: new \nAbstract: Post-disaster aid allocation in developing nations often suffers from systematic biases that disadvantage vulnerable regions, perpetuating historical inequities. This paper presents a fairness-aware artificial intelligence framework for prioritizing post-flood aid distribution in Bangladesh, a country highly susceptible to recurring flood disasters. Using real data from the 2022 Bangladesh floods that affected 7.2 million people and caused 405.5 m",
-      "link": "https://arxiv.org/abs/2512.22210",
+      "title": "ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment",
+      "title_zh": "ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment",
+      "description": "arXiv:2512.24040v1 Announce Type: new \nAbstract: Automatic Prompt Optimization (APO) has emerged as a critical technique for enhancing Large Language Model (LLM) performance, yet current state-of-the-art methods typically rely on large, labeled gold-standard development sets to compute fitness scores for evolutionary or Reinforcement Learning (RL) approaches. In real-world software engineering, however, such curated datasets are rarely available during the initial cold start of agent development",
+      "link": "https://arxiv.org/abs/2512.24040",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-31"
+      "date": "2026-01-01"
     },
     {
-      "title": "Emergent Persuasion: Will LLMs Persuade Without Being Prompted?",
-      "title_zh": "Emergent Persuasion: Will LLMs Persuade Without Being Prompted?",
-      "description": "arXiv:2512.22201v1 Announce Type: new \nAbstract: With the wide-scale adoption of conversational AI systems, AI are now able to exert unprecedented influence on human opinion and beliefs. Recent work has shown that many Large Language Models (LLMs) comply with requests to persuade users into harmful beliefs or actions when prompted and that model persuasiveness increases with model scale. However, this prior work looked at persuasion from the threat model of $\\textit{misuse}$ (i.e., a bad actor a",
-      "link": "https://arxiv.org/abs/2512.22201",
+      "title": "SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents",
+      "title_zh": "SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents",
+      "description": "arXiv:2512.24189v1 Announce Type: new \nAbstract: We introduce SCP: the Science Context Protocol, an open-source standard designed to accelerate discovery by enabling a global network of autonomous scientific agents. SCP is built on two foundational pillars: (1) Unified Resource Integration: At its core, SCP provides a universal specification for describing and invoking scientific resources, spanning software tools, models, datasets, and physical instruments. This protocol-level standardization e",
+      "link": "https://arxiv.org/abs/2512.24189",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-31"
+      "date": "2026-01-01"
     },
     {
-      "title": "SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence",
-      "title_zh": "SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence",
-      "description": "arXiv:2512.22334v1 Announce Type: new \nAbstract: We introduce SciEvalKit, a unified benchmarking toolkit designed to evaluate AI models for science across a broad range of scientific disciplines and task capabilities. Unlike general-purpose evaluation platforms, SciEvalKit focuses on the core competencies of scientific intelligence, including Scientific Multimodal Perception, Scientific Multimodal Reasoning, Scientific Multimodal Understanding, Scientific Symbolic Reasoning, Scientific Code Gene",
-      "link": "https://arxiv.org/abs/2512.22334",
+      "title": "A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming",
+      "title_zh": "A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming",
+      "description": "arXiv:2512.23932v1 Announce Type: new \nAbstract: Accurate disease prediction is vital for timely intervention, effective treatment, and reducing medical complications. While symbolic AI has been applied in healthcare, its adoption remains limited due to the effort required for constructing high-quality knowledge bases. This work introduces McCoy, a framework that combines Large Language Models (LLMs) with Answer Set Programming (ASP) to overcome this barrier. McCoy orchestrates an LLM to transla",
+      "link": "https://arxiv.org/abs/2512.23932",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-31"
+      "date": "2026-01-01"
     },
     {
-      "title": "Monadic Context Engineering",
-      "title_zh": "Monadic Context Engineering",
-      "description": "arXiv:2512.22431v1 Announce Type: new \nAbstract: The proliferation of Large Language Models (LLMs) has catalyzed a shift towards autonomous agents capable of complex reasoning and tool use. However, current agent architectures are frequently constructed using imperative, ad hoc patterns. This results in brittle systems plagued by difficulties in state management, error handling, and concurrency. This paper introduces Monadic Context Engineering (MCE), a novel architectural paradigm leveraging th",
-      "link": "https://arxiv.org/abs/2512.22431",
+      "title": "CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation",
+      "title_zh": "CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation",
+      "description": "arXiv:2512.24113v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated a remarkable capacity in understanding user preferences for recommendation systems. However, they are constrained by several critical challenges, including their inherent \"Black-Box\" characteristics, susceptibility to knowledge hallucination, and limited online learning capacity. These factors compromise their trustworthiness and adaptability. Conversely, cognitive architectures such as Soar offer str",
+      "link": "https://arxiv.org/abs/2512.24113",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-31"
+      "date": "2026-01-01"
     },
     {
-      "title": "GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks",
-      "title_zh": "GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks",
-      "description": "arXiv:2512.22207v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) are proficient in perception and instruction-following, but they still struggle with spatial reasoning: the ability to mentally track and manipulate objects across multiple views and over time. Spatial reasoning is a key component of human intelligence, but most existing benchmarks focus on static images or final outputs, failing to account for the sequential and viewpoint-dependent nature of this skill. To",
-      "link": "https://arxiv.org/abs/2512.22207",
+      "title": "Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem",
+      "title_zh": "Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem",
+      "description": "arXiv:2512.24251v1 Announce Type: new \nAbstract: The Fleet Size and Mix Vehicle Routing Problem (FSMVRP) is a prominent variant of the Vehicle Routing Problem (VRP), extensively studied in operations research and computational science. FSMVRP requires simultaneous decisions on fleet composition and routing, making it highly applicable to real-world scenarios such as short-term vehicle rental and on-demand logistics. However, these requirements also increase the complexity of FSMVRP, posing signi",
+      "link": "https://arxiv.org/abs/2512.24251",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2025-12-31"
+      "date": "2026-01-01"
+    },
+    {
+      "title": "SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing",
+      "title_zh": "SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing",
+      "description": "arXiv:2512.24008v1 Announce Type: new \nAbstract: Personalized search demands the ability to model users' evolving, multi-dimensional information needs; a challenge for systems constrained by static profiles or monolithic retrieval pipelines. We present SPARK (Search Personalization via Agent-Driven Retrieval and Knowledge-sharing), a framework in which coordinated persona-based large language model (LLM) agents deliver task-specific retrieval and emergent personalization. SPARK formalizes a pers",
+      "link": "https://arxiv.org/abs/2512.24008",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-01"
+    },
+    {
+      "title": "Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks",
+      "title_zh": "Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks",
+      "description": "arXiv:2512.24156v1 Announce Type: new \nAbstract: We present a training-free graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3 benchmark. ARC-AGI-3 comprises game-like tasks where agents must infer task mechanics through limited interactions, and adapt to increasing complexity as levels progress. Success requires forming hypotheses, testing them, and tracking discovered mechanics. The benchmark has revealed that state-of-the-art LLMs are currently incapable of reliably",
+      "link": "https://arxiv.org/abs/2512.24156",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-01"
     }
   ]
 }
