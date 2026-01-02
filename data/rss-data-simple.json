@@ -46,15 +46,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution",
-      "title_zh": "CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution",
-      "description": "arXiv:2512.23880v1 Announce Type: new \nAbstract: Large language model (LLM) agents currently depend on predefined tools or brittle tool generation, constraining their capability and adaptability to complex scientific tasks. We introduce CASCADE, a self-evolving agentic framework representing an early instantiation of the transition from \"LLM + tool use\" to \"LLM + skill acquisition\". CASCADE enables agents to master complex external tools and codify knowledge through two meta-skills: continuous l",
-      "link": "https://arxiv.org/abs/2512.23880",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -80,69 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment",
-      "title_zh": "ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment",
-      "description": "arXiv:2512.24040v1 Announce Type: new \nAbstract: Automatic Prompt Optimization (APO) has emerged as a critical technique for enhancing Large Language Model (LLM) performance, yet current state-of-the-art methods typically rely on large, labeled gold-standard development sets to compute fitness scores for evolutionary or Reinforcement Learning (RL) approaches. In real-world software engineering, however, such curated datasets are rarely available during the initial cold start of agent development",
-      "link": "https://arxiv.org/abs/2512.24040",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
-    },
-    {
-      "title": "SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents",
-      "title_zh": "SCP: Accelerating Discovery with a Global Web of Autonomous Scientific Agents",
-      "description": "arXiv:2512.24189v1 Announce Type: new \nAbstract: We introduce SCP: the Science Context Protocol, an open-source standard designed to accelerate discovery by enabling a global network of autonomous scientific agents. SCP is built on two foundational pillars: (1) Unified Resource Integration: At its core, SCP provides a universal specification for describing and invoking scientific resources, spanning software tools, models, datasets, and physical instruments. This protocol-level standardization e",
-      "link": "https://arxiv.org/abs/2512.24189",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
-    },
-    {
-      "title": "A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming",
-      "title_zh": "A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming",
-      "description": "arXiv:2512.23932v1 Announce Type: new \nAbstract: Accurate disease prediction is vital for timely intervention, effective treatment, and reducing medical complications. While symbolic AI has been applied in healthcare, its adoption remains limited due to the effort required for constructing high-quality knowledge bases. This work introduces McCoy, a framework that combines Large Language Models (LLMs) with Answer Set Programming (ASP) to overcome this barrier. McCoy orchestrates an LLM to transla",
-      "link": "https://arxiv.org/abs/2512.23932",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
-    },
-    {
-      "title": "CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation",
-      "title_zh": "CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation",
-      "description": "arXiv:2512.24113v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated a remarkable capacity in understanding user preferences for recommendation systems. However, they are constrained by several critical challenges, including their inherent \"Black-Box\" characteristics, susceptibility to knowledge hallucination, and limited online learning capacity. These factors compromise their trustworthiness and adaptability. Conversely, cognitive architectures such as Soar offer str",
-      "link": "https://arxiv.org/abs/2512.24113",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
-    },
-    {
-      "title": "Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem",
-      "title_zh": "Deep Reinforcement Learning for Solving the Fleet Size and Mix Vehicle Routing Problem",
-      "description": "arXiv:2512.24251v1 Announce Type: new \nAbstract: The Fleet Size and Mix Vehicle Routing Problem (FSMVRP) is a prominent variant of the Vehicle Routing Problem (VRP), extensively studied in operations research and computational science. FSMVRP requires simultaneous decisions on fleet composition and routing, making it highly applicable to real-world scenarios such as short-term vehicle rental and on-demand logistics. However, these requirements also increase the complexity of FSMVRP, posing signi",
-      "link": "https://arxiv.org/abs/2512.24251",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
-    },
-    {
-      "title": "SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing",
-      "title_zh": "SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing",
-      "description": "arXiv:2512.24008v1 Announce Type: new \nAbstract: Personalized search demands the ability to model users' evolving, multi-dimensional information needs; a challenge for systems constrained by static profiles or monolithic retrieval pipelines. We present SPARK (Search Personalization via Agent-Driven Retrieval and Knowledge-sharing), a framework in which coordinated persona-based large language model (LLM) agents deliver task-specific retrieval and emergent personalization. SPARK formalizes a pers",
-      "link": "https://arxiv.org/abs/2512.24008",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
-    },
-    {
-      "title": "Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks",
-      "title_zh": "Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks",
-      "description": "arXiv:2512.24156v1 Announce Type: new \nAbstract: We present a training-free graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3 benchmark. ARC-AGI-3 comprises game-like tasks where agents must infer task mechanics through limited interactions, and adapt to increasing complexity as levels progress. Success requires forming hypotheses, testing them, and tracking discovered mechanics. The benchmark has revealed that state-of-the-art LLMs are currently incapable of reliably",
-      "link": "https://arxiv.org/abs/2512.24156",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-01"
     }
   ]
 }
