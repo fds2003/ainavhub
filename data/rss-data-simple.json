@@ -28,6 +28,24 @@
       "date": "2021-10-21"
     },
     {
+      "title": "The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs",
+      "title_zh": "The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs",
+      "description": "arXiv:2601.00097v1 Announce Type: new \nAbstract: We design a large-language-model (LLM) agent that extracts causal feedback fuzzy cognitive maps (FCMs) from raw text. The causal learning or extraction process is agentic both because of the LLM's semi-autonomy and because ultimately the FCM dynamical system's equilibria drive the LLM agents to fetch and process causal text. The fetched text can in principle modify the adaptive FCM causal structure and so modify the source of its quasi-autonomy--i",
+      "link": "https://arxiv.org/abs/2601.00097",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
+    },
+    {
+      "title": "From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers",
+      "title_zh": "From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers",
+      "description": "arXiv:2601.00029v1 Announce Type: new \nAbstract: This study investigates how generative AI systems interpret the architectural intelligence embedded in vernacular form. Using the Iranian pigeon tower as a case study, the research tests three diffusion models, Midjourney v6, DALL-E 3, and DreamStudio based on Stable Diffusion XL (SDXL), across three prompt stages: referential, adaptive, and speculative. A five-criteria evaluation framework assesses how each system reconstructs typology, materiali",
+      "link": "https://arxiv.org/abs/2601.00029",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -71,6 +89,60 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study",
+      "title_zh": "Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study",
+      "description": "arXiv:2601.00004v1 Announce Type: new \nAbstract: Depression is a major contributor to the mental-health burden in Nigeria, yet screening coverage remains limited due to low access to clinicians, stigma, and language barriers. Traditional tools like the Patient Health Questionnaire-9 (PHQ-9) were validated in high-income countries but may be linguistically or culturally inaccessible for low- and middle-income countries and communities such as Nigeria where people communicate in Nigerian Pidgin an",
+      "link": "https://arxiv.org/abs/2601.00004",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
+    },
+    {
+      "title": "Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control",
+      "title_zh": "Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control",
+      "description": "arXiv:2601.00121v1 Announce Type: new \nAbstract: Inventory management remains a challenge for many small and medium-sized businesses that lack the expertise to deploy advanced optimization methods. This paper investigates whether Large Language Models (LLMs) can help bridge this gap. We show that employing LLMs as direct, end-to-end solvers incurs a significant \"hallucination tax\": a performance gap arising from the model's inability to perform grounded stochastic reasoning. To address this, we ",
+      "link": "https://arxiv.org/abs/2601.00121",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
+    },
+    {
+      "title": "A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system",
+      "title_zh": "A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system",
+      "description": "arXiv:2601.00023v1 Announce Type: new \nAbstract: Efficient workload assignment to the workforce is critical in last-mile package delivery systems. In this context, traditional methods of assigning package deliveries to workers based on geographical proximity can be inefficient and surely guide to an unbalanced workload distribution among delivery workers. In this paper, we look at the problem of operational human resources workload balancing in last-mile urban package delivery systems. The idea ",
+      "link": "https://arxiv.org/abs/2601.00023",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
+    },
+    {
+      "title": "Toward a Physical Theory of Intelligence",
+      "title_zh": "Toward a Physical Theory of Intelligence",
+      "description": "arXiv:2601.00021v1 Announce Type: new \nAbstract: We present a physical theory of intelligence grounded in irreversible information processing in systems constrained by conservation laws. An intelligent system is modelled as a coupled agent-environment process whose evolution transforms information into goal-directed work. To connect information to physical state, we introduce the Conservation-Congruent Encoding (CCE) framework, in which encodings correspond to metastable basins of attraction who",
+      "link": "https://arxiv.org/abs/2601.00021",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
+    },
+    {
+      "title": "Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach",
+      "title_zh": "Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach",
+      "description": "arXiv:2601.00024v1 Announce Type: new \nAbstract: The 13-card variant of Classic Indian Rummy is a sequential game of incomplete information that requires probabilistic reasoning and combinatorial decision-making. This paper proposes a rule-based framework for strategic play, driven by a new hand-evaluation metric termed MinDist. The metric modifies the MinScore metric by quantifying the edit distance between a hand and the nearest valid configuration, thereby capturing structural proximity to co",
+      "link": "https://arxiv.org/abs/2601.00024",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
+    },
+    {
+      "title": "Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models",
+      "title_zh": "Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models",
+      "description": "arXiv:2601.00003v1 Announce Type: new \nAbstract: Large language models (LLMs) typically enhance their performance through either the retrieval of semantically similar information or the improvement of their reasoning capabilities. However, a significant challenge remains in effectively integrating both retrieval and reasoning strategies to optimize LLM performance. In this paper, we introduce a reasoning-aware knowledge retrieval method that enriches LLMs with information aligned to the logical ",
+      "link": "https://arxiv.org/abs/2601.00003",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-05"
     }
   ]
 }
