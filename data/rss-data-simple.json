@@ -34,7 +34,7 @@
       "link": "https://arxiv.org/abs/2601.00818",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     },
     {
       "title": "Can We Trust AI Explanations? Evidence of Systematic Underreporting in Chain-of-Thought Reasoning",
@@ -43,7 +43,7 @@
       "link": "https://arxiv.org/abs/2601.00830",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -97,7 +97,7 @@
       "link": "https://arxiv.org/abs/2601.00843",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     },
     {
       "title": "Temporal Attack Pattern Detection in Multi-Agent AI Workflows: An Open Framework for Training Trace-Based Security Models",
@@ -106,7 +106,7 @@
       "link": "https://arxiv.org/abs/2601.00848",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     },
     {
       "title": "Decomposing LLM Self-Correction: The Accuracy-Correction Paradox and Error Depth Hypothesis",
@@ -115,7 +115,7 @@
       "link": "https://arxiv.org/abs/2601.00828",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     },
     {
       "title": "MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback",
@@ -124,16 +124,16 @@
       "link": "https://arxiv.org/abs/2601.00816",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     },
     {
-      "title": "CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations",
-      "title_zh": "CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations",
-      "description": "arXiv:2601.00821v1 Announce Type: new \nAbstract: Large language models face a fundamental tension between context window limits and information fidelity in long conversations. Existing approaches--truncation and summarization--either discard early information or lose nuanced details. We introduce CogCanvas, a training-free framework that extracts verbatim-grounded cognitive artifacts (decisions, facts, reminders) from conversation turns and organizes them into a temporal-aware graph for compress",
+      "title": "CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations",
+      "title_zh": "CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations",
+      "description": "arXiv:2601.00821v2 Announce Type: new \nAbstract: Conversation summarization loses nuanced details: when asked about coding preferences after 40 turns, summarization recalls \"use type hints\" but drops the critical constraint \"everywhere\" (19.0% exact match vs. 93.0% for our approach).\n  We present CogCanvas, a training-free framework inspired by how teams use whiteboards to anchor shared memory. Rather than compressing conversation history, CogCanvas extracts verbatim-grounded artifacts (decision",
       "link": "https://arxiv.org/abs/2601.00821",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     },
     {
       "title": "Enhancing Temporal Awareness in LLMs for Temporal Point Processes",
@@ -142,7 +142,7 @@
       "link": "https://arxiv.org/abs/2601.00845",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-06"
+      "date": "2026-01-07"
     }
   ]
 }
