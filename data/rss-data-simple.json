@@ -46,24 +46,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "Orchestral AI: A Framework for Agent Orchestration",
-      "title_zh": "Orchestral AI: A Framework for Agent Orchestration",
-      "description": "arXiv:2601.02577v1 Announce Type: new \nAbstract: The rapid proliferation of LLM agent frameworks has forced developers to choose between vendor lock-in through provider-specific SDKs and complex multi-package ecosystems that obscure control flow and hinder reproducibility. Integrating tool calling across multiple LLM providers remains a core engineering challenge due to fragmented APIs, incompatible message formats, and inconsistent streaming and tool-calling behavior, making it difficult to bui",
-      "link": "https://arxiv.org/abs/2601.02577",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-07"
-    },
-    {
-      "title": "Time-Scaling Is What Agents Need Now",
-      "title_zh": "Time-Scaling Is What Agents Need Now",
-      "description": "arXiv:2601.02714v1 Announce Type: new \nAbstract: Early artificial intelligence paradigms exhibited separated cognitive functions: Neural Networks focused on \"perception-representation,\" Reinforcement Learning on \"decision-making-behavior,\" and Symbolic AI on \"knowledge-reasoning.\" With Transformer-based large models and world models, these paradigms are converging into cognitive agents with closed-loop \"perception-decision-action\" capabilities.\n  Humans solve complex problems under limited cogni",
-      "link": "https://arxiv.org/abs/2601.02714",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-07"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -91,58 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "An Empirical Study of On-Device Translation for Real-Time Live-Stream Chat on Mobile Devices",
-      "title_zh": "An Empirical Study of On-Device Translation for Real-Time Live-Stream Chat on Mobile Devices",
-      "description": "arXiv:2601.02641v1 Announce Type: new \nAbstract: Despite its efficiency, there has been little research on the practical aspects required for real-world deployment of on-device AI models, such as the device's CPU utilization and thermal conditions. In this paper, through extensive experiments, we investigate two key issues that must be addressed to deploy on-device models in real-world services: (i) the selection of on-device models and the resource consumption of each model, and (ii) the capabi",
-      "link": "https://arxiv.org/abs/2601.02641",
+      "title": "CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision Support",
+      "title_zh": "CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision Support",
+      "description": "arXiv:2601.03475v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) provide evidence-based recommendations for patient care; however, integrating them into Artificial Intelligence (AI) remains challenging. Previous approaches, such as rule-based systems, face significant limitations, including poor interpretability, inconsistent adherence to guidelines, and narrow domain applicability. To address this, we develop and validate CPGPrompt, an auto-prompting system that converts nar",
+      "link": "https://arxiv.org/abs/2601.03475",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-07"
+      "date": "2026-01-08"
     },
     {
-      "title": "Textual Explanations and Their Evaluations for Reinforcement Learning Policy",
-      "title_zh": "Textual Explanations and Their Evaluations for Reinforcement Learning Policy",
-      "description": "arXiv:2601.02514v1 Announce Type: new \nAbstract: Understanding a Reinforcement Learning (RL) policy is crucial for ensuring that autonomous agents behave according to human expectations. This goal can be achieved using Explainable Reinforcement Learning (XRL) techniques. Although textual explanations are easily understood by humans, ensuring their correctness remains a challenge, and evaluations in state-of-the-art remain limited. We present a novel XRL framework for generating textual explanati",
-      "link": "https://arxiv.org/abs/2601.02514",
+      "title": "Personalization of Large Foundation Models for Health Interventions",
+      "title_zh": "Personalization of Large Foundation Models for Health Interventions",
+      "description": "arXiv:2601.03482v1 Announce Type: new \nAbstract: Large foundation models (LFMs) transform healthcare AI in prevention, diagnostics, and treatment. However, whether LFMs can provide truly personalized treatment recommendations remains an open question. Recent research has revealed multiple challenges for personalization, including the fundamental generalizability paradox: models achieving high accuracy in one clinical study perform at chance level in others, demonstrating that personalization and",
+      "link": "https://arxiv.org/abs/2601.03482",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-07"
+      "date": "2026-01-08"
     },
     {
-      "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
-      "title_zh": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
-      "description": "arXiv:2601.02553v1 Announce Type: new \nAbstract: To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic ",
-      "link": "https://arxiv.org/abs/2601.02553",
+      "title": "Mastering the Game of Go with Self-play Experience Replay",
+      "title_zh": "Mastering the Game of Go with Self-play Experience Replay",
+      "description": "arXiv:2601.03306v1 Announce Type: new \nAbstract: The game of Go has long served as a benchmark for artificial intelligence, demanding sophisticated strategic reasoning and long-term planning. Previous approaches such as AlphaGo and its successors, have predominantly relied on model-based Monte-Carlo Tree Search (MCTS). In this work, we present QZero, a novel model-free reinforcement learning algorithm that forgoes search during training and learns a Nash equilibrium policy through self-play and ",
+      "link": "https://arxiv.org/abs/2601.03306",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-07"
+      "date": "2026-01-08"
     },
     {
-      "title": "Learning from Prompt itself: the Hierarchical Attribution Prompt Optimization",
-      "title_zh": "Learning from Prompt itself: the Hierarchical Attribution Prompt Optimization",
-      "description": "arXiv:2601.02683v1 Announce Type: new \nAbstract: Optimization is fundamental across numerous disciplines, typically following an iterative process of refining an initial solution to enhance performance. This principle is equally critical in prompt engineering, where designing effective prompts for large language models constitutes a complex optimization challenge. A structured optimization approach requires automated or semi-automated procedures to develop improved prompts, thereby reducing manu",
-      "link": "https://arxiv.org/abs/2601.02683",
+      "title": "Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms",
+      "title_zh": "Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms",
+      "description": "arXiv:2601.03470v1 Announce Type: new \nAbstract: We propose a maturity-based framework for certifying embodied AI systems through explicit measurement mechanisms. We argue that certifiable embodied AI requires structured assessment frameworks, quantitative scoring mechanisms, and methods for navigating multi-objective trade-offs inherent in trustworthiness evaluation. We demonstrate this approach using uncertainty quantification as an exemplar measurement mechanism and illustrate feasibility thr",
+      "link": "https://arxiv.org/abs/2601.03470",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-07"
+      "date": "2026-01-08"
     },
     {
-      "title": "Inferring Causal Graph Temporal Logic Formulas to Expedite Reinforcement Learning in Temporally Extended Tasks",
-      "title_zh": "Inferring Causal Graph Temporal Logic Formulas to Expedite Reinforcement Learning in Temporally Extended Tasks",
-      "description": "arXiv:2601.02666v1 Announce Type: new \nAbstract: Decision-making tasks often unfold on graphs with spatial-temporal dynamics. Black-box reinforcement learning often overlooks how local changes spread through network structure, limiting sample efficiency and interpretability. We present GTL-CIRL, a closed-loop framework that simultaneously learns policies and mines Causal Graph Temporal Logic (Causal GTL) specifications. The method shapes rewards with robustness, collects counterexamples when eff",
-      "link": "https://arxiv.org/abs/2601.02666",
+      "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+      "title_zh": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+      "description": "arXiv:2601.03335v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being used to evolve solutions to problems in many domains, in a process inspired by biological evolution. However, unlike biological evolution, most LLM-evolution frameworks are formulated as static optimization problems, overlooking the open-ended adversarial dynamics that characterize real-world evolutionary processes. Here, we study Digital Red Queen (DRQ), a simple self-play algorithm that embrace",
+      "link": "https://arxiv.org/abs/2601.03335",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-07"
+      "date": "2026-01-08"
     },
     {
-      "title": "AWARE-US: Benchmark for Preference-Aware Resolution in Tool-Calling Agents",
-      "title_zh": "AWARE-US: Benchmark for Preference-Aware Resolution in Tool-Calling Agents",
-      "description": "arXiv:2601.02643v1 Announce Type: new \nAbstract: Tool-calling conversational agents querying structured databases often face two linked failures: underspecification (missing constraints needed to run a precise query) and infeasibility (the fully specified query returns an empty set because no item satisfies all constraints). Existing work often responds with \"no results\" or relaxes constraints using ad hoc rules, which can violate user intent by discarding requirements the user cares about most.",
-      "link": "https://arxiv.org/abs/2601.02643",
+      "title": "Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization",
+      "title_zh": "Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization",
+      "description": "arXiv:2601.03359v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often generate substantively relevant content but fail to adhere to formal constraints, leading to outputs that are conceptually correct but procedurally flawed. Traditional prompt refinement approaches focus on rephrasing the description of the primary task an LLM has to perform, neglecting the granular constraints that function as acceptance criteria for its response. We propose a novel multi-agentic workflow that de",
+      "link": "https://arxiv.org/abs/2601.03359",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-07"
+      "date": "2026-01-08"
+    },
+    {
+      "title": "Exploration Through Introspection: A Self-Aware Reward Model",
+      "title_zh": "Exploration Through Introspection: A Self-Aware Reward Model",
+      "description": "arXiv:2601.03389v1 Announce Type: new \nAbstract: Understanding how artificial agents model internal mental states is central to advancing Theory of Mind in AI. Evidence points to a unified system for self- and other-awareness. We explore this self-awareness by having reinforcement learning agents infer their own internal states in gridworld environments. Specifically, we introduce an introspective exploration component that is inspired by biological pain as a learning signal by utilizing a hidde",
+      "link": "https://arxiv.org/abs/2601.03389",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-08"
+    },
+    {
+      "title": "Evolving Programmatic Skill Networks",
+      "title_zh": "Evolving Programmatic Skill Networks",
+      "description": "arXiv:2601.03509v1 Announce Type: new \nAbstract: We study continual skill acquisition in open-ended embodied environments where an agent must construct, refine, and reuse an expanding library of executable skills. We introduce the Programmatic Skill Network (PSN), a framework in which skills are executable symbolic programs forming a compositional network that evolves through experience. PSN defines three core mechanisms instantiated via large language models: (1)REFLECT for structured fault loc",
+      "link": "https://arxiv.org/abs/2601.03509",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-08"
     }
   ]
 }
