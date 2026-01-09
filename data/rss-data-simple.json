@@ -79,7 +79,7 @@
       "link": "https://arxiv.org/abs/2601.03475",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     },
     {
       "title": "Personalization of Large Foundation Models for Health Interventions",
@@ -88,7 +88,7 @@
       "link": "https://arxiv.org/abs/2601.03482",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     },
     {
       "title": "Mastering the Game of Go with Self-play Experience Replay",
@@ -97,16 +97,16 @@
       "link": "https://arxiv.org/abs/2601.03306",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     },
     {
       "title": "Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms",
       "title_zh": "Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms",
-      "description": "arXiv:2601.03470v1 Announce Type: new \nAbstract: We propose a maturity-based framework for certifying embodied AI systems through explicit measurement mechanisms. We argue that certifiable embodied AI requires structured assessment frameworks, quantitative scoring mechanisms, and methods for navigating multi-objective trade-offs inherent in trustworthiness evaluation. We demonstrate this approach using uncertainty quantification as an exemplar measurement mechanism and illustrate feasibility thr",
+      "description": "arXiv:2601.03470v2 Announce Type: new \nAbstract: We propose a maturity-based framework for certifying embodied AI systems through explicit measurement mechanisms. We argue that certifiable embodied AI requires structured assessment frameworks, quantitative scoring mechanisms, and methods for navigating multi-objective trade-offs inherent in trustworthiness evaluation. We demonstrate this approach using uncertainty quantification as an exemplar measurement mechanism and illustrate feasibility thr",
       "link": "https://arxiv.org/abs/2601.03470",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     },
     {
       "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
@@ -115,7 +115,7 @@
       "link": "https://arxiv.org/abs/2601.03335",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     },
     {
       "title": "Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization",
@@ -124,7 +124,7 @@
       "link": "https://arxiv.org/abs/2601.03359",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     },
     {
       "title": "Exploration Through Introspection: A Self-Aware Reward Model",
@@ -133,7 +133,7 @@
       "link": "https://arxiv.org/abs/2601.03389",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     },
     {
       "title": "Evolving Programmatic Skill Networks",
@@ -142,7 +142,7 @@
       "link": "https://arxiv.org/abs/2601.03509",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-08"
+      "date": "2026-01-09"
     }
   ]
 }
