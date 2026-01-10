@@ -79,91 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision Support",
-      "link": "https://arxiv.org/abs/2601.03475",
-      "description": "arXiv:2601.03475v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) provide evidence-based recommendations for patient care; however, integrating them into Artificial Intelligence (AI) remains challenging. Previous approaches, such as rule-based systems, face significant limitations, including poor interpretability, inconsistent adherence to guidelines, and narrow domain applicability. To address this, we develop and validate CPGPrompt, an auto-prompting system that converts nar",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "CPGPrompt: Translating Clinical Guidelines into LLM-Executable Decision Support"
-    },
-    {
-      "title": "Personalization of Large Foundation Models for Health Interventions",
-      "link": "https://arxiv.org/abs/2601.03482",
-      "description": "arXiv:2601.03482v1 Announce Type: new \nAbstract: Large foundation models (LFMs) transform healthcare AI in prevention, diagnostics, and treatment. However, whether LFMs can provide truly personalized treatment recommendations remains an open question. Recent research has revealed multiple challenges for personalization, including the fundamental generalizability paradox: models achieving high accuracy in one clinical study perform at chance level in others, demonstrating that personalization and",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 14.5,
-      "title_zh": "Personalization of Large Foundation Models for Health Interventions"
-    },
-    {
-      "title": "Mastering the Game of Go with Self-play Experience Replay",
-      "link": "https://arxiv.org/abs/2601.03306",
-      "description": "arXiv:2601.03306v1 Announce Type: new \nAbstract: The game of Go has long served as a benchmark for artificial intelligence, demanding sophisticated strategic reasoning and long-term planning. Previous approaches such as AlphaGo and its successors, have predominantly relied on model-based Monte-Carlo Tree Search (MCTS). In this work, we present QZero, a novel model-free reinforcement learning algorithm that forgoes search during training and learns a Nash equilibrium policy through self-play and ",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Mastering the Game of Go with Self-play Experience Replay"
-    },
-    {
-      "title": "Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms",
-      "link": "https://arxiv.org/abs/2601.03470",
-      "description": "arXiv:2601.03470v2 Announce Type: new \nAbstract: We propose a maturity-based framework for certifying embodied AI systems through explicit measurement mechanisms. We argue that certifiable embodied AI requires structured assessment frameworks, quantitative scoring mechanisms, and methods for navigating multi-objective trade-offs inherent in trustworthiness evaluation. We demonstrate this approach using uncertainty quantification as an exemplar measurement mechanism and illustrate feasibility thr",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms"
-    },
-    {
-      "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
-      "link": "https://arxiv.org/abs/2601.03335",
-      "description": "arXiv:2601.03335v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being used to evolve solutions to problems in many domains, in a process inspired by biological evolution. However, unlike biological evolution, most LLM-evolution frameworks are formulated as static optimization problems, overlooking the open-ended adversarial dynamics that characterize real-world evolutionary processes. Here, we study Digital Red Queen (DRQ), a simple self-play algorithm that embrace",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs"
-    },
-    {
-      "title": "Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization",
-      "link": "https://arxiv.org/abs/2601.03359",
-      "description": "arXiv:2601.03359v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often generate substantively relevant content but fail to adhere to formal constraints, leading to outputs that are conceptually correct but procedurally flawed. Traditional prompt refinement approaches focus on rephrasing the description of the primary task an LLM has to perform, neglecting the granular constraints that function as acceptance criteria for its response. We propose a novel multi-agentic workflow that de",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization"
-    },
-    {
-      "title": "Exploration Through Introspection: A Self-Aware Reward Model",
-      "link": "https://arxiv.org/abs/2601.03389",
-      "description": "arXiv:2601.03389v1 Announce Type: new \nAbstract: Understanding how artificial agents model internal mental states is central to advancing Theory of Mind in AI. Evidence points to a unified system for self- and other-awareness. We explore this self-awareness by having reinforcement learning agents infer their own internal states in gridworld environments. Specifically, we introduce an introspective exploration component that is inspired by biological pain as a learning signal by utilizing a hidde",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Exploration Through Introspection: A Self-Aware Reward Model"
-    },
-    {
-      "title": "Evolving Programmatic Skill Networks",
-      "link": "https://arxiv.org/abs/2601.03509",
-      "description": "arXiv:2601.03509v1 Announce Type: new \nAbstract: We study continual skill acquisition in open-ended embodied environments where an agent must construct, refine, and reuse an expanding library of executable skills. We introduce the Programmatic Skill Network (PSN), a framework in which skills are executable symbolic programs forming a compositional network that evolves through experience. PSN defines three core mechanisms instantiated via large language models: (1)REFLECT for structured fault loc",
-      "pubDate": "2026-01-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Evolving Programmatic Skill Networks"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-01-10T04:24:31.715Z",
+    "totalCount": 8,
+    "generatedAt": "2026-01-10T05:12:34.106Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 15.09375
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
