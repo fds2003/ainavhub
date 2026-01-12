@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "Conformity and Social Impact on AI Agents",
+      "link": "https://arxiv.org/abs/2601.05384",
+      "description": "arXiv:2601.05384v1 Announce Type: new \nAbstract: As AI agents increasingly operate in multi-agent environments, understanding their collective behavior becomes critical for predicting the dynamics of artificial societies. This study examines conformity, the tendency to align with group opinions under social pressure, in large multimodal language models functioning as AI agents. By adapting classic visual experiments from social psychology, we investigate how AI agents respond to group influence ",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 32,
+      "title_zh": "Conformity and Social Impact on AI Agents"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -79,11 +89,81 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Effects of personality steering on cooperative behavior in Large Language Model agents",
+      "link": "https://arxiv.org/abs/2601.05302",
+      "description": "arXiv:2601.05302v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as autonomous agents in strategic and social interactions. Although recent studies suggest that assigning personality traits to LLMs can influence their behavior, how personality steering affects cooperation under controlled conditions remains unclear. In this study, we examine the effects of personality steering on cooperative behavior in LLM agents using repeated Prisoner's Dilemma games. Based ",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "Effects of personality steering on cooperative behavior in Large Language Model agents"
+    },
+    {
+      "title": "Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring",
+      "link": "https://arxiv.org/abs/2601.05256",
+      "description": "arXiv:2601.05256v1 Announce Type: new \nAbstract: Inland water monitoring is vital for safeguarding public health and ecosystems, enabling timely interventions to mitigate risks. Existing methods often address isolated sub-problems such as cyanobacteria, chlorophyll, or other quality indicators separately. NAIAD introduces an agentic AI assistant that leverages Large Language Models (LLMs) and external analytical tools to deliver a holistic solution for inland water monitoring using Earth Observa",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 10,
+      "title_zh": "Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring"
+    },
+    {
+      "title": "Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing",
+      "link": "https://arxiv.org/abs/2601.05298",
+      "description": "arXiv:2601.05298v1 Announce Type: new \nAbstract: Additive manufacturing (AM) relies critically on understanding and extrapolating process-property relationships; however, existing data-driven approaches remain limited by fragmented knowledge representations and unreliable extrapolation under sparse data conditions. In this study, we propose an ontology-guided, equation-centric framework that tightly integrates large language models (LLMs) with an additive manufacturing mathematical knowledge gra",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing"
+    },
+    {
+      "title": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering",
+      "link": "https://arxiv.org/abs/2601.05465",
+      "description": "arXiv:2601.05465v1 Announce Type: new \nAbstract: Answering real-world open-domain multi-hop questions over massive corpora is a critical challenge in Retrieval-Augmented Generation (RAG) systems. Recent research employs reinforcement learning (RL) to end-to-end optimize the retrieval-augmented reasoning process, directly enhancing its capacity to resolve complex queries. However, reliable deployment is hindered by two obstacles. 1) Retrieval Collapse: iterative retrieval over large corpora fails",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering"
+    },
+    {
+      "title": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models",
+      "link": "https://arxiv.org/abs/2601.05376",
+      "description": "arXiv:2601.05376v1 Announce Type: new \nAbstract: Persona conditioning can be viewed as a behavioral prior for large language models (LLMs) and is often assumed to confer expertise and improve safety in a monotonic manner. However, its effects on high-stakes clinical decision-making remain poorly characterized. We systematically evaluate persona-based control in clinical LLMs, examining how professional roles (e.g., Emergency Department physician, nurse) and interaction styles (bold vs.\\ cautious",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models"
+    },
+    {
+      "title": "ART: Adaptive Reasoning Trees for Explainable Claim Verification",
+      "link": "https://arxiv.org/abs/2601.05455",
+      "description": "arXiv:2601.05455v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded knowledge and remarkable zero-shot abilities. However, their adoption in high-stakes environments is hindered by their opacity; their outputs lack faithful explanations and cannot be effectively contested to correct errors, undermining trustworthiness. In this paper, we propose ART (Adaptive Reasoning Trees), a hierarchical method for claim ve",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "ART: Adaptive Reasoning Trees for Explainable Claim Verification"
+    },
+    {
+      "title": "MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis",
+      "link": "https://arxiv.org/abs/2601.05483",
+      "description": "arXiv:2601.05483v1 Announce Type: new \nAbstract: Understanding urban environment change is essential for sustainable development. However, current approaches, particularly remote sensing change detection, often rely on rigid, single-modal analysis. To overcome these limitations, we propose MMUEChange, a multi-modal agent framework that flexibly integrates heterogeneous urban data via a modular toolkit and a core module, Modality Controller for cross- and intra-modal alignment, enabling robust an",
+      "pubDate": "2026-01-12T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-01-12T04:40:20.345Z",
+    "totalCount": 16,
+    "generatedAt": "2026-01-12T05:21:09.762Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 14.625
   }
 }
