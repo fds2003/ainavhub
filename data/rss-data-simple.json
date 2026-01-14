@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Conformity and Social Impact on AI Agents",
-      "title_zh": "Conformity and Social Impact on AI Agents",
-      "description": "arXiv:2601.05384v1 Announce Type: new \nAbstract: As AI agents increasingly operate in multi-agent environments, understanding their collective behavior becomes critical for predicting the dynamics of artificial societies. This study examines conformity, the tendency to align with group opinions under social pressure, in large multimodal language models functioning as AI agents. By adapting classic visual experiments from social psychology, we investigate how AI agents respond to group influence ",
-      "link": "https://arxiv.org/abs/2601.05384",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-13"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -55,6 +46,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Internal Deployment Gaps in AI Regulation",
+      "title_zh": "Internal Deployment Gaps in AI Regulation",
+      "description": "arXiv:2601.08005v1 Announce Type: new \nAbstract: Frontier AI regulations primarily focus on systems deployed to external users, where deployment is more visible and subject to outside scrutiny. However, high-stakes applications can occur internally when companies deploy highly capable systems within their own organizations, such as for automating R\\&D, accelerating critical business processes, and handling sensitive proprietary data. This paper examines how frontier AI regulations in the United ",
+      "link": "https://arxiv.org/abs/2601.08005",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-14"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -82,67 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Effects of personality steering on cooperative behavior in Large Language Model agents",
-      "title_zh": "Effects of personality steering on cooperative behavior in Large Language Model agents",
-      "description": "arXiv:2601.05302v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as autonomous agents in strategic and social interactions. Although recent studies suggest that assigning personality traits to LLMs can influence their behavior, how personality steering affects cooperation under controlled conditions remains unclear. In this study, we examine the effects of personality steering on cooperative behavior in LLM agents using repeated Prisoner's Dilemma games. Based ",
-      "link": "https://arxiv.org/abs/2601.05302",
+      "title": "Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh",
+      "title_zh": "Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh",
+      "description": "arXiv:2601.07866v1 Announce Type: new \nAbstract: While machine learning shows promise for maternal health risk prediction, clinical adoption in resource-constrained settings faces a critical barrier: lack of explainability and trust. This study presents a hybrid explainable AI (XAI) framework combining ante-hoc fuzzy logic with post-hoc SHAP explanations, validated through systematic clinician feedback. We developed a fuzzy-XGBoost model on 1,014 maternal health records, achieving 88.67% accurac",
+      "link": "https://arxiv.org/abs/2601.07866",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-13"
+      "date": "2026-01-14"
     },
     {
-      "title": "Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring",
-      "title_zh": "Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring",
-      "description": "arXiv:2601.05256v1 Announce Type: new \nAbstract: Inland water monitoring is vital for safeguarding public health and ecosystems, enabling timely interventions to mitigate risks. Existing methods often address isolated sub-problems such as cyanobacteria, chlorophyll, or other quality indicators separately. NAIAD introduces an agentic AI assistant that leverages Large Language Models (LLMs) and external analytical tools to deliver a holistic solution for inland water monitoring using Earth Observa",
-      "link": "https://arxiv.org/abs/2601.05256",
+      "title": "Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling",
+      "title_zh": "Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling",
+      "description": "arXiv:2601.07964v1 Announce Type: new \nAbstract: This paper examines the application of Executable Ontologies (EO), implemented through the boldsea framework, to game development. We argue that EO represents a paradigm shift: a transition from algorithmic behavior programming to semantic world modeling, where agent behavior emerges naturally from declarative domain rules rather than being explicitly coded. Using a survival game scenario (Winter Feast), we demonstrate how EO achieves prioritybase",
+      "link": "https://arxiv.org/abs/2601.07964",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-13"
+      "date": "2026-01-14"
     },
     {
-      "title": "Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing",
-      "title_zh": "Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing",
-      "description": "arXiv:2601.05298v1 Announce Type: new \nAbstract: Additive manufacturing (AM) relies critically on understanding and extrapolating process-property relationships; however, existing data-driven approaches remain limited by fragmented knowledge representations and unreliable extrapolation under sparse data conditions. In this study, we propose an ontology-guided, equation-centric framework that tightly integrates large language models (LLMs) with an additive manufacturing mathematical knowledge gra",
-      "link": "https://arxiv.org/abs/2601.05298",
+      "title": "Forecast Aware Deep Reinforcement Learning for Efficient Electricity Load Scheduling in Dairy Farms",
+      "title_zh": "Forecast Aware Deep Reinforcement Learning for Efficient Electricity Load Scheduling in Dairy Farms",
+      "description": "arXiv:2601.08052v1 Announce Type: new \nAbstract: Dairy farming is an energy intensive sector that relies heavily on grid electricity. With increasing renewable energy integration, sustainable energy management has become essential for reducing grid dependence and supporting the United Nations Sustainable Development Goal 7 on affordable and clean energy. However, the intermittent nature of renewables poses challenges in balancing supply and demand in real time. Intelligent load scheduling is the",
+      "link": "https://arxiv.org/abs/2601.08052",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-13"
+      "date": "2026-01-14"
     },
     {
-      "title": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering",
-      "title_zh": "PRISMA: Reinforcement Learning Guided Two-Stage Policy Optimization in Multi-Agent Architecture for Open-Domain Multi-Hop Question Answering",
-      "description": "arXiv:2601.05465v1 Announce Type: new \nAbstract: Answering real-world open-domain multi-hop questions over massive corpora is a critical challenge in Retrieval-Augmented Generation (RAG) systems. Recent research employs reinforcement learning (RL) to end-to-end optimize the retrieval-augmented reasoning process, directly enhancing its capacity to resolve complex queries. However, reliable deployment is hindered by two obstacles. 1) Retrieval Collapse: iterative retrieval over large corpora fails",
-      "link": "https://arxiv.org/abs/2601.05465",
+      "title": "Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety",
+      "title_zh": "Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety",
+      "description": "arXiv:2601.08000v1 Announce Type: new \nAbstract: Ensuring that Large Language Models (LLMs) adhere to safety principles without refusing benign requests remains a significant challenge. While OpenAI introduces deliberative alignment (DA) to enhance the safety of its o-series models through reasoning over detailed ``code-like'' safety rules, the effectiveness of this approach in open-source LLMs, which typically lack advanced reasoning capabilities, is understudied. In this work, we systematicall",
+      "link": "https://arxiv.org/abs/2601.08000",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-13"
+      "date": "2026-01-14"
     },
     {
-      "title": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models",
-      "title_zh": "The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models",
-      "description": "arXiv:2601.05376v1 Announce Type: new \nAbstract: Persona conditioning can be viewed as a behavioral prior for large language models (LLMs) and is often assumed to confer expertise and improve safety in a monotonic manner. However, its effects on high-stakes clinical decision-making remain poorly characterized. We systematically evaluate persona-based control in clinical LLMs, examining how professional roles (e.g., Emergency Department physician, nurse) and interaction styles (bold vs.\\ cautious",
-      "link": "https://arxiv.org/abs/2601.05376",
+      "title": "When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning",
+      "title_zh": "When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning",
+      "description": "arXiv:2601.07965v1 Announce Type: new \nAbstract: When a model knows when it does not know, many possibilities emerge. The first question is how to enable a model to recognize that it does not know. A promising approach is to use confidence, computed from the model's internal signals, to reflect its ignorance. Prior work in specific domains has shown that calibration can provide reliable confidence estimates. In this work, we propose a simple, effective, and universal training-free method that ap",
+      "link": "https://arxiv.org/abs/2601.07965",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-13"
+      "date": "2026-01-14"
     },
     {
-      "title": "ART: Adaptive Reasoning Trees for Explainable Claim Verification",
-      "title_zh": "ART: Adaptive Reasoning Trees for Explainable Claim Verification",
-      "description": "arXiv:2601.05455v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are powerful candidates for complex decision-making, leveraging vast encoded knowledge and remarkable zero-shot abilities. However, their adoption in high-stakes environments is hindered by their opacity; their outputs lack faithful explanations and cannot be effectively contested to correct errors, undermining trustworthiness. In this paper, we propose ART (Adaptive Reasoning Trees), a hierarchical method for claim ve",
-      "link": "https://arxiv.org/abs/2601.05455",
+      "title": "A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems",
+      "title_zh": "A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems",
+      "description": "arXiv:2601.08065v1 Announce Type: new \nAbstract: Forward reachability analysis is the predominant approach for verifying reach-avoid properties in neural feedback systems (dynamical systems controlled by neural networks). This dominance stems from the limited scalability of existing backward reachability methods. In this work, we introduce new algorithms that compute both over- and under-approximations of backward reachable sets for such systems. We further integrate these backward algorithms wi",
+      "link": "https://arxiv.org/abs/2601.08065",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-13"
+      "date": "2026-01-14"
     },
     {
-      "title": "MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis",
-      "title_zh": "MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis",
-      "description": "arXiv:2601.05483v1 Announce Type: new \nAbstract: Understanding urban environment change is essential for sustainable development. However, current approaches, particularly remote sensing change detection, often rely on rigid, single-modal analysis. To overcome these limitations, we propose MMUEChange, a multi-modal agent framework that flexibly integrates heterogeneous urban data via a modular toolkit and a core module, Modality Controller for cross- and intra-modal alignment, enabling robust an",
-      "link": "https://arxiv.org/abs/2601.05483",
+      "title": "MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness",
+      "title_zh": "MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness",
+      "description": "arXiv:2601.08118v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as human simulators, both for evaluating conversational systems and for generating fine-tuning data. However, naive \"act-as-a-user\" prompting often yields verbose, unrealistic utterances, underscoring the need for principled evaluation of so-called user proxy agents. We present MIRRORBENCH, a reproducible, extensible benchmarking framework that evaluates user proxies solely on their ability to pro",
+      "link": "https://arxiv.org/abs/2601.08118",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-13"
+      "date": "2026-01-14"
     }
   ]
 }
