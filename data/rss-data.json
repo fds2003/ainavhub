@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "AI Survival Stories: a Taxonomic Analysis of AI Existential Risk",
+      "link": "https://arxiv.org/abs/2601.09765",
+      "description": "arXiv:2601.09765v1 Announce Type: new \nAbstract: Since the release of ChatGPT, there has been a lot of debate about whether AI systems pose an existential risk to humanity. This paper develops a general framework for thinking about the existential risk of AI systems. We analyze a two premise argument that AI systems pose a threat to humanity. Premise one: AI systems will become extremely powerful. Premise two: if AI systems become extremely powerful, they will destroy humanity. We use these two ",
+      "pubDate": "2026-01-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 55,
+      "title_zh": "AI Survival Stories: a Taxonomic Analysis of AI Existential Risk"
+    },
+    {
+      "title": "Epistemology gives a Future to Complementarity in Human-AI Interactions",
+      "link": "https://arxiv.org/abs/2601.09871",
+      "description": "arXiv:2601.09871v1 Announce Type: new \nAbstract: Human-AI complementarity is the claim that a human supported by an AI system can outperform either alone in a decision-making process. Since its introduction in the human-AI interaction literature, it has gained traction by generalizing the reliance paradigm and by offering a more practical alternative to the contested construct of 'trust in AI.' Yet complementarity faces key theoretical challenges: it lacks precise theoretical anchoring, it is fo",
+      "pubDate": "2026-01-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 44,
+      "title_zh": "Epistemology gives a Future to Complementarity in Human-AI Interactions"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -51,16 +71,6 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
-      "title": "Internal Deployment Gaps in AI Regulation",
-      "link": "https://arxiv.org/abs/2601.08005",
-      "description": "arXiv:2601.08005v1 Announce Type: new \nAbstract: Frontier AI regulations primarily focus on systems deployed to external users, where deployment is more visible and subject to outside scrutiny. However, high-stakes applications can occur internally when companies deploy highly capable systems within their own organizations, such as for automating R\\&D, accelerating critical business processes, and handling sensitive proprietary data. This paper examines how frontier AI regulations in the United ",
-      "pubDate": "2026-01-15T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "Internal Deployment Gaps in AI Regulation"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -91,79 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh",
-      "link": "https://arxiv.org/abs/2601.07866",
-      "description": "arXiv:2601.07866v1 Announce Type: new \nAbstract: While machine learning shows promise for maternal health risk prediction, clinical adoption in resource-constrained settings faces a critical barrier: lack of explainability and trust. This study presents a hybrid explainable AI (XAI) framework combining ante-hoc fuzzy logic with post-hoc SHAP explanations, validated through systematic clinician feedback. We developed a fuzzy-XGBoost model on 1,014 maternal health records, achieving 88.67% accurac",
-      "pubDate": "2026-01-15T05:00:00.000Z",
+      "title": "Antisocial behavior towards large language model users: experimental evidence",
+      "link": "https://arxiv.org/abs/2601.09772",
+      "description": "arXiv:2601.09772v1 Announce Type: new \nAbstract: The rapid spread of large language models (LLMs) has raised concerns about the social reactions they provoke. Prior research documents negative attitudes toward AI users, but it remains unclear whether such disapproval translates into costly action. We address this question in a two-phase online experiment (N = 491 Phase II participants; Phase I provided targets) where participants could spend part of their own endowment to reduce the earnings of ",
+      "pubDate": "2026-01-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 13,
+      "title_zh": "Antisocial behavior towards large language model users: experimental evidence"
+    },
+    {
+      "title": "A Scoping Review of the Ethical Perspectives on Anthropomorphising Large Language Model-Based Conversational Agents",
+      "link": "https://arxiv.org/abs/2601.09869",
+      "description": "arXiv:2601.09869v1 Announce Type: new \nAbstract: Anthropomorphisation -- the phenomenon whereby non-human entities are ascribed human-like qualities -- has become increasingly salient with the rise of large language model (LLM)-based conversational agents (CAs). Unlike earlier chatbots, LLM-based CAs routinely generate interactional and linguistic cues, such as first-person self-reference, epistemic and affective expressions that empirical work shows can increase engagement. On the other hand, a",
+      "pubDate": "2026-01-16T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh"
+      "title_zh": "A Scoping Review of the Ethical Perspectives on Anthropomorphising Large Language Model-Based Conversational Agents"
     },
     {
-      "title": "Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling",
-      "link": "https://arxiv.org/abs/2601.07964",
-      "description": "arXiv:2601.07964v1 Announce Type: new \nAbstract: This paper examines the application of Executable Ontologies (EO), implemented through the boldsea framework, to game development. We argue that EO represents a paradigm shift: a transition from algorithmic behavior programming to semantic world modeling, where agent behavior emerges naturally from declarative domain rules rather than being explicitly coded. Using a survival game scenario (Winter Feast), we demonstrate how EO achieves prioritybase",
-      "pubDate": "2026-01-15T05:00:00.000Z",
+      "title": "PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation",
+      "link": "https://arxiv.org/abs/2601.09771",
+      "description": "arXiv:2601.09771v1 Announce Type: new \nAbstract: Modern LLM-based recommenders can generate compelling ranked lists, but they struggle to reliably satisfy governance constraints such as minimum long-tail exposure or diversity requirements. We present PCN-Rec, a proof-carrying negotiation pipeline that separates natural-language reasoning from deterministic enforcement. A base recommender (MF/CF) produces a candidate window of size W, which is negotiated by two agents: a User Advocate optimizing ",
+      "pubDate": "2026-01-16T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling"
+      "aiScore": 9,
+      "title_zh": "PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation"
     },
     {
-      "title": "Forecast Aware Deep Reinforcement Learning for Efficient Electricity Load Scheduling in Dairy Farms",
-      "link": "https://arxiv.org/abs/2601.08052",
-      "description": "arXiv:2601.08052v1 Announce Type: new \nAbstract: Dairy farming is an energy intensive sector that relies heavily on grid electricity. With increasing renewable energy integration, sustainable energy management has become essential for reducing grid dependence and supporting the United Nations Sustainable Development Goal 7 on affordable and clean energy. However, the intermittent nature of renewables poses challenges in balancing supply and demand in real time. Intelligent load scheduling is the",
-      "pubDate": "2026-01-15T05:00:00.000Z",
+      "title": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents",
+      "link": "https://arxiv.org/abs/2601.09770",
+      "description": "arXiv:2601.09770v1 Announce Type: new \nAbstract: Recent advances in vision-language models (VLMs) and reinforcement learning (RL) have driven progress in GUI automation. However, most existing methods rely on static, one-shot visual inputs and passive perception, lacking the ability to adaptively determine when, whether, and how to observe the interface. We present GUI-Eyes, a reinforcement learning framework for active visual perception in GUI tasks. To acquire more informative observations, th",
+      "pubDate": "2026-01-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6.5,
+      "title_zh": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents"
+    },
+    {
+      "title": "Continuum Memory Architectures for Long-Horizon LLM Agents",
+      "link": "https://arxiv.org/abs/2601.09913",
+      "description": "arXiv:2601.09913v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) has become the default strategy for providing large language model (LLM) agents with contextual knowledge. Yet RAG treats memory as a stateless lookup table: information persists indefinitely, retrieval is read-only, and temporal continuity is absent. We define the \\textit{Continuum Memory Architecture} (CMA), a class of systems that maintain and update internal state across interactions through persistent stor",
+      "pubDate": "2026-01-16T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Forecast Aware Deep Reinforcement Learning for Efficient Electricity Load Scheduling in Dairy Farms"
+      "title_zh": "Continuum Memory Architectures for Long-Horizon LLM Agents"
     },
     {
-      "title": "Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety",
-      "link": "https://arxiv.org/abs/2601.08000",
-      "description": "arXiv:2601.08000v1 Announce Type: new \nAbstract: Ensuring that Large Language Models (LLMs) adhere to safety principles without refusing benign requests remains a significant challenge. While OpenAI introduces deliberative alignment (DA) to enhance the safety of its o-series models through reasoning over detailed ``code-like'' safety rules, the effectiveness of this approach in open-source LLMs, which typically lack advanced reasoning capabilities, is understudied. In this work, we systematicall",
-      "pubDate": "2026-01-15T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety"
-    },
-    {
-      "title": "When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning",
-      "link": "https://arxiv.org/abs/2601.07965",
-      "description": "arXiv:2601.07965v1 Announce Type: new \nAbstract: When a model knows when it does not know, many possibilities emerge. The first question is how to enable a model to recognize that it does not know. A promising approach is to use confidence, computed from the model's internal signals, to reflect its ignorance. Prior work in specific domains has shown that calibration can provide reliable confidence estimates. In this work, we propose a simple, effective, and universal training-free method that ap",
-      "pubDate": "2026-01-15T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning"
-    },
-    {
-      "title": "A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems",
-      "link": "https://arxiv.org/abs/2601.08065",
-      "description": "arXiv:2601.08065v1 Announce Type: new \nAbstract: Forward reachability analysis is the predominant approach for verifying reach-avoid properties in neural feedback systems (dynamical systems controlled by neural networks). This dominance stems from the limited scalability of existing backward reachability methods. In this work, we introduce new algorithms that compute both over- and under-approximations of backward reachable sets for such systems. We further integrate these backward algorithms wi",
-      "pubDate": "2026-01-15T05:00:00.000Z",
+      "title": "Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL",
+      "link": "https://arxiv.org/abs/2601.09883",
+      "description": "arXiv:2601.09883v1 Announce Type: new \nAbstract: Most existing Large Language Model (LLM)-based Multi-Agent Systems (MAS) rely on predefined workflows, where human engineers enumerate task states in advance and specify routing rules and contextual injections accordingly. Such workflow-driven designs are essentially rule-based decision trees, which suffer from two fundamental limitations: they require substantial manual effort to anticipate and encode possible task states, and they cannot exhaust",
+      "pubDate": "2026-01-16T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems"
-    },
-    {
-      "title": "MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness",
-      "link": "https://arxiv.org/abs/2601.08118",
-      "description": "arXiv:2601.08118v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as human simulators, both for evaluating conversational systems and for generating fine-tuning data. However, naive \"act-as-a-user\" prompting often yields verbose, unrealistic utterances, underscoring the need for principled evaluation of so-called user proxy agents. We present MIRRORBENCH, a reproducible, extensible benchmarking framework that evaluates user proxies solely on their ability to pro",
-      "pubDate": "2026-01-15T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness"
+      "title_zh": "Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-01-16T04:35:31.128Z",
+    "generatedAt": "2026-01-16T05:16:41.999Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.5625
+    "averageScore": 19.34375
   }
 }
