@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "title": "AI Survival Stories: a Taxonomic Analysis of AI Existential Risk",
-      "link": "https://arxiv.org/abs/2601.09765",
-      "description": "arXiv:2601.09765v1 Announce Type: new \nAbstract: Since the release of ChatGPT, there has been a lot of debate about whether AI systems pose an existential risk to humanity. This paper develops a general framework for thinking about the existential risk of AI systems. We analyze a two premise argument that AI systems pose a threat to humanity. Premise one: AI systems will become extremely powerful. Premise two: if AI systems become extremely powerful, they will destroy humanity. We use these two ",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 55,
-      "title_zh": "AI Survival Stories: a Taxonomic Analysis of AI Existential Risk"
-    },
-    {
-      "title": "Epistemology gives a Future to Complementarity in Human-AI Interactions",
-      "link": "https://arxiv.org/abs/2601.09871",
-      "description": "arXiv:2601.09871v1 Announce Type: new \nAbstract: Human-AI complementarity is the claim that a human supported by an AI system can outperform either alone in a decision-making process. Since its introduction in the human-AI interaction literature, it has gained traction by generalizing the reliance paradigm and by offering a more practical alternative to the contested construct of 'trust in AI.' Yet complementarity faces key theoretical challenges: it lacks precise theoretical anchoring, it is fo",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 44,
-      "title_zh": "Epistemology gives a Future to Complementarity in Human-AI Interactions"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -99,71 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Antisocial behavior towards large language model users: experimental evidence",
-      "link": "https://arxiv.org/abs/2601.09772",
-      "description": "arXiv:2601.09772v1 Announce Type: new \nAbstract: The rapid spread of large language models (LLMs) has raised concerns about the social reactions they provoke. Prior research documents negative attitudes toward AI users, but it remains unclear whether such disapproval translates into costly action. We address this question in a two-phase online experiment (N = 491 Phase II participants; Phase I provided targets) where participants could spend part of their own endowment to reduce the earnings of ",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Antisocial behavior towards large language model users: experimental evidence"
-    },
-    {
-      "title": "A Scoping Review of the Ethical Perspectives on Anthropomorphising Large Language Model-Based Conversational Agents",
-      "link": "https://arxiv.org/abs/2601.09869",
-      "description": "arXiv:2601.09869v1 Announce Type: new \nAbstract: Anthropomorphisation -- the phenomenon whereby non-human entities are ascribed human-like qualities -- has become increasingly salient with the rise of large language model (LLM)-based conversational agents (CAs). Unlike earlier chatbots, LLM-based CAs routinely generate interactional and linguistic cues, such as first-person self-reference, epistemic and affective expressions that empirical work shows can increase engagement. On the other hand, a",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "A Scoping Review of the Ethical Perspectives on Anthropomorphising Large Language Model-Based Conversational Agents"
-    },
-    {
-      "title": "PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation",
-      "link": "https://arxiv.org/abs/2601.09771",
-      "description": "arXiv:2601.09771v1 Announce Type: new \nAbstract: Modern LLM-based recommenders can generate compelling ranked lists, but they struggle to reliably satisfy governance constraints such as minimum long-tail exposure or diversity requirements. We present PCN-Rec, a proof-carrying negotiation pipeline that separates natural-language reasoning from deterministic enforcement. A base recommender (MF/CF) produces a candidate window of size W, which is negotiated by two agents: a User Advocate optimizing ",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation"
-    },
-    {
-      "title": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents",
-      "link": "https://arxiv.org/abs/2601.09770",
-      "description": "arXiv:2601.09770v1 Announce Type: new \nAbstract: Recent advances in vision-language models (VLMs) and reinforcement learning (RL) have driven progress in GUI automation. However, most existing methods rely on static, one-shot visual inputs and passive perception, lacking the ability to adaptively determine when, whether, and how to observe the interface. We present GUI-Eyes, a reinforcement learning framework for active visual perception in GUI tasks. To acquire more informative observations, th",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6.5,
-      "title_zh": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents"
-    },
-    {
-      "title": "Continuum Memory Architectures for Long-Horizon LLM Agents",
-      "link": "https://arxiv.org/abs/2601.09913",
-      "description": "arXiv:2601.09913v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) has become the default strategy for providing large language model (LLM) agents with contextual knowledge. Yet RAG treats memory as a stateless lookup table: information persists indefinitely, retrieval is read-only, and temporal continuity is absent. We define the \\textit{Continuum Memory Architecture} (CMA), a class of systems that maintain and update internal state across interactions through persistent stor",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Continuum Memory Architectures for Long-Horizon LLM Agents"
-    },
-    {
-      "title": "Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL",
-      "link": "https://arxiv.org/abs/2601.09883",
-      "description": "arXiv:2601.09883v1 Announce Type: new \nAbstract: Most existing Large Language Model (LLM)-based Multi-Agent Systems (MAS) rely on predefined workflows, where human engineers enumerate task states in advance and specify routing rules and contextual injections accordingly. Such workflow-driven designs are essentially rule-based decision trees, which suffer from two fundamental limitations: they require substantial manual effort to anticipate and encode possible task states, and they cannot exhaust",
-      "pubDate": "2026-01-16T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-01-17T04:22:48.925Z",
+    "totalCount": 8,
+    "generatedAt": "2026-01-17T05:11:53.931Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 19.34375
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
