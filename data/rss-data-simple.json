@@ -28,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "ARC Prize 2025: Technical Report",
+      "title_zh": "ARC Prize 2025: Technical Report",
+      "description": "arXiv:2601.10904v1 Announce Type: new \nAbstract: The ARC-AGI benchmark series serves as a critical measure of few-shot generalization on novel tasks, a core aspect of intelligence. The ARC Prize 2025 global competition targeted the newly released ARC-AGI-2 dataset, which features greater task complexity compared to its predecessor. The Kaggle competition attracted 1,455 teams and 15,154 entries, with the top score reaching 24% on the ARC-AGI-2 private evaluation set. Paper submissions nearly dou",
+      "link": "https://arxiv.org/abs/2601.10904",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -35,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Building AI Agents to Improve Job Referral Requests to Strangers",
+      "title_zh": "Building AI Agents to Improve Job Referral Requests to Strangers",
+      "description": "arXiv:2601.10726v1 Announce Type: new \nAbstract: This paper develops AI agents that help job seekers write effective requests for job referrals in a professional online community. The basic workflow consists of an improver agent that rewrites the referral request and an evaluator agent that measures the quality of revisions using a model trained to predict the probability of receiving referrals from other users. Revisions suggested by the LLM (large language model) increase predicted success rat",
+      "link": "https://arxiv.org/abs/2601.10726",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -71,6 +89,60 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
+      "title_zh": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
+      "description": "arXiv:2601.10718v1 Announce Type: new \nAbstract: Human papillomavirus (HPV) vaccine hesitancy poses significant public health challenges, particularly in Japan where proactive vaccination recommendations were suspended from 2013 to 2021. The resulting information gap is exacerbated by misinformation on social media, and traditional ways cannot simultaneously address individual queries while monitoring population-level discourse. This study aimed to develop a dual-purpose AI agent system that pro",
+      "link": "https://arxiv.org/abs/2601.10718",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
+    },
+    {
+      "title": "Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration",
+      "title_zh": "Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration",
+      "description": "arXiv:2601.10744v1 Announce Type: new \nAbstract: An ideal embodied agent should possess lifelong learning capabilities to handle long-horizon and complex tasks, enabling continuous operation in general environments. This not only requires the agent to accurately accomplish given tasks but also to leverage long-term episodic memory to optimize decision-making. However, existing mainstream one-shot embodied tasks primarily focus on task completion results, neglecting the crucial process of explora",
+      "link": "https://arxiv.org/abs/2601.10744",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
+    },
+    {
+      "title": "ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration",
+      "title_zh": "ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration",
+      "description": "arXiv:2601.10729v1 Announce Type: new \nAbstract: Serving long-context LLMs is challenging because request lengths and batch composition vary during token generation, causing the memory footprint to fluctuate significantly at runtime. Offloading KV caches to host memory limits effective memory usage, but existing static and predetermined offloading strategies cannot adapt to the rapidly shifting memory demands of long-context serving. This often leads to excessive CPU-to-GPU KV transfers that tra",
+      "link": "https://arxiv.org/abs/2601.10729",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
+    },
+    {
+      "title": "AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing",
+      "title_zh": "AdaMARP: An Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing",
+      "description": "arXiv:2601.11007v1 Announce Type: new \nAbstract: LLM role-playing aims to portray arbitrary characters in interactive narratives, yet existing systems often suffer from limited immersion and adaptability. They typically under-model dynamic environmental information and assume largely static scenes and casts, offering insufficient support for multi-character orchestration, scene transitions, and on-the-fly character introduction. We propose an adaptive multi-agent role-playing framework, AdaMARP,",
+      "link": "https://arxiv.org/abs/2601.11007",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
+    },
+    {
+      "title": "Do You Trust Me? Cognitive-Affective Signatures of Trustworthiness in Large Language Models",
+      "title_zh": "Do You Trust Me? Cognitive-Affective Signatures of Trustworthiness in Large Language Models",
+      "description": "arXiv:2601.10719v1 Announce Type: new \nAbstract: Perceived trustworthiness underpins how users navigate online information, yet it remains unclear whether large language models (LLMs),increasingly embedded in search, recommendation, and conversational systems, represent this construct in psychologically coherent ways. We analyze how instruction-tuned LLMs (Llama 3.1 8B, Qwen 2.5 7B, Mistral 7B) encode perceived trustworthiness in web-like narratives using the PEACE-Reviews dataset annotated for ",
+      "link": "https://arxiv.org/abs/2601.10719",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
+    },
+    {
+      "title": "CTHA: Constrained Temporal Hierarchical Architecture for Stable Multi-Agent LLM Systems",
+      "title_zh": "CTHA: Constrained Temporal Hierarchical Architecture for Stable Multi-Agent LLM Systems",
+      "description": "arXiv:2601.10738v1 Announce Type: new \nAbstract: Recently, multi-time-scale agent architectures have extended the ubiquitous single-loop paradigm by introducing temporal hierarchies with distinct cognitive layers. While yielding substantial performance gains, this diversification fundamentally compromises the coordination stability intrinsic to unified agent systems, which causes severe inter-layer conflicts, unbounded error propagation, and restricted scalability. To address these challenges, w",
+      "link": "https://arxiv.org/abs/2601.10738",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-19"
     }
   ]
 }
