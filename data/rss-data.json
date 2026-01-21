@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "Human-AI Collaborative Inductive Thematic Analysis: AI Guided Analysis and Human Interpretive Authority",
+      "link": "https://arxiv.org/abs/2601.11850",
+      "description": "arXiv:2601.11850v1 Announce Type: new \nAbstract: The increasing use of generative artificial intelligence (GenAI) in qualitative research raises important questions about analytic practice and interpretive authority. This study examines how researchers interact with an Inductive Thematic Analysis GPT (ITA-GPT), a purpose-built AI tool designed to support inductive thematic analysis through structured, semi-automated prompts aligned with reflexive thematic analysis and verbatim coding principles.",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 42,
+      "title_zh": "Human-AI Collaborative Inductive Thematic Analysis: AI Guided Analysis and Human Interpretive Authority"
+    },
+    {
+      "title": "POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation",
+      "link": "https://arxiv.org/abs/2601.11816",
+      "description": "arXiv:2601.11816v1 Announce Type: new \nAbstract: Enterprise back office workflows require agentic systems that are auditable, policy-aligned, and operationally predictable, capabilities that generic multi-agent setups often fail to deliver. We present POLARIS (Policy-Aware LLM Agentic Reasoning for Integrated Systems), a governed orchestration framework that treats automation as typed plan synthesis and validated execution over LLM agents. A planner proposes structurally diverse, type checked di",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 29.5,
+      "title_zh": "POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -79,11 +99,71 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "AI Co-Scientist for Knowledge Synthesis in Medical Contexts: A Proof of Concept",
+      "link": "https://arxiv.org/abs/2601.11825",
+      "description": "arXiv:2601.11825v1 Announce Type: new \nAbstract: Research waste in biomedical science is driven by redundant studies, incomplete reporting, and the limited scalability of traditional evidence synthesis workflows. We present an AI co-scientist for scalable and transparent knowledge synthesis based on explicit formalization of Population, Intervention, Comparator, Outcome, and Study design (PICOS). The platform integrates relational storage, vector-based semantic retrieval, and a Neo4j knowledge g",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 15,
+      "title_zh": "AI Co-Scientist for Knowledge Synthesis in Medical Contexts: A Proof of Concept"
+    },
+    {
+      "title": "Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic",
+      "link": "https://arxiv.org/abs/2601.11840",
+      "description": "arXiv:2601.11840v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have shown strong performance on code understanding tasks, yet they fundamentally lack the ability to perform precise, exhaustive mathematical reasoning about program behavior. Existing benchmarks either focus on mathematical proof automation, largely disconnected from real-world software, or on engineering tasks that do not require semantic rigor.\n  We present CodeLogician, a neurosymbolic agent for precise analysis o",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8.5,
+      "title_zh": "Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic"
+    },
+    {
+      "title": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
+      "link": "https://arxiv.org/abs/2601.11559",
+      "description": "arXiv:2601.11559v1 Announce Type: new \nAbstract: Despite rare diseases affecting 1 in 10 Americans, their differential diagnosis remains challenging. Due to their impressive recall abilities, large language models (LLMs) have been recently explored for differential diagnosis. Existing approaches to evaluating LLM-based rare disease diagnosis suffer from two critical limitations: they rely on idealized clinical case studies that fail to capture real-world clinical complexity, or they use ICD code",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?"
+    },
+    {
+      "title": "Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models",
+      "link": "https://arxiv.org/abs/2601.11622",
+      "description": "arXiv:2601.11622v1 Announce Type: new \nAbstract: Large language models perform text generation through high-dimensional internal dynamics, yet the temporal organisation of these dynamics remains poorly understood. Most interpretability approaches emphasise static representations or causal interventions, leaving temporal structure largely unexplored. Drawing on neuroscience, where temporal integration and metastability are core markers of neural organisation, we adapt these concepts to transforme",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models"
+    },
+    {
+      "title": "MyGram: Modality-aware Graph Transformer with Global Distribution for Multi-modal Entity Alignment",
+      "link": "https://arxiv.org/abs/2601.11885",
+      "description": "arXiv:2601.11885v1 Announce Type: new \nAbstract: Multi-modal entity alignment aims to identify equivalent entities between two multi-modal Knowledge graphs by integrating multi-modal data, such as images and text, to enrich the semantic representations of entities. However, existing methods may overlook the structural contextual information within each modality, making them vulnerable to interference from shallow features. To address these challenges, we propose MyGram, a modality-aware graph tr",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "MyGram: Modality-aware Graph Transformer with Global Distribution for Multi-modal Entity Alignment"
+    },
+    {
+      "title": "Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic",
+      "link": "https://arxiv.org/abs/2601.11809",
+      "description": "arXiv:2601.11809v1 Announce Type: new \nAbstract: Connected automated vehicles (CAVs) possess the ability to communicate and coordinate with one another, enabling cooperative platooning that enhances both energy efficiency and traffic flow. However, during the initial stage of CAV deployment, the sparse distribution of CAVs among human-driven vehicles reduces the likelihood of forming effective cooperative platoons. To address this challenge, this study proposes a hybrid multi-agent lane change d",
+      "pubDate": "2026-01-21T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-01-21T04:00:50.871Z",
+    "totalCount": 16,
+    "generatedAt": "2026-01-21T05:20:15.569Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 17.125
   }
 }
