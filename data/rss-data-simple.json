@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "title": "Human-AI Collaborative Inductive Thematic Analysis: AI Guided Analysis and Human Interpretive Authority",
-      "title_zh": "Human-AI Collaborative Inductive Thematic Analysis: AI Guided Analysis and Human Interpretive Authority",
-      "description": "arXiv:2601.11850v1 Announce Type: new \nAbstract: The increasing use of generative artificial intelligence (GenAI) in qualitative research raises important questions about analytic practice and interpretive authority. This study examines how researchers interact with an Inductive Thematic Analysis GPT (ITA-GPT), a purpose-built AI tool designed to support inductive thematic analysis through structured, semi-automated prompts aligned with reflexive thematic analysis and verbatim coding principles.",
-      "link": "https://arxiv.org/abs/2601.11850",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-21"
-    },
-    {
-      "title": "POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation",
-      "title_zh": "POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation",
-      "description": "arXiv:2601.11816v1 Announce Type: new \nAbstract: Enterprise back office workflows require agentic systems that are auditable, policy-aligned, and operationally predictable, capabilities that generic multi-agent setups often fail to deliver. We present POLARIS (Policy-Aware LLM Agentic Reasoning for Integrated Systems), a governed orchestration framework that treats automation as typed plan synthesis and validated execution over LLM agents. A planner proposes structurally diverse, type checked di",
-      "link": "https://arxiv.org/abs/2601.11816",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-21"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -64,6 +46,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree",
+      "title_zh": "Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree",
+      "description": "arXiv:2601.14523v1 Announce Type: new \nAbstract: Optimizing scientific computing algorithms for modern GPUs is a labor-intensive and iterative process involving repeated code modification, benchmarking, and tuning across complex hardware and software stacks. Recent work has explored large language model (LLM)-assisted evolutionary methods for automated code optimization, but these approaches primarily rely on outcome-based selection and random mutation, underutilizing the rich trajectory informa",
+      "link": "https://arxiv.org/abs/2601.14523",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-22"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -91,58 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "AI Co-Scientist for Knowledge Synthesis in Medical Contexts: A Proof of Concept",
-      "title_zh": "AI Co-Scientist for Knowledge Synthesis in Medical Contexts: A Proof of Concept",
-      "description": "arXiv:2601.11825v1 Announce Type: new \nAbstract: Research waste in biomedical science is driven by redundant studies, incomplete reporting, and the limited scalability of traditional evidence synthesis workflows. We present an AI co-scientist for scalable and transparent knowledge synthesis based on explicit formalization of Population, Intervention, Comparator, Outcome, and Study design (PICOS). The platform integrates relational storage, vector-based semantic retrieval, and a Neo4j knowledge g",
-      "link": "https://arxiv.org/abs/2601.11825",
+      "title": "IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization",
+      "title_zh": "IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization",
+      "description": "arXiv:2601.14686v1 Announce Type: new \nAbstract: Learning Path Recommendation (LPR) aims to generate personalized sequences of learning items that maximize long-term learning effect while respecting pedagogical principles and operational constraints. Although large language models (LLMs) offer rich semantic understanding for free-form recommendation, applying them to long-horizon LPR is challenging due to (i) misalignment with pedagogical objectives such as the Zone of Proximal Development (ZPD)",
+      "link": "https://arxiv.org/abs/2601.14686",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-21"
+      "date": "2026-01-22"
     },
     {
-      "title": "Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic",
-      "title_zh": "Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic",
-      "description": "arXiv:2601.11840v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have shown strong performance on code understanding tasks, yet they fundamentally lack the ability to perform precise, exhaustive mathematical reasoning about program behavior. Existing benchmarks either focus on mathematical proof automation, largely disconnected from real-world software, or on engineering tasks that do not require semantic rigor.\n  We present CodeLogician, a neurosymbolic agent for precise analysis o",
-      "link": "https://arxiv.org/abs/2601.11840",
+      "title": "Epistemic Constitutionalism Or: how to avoid coherence bias",
+      "title_zh": "Epistemic Constitutionalism Or: how to avoid coherence bias",
+      "description": "arXiv:2601.14295v1 Announce Type: new \nAbstract: Large language models increasingly function as artificial reasoners: they evaluate arguments, assign credibility, and express confidence. Yet their belief-forming behavior is governed by implicit, uninspected epistemic policies. This paper argues for an epistemic constitution for AI: explicit, contestable meta-norms that regulate how systems form and express beliefs. Source attribution bias provides the motivating case: I show that frontier models",
+      "link": "https://arxiv.org/abs/2601.14295",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-21"
+      "date": "2026-01-22"
     },
     {
-      "title": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
-      "title_zh": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
-      "description": "arXiv:2601.11559v1 Announce Type: new \nAbstract: Despite rare diseases affecting 1 in 10 Americans, their differential diagnosis remains challenging. Due to their impressive recall abilities, large language models (LLMs) have been recently explored for differential diagnosis. Existing approaches to evaluating LLM-based rare disease diagnosis suffer from two critical limitations: they rely on idealized clinical case studies that fail to capture real-world clinical complexity, or they use ICD code",
-      "link": "https://arxiv.org/abs/2601.11559",
+      "title": "Local Language Models for Context-Aware Adaptive Anonymization of Sensitive Text",
+      "title_zh": "Local Language Models for Context-Aware Adaptive Anonymization of Sensitive Text",
+      "description": "arXiv:2601.14683v1 Announce Type: new \nAbstract: Qualitative research often contains personal, contextual, and organizational details that pose privacy risks if not handled appropriately. Manual anonymization is time-consuming, inconsistent, and frequently omits critical identifiers. Existing automated tools tend to rely on pattern matching or fixed rules, which fail to capture context and may alter the meaning of the data. This study uses local LLMs to build a reliable, repeatable, and context-",
+      "link": "https://arxiv.org/abs/2601.14683",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-21"
+      "date": "2026-01-22"
     },
     {
-      "title": "Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models",
-      "title_zh": "Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models",
-      "description": "arXiv:2601.11622v1 Announce Type: new \nAbstract: Large language models perform text generation through high-dimensional internal dynamics, yet the temporal organisation of these dynamics remains poorly understood. Most interpretability approaches emphasise static representations or causal interventions, leaving temporal structure largely unexplored. Drawing on neuroscience, where temporal integration and metastability are core markers of neural organisation, we adapt these concepts to transforme",
-      "link": "https://arxiv.org/abs/2601.11622",
+      "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
+      "title_zh": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
+      "description": "arXiv:2601.14456v1 Announce Type: new \nAbstract: Recent work shows that fine-tuned Large Language Models (LLMs) can achieve high valid plan rates on PDDL planning tasks. However, it remains unclear whether this reflects transferable planning competence or domain-specific memorization. In this work, we fine-tune a 1.7B-parameter LLM on 40,000 domain-problem-plan tuples from 10 IPC 2023 domains, and evaluate both in-domain and cross-domain generalization. While the model reaches 82.9% valid plan r",
+      "link": "https://arxiv.org/abs/2601.14456",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-21"
+      "date": "2026-01-22"
     },
     {
-      "title": "MyGram: Modality-aware Graph Transformer with Global Distribution for Multi-modal Entity Alignment",
-      "title_zh": "MyGram: Modality-aware Graph Transformer with Global Distribution for Multi-modal Entity Alignment",
-      "description": "arXiv:2601.11885v1 Announce Type: new \nAbstract: Multi-modal entity alignment aims to identify equivalent entities between two multi-modal Knowledge graphs by integrating multi-modal data, such as images and text, to enrich the semantic representations of entities. However, existing methods may overlook the structural contextual information within each modality, making them vulnerable to interference from shallow features. To address these challenges, we propose MyGram, a modality-aware graph tr",
-      "link": "https://arxiv.org/abs/2601.11885",
+      "title": "DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs",
+      "title_zh": "DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs",
+      "description": "arXiv:2601.14711v1 Announce Type: new \nAbstract: Optimizing the advertiser's cumulative value of winning impressions under budget constraints poses a complex challenge in online advertising, under the paradigm of AI-Generated Bidding (AIGB). Advertisers often have personalized objectives but limited historical interaction data, resulting in few-shot scenarios where traditional reinforcement learning (RL) methods struggle to perform effectively. Large Language Models (LLMs) offer a promising alte",
+      "link": "https://arxiv.org/abs/2601.14711",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-21"
+      "date": "2026-01-22"
     },
     {
-      "title": "Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic",
-      "title_zh": "Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic",
-      "description": "arXiv:2601.11809v1 Announce Type: new \nAbstract: Connected automated vehicles (CAVs) possess the ability to communicate and coordinate with one another, enabling cooperative platooning that enhances both energy efficiency and traffic flow. However, during the initial stage of CAV deployment, the sparse distribution of CAVs among human-driven vehicles reduces the likelihood of forming effective cooperative platoons. To address this challenge, this study proposes a hybrid multi-agent lane change d",
-      "link": "https://arxiv.org/abs/2601.11809",
+      "title": "Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation",
+      "title_zh": "Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation",
+      "description": "arXiv:2601.14691v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as judges to evaluate agent performance, particularly in non-verifiable settings where judgments rely on agent trajectories including chain-of-thought (CoT) reasoning. This paradigm implicitly assumes that the agent's CoT faithfully reflects both its internal reasoning and the underlying environment state. We show this assumption is brittle: LLM judges are highly susceptible to manipulation of age",
+      "link": "https://arxiv.org/abs/2601.14691",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-21"
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems",
+      "title_zh": "Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems",
+      "description": "arXiv:2601.14662v1 Announce Type: new \nAbstract: Graph-based retrieval-augmented generation (GraphRAG) systems construct knowledge graphs over document collections to support multi-hop reasoning. While prior work shows that GraphRAG responses may leak retrieved subgraphs, the feasibility of query-efficient reconstruction of the hidden graph structure remains unexplored under realistic query budgets. We study a budget-constrained black-box setting where an adversary adaptively queries the system ",
+      "link": "https://arxiv.org/abs/2601.14662",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-22"
     }
   ]
 }
