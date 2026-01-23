@@ -37,6 +37,24 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables",
+      "title_zh": "Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables",
+      "description": "arXiv:2601.15306v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have enabled their integration into clinical decision-making; however, hidden biases against patients across racial, social, economic, and clinical backgrounds persist. In this study, we investigate bias in LLM-based medical AI systems applied to emergency department (ED) triage. We employ 32 patient-level proxy variables, each represented by paired positive and negative qualifiers, and evaluate thei",
+      "link": "https://arxiv.org/abs/2601.15306",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "The Dark Side of AI Transformers: Sentiment Polarization & the Loss of Business Neutrality by NLP Transformers",
+      "title_zh": "The Dark Side of AI Transformers: Sentiment Polarization & the Loss of Business Neutrality by NLP Transformers",
+      "description": "arXiv:2601.15509v1 Announce Type: new \nAbstract: The use of Transfer Learning & Transformers has steadily improved accuracy and has significantly contributed in solving complex computation problems. However, this transformer led accuracy improvement in Applied AI Analytics specifically in sentiment analytics comes with the dark side. It is observed during experiments that a lot of these improvements in transformer led accuracy of one class of sentiment has been at the cost of polarization of ano",
+      "link": "https://arxiv.org/abs/2601.15509",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-23"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -44,15 +62,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree",
-      "title_zh": "Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree",
-      "description": "arXiv:2601.14523v1 Announce Type: new \nAbstract: Optimizing scientific computing algorithms for modern GPUs is a labor-intensive and iterative process involving repeated code modification, benchmarking, and tuning across complex hardware and software stacks. Recent work has explored large language model (LLM)-assisted evolutionary methods for automated code optimization, but these approaches primarily rely on outcome-based selection and random mutation, underutilizing the rich trajectory informa",
-      "link": "https://arxiv.org/abs/2601.14523",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-22"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -82,67 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization",
-      "title_zh": "IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization",
-      "description": "arXiv:2601.14686v1 Announce Type: new \nAbstract: Learning Path Recommendation (LPR) aims to generate personalized sequences of learning items that maximize long-term learning effect while respecting pedagogical principles and operational constraints. Although large language models (LLMs) offer rich semantic understanding for free-form recommendation, applying them to long-horizon LPR is challenging due to (i) misalignment with pedagogical objectives such as the Zone of Proximal Development (ZPD)",
-      "link": "https://arxiv.org/abs/2601.14686",
+      "title": "Reliability by design: quantifying and eliminating fabrication risk in LLMs. From generative to consultative AI: a comparative analysis in the legal domain and lessons for high-stakes knowledge bases",
+      "title_zh": "Reliability by design: quantifying and eliminating fabrication risk in LLMs. From generative to consultative AI: a comparative analysis in the legal domain and lessons for high-stakes knowledge bases",
+      "description": "arXiv:2601.15476v1 Announce Type: new \nAbstract: This paper examines how to make large language models reliable for high-stakes legal work by reducing hallucinations. It distinguishes three AI paradigms: (1) standalone generative models (\"creative oracle\"), (2) basic retrieval-augmented systems (\"expert archivist\"), and (3) an advanced, end-to-end optimized RAG system (\"rigorous archivist\"). The authors introduce two reliability metrics -False Citation Rate (FCR) and Fabricated Fact Rate (FFR)- ",
+      "link": "https://arxiv.org/abs/2601.15476",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-22"
+      "date": "2026-01-23"
     },
     {
-      "title": "Epistemic Constitutionalism Or: how to avoid coherence bias",
-      "title_zh": "Epistemic Constitutionalism Or: how to avoid coherence bias",
-      "description": "arXiv:2601.14295v1 Announce Type: new \nAbstract: Large language models increasingly function as artificial reasoners: they evaluate arguments, assign credibility, and express confidence. Yet their belief-forming behavior is governed by implicit, uninspected epistemic policies. This paper argues for an epistemic constitution for AI: explicit, contestable meta-norms that regulate how systems form and express beliefs. Source attribution bias provides the motivating case: I show that frontier models",
-      "link": "https://arxiv.org/abs/2601.14295",
+      "title": "A tensor network formalism for neuro-symbolic AI",
+      "title_zh": "A tensor network formalism for neuro-symbolic AI",
+      "description": "arXiv:2601.15442v1 Announce Type: new \nAbstract: The unification of neural and symbolic approaches to artificial intelligence remains a central open challenge. In this work, we introduce a tensor network formalism, which captures sparsity principles originating in the different approaches in tensor decompositions. In particular, we describe a basis encoding scheme for functions and model neural decompositions as tensor decompositions. The proposed formalism can be applied to represent logical fo",
+      "link": "https://arxiv.org/abs/2601.15442",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-22"
+      "date": "2026-01-23"
     },
     {
-      "title": "Local Language Models for Context-Aware Adaptive Anonymization of Sensitive Text",
-      "title_zh": "Local Language Models for Context-Aware Adaptive Anonymization of Sensitive Text",
-      "description": "arXiv:2601.14683v1 Announce Type: new \nAbstract: Qualitative research often contains personal, contextual, and organizational details that pose privacy risks if not handled appropriately. Manual anonymization is time-consuming, inconsistent, and frequently omits critical identifiers. Existing automated tools tend to rely on pattern matching or fixed rules, which fail to capture context and may alter the meaning of the data. This study uses local LLMs to build a reliable, repeatable, and context-",
-      "link": "https://arxiv.org/abs/2601.14683",
+      "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
+      "title_zh": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
+      "description": "arXiv:2601.15322v1 Announce Type: new \nAbstract: LLM agents struggle with regulatory audit replay: when asked to reproduce a flagged transaction decision with identical inputs, most deployments fail to return consistent results. This paper introduces the Determinism-Faithfulness Assurance Harness (DFAH), a framework for measuring trajectory determinism and evidence-conditioned faithfulness in tool-using agents deployed in financial services.\n  Across 74 configurations (12 models, 4 providers, 8-",
+      "link": "https://arxiv.org/abs/2601.15322",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-22"
+      "date": "2026-01-23"
     },
     {
-      "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
-      "title_zh": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
-      "description": "arXiv:2601.14456v1 Announce Type: new \nAbstract: Recent work shows that fine-tuned Large Language Models (LLMs) can achieve high valid plan rates on PDDL planning tasks. However, it remains unclear whether this reflects transferable planning competence or domain-specific memorization. In this work, we fine-tune a 1.7B-parameter LLM on 40,000 domain-problem-plan tuples from 10 IPC 2023 domains, and evaluate both in-domain and cross-domain generalization. While the model reaches 82.9% valid plan r",
-      "link": "https://arxiv.org/abs/2601.14456",
+      "title": "Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models",
+      "title_zh": "Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models",
+      "description": "arXiv:2601.15436v1 Announce Type: new \nAbstract: We propose a novel way to evaluate sycophancy of LLMs in a direct and neutral way, mitigating various forms of uncontrolled bias, noise, or manipulative language, deliberately injected to prompts in prior works. A key novelty in our approach is the use of LLM-as-a-judge, evaluation of sycophancy as a zero-sum game in a bet setting. Under this framework, sycophancy serves one individual (the user) while explicitly incurring cost on another. Compari",
+      "link": "https://arxiv.org/abs/2601.15436",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-22"
+      "date": "2026-01-23"
     },
     {
-      "title": "DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs",
-      "title_zh": "DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs",
-      "description": "arXiv:2601.14711v1 Announce Type: new \nAbstract: Optimizing the advertiser's cumulative value of winning impressions under budget constraints poses a complex challenge in online advertising, under the paradigm of AI-Generated Bidding (AIGB). Advertisers often have personalized objectives but limited historical interaction data, resulting in few-shot scenarios where traditional reinforcement learning (RL) methods struggle to perform effectively. Large Language Models (LLMs) offer a promising alte",
-      "link": "https://arxiv.org/abs/2601.14711",
+      "title": "Logic Programming on Knowledge Graph Networks And its Application in Medical Domain",
+      "title_zh": "Logic Programming on Knowledge Graph Networks And its Application in Medical Domain",
+      "description": "arXiv:2601.15347v1 Announce Type: new \nAbstract: The rash development of knowledge graph research has brought big driving force to its application in many areas, including the medicine and healthcare domain. However, we have found that the application of some major information processing techniques on knowledge graph still lags behind. This defect includes the failure to make sufficient use of advanced logic reasoning, advanced artificial intelligence techniques, special-purpose programming lang",
+      "link": "https://arxiv.org/abs/2601.15347",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-22"
+      "date": "2026-01-23"
     },
     {
-      "title": "Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation",
-      "title_zh": "Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation",
-      "description": "arXiv:2601.14691v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as judges to evaluate agent performance, particularly in non-verifiable settings where judgments rely on agent trajectories including chain-of-thought (CoT) reasoning. This paradigm implicitly assumes that the agent's CoT faithfully reflects both its internal reasoning and the underlying environment state. We show this assumption is brittle: LLM judges are highly susceptible to manipulation of age",
-      "link": "https://arxiv.org/abs/2601.14691",
+      "title": "Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents",
+      "title_zh": "Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents",
+      "description": "arXiv:2601.15311v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are fundamentally constrained by the quadratic computational cost of self-attention and the \"Lost in the Middle\" phenomenon, where reasoning capabilities degrade as context windows expand. Existing solutions, primarily \"Flat RAG\" architectures relying on vector databases, treat memory as an unstructured bag of embeddings. This approach fails to capture the hierarchical and temporal structure of long-horizon interaction",
+      "link": "https://arxiv.org/abs/2601.15311",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-22"
-    },
-    {
-      "title": "Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems",
-      "title_zh": "Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems",
-      "description": "arXiv:2601.14662v1 Announce Type: new \nAbstract: Graph-based retrieval-augmented generation (GraphRAG) systems construct knowledge graphs over document collections to support multi-hop reasoning. While prior work shows that GraphRAG responses may leak retrieved subgraphs, the feasibility of query-efficient reconstruction of the hidden graph structure remains unexplored under realistic query budgets. We study a budget-constrained black-box setting where an adversary adaptively queries the system ",
-      "link": "https://arxiv.org/abs/2601.14662",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-22"
+      "date": "2026-01-23"
     }
   ]
 }
