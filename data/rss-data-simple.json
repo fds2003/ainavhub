@@ -37,24 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables",
-      "title_zh": "Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables",
-      "description": "arXiv:2601.15306v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have enabled their integration into clinical decision-making; however, hidden biases against patients across racial, social, economic, and clinical backgrounds persist. In this study, we investigate bias in LLM-based medical AI systems applied to emergency department (ED) triage. We employ 32 patient-level proxy variables, each represented by paired positive and negative qualifiers, and evaluate thei",
-      "link": "https://arxiv.org/abs/2601.15306",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
-    },
-    {
-      "title": "The Dark Side of AI Transformers: Sentiment Polarization & the Loss of Business Neutrality by NLP Transformers",
-      "title_zh": "The Dark Side of AI Transformers: Sentiment Polarization & the Loss of Business Neutrality by NLP Transformers",
-      "description": "arXiv:2601.15509v1 Announce Type: new \nAbstract: The use of Transfer Learning & Transformers has steadily improved accuracy and has significantly contributed in solving complex computation problems. However, this transformer led accuracy improvement in Applied AI Analytics specifically in sentiment analytics comes with the dark side. It is observed during experiments that a lot of these improvements in transformer led accuracy of one class of sentiment has been at the cost of polarization of ano",
-      "link": "https://arxiv.org/abs/2601.15509",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -89,60 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Reliability by design: quantifying and eliminating fabrication risk in LLMs. From generative to consultative AI: a comparative analysis in the legal domain and lessons for high-stakes knowledge bases",
-      "title_zh": "Reliability by design: quantifying and eliminating fabrication risk in LLMs. From generative to consultative AI: a comparative analysis in the legal domain and lessons for high-stakes knowledge bases",
-      "description": "arXiv:2601.15476v1 Announce Type: new \nAbstract: This paper examines how to make large language models reliable for high-stakes legal work by reducing hallucinations. It distinguishes three AI paradigms: (1) standalone generative models (\"creative oracle\"), (2) basic retrieval-augmented systems (\"expert archivist\"), and (3) an advanced, end-to-end optimized RAG system (\"rigorous archivist\"). The authors introduce two reliability metrics -False Citation Rate (FCR) and Fabricated Fact Rate (FFR)- ",
-      "link": "https://arxiv.org/abs/2601.15476",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
-    },
-    {
-      "title": "A tensor network formalism for neuro-symbolic AI",
-      "title_zh": "A tensor network formalism for neuro-symbolic AI",
-      "description": "arXiv:2601.15442v1 Announce Type: new \nAbstract: The unification of neural and symbolic approaches to artificial intelligence remains a central open challenge. In this work, we introduce a tensor network formalism, which captures sparsity principles originating in the different approaches in tensor decompositions. In particular, we describe a basis encoding scheme for functions and model neural decompositions as tensor decompositions. The proposed formalism can be applied to represent logical fo",
-      "link": "https://arxiv.org/abs/2601.15442",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
-    },
-    {
-      "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
-      "title_zh": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
-      "description": "arXiv:2601.15322v1 Announce Type: new \nAbstract: LLM agents struggle with regulatory audit replay: when asked to reproduce a flagged transaction decision with identical inputs, most deployments fail to return consistent results. This paper introduces the Determinism-Faithfulness Assurance Harness (DFAH), a framework for measuring trajectory determinism and evidence-conditioned faithfulness in tool-using agents deployed in financial services.\n  Across 74 configurations (12 models, 4 providers, 8-",
-      "link": "https://arxiv.org/abs/2601.15322",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
-    },
-    {
-      "title": "Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models",
-      "title_zh": "Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models",
-      "description": "arXiv:2601.15436v1 Announce Type: new \nAbstract: We propose a novel way to evaluate sycophancy of LLMs in a direct and neutral way, mitigating various forms of uncontrolled bias, noise, or manipulative language, deliberately injected to prompts in prior works. A key novelty in our approach is the use of LLM-as-a-judge, evaluation of sycophancy as a zero-sum game in a bet setting. Under this framework, sycophancy serves one individual (the user) while explicitly incurring cost on another. Compari",
-      "link": "https://arxiv.org/abs/2601.15436",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
-    },
-    {
-      "title": "Logic Programming on Knowledge Graph Networks And its Application in Medical Domain",
-      "title_zh": "Logic Programming on Knowledge Graph Networks And its Application in Medical Domain",
-      "description": "arXiv:2601.15347v1 Announce Type: new \nAbstract: The rash development of knowledge graph research has brought big driving force to its application in many areas, including the medicine and healthcare domain. However, we have found that the application of some major information processing techniques on knowledge graph still lags behind. This defect includes the failure to make sufficient use of advanced logic reasoning, advanced artificial intelligence techniques, special-purpose programming lang",
-      "link": "https://arxiv.org/abs/2601.15347",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
-    },
-    {
-      "title": "Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents",
-      "title_zh": "Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents",
-      "description": "arXiv:2601.15311v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are fundamentally constrained by the quadratic computational cost of self-attention and the \"Lost in the Middle\" phenomenon, where reasoning capabilities degrade as context windows expand. Existing solutions, primarily \"Flat RAG\" architectures relying on vector databases, treat memory as an unstructured bag of embeddings. This approach fails to capture the hierarchical and temporal structure of long-horizon interaction",
-      "link": "https://arxiv.org/abs/2601.15311",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-01-23"
     }
   ]
 }
