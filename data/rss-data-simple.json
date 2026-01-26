@@ -28,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification",
+      "title_zh": "LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification",
+      "description": "arXiv:2601.16549v1 Announce Type: new \nAbstract: The combination of multimodal Vision-Language Models (VLMs) and Large Language Models (LLMs) opens up new possibilities for medical classification. This work offers a rigorous, unified benchmark by using four publicly available datasets covering text and image modalities (binary and multiclass complexity) that contrasts traditional Machine Learning (ML) with contemporary transformer-based techniques. We evaluated three model classes for each task:",
+      "link": "https://arxiv.org/abs/2601.16549",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -35,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems",
+      "title_zh": "When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems",
+      "description": "arXiv:2601.16280v1 Announce Type: new \nAbstract: Multi-agent systems powered by large language models (LLMs) are transforming enterprise automation, yet systematic evaluation methodologies for assessing tool-use reliability remain underdeveloped. We introduce a comprehensive diagnostic framework that leverages big data analytics to evaluate procedural reliability in intelligent agent systems, addressing critical needs for SME-centric deployment in privacy-sensitive environments. Our approach fea",
+      "link": "https://arxiv.org/abs/2601.16280",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -71,6 +89,60 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
+      "title_zh": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
+      "description": "arXiv:2601.16344v1 Announce Type: new \nAbstract: Data science agents promise to accelerate discovery and insight-generation by turning data into executable analyses and findings. Yet existing data science benchmarks fall short due to fragmented evaluation interfaces that make cross-benchmark comparison difficult, narrow task coverage and a lack of rigorous data grounding. In particular, we show that a substantial portion of tasks in current benchmarks can be solved without using the actual data.",
+      "link": "https://arxiv.org/abs/2601.16344",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems",
+      "title_zh": "SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems",
+      "description": "arXiv:2601.16286v1 Announce Type: new \nAbstract: Agentic AI pipelines suffer from a hidden inefficiency: they frequently reconstruct identical intermediate logic, such as metric normalization or chart scaffolding, even when the user's natural language phrasing is entirely novel. Conventional boundary caching fails to capture this inefficiency because it treats inference as a monolithic black box.\n  We introduce SemanticALLI, a pipeline-aware architecture within Alli (PMG's marketing intelligence",
+      "link": "https://arxiv.org/abs/2601.16286",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents",
+      "title_zh": "LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents",
+      "description": "arXiv:2601.16649v1 Announce Type: new \nAbstract: Large language models can perform well on many isolated tasks, yet they continue to struggle on multi-turn, long-horizon agentic problems that require skills such as planning, state tracking, and long context processing. In this work, we aim to better understand the relative importance of advancing these underlying capabilities for success on such tasks. We develop an oracle counterfactual framework for multi-turn problems that asks: how would an ",
+      "link": "https://arxiv.org/abs/2601.16649",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+      "title_zh": "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+      "description": "arXiv:2601.16529v1 Announce Type: new \nAbstract: Large language models (LLMs) show promise in clinical decision support yet risk acquiescing to patient pressure for inappropriate care. We introduce SycoEval-EM, a multi-agent simulation framework evaluating LLM robustness through adversarial patient persuasion in emergency medicine. Across 20 LLMs and 1,875 encounters spanning three Choosing Wisely scenarios, acquiescence rates ranged from 0-100\\%. Models showed higher vulnerability to imaging re",
+      "link": "https://arxiv.org/abs/2601.16529",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "Doc2AHP: Inferring Structured Multi-Criteria Decision Models via Semantic Trees with LLMs",
+      "title_zh": "Doc2AHP: Inferring Structured Multi-Criteria Decision Models via Semantic Trees with LLMs",
+      "description": "arXiv:2601.16479v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) demonstrate remarkable proficiency in semantic understanding, they often struggle to ensure structural consistency and reasoning reliability in complex decision-making tasks that demand rigorous logic. Although classical decision theories, such as the Analytic Hierarchy Process (AHP), offer systematic rational frameworks, their construction relies heavily on labor-intensive domain expertise, creating an \"expert b",
+      "link": "https://arxiv.org/abs/2601.16479",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "Mixture-of-Models: Unifying Heterogeneous Agents via N-Way Self-Evaluating Deliberation",
+      "title_zh": "Mixture-of-Models: Unifying Heterogeneous Agents via N-Way Self-Evaluating Deliberation",
+      "description": "arXiv:2601.16863v1 Announce Type: new \nAbstract: This paper introduces the N-Way Self-Evaluating Deliberation (NSED) protocol, a Runtime Mixture-of-Models (MoM) architecture that constructs emergent composite models from a plurality of distinct expert agents. Unlike traditional Mixture-of-Experts (MoE) which rely on static gating networks, NSED employs a Dynamic Expertise Broker - a runtime optimization engine that treats model selection as a variation of the Knapsack Problem, binding heterogene",
+      "link": "https://arxiv.org/abs/2601.16863",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-01-26"
     }
   ]
 }
