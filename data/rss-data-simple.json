@@ -34,7 +34,7 @@
       "link": "https://arxiv.org/abs/2601.19955",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -88,16 +88,16 @@
       "link": "https://arxiv.org/abs/2601.20206",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     },
     {
       "title": "Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control",
       "title_zh": "Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control",
-      "description": "arXiv:2601.20090v1 Announce Type: new \nAbstract: Large language model (LLM)-powered agents can translate high-level user intents into plans and actions in an environment. Yet after observing an outcome, users may wonder: What if I had phrased my intent differently? We introduce a framework that enables such counterfactual reasoning in agentic LLM-driven control scenarios, while providing formal reliability guarantees. Our approach models the closed-loop interaction between a user, an LLM-based a",
+      "description": "arXiv:2601.20090v2 Announce Type: new \nAbstract: Large language model (LLM)-powered agents can translate high-level user intents into plans and actions in an environment. Yet after observing an outcome, users may wonder: What if I had phrased my intent differently? We introduce a framework that enables such counterfactual reasoning in agentic LLM-driven control scenarios, while providing formal reliability guarantees. Our approach models the closed-loop interaction between a user, an LLM-based a",
       "link": "https://arxiv.org/abs/2601.20090",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     },
     {
       "title": "Insight Agents: An LLM-Based Multi-Agent System for Data Insights",
@@ -106,7 +106,7 @@
       "link": "https://arxiv.org/abs/2601.20048",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     },
     {
       "title": "Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints",
@@ -115,7 +115,7 @@
       "link": "https://arxiv.org/abs/2601.20021",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     },
     {
       "title": "Scaling Medical Reasoning Verification via Tool-Integrated Reinforcement Learning",
@@ -124,7 +124,7 @@
       "link": "https://arxiv.org/abs/2601.20221",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     },
     {
       "title": "Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models",
@@ -133,7 +133,7 @@
       "link": "https://arxiv.org/abs/2601.20305",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     },
     {
       "title": "ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue",
@@ -142,7 +142,7 @@
       "link": "https://arxiv.org/abs/2601.20323",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-01-29"
+      "date": "2026-01-30"
     }
   ]
 }
