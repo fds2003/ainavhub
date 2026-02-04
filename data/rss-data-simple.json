@@ -37,15 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Dynamic Mix Precision Routing for Efficient Multi-step LLM Interaction",
-      "title_zh": "Dynamic Mix Precision Routing for Efficient Multi-step LLM Interaction",
-      "description": "arXiv:2602.02711v1 Announce Type: new \nAbstract: Large language models (LLM) achieve strong performance in long-horizon decision-making tasks through multi-step interaction and reasoning at test time. While practitioners commonly believe a higher task success rate necessitates the use of a larger and stronger LLM model, multi-step interaction with a large LLM incurs prohibitive inference cost. To address this problem, we explore the use of low-precision quantized LLM in the long-horizon decision",
-      "link": "https://arxiv.org/abs/2602.02711",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-04"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -53,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "Scalable and Secure AI Inference in Healthcare: A Comparative Benchmarking of FastAPI and Triton Inference Server on Kubernetes",
+      "title_zh": "Scalable and Secure AI Inference in Healthcare: A Comparative Benchmarking of FastAPI and Triton Inference Server on Kubernetes",
+      "description": "arXiv:2602.00053v1 Announce Type: new \nAbstract: Efficient and scalable deployment of machine learning (ML) models is a prerequisite for modern production environments, particularly within regulated domains such as healthcare and pharmaceuticals. In these settings, systems must balance competing requirements, including minimizing inference latency for real-time clinical decision support, maximizing throughput for batch processing of medical records, and ensuring strict adherence to data privacy ",
+      "link": "https://arxiv.org/abs/2602.00053",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-02-04"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -82,64 +82,64 @@
       "date": "2021-10-21"
     },
     {
-      "title": "MARS: Modular Agent with Reflective Search for Automated AI Research",
-      "title_zh": "MARS: Modular Agent with Reflective Search for Automated AI Research",
-      "description": "arXiv:2602.02660v1 Announce Type: new \nAbstract: Automating AI research differs from general software engineering due to computationally expensive evaluation (e.g., model training) and opaque performance attribution. Current LLM-based agents struggle here, often generating monolithic scripts that ignore execution costs and causal factors. We introduce MARS (Modular Agent with Reflective Search), a framework optimized for autonomous AI research. MARS relies on three pillars: (1) Budget-Aware Plan",
-      "link": "https://arxiv.org/abs/2602.02660",
+      "title": "MHDash: An Online Platform for Benchmarking Mental Health-Aware AI Assistants",
+      "title_zh": "MHDash: An Online Platform for Benchmarking Mental Health-Aware AI Assistants",
+      "description": "arXiv:2602.00353v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly applied in mental health support systems, where reliable recognition of high-risk states such as suicidal ideation and self-harm is safety-critical. However, existing evaluations primarily rely on aggregate performance metrics, which often obscure risk-specific failure modes and provide limited insight into model behavior in realistic, multi-turn interactions. We present MHDash, an open-source platform",
+      "link": "https://arxiv.org/abs/2602.00353",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-02-04"
     },
     {
-      "title": "A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior",
-      "title_zh": "A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior",
-      "description": "arXiv:2602.02639v1 Announce Type: new \nAbstract: LLM self-explanations are often presented as a promising tool for AI oversight, yet their faithfulness to the model's true reasoning process is poorly understood. Existing faithfulness metrics have critical limitations, typically relying on identifying unfaithfulness via adversarial prompting or detecting reasoning errors. These methods overlook the predictive value of explanations. We introduce Normalized Simulatability Gain (NSG), a general and ",
-      "link": "https://arxiv.org/abs/2602.02639",
+      "title": "Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning",
+      "title_zh": "Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning",
+      "description": "arXiv:2602.00298v1 Announce Type: new \nAbstract: Emergent misalignment poses risks to AI safety as language models are increasingly used for autonomous tasks. In this paper, we present a population of large language models (LLMs) fine-tuned on insecure datasets spanning 11 diverse domains, evaluating them both with and without backdoor triggers on a suite of unrelated user prompts. Our evaluation experiments on \\texttt{Qwen2.5-Coder-7B-Instruct} and \\texttt{GPT-4o-mini} reveal two key findings: ",
+      "link": "https://arxiv.org/abs/2602.00298",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-02-04"
     },
     {
-      "title": "ATLAS : Adaptive Self-Evolutionary Research Agent with Task-Distributed Multi-LLM Supporters",
-      "title_zh": "ATLAS : Adaptive Self-Evolutionary Research Agent with Task-Distributed Multi-LLM Supporters",
-      "description": "arXiv:2602.02709v1 Announce Type: new \nAbstract: Recent multi-LLM agent systems perform well in prompt optimization and automated problem-solving, but many either keep the solver frozen after fine-tuning or rely on a static preference-optimization loop, which becomes intractable for long-horizon tasks. We propose ATLAS (Adaptive Task-distributed Learning for Agentic Self-evolution), a task-distributed framework that iteratively develops a lightweight research agent while delegating complementary",
-      "link": "https://arxiv.org/abs/2602.02709",
+      "title": "From Gameplay Traces to Game Mechanics: Causal Induction with Large Language Models",
+      "title_zh": "From Gameplay Traces to Game Mechanics: Causal Induction with Large Language Models",
+      "description": "arXiv:2602.00190v1 Announce Type: new \nAbstract: Deep learning agents can achieve high performance in complex game domains without often understanding the underlying causal game mechanics. To address this, we investigate Causal Induction: the ability to infer governing laws from observational data, by tasking Large Language Models (LLMs) with reverse-engineering Video Game Description Language (VGDL) rules from gameplay traces. To reduce redundancy, we select nine representative games from the G",
+      "link": "https://arxiv.org/abs/2602.00190",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-02-04"
     },
     {
-      "title": "Experience-Driven Multi-Agent Systems Are Training-free Context-aware Earth Observers",
-      "title_zh": "Experience-Driven Multi-Agent Systems Are Training-free Context-aware Earth Observers",
-      "description": "arXiv:2602.02559v1 Announce Type: new \nAbstract: Recent advances have enabled large language model (LLM) agents to solve complex tasks by orchestrating external tools. However, these agents often struggle in specialized, tool-intensive domains that demand long-horizon execution, tight coordination across modalities, and strict adherence to implicit tool constraints. Earth Observation (EO) tasks exemplify this challenge due to the multi-modal and multi-temporal data inputs, as well as the require",
-      "link": "https://arxiv.org/abs/2602.02559",
+      "title": "Localizing and Correcting Errors for LLM-based Planners",
+      "title_zh": "Localizing and Correcting Errors for LLM-based Planners",
+      "description": "arXiv:2602.00276v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated strong reasoning capabilities on math and coding, but frequently fail on symbolic classical planning tasks. Our studies, as well as prior work, show that LLM-generated plans routinely violate domain constraints given in their instructions (e.g., walking through walls). To address this failure, we propose iteratively augmenting instructions with Localized In-Context Learning (L-ICL) demonstrations: tar",
+      "link": "https://arxiv.org/abs/2602.00276",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-02-04"
     },
     {
-      "title": "Uncertainty and Fairness Awareness in LLM-Based Recommendation Systems",
-      "title_zh": "Uncertainty and Fairness Awareness in LLM-Based Recommendation Systems",
-      "description": "arXiv:2602.02582v1 Announce Type: new \nAbstract: Large language models (LLMs) enable powerful zero-shot recommendations by leveraging broad contextual knowledge, yet predictive uncertainty and embedded biases threaten reliability and fairness. This paper studies how uncertainty and fairness evaluations affect the accuracy, consistency, and trustworthiness of LLM-generated recommendations. We introduce a benchmark of curated metrics and a dataset annotated for eight demographic attributes (31 cat",
-      "link": "https://arxiv.org/abs/2602.02582",
+      "title": "SayNext-Bench: Why Do LLMs Struggle with Next-Utterance Prediction?",
+      "title_zh": "SayNext-Bench: Why Do LLMs Struggle with Next-Utterance Prediction?",
+      "description": "arXiv:2602.00327v1 Announce Type: new \nAbstract: We explore the use of large language models (LLMs) for next-utterance prediction in human dialogue. Despite recent advances in LLMs demonstrating their ability to engage in natural conversations with users, we show that even leading models surprisingly struggle to predict a human speaker's next utterance. Instead, humans can readily anticipate forthcoming utterances based on multimodal cues, such as gestures, gaze, and emotional tone, from the con",
+      "link": "https://arxiv.org/abs/2602.00327",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-02-04"
     },
     {
-      "title": "PeerRank: Autonomous LLM Evaluation Through Web-Grounded, Bias-Controlled Peer Review",
-      "title_zh": "PeerRank: Autonomous LLM Evaluation Through Web-Grounded, Bias-Controlled Peer Review",
-      "description": "arXiv:2602.02589v1 Announce Type: new \nAbstract: Evaluating large language models typically relies on human-authored benchmarks, reference answers, and human or single-model judgments, approaches that scale poorly, become quickly outdated, and mismatch open-world deployments that depend on web retrieval and synthesis. We introduce PeerRank, a fully autonomous end-to-end evaluation framework in which models generate evaluation tasks, answer them with category-scoped live web grounding, judge peer",
-      "link": "https://arxiv.org/abs/2602.02589",
+      "title": "Complete Identification of Deep ReLU Neural Networks by Many-Valued Logic",
+      "title_zh": "Complete Identification of Deep ReLU Neural Networks by Many-Valued Logic",
+      "description": "arXiv:2602.00266v1 Announce Type: new \nAbstract: Deep ReLU neural networks admit nontrivial functional symmetries: vastly different architectures and parameters (weights and biases) can realize the same function. We address the complete identification problem -- given a function f, deriving the architecture and parameters of all feedforward ReLU networks giving rise to f. We translate ReLU networks into Lukasiewicz logic formulae, and effect functional equivalent network transformations through ",
+      "link": "https://arxiv.org/abs/2602.00266",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-02-04"
     },
     {
-      "title": "CreditAudit: 2D Auditing for LLM Evaluation and Selection",
-      "title_zh": "CreditAudit: 2D Auditing for LLM Evaluation and Selection",
-      "description": "arXiv:2602.02515v1 Announce Type: new \nAbstract: Leaderboard scores on public benchmarks have been steadily rising and converging, with many frontier language models now separated by only marginal differences. However, these scores often fail to match users' day to day experience, because system prompts, output protocols, and interaction modes evolve under routine iteration, and in agentic multi step pipelines small protocol shifts can trigger disproportionate failures, leaving practitioners unc",
-      "link": "https://arxiv.org/abs/2602.02515",
+      "title": "Position: Agentic Evolution is the Path to Evolving LLMs",
+      "title_zh": "Position: Agentic Evolution is the Path to Evolving LLMs",
+      "description": "arXiv:2602.00359v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) move from curated training sets into open-ended real-world environments, a fundamental limitation emerges: static training cannot keep pace with continual deployment environment change. Scaling training-time and inference-time compute improves static capability but does not close this train-deploy gap. We argue that addressing this limitation requires a new scaling axis-evolution. Existing deployment-time adaptation",
+      "link": "https://arxiv.org/abs/2602.00359",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-02-04"
