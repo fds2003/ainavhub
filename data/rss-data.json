@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "When AI Persuades: Adversarial Explanation Attacks on Human Trust in AI-Assisted Decision Making",
-      "link": "https://arxiv.org/abs/2602.04003",
-      "description": "arXiv:2602.04003v1 Announce Type: new \nAbstract: Most adversarial threats in artificial intelligence target the computational behavior of models rather than the humans who rely on them. Yet modern AI systems increasingly operate within human decision loops, where users interpret and act on model recommendations. Large Language Models generate fluent natural-language explanations that shape how users perceive and trust AI outputs, revealing a new attack surface at the cognitive layer: the communi",
-      "pubDate": "2026-02-06T05:00:00.000Z",
+      "title": "VERA-MH: Reliability and Validity of an Open-Source AI Safety Evaluation in Mental Health",
+      "link": "https://arxiv.org/abs/2602.05088",
+      "description": "arXiv:2602.05088v1 Announce Type: new \nAbstract: Millions now use leading generative AI chatbots for psychological support. Despite the promise related to availability and scale, the single most pressing question in AI for mental health is whether these tools are safe. The Validation of Ethical and Responsible AI in Mental Health (VERA-MH) evaluation was recently proposed to meet the urgent need for an evidence-based automated safety benchmark. This study aimed to examine the clinical validity a",
+      "pubDate": "2026-02-07T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 36,
-      "title_zh": "When AI Persuades: Adversarial Explanation Attacks on Human Trust in AI-Assisted Decision Making"
+      "aiScore": 44,
+      "title_zh": "VERA-MH: Reliability and Validity of an Open-Source AI Safety Evaluation in Mental Health"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence",
+      "link": "https://arxiv.org/abs/2602.04986",
+      "description": "arXiv:2602.04986v1 Announce Type: new \nAbstract: We endorse and expand upon Susan Schneider's critique of the linear model of AI progress and introduce two novel concepts: \"familiar intelligence\" and \"strange intelligence\". AI intelligence is likely to be strange intelligence, defying familiar patterns of ability and inability, combining superhuman capacities in some domains with subhuman performance in other domains, and even within domains sometimes combining superhuman insight with surprising",
+      "pubDate": "2026-02-07T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 25,
+      "title_zh": "Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -49,6 +59,16 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation",
+      "link": "https://arxiv.org/abs/2602.05048",
+      "description": "arXiv:2602.05048v1 Announce Type: new \nAbstract: Joint planning through language-based interactions is a key area of human-AI teaming. Planning problems in the open world often involve various aspects of incomplete information and unknowns, e.g., objects involved, human goals/intents -- thus leading to knowledge gaps in joint planning. We consider the problem of discovering optimal interaction strategies for AI agents to actively elicit human inputs in object-driven planning. To this end, we pro",
+      "pubDate": "2026-02-07T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 19,
+      "title_zh": "MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -91,79 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Interfaze: The Future of AI is built on Task-Specific Small Models",
-      "link": "https://arxiv.org/abs/2602.04101",
-      "description": "arXiv:2602.04101v1 Announce Type: new \nAbstract: We present Interfaze, a system that treats modern LLM applications as a problem of building and acting over context, not just picking the right monolithic model. Instead of a single transformer, we combine (i) a stack of heterogeneous DNNs paired with small language models as perception modules for OCR involving complex PDFs, charts and diagrams, and multilingual ASR with (ii) a context-construction layer that crawls, indexes, and parses external ",
-      "pubDate": "2026-02-06T05:00:00.000Z",
+      "title": "Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents",
+      "link": "https://arxiv.org/abs/2602.05073",
+      "description": "arXiv:2602.05073v1 Announce Type: new \nAbstract: Uncertainty quantification (UQ) for large language models (LLMs) is a key building block for safety guardrails of daily LLM applications. Yet, even as LLM agents are increasingly deployed in highly complex tasks, most UQ research still centers on single-turn question-answering. We argue that UQ research must shift to realistic settings with interactive agents, and that a new principled framework for agent UQ is needed. This paper presents the firs",
+      "pubDate": "2026-02-07T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 15,
-      "title_zh": "Interfaze: The Future of AI is built on Task-Specific Small Models"
+      "title_zh": "Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents"
     },
     {
-      "title": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks",
-      "link": "https://arxiv.org/abs/2602.03900",
-      "description": "arXiv:2602.03900v1 Announce Type: new \nAbstract: Large Language Models (LLM) can struggle with reasoning ability and planning tasks. Many prompting techniques have been developed to assist with LLM reasoning, notably Chain-of-Thought (CoT); however, these techniques, too, have come under scrutiny as LLMs' ability to reason at all has come into question. Borrowing from the domain of cognitive and educational science, this paper investigates whether the Task-Method-Knowledge (TMK) framework can im",
-      "pubDate": "2026-02-06T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Knowledge Model Prompting Increases LLM Performance on Planning Tasks"
-    },
-    {
-      "title": "Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation",
-      "link": "https://arxiv.org/abs/2602.03950",
-      "description": "arXiv:2602.03950v1 Announce Type: new \nAbstract: Mathematical problem solving is a fundamental benchmark for assessing the reasoning capabilities of artificial intelligence and a gateway to applications in education, science, and engineering where reliable symbolic reasoning is essential. Although recent advances in multi-agent LLM-based systems have enhanced their mathematical reasoning capabilities, they still lack a reliably revisable representation of the reasoning process. Existing agents e",
-      "pubDate": "2026-02-06T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation"
-    },
-    {
-      "title": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent",
-      "link": "https://arxiv.org/abs/2602.03955",
-      "description": "arXiv:2602.03955v1 Announce Type: new \nAbstract: While large language model (LLM) multi-agent systems achieve superior reasoning performance through iterative debate, practical deployment is limited by their high computational cost and error propagation. This paper proposes AgentArk, a novel framework to distill multi-agent dynamics into the weights of a single model, effectively transforming explicit test-time interactions into implicit model capabilities. This equips a single agent with the in",
-      "pubDate": "2026-02-06T05:00:00.000Z",
+      "title": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search",
+      "link": "https://arxiv.org/abs/2602.05014",
+      "description": "arXiv:2602.05014v1 Announce Type: new \nAbstract: With the rapid progress of tool-using and agentic large language models (LLMs), Retrieval-Augmented Generation (RAG) is evolving from one-shot, passive retrieval into multi-turn, decision-driven evidence acquisition. Despite strong results in open-domain settings, existing agentic search frameworks commonly treat long documents as flat collections of chunks, underutilizing document-native priors such as hierarchical organization and sequential dis",
+      "pubDate": "2026-02-07T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent"
+      "title_zh": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search"
     },
     {
-      "title": "Scaling In-Context Online Learning Capability of LLMs via Cross-Episode Meta-RL",
-      "link": "https://arxiv.org/abs/2602.04089",
-      "description": "arXiv:2602.04089v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve strong performance when all task-relevant information is available upfront, as in static prediction and instruction-following problems. However, many real-world decision-making tasks are inherently online: crucial information must be acquired through interaction, feedback is delayed, and effective behavior requires balancing information collection and exploitation over time. While in-context learning enables ad",
-      "pubDate": "2026-02-06T05:00:00.000Z",
+      "title": "Optimizing Mission Planning for Multi-Debris Rendezvous Using Reinforcement Learning with Refueling and Adaptive Collision Avoidance",
+      "link": "https://arxiv.org/abs/2602.05075",
+      "description": "arXiv:2602.05075v1 Announce Type: new \nAbstract: As the orbital environment around Earth becomes increasingly crowded with debris, active debris removal (ADR) missions face significant challenges in ensuring safe operations while minimizing the risk of in-orbit collisions. This study presents a reinforcement learning (RL) based framework to enhance adaptive collision avoidance in ADR missions, specifically for multi-debris removal using small satellites. Small satellites are increasingly adopted",
+      "pubDate": "2026-02-07T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Scaling In-Context Online Learning Capability of LLMs via Cross-Episode Meta-RL"
+      "aiScore": 6,
+      "title_zh": "Optimizing Mission Planning for Multi-Debris Rendezvous Using Reinforcement Learning with Refueling and Adaptive Collision Avoidance"
     },
     {
-      "title": "Active Epistemic Control for Query-Efficient Verified Planning",
-      "link": "https://arxiv.org/abs/2602.03974",
-      "description": "arXiv:2602.03974v1 Announce Type: new \nAbstract: Planning in interactive environments is challenging under partial observability: task-critical preconditions (e.g., object locations or container states) may be unknown at decision time, yet grounding them through interaction is costly. Learned world models can cheaply predict missing facts, but prediction errors can silently induce infeasible commitments. We present \\textbf{Active Epistemic Control (AEC)}, an epistemic-categorical planning layer ",
-      "pubDate": "2026-02-06T05:00:00.000Z",
+      "title": "GAMMS: Graph based Adversarial Multiagent Modeling Simulator",
+      "link": "https://arxiv.org/abs/2602.05105",
+      "description": "arXiv:2602.05105v1 Announce Type: new \nAbstract: As intelligent systems and multi-agent coordination become increasingly central to real-world applications, there is a growing need for simulation tools that are both scalable and accessible. Existing high-fidelity simulators, while powerful, are often computationally expensive and ill-suited for rapid prototyping or large-scale agent deployments. We present GAMMS (Graph based Adversarial Multiagent Modeling Simulator), a lightweight yet extensibl",
+      "pubDate": "2026-02-07T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "GAMMS: Graph based Adversarial Multiagent Modeling Simulator"
+    },
+    {
+      "title": "Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education",
+      "link": "https://arxiv.org/abs/2602.05059",
+      "description": "arXiv:2602.05059v1 Announce Type: new \nAbstract: Large Language Models are increasingly used by students to explore advanced material in computer science, including graph theory. As these tools become integrated into undergraduate and graduate coursework, it is important to understand how reliably they support mathematically rigorous thinking. This study examines the performance of a LLM on two related graph theoretic problems: a solved problem concerning the gracefulness of line graphs and an o",
+      "pubDate": "2026-02-07T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Active Epistemic Control for Query-Efficient Verified Planning"
-    },
-    {
-      "title": "Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure",
-      "link": "https://arxiv.org/abs/2602.03975",
-      "description": "arXiv:2602.03975v1 Announce Type: new \nAbstract: Test-time computation has become a primary driver of progress in large language model (LLM) reasoning, but it is increasingly bottlenecked by expensive verification. In many reasoning systems, a large fraction of verifier calls are spent on redundant or unpromising intermediate hypotheses. We study reasoning under a \\emph{verification-cost-limited} setting and ask how verification effort should be allocated across intermediate states. We propose a",
-      "pubDate": "2026-02-06T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure"
+      "title_zh": "Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-02-07T04:59:15.189Z",
+    "generatedAt": "2026-02-07T05:41:27.001Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.75
+    "averageScore": 17.6875
   }
 }
