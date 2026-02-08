@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "VERA-MH: Reliability and Validity of an Open-Source AI Safety Evaluation in Mental Health",
-      "link": "https://arxiv.org/abs/2602.05088",
-      "description": "arXiv:2602.05088v1 Announce Type: new \nAbstract: Millions now use leading generative AI chatbots for psychological support. Despite the promise related to availability and scale, the single most pressing question in AI for mental health is whether these tools are safe. The Validation of Ethical and Responsible AI in Mental Health (VERA-MH) evaluation was recently proposed to meet the urgent need for an evidence-based automated safety benchmark. This study aimed to examine the clinical validity a",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 44,
-      "title_zh": "VERA-MH: Reliability and Validity of an Open-Source AI Safety Evaluation in Mental Health"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -19,16 +9,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence",
-      "link": "https://arxiv.org/abs/2602.04986",
-      "description": "arXiv:2602.04986v1 Announce Type: new \nAbstract: We endorse and expand upon Susan Schneider's critique of the linear model of AI progress and introduce two novel concepts: \"familiar intelligence\" and \"strange intelligence\". AI intelligence is likely to be strange intelligence, defying familiar patterns of ability and inability, combining superhuman capacities in some domains with subhuman performance in other domains, and even within domains sometimes combining superhuman insight with surprising",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 25,
-      "title_zh": "Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -59,16 +39,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation",
-      "link": "https://arxiv.org/abs/2602.05048",
-      "description": "arXiv:2602.05048v1 Announce Type: new \nAbstract: Joint planning through language-based interactions is a key area of human-AI teaming. Planning problems in the open world often involve various aspects of incomplete information and unknowns, e.g., objects involved, human goals/intents -- thus leading to knowledge gaps in joint planning. We consider the problem of discovering optimal interaction strategies for AI agents to actively elicit human inputs in object-driven planning. To this end, we pro",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 19,
-      "title_zh": "MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -109,61 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents",
-      "link": "https://arxiv.org/abs/2602.05073",
-      "description": "arXiv:2602.05073v1 Announce Type: new \nAbstract: Uncertainty quantification (UQ) for large language models (LLMs) is a key building block for safety guardrails of daily LLM applications. Yet, even as LLM agents are increasingly deployed in highly complex tasks, most UQ research still centers on single-turn question-answering. We argue that UQ research must shift to realistic settings with interactive agents, and that a new principled framework for agent UQ is needed. This paper presents the firs",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents"
-    },
-    {
-      "title": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search",
-      "link": "https://arxiv.org/abs/2602.05014",
-      "description": "arXiv:2602.05014v1 Announce Type: new \nAbstract: With the rapid progress of tool-using and agentic large language models (LLMs), Retrieval-Augmented Generation (RAG) is evolving from one-shot, passive retrieval into multi-turn, decision-driven evidence acquisition. Despite strong results in open-domain settings, existing agentic search frameworks commonly treat long documents as flat collections of chunks, underutilizing document-native priors such as hierarchical organization and sequential dis",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search"
-    },
-    {
-      "title": "Optimizing Mission Planning for Multi-Debris Rendezvous Using Reinforcement Learning with Refueling and Adaptive Collision Avoidance",
-      "link": "https://arxiv.org/abs/2602.05075",
-      "description": "arXiv:2602.05075v1 Announce Type: new \nAbstract: As the orbital environment around Earth becomes increasingly crowded with debris, active debris removal (ADR) missions face significant challenges in ensuring safe operations while minimizing the risk of in-orbit collisions. This study presents a reinforcement learning (RL) based framework to enhance adaptive collision avoidance in ADR missions, specifically for multi-debris removal using small satellites. Small satellites are increasingly adopted",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Optimizing Mission Planning for Multi-Debris Rendezvous Using Reinforcement Learning with Refueling and Adaptive Collision Avoidance"
-    },
-    {
-      "title": "GAMMS: Graph based Adversarial Multiagent Modeling Simulator",
-      "link": "https://arxiv.org/abs/2602.05105",
-      "description": "arXiv:2602.05105v1 Announce Type: new \nAbstract: As intelligent systems and multi-agent coordination become increasingly central to real-world applications, there is a growing need for simulation tools that are both scalable and accessible. Existing high-fidelity simulators, while powerful, are often computationally expensive and ill-suited for rapid prototyping or large-scale agent deployments. We present GAMMS (Graph based Adversarial Multiagent Modeling Simulator), a lightweight yet extensibl",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "GAMMS: Graph based Adversarial Multiagent Modeling Simulator"
-    },
-    {
-      "title": "Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education",
-      "link": "https://arxiv.org/abs/2602.05059",
-      "description": "arXiv:2602.05059v1 Announce Type: new \nAbstract: Large Language Models are increasingly used by students to explore advanced material in computer science, including graph theory. As these tools become integrated into undergraduate and graduate coursework, it is important to understand how reliably they support mathematically rigorous thinking. This study examines the performance of a LLM on two related graph theoretic problems: a solved problem concerning the gracefulness of line graphs and an o",
-      "pubDate": "2026-02-07T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-02-08T04:24:05.426Z",
+    "totalCount": 8,
+    "generatedAt": "2026-02-08T05:54:41.449Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 17.6875
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
