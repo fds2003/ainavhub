@@ -11,6 +11,16 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
+      "title": "Incentive-Aware AI Safety via Strategic Resource Allocation: A Stackelberg Security Games Perspective",
+      "link": "https://arxiv.org/abs/2602.07259",
+      "description": "arXiv:2602.07259v1 Announce Type: new \nAbstract: As AI systems grow more capable and autonomous, ensuring their safety and reliability requires not only model-level alignment but also strategic oversight of the humans and institutions involved in their development and deployment. Existing safety frameworks largely treat alignment as a static optimization problem (e.g., tuning models to desired behavior) while overlooking the dynamic, adversarial incentives that shape how data are collected, how ",
+      "pubDate": "2026-02-10T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 24,
+      "title_zh": "Incentive-Aware AI Safety via Strategic Resource Allocation: A Stackelberg Security Games Perspective"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -39,6 +49,16 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation",
+      "link": "https://arxiv.org/abs/2602.07032",
+      "description": "arXiv:2602.07032v1 Announce Type: new \nAbstract: Finite-state reasoning, the ability to understand and implement state-dependent behavior, is central to hardware design. In this paper, we present LLM-FSM, a benchmark that evaluates how well large language models (LLMs) can recover finite-state machine (FSM) behavior from natural-language specifications and translate it into correct register transfer-level (RTL) implementations. Unlike prior specification-to-RTL benchmarks that rely on manually c",
+      "pubDate": "2026-02-10T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18,
+      "title_zh": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -81,89 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Large Language Model Reasoning Failures",
-      "link": "https://arxiv.org/abs/2602.06176",
-      "description": "arXiv:2602.06176v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have exhibited remarkable reasoning capabilities, achieving impressive results across a wide range of tasks. Despite these advances, significant reasoning failures persist, occurring even in seemingly simple scenarios. To systematically understand and address these shortcomings, we present the first comprehensive survey dedicated to reasoning failures in LLMs. We introduce a novel categorization framework that distingu",
-      "pubDate": "2026-02-09T05:00:00.000Z",
+      "title": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods",
+      "link": "https://arxiv.org/abs/2602.07040",
+      "description": "arXiv:2602.07040v1 Announce Type: new \nAbstract: We introduce Aster, an AI agent for autonomous scientific discovery capable of operating over 20 times faster than existing frameworks. Given a task, an initial program, and a script to evaluate the performance of the program, Aster iteratively improves the program, often leading to new state-of-the-art performances. Aster's significant reduction in the number of iterations required for novel discovery expands the domain of tractable problems to i",
+      "pubDate": "2026-02-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "Large Language Model Reasoning Failures"
+      "title_zh": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods"
     },
     {
-      "title": "JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks",
-      "link": "https://arxiv.org/abs/2602.06486",
-      "description": "arXiv:2602.06486v1 Announce Type: new \nAbstract: Evaluating agentic AI on open-ended professional tasks faces a fundamental dilemma between rigor and flexibility. Static rubrics provide rigorous, reproducible assessment but fail to accommodate diverse valid response strategies, while LLM-as-a-judge approaches adapt to individual responses yet suffer from instability and bias. Human experts address this dilemma by combining domain-grounded principles with dynamic, claim-level assessment. Inspired",
-      "pubDate": "2026-02-09T05:00:00.000Z",
+      "title": "Is there \"Secret Sauce'' in Large Language Model Development?",
+      "link": "https://arxiv.org/abs/2602.07238",
+      "description": "arXiv:2602.07238v1 Announce Type: new \nAbstract: Do leading LLM developers possess a proprietary ``secret sauce'', or is LLM performance driven by scaling up compute? Using training and benchmark data for 809 models released between 2022 and 2025, we estimate scaling-law regressions with release-date and developer fixed effects. We find clear evidence of developer-specific efficiency advantages, but their importance depends on where models lie in the performance distribution. At the frontier, 80",
+      "pubDate": "2026-02-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 10,
-      "title_zh": "JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks"
+      "title_zh": "Is there \"Secret Sauce'' in Large Language Model Development?"
     },
     {
-      "title": "Exposing Weaknesses of Large Reasoning Models through Graph Algorithm Problems",
-      "link": "https://arxiv.org/abs/2602.06319",
-      "description": "arXiv:2602.06319v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) have advanced rapidly; however, existing benchmarks in mathematics, code, and common-sense reasoning remain limited. They lack long-context evaluation, offer insufficient challenge, and provide answers that are difficult to verify programmatically. We introduce GrAlgoBench, a benchmark designed to evaluate LRMs through graph algorithm problems. Such problems are particularly well suited for probing reasoning abilities",
-      "pubDate": "2026-02-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Exposing Weaknesses of Large Reasoning Models through Graph Algorithm Problems"
-    },
-    {
-      "title": "AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents",
-      "link": "https://arxiv.org/abs/2602.06485",
-      "description": "arXiv:2602.06485v1 Announce Type: new \nAbstract: While Large Language Model (LLM)-based agents have shown remarkable potential for solving complex tasks, existing systems remain heavily reliant on large-scale models, leaving the capabilities of edge-scale models largely underexplored. In this paper, we present the first systematic study on training agentic models at the 4B-parameter scale. We identify three primary bottlenecks hindering the performance of edge-scale models: catastrophic forgetti",
-      "pubDate": "2026-02-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents"
-    },
-    {
-      "title": "Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2602.06107",
-      "description": "arXiv:2602.06107v1 Announce Type: new \nAbstract: Reinforcement learning (RL) for large language models (LLMs) remains expensive, particularly because the rollout is expensive. Decoupling rollout generation from policy optimization (e.g., leveraging a more efficient model to rollout) could enable substantial efficiency gains, yet doing so introduces a severe distribution mismatch that destabilizes learning. We propose Jackpot, a framework that leverages Optimal Budget Rejection Sampling (OBRS) to",
-      "pubDate": "2026-02-09T05:00:00.000Z",
+      "title": "BRIDGE: Predicting Human Task Completion Time From Model Performance",
+      "link": "https://arxiv.org/abs/2602.07267",
+      "description": "arXiv:2602.07267v1 Announce Type: new \nAbstract: Evaluating the real-world capabilities of AI systems requires grounding benchmark performance in human-interpretable measures of task difficulty. Existing approaches that rely on direct human task completion time annotations are costly, noisy, and difficult to scale across benchmarks. In this work, we propose BRIDGE, a unified psychometric framework that learns the latent difficulty scale from model responses and anchors it to human task completio",
+      "pubDate": "2026-02-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning"
+      "title_zh": "BRIDGE: Predicting Human Task Completion Time From Model Performance"
     },
     {
-      "title": "Progress Constraints for Reinforcement Learning in Behavior Trees",
-      "link": "https://arxiv.org/abs/2602.06525",
-      "description": "arXiv:2602.06525v1 Announce Type: new \nAbstract: Behavior Trees (BTs) provide a structured and reactive framework for decision-making, commonly used to switch between sub-controllers based on environmental conditions. Reinforcement Learning (RL), on the other hand, can learn near-optimal controllers but sometimes struggles with sparse rewards, safe exploration, and long-horizon credit assignment. Combining BTs with RL has the potential for mutual benefit: a BT design encodes structured domain kn",
-      "pubDate": "2026-02-09T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Progress Constraints for Reinforcement Learning in Behavior Trees"
-    },
-    {
-      "title": "Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making",
-      "link": "https://arxiv.org/abs/2602.06286",
-      "description": "arXiv:2602.06286v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as agents in high-stakes domains where optimal actions depend on both uncertainty about the world and consideration of utilities of different outcomes, yet their decision logic remains difficult to interpret. We study whether LLMs are rational utility maximizers with coherent beliefs and stable preferences. We consider behaviors of models for diagnosis challenge problems. The results provide i",
-      "pubDate": "2026-02-09T05:00:00.000Z",
+      "title": "ST-Raptor: An Agentic System for Semi-Structured Table QA",
+      "link": "https://arxiv.org/abs/2602.07034",
+      "description": "arXiv:2602.07034v1 Announce Type: new \nAbstract: Semi-structured table question answering (QA) is a challenging task that requires (1) precise extraction of cell contents and positions and (2) accurate recovery of key implicit logical structures, hierarchical relationships, and semantic associations encoded in table layouts. In practice, such tables are often interpreted manually by human experts, which is labor-intensive and time-consuming. However, automating this process remains difficult. Ex",
+      "pubDate": "2026-02-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making"
+      "title_zh": "ST-Raptor: An Agentic System for Semi-Structured Table QA"
     },
     {
-      "title": "HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction",
-      "link": "https://arxiv.org/abs/2602.06527",
-      "description": "arXiv:2602.06527v1 Announce Type: new \nAbstract: Scaling test-time compute with multi-path chain-of-thought improves reasoning accuracy, but its effectiveness depends critically on the exploration-exploitation trade-off. Existing approaches address this trade-off in rigid ways: tree-structured search hard-codes exploration through brittle expansion rules that interfere with post-trained reasoning, while parallel reasoning over-explores redundant hypothesis paths and relies on weak answer selecti",
-      "pubDate": "2026-02-09T05:00:00.000Z",
+      "title": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
+      "link": "https://arxiv.org/abs/2602.07035",
+      "description": "arXiv:2602.07035v1 Announce Type: new \nAbstract: Recently, Diffusion Large Language Models (dLLMs) have demonstrated unique efficiency advantages, enabled by their inherently parallel decoding mechanism and flexible generation paradigm. Meanwhile, despite the rapid advancement of Search Agents, their practical deployment is constrained by a fundamental limitation, termed as 1) Latency Challenge: the serial execution of multi-round reasoning, tool calling, and tool response waiting under the ReAc",
+      "pubDate": "2026-02-10T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction"
+      "title_zh": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents"
+    },
+    {
+      "title": "From Out-of-Distribution Detection to Hallucination Detection: A Geometric View",
+      "link": "https://arxiv.org/abs/2602.07253",
+      "description": "arXiv:2602.07253v1 Announce Type: new \nAbstract: Detecting hallucinations in large language models is a critical open problem with significant implications for safety and reliability. While existing hallucination detection methods achieve strong performance in question-answering tasks, they remain less effective on tasks requiring reasoning. In this work, we revisit hallucination detection through the lens of out-of-distribution (OOD) detection, a well-studied problem in areas like computer visi",
+      "pubDate": "2026-02-10T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "From Out-of-Distribution Detection to Hallucination Detection: A Geometric View"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-02-10T04:22:14.950Z",
+    "generatedAt": "2026-02-10T06:04:18.048Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13
+    "averageScore": 14.875
   }
 }
