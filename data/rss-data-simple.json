@@ -10,15 +10,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "Incentive-Aware AI Safety via Strategic Resource Allocation: A Stackelberg Security Games Perspective",
-      "title_zh": "Incentive-Aware AI Safety via Strategic Resource Allocation: A Stackelberg Security Games Perspective",
-      "description": "arXiv:2602.07259v1 Announce Type: new \nAbstract: As AI systems grow more capable and autonomous, ensuring their safety and reliability requires not only model-level alignment but also strategic oversight of the humans and institutions involved in their development and deployment. Existing safety frameworks largely treat alignment as a static optimization problem (e.g., tuning models to desired behavior) while overlooking the dynamic, adversarial incentives that shape how data are collected, how ",
-      "link": "https://arxiv.org/abs/2602.07259",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-11"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -46,13 +37,13 @@
       "date": "2021-10-21"
     },
     {
-      "title": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation",
-      "title_zh": "LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation",
-      "description": "arXiv:2602.07032v1 Announce Type: new \nAbstract: Finite-state reasoning, the ability to understand and implement state-dependent behavior, is central to hardware design. In this paper, we present LLM-FSM, a benchmark that evaluates how well large language models (LLMs) can recover finite-state machine (FSM) behavior from natural-language specifications and translate it into correct register transfer-level (RTL) implementations. Unlike prior specification-to-RTL benchmarks that rely on manually c",
-      "link": "https://arxiv.org/abs/2602.07032",
+      "title": "Integrating Generative AI-enhanced Cognitive Systems in Higher Education: From Stakeholder Perceptions to a Conceptual Framework considering the EU AI Act",
+      "title_zh": "Integrating Generative AI-enhanced Cognitive Systems in Higher Education: From Stakeholder Perceptions to a Conceptual Framework considering the EU AI Act",
+      "description": "arXiv:2602.10802v1 Announce Type: new \nAbstract: Many staff and students in higher education have adopted generative artificial intelligence (GenAI) tools in their work and study. GenAI is expected to enhance cognitive systems by enabling personalized learning and streamlining educational services. However, stakeholders perceptions of GenAI in higher education remain divided, shaped by cultural, disciplinary, and institutional contexts. In addition, the EU AI Act requires universities to ensure ",
+      "link": "https://arxiv.org/abs/2602.10802",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-11"
+      "date": "2026-02-12"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -91,58 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods",
-      "title_zh": "Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods",
-      "description": "arXiv:2602.07040v1 Announce Type: new \nAbstract: We introduce Aster, an AI agent for autonomous scientific discovery capable of operating over 20 times faster than existing frameworks. Given a task, an initial program, and a script to evaluate the performance of the program, Aster iteratively improves the program, often leading to new state-of-the-art performances. Aster's significant reduction in the number of iterations required for novel discovery expands the domain of tractable problems to i",
-      "link": "https://arxiv.org/abs/2602.07040",
+      "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
+      "title_zh": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
+      "description": "arXiv:2602.10324v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully capture the idiosyncratic behavior of humans or black-box, non-human agents like LLMs. We employ AlphaEvolve, a cutting-edge program discovery tool, to dire",
+      "link": "https://arxiv.org/abs/2602.10324",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-11"
+      "date": "2026-02-12"
     },
     {
-      "title": "Is there \"Secret Sauce'' in Large Language Model Development?",
-      "title_zh": "Is there \"Secret Sauce'' in Large Language Model Development?",
-      "description": "arXiv:2602.07238v1 Announce Type: new \nAbstract: Do leading LLM developers possess a proprietary ``secret sauce'', or is LLM performance driven by scaling up compute? Using training and benchmark data for 809 models released between 2022 and 2025, we estimate scaling-law regressions with release-date and developer fixed effects. We find clear evidence of developer-specific efficiency advantages, but their importance depends on where models lie in the performance distribution. At the frontier, 80",
-      "link": "https://arxiv.org/abs/2602.07238",
+      "title": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation",
+      "title_zh": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation",
+      "description": "arXiv:2602.10367v1 Announce Type: new \nAbstract: The deployment of Large Language Models (LLMs) in high-stakes clinical settings demands rigorous and reliable evaluation. However, existing medical benchmarks remain static, suffering from two critical limitations: (1) data contamination, where test sets inadvertently leak into training corpora, leading to inflated performance estimates; and (2) temporal misalignment, failing to capture the rapid evolution of medical knowledge. Furthermore, curren",
+      "link": "https://arxiv.org/abs/2602.10367",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-11"
+      "date": "2026-02-12"
     },
     {
-      "title": "BRIDGE: Predicting Human Task Completion Time From Model Performance",
-      "title_zh": "BRIDGE: Predicting Human Task Completion Time From Model Performance",
-      "description": "arXiv:2602.07267v1 Announce Type: new \nAbstract: Evaluating the real-world capabilities of AI systems requires grounding benchmark performance in human-interpretable measures of task difficulty. Existing approaches that rely on direct human task completion time annotations are costly, noisy, and difficult to scale across benchmarks. In this work, we propose BRIDGE, a unified psychometric framework that learns the latent difficulty scale from model responses and anchors it to human task completio",
-      "link": "https://arxiv.org/abs/2602.07267",
+      "title": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
+      "title_zh": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
+      "description": "arXiv:2602.10467v1 Announce Type: new \nAbstract: Bargaining is often regarded as a logical arena rather than an art or a matter of intuition, yet Large Language Models (LLMs) still struggle to navigate it due to limited strategic depth and difficulty adapting to complex human factors. Current benchmarks rarely capture this limitation. To bridge this gap, we present an utility feedback centric framework. Our contributions are: (i) AgoraBench, a new benchmark spanning nine challenging settings (e.",
+      "link": "https://arxiv.org/abs/2602.10467",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-11"
+      "date": "2026-02-12"
     },
     {
-      "title": "ST-Raptor: An Agentic System for Semi-Structured Table QA",
-      "title_zh": "ST-Raptor: An Agentic System for Semi-Structured Table QA",
-      "description": "arXiv:2602.07034v1 Announce Type: new \nAbstract: Semi-structured table question answering (QA) is a challenging task that requires (1) precise extraction of cell contents and positions and (2) accurate recovery of key implicit logical structures, hierarchical relationships, and semantic associations encoded in table layouts. In practice, such tables are often interpreted manually by human experts, which is labor-intensive and time-consuming. However, automating this process remains difficult. Ex",
-      "link": "https://arxiv.org/abs/2602.07034",
+      "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
+      "title_zh": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
+      "description": "arXiv:2602.10458v1 Announce Type: new \nAbstract: Reinforcement Learning (RL) has emerged as a dominant paradigm for end-to-end autonomous driving (AD). However, RL suffers from sample inefficiency and a lack of semantic interpretability in complex scenarios. Foundation Models, particularly Vision-Language Models (VLMs), can mitigate this by offering rich, context-aware knowledge, yet their high inference latency hinders deployment in high-frequency RL training loops. To bridge this gap, we prese",
+      "link": "https://arxiv.org/abs/2602.10458",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-11"
+      "date": "2026-02-12"
     },
     {
-      "title": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
-      "title_zh": "DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents",
-      "description": "arXiv:2602.07035v1 Announce Type: new \nAbstract: Recently, Diffusion Large Language Models (dLLMs) have demonstrated unique efficiency advantages, enabled by their inherently parallel decoding mechanism and flexible generation paradigm. Meanwhile, despite the rapid advancement of Search Agents, their practical deployment is constrained by a fundamental limitation, termed as 1) Latency Challenge: the serial execution of multi-round reasoning, tool calling, and tool response waiting under the ReAc",
-      "link": "https://arxiv.org/abs/2602.07035",
+      "title": "Neuro-symbolic Action Masking for Deep Reinforcement Learning",
+      "title_zh": "Neuro-symbolic Action Masking for Deep Reinforcement Learning",
+      "description": "arXiv:2602.10598v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) may explore infeasible actions during training and execution. Existing approaches assume a symbol grounding function that maps high-dimensional states to consistent symbolic representations and a manually specified action masking techniques to constrain actions. In this paper, we propose Neuro-symbolic Action Masking (NSAM), a novel framework that automatically learn symbolic models, which are consistent with give",
+      "link": "https://arxiv.org/abs/2602.10598",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-11"
+      "date": "2026-02-12"
     },
     {
-      "title": "From Out-of-Distribution Detection to Hallucination Detection: A Geometric View",
-      "title_zh": "From Out-of-Distribution Detection to Hallucination Detection: A Geometric View",
-      "description": "arXiv:2602.07253v1 Announce Type: new \nAbstract: Detecting hallucinations in large language models is a critical open problem with significant implications for safety and reliability. While existing hallucination detection methods achieve strong performance in question-answering tasks, they remain less effective on tasks requiring reasoning. In this work, we revisit hallucination detection through the lens of out-of-distribution (OOD) detection, a well-studied problem in areas like computer visi",
-      "link": "https://arxiv.org/abs/2602.07253",
+      "title": "OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization",
+      "title_zh": "OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization",
+      "description": "arXiv:2602.10635v1 Announce Type: new \nAbstract: To develop socially intelligent AI, existing approaches typically model human behavioral dimensions (e.g., affective, cognitive, or social attributes) in isolation. Although useful, task-specific modeling often increases training costs and limits generalization across behavioral settings. Recent reasoning RL methods facilitate training a single unified model across multiple behavioral tasks, but do not explicitly address learning across different ",
+      "link": "https://arxiv.org/abs/2602.10635",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-11"
+      "date": "2026-02-12"
+    },
+    {
+      "title": "See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch",
+      "title_zh": "See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch",
+      "description": "arXiv:2602.10814v1 Announce Type: new \nAbstract: Block-based programming environments such as Scratch play a central role in low-code education, yet evaluating the capabilities of AI agents to construct programs through Graphical User Interfaces (GUIs) remains underexplored. We introduce ScratchWorld, a benchmark for evaluating multimodal GUI agents on program-by-construction tasks in Scratch. Grounded in the Use-Modify-Create pedagogical framework, ScratchWorld comprises 83 curated tasks spanni",
+      "link": "https://arxiv.org/abs/2602.10814",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-02-12"
     }
   ]
 }
