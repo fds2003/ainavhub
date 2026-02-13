@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates",
+      "link": "https://arxiv.org/abs/2602.11301",
+      "description": "arXiv:2602.11301v1 Announce Type: new \nAbstract: Enterprises are rapidly deploying large language models, retrieval augmented generation pipelines, and tool using agents into production, often on shared high performance computing clusters and cloud accelerator platforms that also support defensive analytics. These systems increasingly function not as isolated models but as AI estates: socio technical systems spanning models, agents, data pipelines, security tooling, human workflows, and hypersca",
+      "pubDate": "2026-02-13T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 32,
+      "title_zh": "The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -9,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "ReplicatorBench: Benchmarking LLM Agents for Replicability in Social and Behavioral Sciences",
+      "link": "https://arxiv.org/abs/2602.11354",
+      "description": "arXiv:2602.11354v1 Announce Type: new \nAbstract: The literature has witnessed an emerging interest in AI agents for automated assessment of scientific papers. Existing benchmarks focus primarily on the computational aspect of this task, testing agents' ability to reproduce or replicate research outcomes when having access to the code and data. This setting, while foundational, (1) fails to capture the inconsistent availability of new data for replication as opposed to reproduction, and (2) lacks",
+      "pubDate": "2026-02-13T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 25,
+      "title_zh": "ReplicatorBench: Benchmarking LLM Agents for Replicability in Social and Behavioral Sciences"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -31,6 +51,26 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge",
+      "link": "https://arxiv.org/abs/2602.11340",
+      "description": "arXiv:2602.11340v1 Announce Type: new \nAbstract: Large language models (LLMs) have become widely adopted as automated judges for evaluating AI-generated content. Despite their success, aligning LLM-based evaluations with human judgments remains challenging. While supervised fine-tuning on human-labeled data can improve alignment, it is costly and inflexible, requiring new training for each task or dataset. Recent progress in auto prompt optimization (APO) offers a more efficient alternative by a",
+      "pubDate": "2026-02-13T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 23,
+      "title_zh": "Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge"
+    },
+    {
+      "title": "Explaining AI Without Code: A User Study on Explainable AI",
+      "link": "https://arxiv.org/abs/2602.11159",
+      "description": "arXiv:2602.11159v1 Announce Type: new \nAbstract: The increasing use of Machine Learning (ML) in sensitive domains such as healthcare, finance, and public policy has raised concerns about the transparency of automated decisions. Explainable AI (XAI) addresses this by clarifying how models generate predictions, yet most methods demand technical expertise, limiting their value for novices. This gap is especially critical in no-code ML platforms, which seek to democratize AI but rarely include expla",
+      "pubDate": "2026-02-13T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 22.5,
+      "title_zh": "Explaining AI Without Code: A User Study on Explainable AI"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -39,16 +79,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Integrating Generative AI-enhanced Cognitive Systems in Higher Education: From Stakeholder Perceptions to a Conceptual Framework considering the EU AI Act",
-      "link": "https://arxiv.org/abs/2602.10802",
-      "description": "arXiv:2602.10802v1 Announce Type: new \nAbstract: Many staff and students in higher education have adopted generative artificial intelligence (GenAI) tools in their work and study. GenAI is expected to enhance cognitive systems by enabling personalized learning and streamlining educational services. However, stakeholders perceptions of GenAI in higher education remain divided, shaped by cultural, disciplinary, and institutional contexts. In addition, the EU AI Act requires universities to ensure ",
-      "pubDate": "2026-02-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 17,
-      "title_zh": "Integrating Generative AI-enhanced Cognitive Systems in Higher Education: From Stakeholder Perceptions to a Conceptual Framework considering the EU AI Act"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -91,79 +121,49 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Discovering Differences in Strategic Behavior Between Humans and LLMs",
-      "link": "https://arxiv.org/abs/2602.10324",
-      "description": "arXiv:2602.10324v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) are increasingly deployed in social and strategic scenarios, it becomes critical to understand where and why their behavior diverges from that of humans. While behavioral game theory (BGT) provides a framework for analyzing behavior, existing models do not fully capture the idiosyncratic behavior of humans or black-box, non-human agents like LLMs. We employ AlphaEvolve, a cutting-edge program discovery tool, to dire",
-      "pubDate": "2026-02-12T05:00:00.000Z",
+      "title": "Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization",
+      "link": "https://arxiv.org/abs/2602.11351",
+      "description": "arXiv:2602.11351v1 Announce Type: new \nAbstract: Proactive large language model (LLM) agents aim to actively plan, query, and interact over multiple turns, enabling efficient task completion beyond passive instruction following and making them essential for real-world, user-centric applications. Agentic reinforcement learning (RL) has recently emerged as a promising solution for training such agents in multi-turn settings, allowing interaction strategies to be learned from feedback. However, exi",
+      "pubDate": "2026-02-13T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Discovering Differences in Strategic Behavior Between Humans and LLMs"
+      "aiScore": 11,
+      "title_zh": "Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization"
     },
     {
-      "title": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation",
-      "link": "https://arxiv.org/abs/2602.10367",
-      "description": "arXiv:2602.10367v1 Announce Type: new \nAbstract: The deployment of Large Language Models (LLMs) in high-stakes clinical settings demands rigorous and reliable evaluation. However, existing medical benchmarks remain static, suffering from two critical limitations: (1) data contamination, where test sets inadvertently leak into training corpora, leading to inflated performance estimates; and (2) temporal misalignment, failing to capture the rapid evolution of medical knowledge. Furthermore, curren",
-      "pubDate": "2026-02-12T05:00:00.000Z",
+      "title": "AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition",
+      "link": "https://arxiv.org/abs/2602.11348",
+      "description": "arXiv:2602.11348v1 Announce Type: new \nAbstract: Recent advances in large language models have enabled LLM-based agents to achieve strong performance on a variety of benchmarks. However, their performance in real-world deployments often that observed on benchmark settings, especially in complex and imperfect environments. This discrepancy largely arises because prevailing training and evaluation paradigms are typically built on idealized assumptions, overlooking the inherent stochasticity and no",
+      "pubDate": "2026-02-13T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation"
+      "title_zh": "AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition"
     },
     {
-      "title": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators",
-      "link": "https://arxiv.org/abs/2602.10467",
-      "description": "arXiv:2602.10467v1 Announce Type: new \nAbstract: Bargaining is often regarded as a logical arena rather than an art or a matter of intuition, yet Large Language Models (LLMs) still struggle to navigate it due to limited strategic depth and difficulty adapting to complex human factors. Current benchmarks rarely capture this limitation. To bridge this gap, we present an utility feedback centric framework. Our contributions are: (i) AgoraBench, a new benchmark spanning nine challenging settings (e.",
-      "pubDate": "2026-02-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "MERIT Feedback Elicits Better Bargaining in LLM Negotiators"
-    },
-    {
-      "title": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving",
-      "link": "https://arxiv.org/abs/2602.10458",
-      "description": "arXiv:2602.10458v1 Announce Type: new \nAbstract: Reinforcement Learning (RL) has emerged as a dominant paradigm for end-to-end autonomous driving (AD). However, RL suffers from sample inefficiency and a lack of semantic interpretability in complex scenarios. Foundation Models, particularly Vision-Language Models (VLMs), can mitigate this by offering rich, context-aware knowledge, yet their high inference latency hinders deployment in high-frequency RL training loops. To bridge this gap, we prese",
-      "pubDate": "2026-02-12T05:00:00.000Z",
+      "title": "Dissecting Subjectivity and the \"Ground Truth\" Illusion in Data Annotation",
+      "link": "https://arxiv.org/abs/2602.11318",
+      "description": "arXiv:2602.11318v1 Announce Type: new \nAbstract: In machine learning, \"ground truth\" refers to the assumed correct labels used to train and evaluate models. However, the foundational \"ground truth\" paradigm rests on a positivistic fallacy that treats human disagreement as technical noise rather than a vital sociotechnical signal. This systematic literature review analyzes research published between 2020 and 2025 across seven premier venues: ACL, AIES, CHI, CSCW, EAAMO, FAccT, and NeurIPS, invest",
+      "pubDate": "2026-02-13T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Found-RL: foundation model-enhanced reinforcement learning for autonomous driving"
+      "title_zh": "Dissecting Subjectivity and the \"Ground Truth\" Illusion in Data Annotation"
     },
     {
-      "title": "Neuro-symbolic Action Masking for Deep Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2602.10598",
-      "description": "arXiv:2602.10598v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) may explore infeasible actions during training and execution. Existing approaches assume a symbol grounding function that maps high-dimensional states to consistent symbolic representations and a manually specified action masking techniques to constrain actions. In this paper, we propose Neuro-symbolic Action Masking (NSAM), a novel framework that automatically learn symbolic models, which are consistent with give",
-      "pubDate": "2026-02-12T05:00:00.000Z",
+      "title": "TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning",
+      "link": "https://arxiv.org/abs/2602.11409",
+      "description": "arXiv:2602.11409v1 Announce Type: new \nAbstract: Estimating uncertainty for AI agents in real-world multi-turn tool-using interaction with humans is difficult because failures are often triggered by sparse critical episodes (e.g., looping, incoherent tool use, or user-agent miscoordination) even when local generation appears confident. Existing uncertainty proxies focus on single-shot text generation and therefore miss these trajectory-level breakdown signals. We introduce TRACER, a trajectory-l",
+      "pubDate": "2026-02-13T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Neuro-symbolic Action Masking for Deep Reinforcement Learning"
-    },
-    {
-      "title": "OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization",
-      "link": "https://arxiv.org/abs/2602.10635",
-      "description": "arXiv:2602.10635v1 Announce Type: new \nAbstract: To develop socially intelligent AI, existing approaches typically model human behavioral dimensions (e.g., affective, cognitive, or social attributes) in isolation. Although useful, task-specific modeling often increases training costs and limits generalization across behavioral settings. Recent reasoning RL methods facilitate training a single unified model across multiple behavioral tasks, but do not explicitly address learning across different ",
-      "pubDate": "2026-02-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization"
-    },
-    {
-      "title": "See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch",
-      "link": "https://arxiv.org/abs/2602.10814",
-      "description": "arXiv:2602.10814v1 Announce Type: new \nAbstract: Block-based programming environments such as Scratch play a central role in low-code education, yet evaluating the capabilities of AI agents to construct programs through Graphical User Interfaces (GUIs) remains underexplored. We introduce ScratchWorld, a benchmark for evaluating multimodal GUI agents on program-by-construction tasks in Scratch. Grounded in the Use-Modify-Create pedagogical framework, ScratchWorld comprises 83 curated tasks spanni",
-      "pubDate": "2026-02-12T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch"
+      "title_zh": "TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-02-13T04:09:15.789Z",
+    "generatedAt": "2026-02-13T05:51:27.872Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.4375
+    "averageScore": 18.03125
   }
 }
