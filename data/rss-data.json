@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "AI Agents for Inventory Control: Human-LLM-OR Complementarity",
+      "link": "https://arxiv.org/abs/2602.12631",
+      "description": "arXiv:2602.12631v1 Announce Type: new \nAbstract: Inventory control is a fundamental operations problem in which ordering decisions are traditionally guided by theoretically grounded operations research (OR) algorithms. However, such algorithms often rely on rigid modeling assumptions and can perform poorly when demand distributions shift or relevant contextual information is unavailable. Recent advances in large language models (LLMs) have generated interest in AI agents that can reason flexibly",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 36,
+      "title_zh": "AI Agents for Inventory Control: Human-LLM-OR Complementarity"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -29,6 +39,16 @@
       "category": "行业趋势",
       "aiScore": 24,
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
+    },
+    {
+      "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+      "link": "https://arxiv.org/abs/2602.12316",
+      "description": "arXiv:2602.12316v1 Announce Type: new \nAbstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evaluate single agents, leaving multi-agent risks such as coordination failure and conflict poorly understood. We introduce GT-HarmBench, a benchmark of 2,009 high-stakes scenarios spanning game-theoretic structures such as the Prisoner's Dilemma, Stag Hunt and Chicken. Scenarios are drawn from realistic",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -79,11 +99,71 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "A Theoretical Framework for Adaptive Utility-Weighted Benchmarking",
+      "link": "https://arxiv.org/abs/2602.12356",
+      "description": "arXiv:2602.12356v1 Announce Type: new \nAbstract: Benchmarking has long served as a foundational practice in machine learning and, increasingly, in modern AI systems such as large language models, where shared tasks, metrics, and leaderboards offer a common basis for measuring progress and comparing approaches. As AI systems are deployed in more varied and consequential settings, though, there is growing value in complementing these established practices with a more holistic conceptualization of ",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "A Theoretical Framework for Adaptive Utility-Weighted Benchmarking"
+    },
+    {
+      "title": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models",
+      "link": "https://arxiv.org/abs/2602.12566",
+      "description": "arXiv:2602.12566v1 Announce Type: new \nAbstract: Reinforcement Learning with Verifiable Rewards (RLVR) plays a key role in stimulating the explicit reasoning capability of Large Language Models (LLMs). We can achieve expert-level performance in some specific domains via RLVR, such as coding or math. When a general multi-domain expert-level model is required, we need to carefully consider the collaboration of RLVR across different domains. The current state-of-the-art models mainly employ two dif",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models"
+    },
+    {
+      "title": "Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents",
+      "link": "https://arxiv.org/abs/2602.12662",
+      "description": "arXiv:2602.12662v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as autonomous agents for multi-turn decision-making tasks. However, current agents typically rely on fixed cognitive patterns: non-thinking models generate immediate responses, while thinking models engage in deep reasoning uniformly. This rigidity is inefficient for long-horizon tasks, where cognitive demands vary significantly from step to step, with some requiring strategic planning and oth",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents"
+    },
+    {
+      "title": "Evaluating Robustness of Reasoning Models on Parameterized Logical Problems",
+      "link": "https://arxiv.org/abs/2602.12665",
+      "description": "arXiv:2602.12665v1 Announce Type: new \nAbstract: Logic provides a controlled testbed for evaluating LLM-based reasoners, yet standard SAT-style benchmarks often conflate surface difficulty (length, wording, clause order) with the structural phenomena that actually determine satisfiability. We introduce a diagnostic benchmark for 2-SAT built from parameterized families of structured 2--CNF formulas, where satisfiability is characterized by the implication graph and can be tuned along interpretabl",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Evaluating Robustness of Reasoning Models on Parameterized Logical Problems"
+    },
+    {
+      "title": "GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics",
+      "link": "https://arxiv.org/abs/2602.12617",
+      "description": "arXiv:2602.12617v1 Announce Type: new \nAbstract: This paper presents GeoAgent, a model capable of reasoning closely with humans and deriving fine-grained address conclusions. Previous RL-based methods have achieved breakthroughs in performance and interpretability but still remain concerns because of their reliance on AI-generated chain-of-thought (CoT) data and training strategies, which conflict with geographic characteristics. To address these issues, we first introduce GeoSeek, a new geoloca",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics"
+    },
+    {
+      "title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
+      "link": "https://arxiv.org/abs/2602.12670",
+      "description": "arXiv:2602.12670v1 Announce Type: new \nAbstract: Agent Skills are structured packages of procedural knowledge that augment LLM agents at inference time. Despite rapid adoption, there is no standard way to measure whether they actually help. We present SkillsBench, a benchmark of 86 tasks across 11 domains paired with curated Skills and deterministic verifiers. Each task is evaluated under three conditions: no Skills, curated Skills, and self-generated Skills. We test 7 agent-model configurations",
+      "pubDate": "2026-02-16T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-02-16T04:11:51.947Z",
+    "totalCount": 16,
+    "generatedAt": "2026-02-16T05:59:10.103Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 15.875
   }
 }
