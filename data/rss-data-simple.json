@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Secure and Energy-Efficient Wireless Agentic AI Networks",
-      "title_zh": "Secure and Energy-Efficient Wireless Agentic AI Networks",
-      "description": "arXiv:2602.15212v1 Announce Type: new \nAbstract: In this paper, we introduce a secure wireless agentic AI network comprising one supervisor AI agent and multiple other AI agents to provision quality of service (QoS) for users' reasoning tasks while ensuring confidentiality of private knowledge and reasoning outcomes. Specifically, the supervisor AI agent can dynamically assign other AI agents to participate in cooperative reasoning, while the unselected AI agents act as friendly jammers to degra",
-      "link": "https://arxiv.org/abs/2602.15212",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-18"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -37,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents",
+      "title_zh": "Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents",
+      "description": "arXiv:2602.16246v1 Announce Type: new \nAbstract: Interactive large language model (LLM) agents operating via multi-turn dialogue and multi-step tool calling are increasingly used in production. Benchmarks for these agents must both reliably compare models and yield on-policy training data. Prior agentic benchmarks (e.g., tau-bench, tau2-bench, AppWorld) rely on fully deterministic backends, which are costly to build and iterate. We propose Proxy State-Based Evaluation, an LLM-driven simulation f",
+      "link": "https://arxiv.org/abs/2602.16246",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-02-19"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -44,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "EnterpriseGym Corecraft: Training Generalizable Agents on High-Fidelity RL Environments",
+      "title_zh": "EnterpriseGym Corecraft: Training Generalizable Agents on High-Fidelity RL Environments",
+      "description": "arXiv:2602.16179v1 Announce Type: new \nAbstract: We show that training AI agents on high-fidelity reinforcement learning environments produces capabilities that generalize beyond the training distribution. We introduce \\corecraft{}, the first environment in \\textsc{EnterpriseGym}, Surge AI's suite of agentic RL environments. \\corecraft{} is a fully operational enterprise simulation of a customer support organization, comprising over 2,500 entities across 14 entity types with 23 unique tools, des",
+      "link": "https://arxiv.org/abs/2602.16179",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-02-19"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -82,67 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
-      "title_zh": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
-      "description": "arXiv:2602.15112v1 Announce Type: new \nAbstract: We introduce ResearchGym, a benchmark and execution environment for evaluating AI agents on end-to-end research. To instantiate this, we repurpose five oral and spotlight papers from ICML, ICLR, and ACL. From each paper's repository, we preserve the datasets, evaluation harness, and baseline implementations but withhold the paper's proposed method. This results in five containerized task environments comprising 39 sub-tasks in total. Within each e",
-      "link": "https://arxiv.org/abs/2602.15112",
+      "title": "Evidence-Grounded Subspecialty Reasoning: Evaluating a Curated Clinical Intelligence Layer on the 2025 Endocrinology Board-Style Examination",
+      "title_zh": "Evidence-Grounded Subspecialty Reasoning: Evaluating a Curated Clinical Intelligence Layer on the 2025 Endocrinology Board-Style Examination",
+      "description": "arXiv:2602.16050v1 Announce Type: new \nAbstract: Background: Large language models have demonstrated strong performance on general medical examinations, but subspecialty clinical reasoning remains challenging due to rapidly evolving guidelines and nuanced evidence hierarchies. Methods: We evaluated January Mirror, an evidence-grounded clinical reasoning system, against frontier LLMs (GPT-5, GPT-5.2, Gemini-3-Pro) on a 120-question endocrinology board-style examination. Mirror integrates a curate",
+      "link": "https://arxiv.org/abs/2602.16050",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-18"
+      "date": "2026-02-19"
     },
     {
-      "title": "Predicting Invoice Dilution in Supply Chain Finance with Leakage Free Two Stage XGBoost, KAN (Kolmogorov Arnold Networks), and Ensemble Models",
-      "title_zh": "Predicting Invoice Dilution in Supply Chain Finance with Leakage Free Two Stage XGBoost, KAN (Kolmogorov Arnold Networks), and Ensemble Models",
-      "description": "arXiv:2602.15248v1 Announce Type: new \nAbstract: Invoice or payment dilution is the gap between the approved invoice amount and the actual collection is a significant source of non credit risk and margin loss in supply chain finance. Traditionally, this risk is managed through the buyer's irrevocable payment undertaking (IPU), which commits to full payment without deductions. However, IPUs can hinder supply chain finance adoption, particularly among sub-invested grade buyers. A newer, data-drive",
-      "link": "https://arxiv.org/abs/2602.15248",
+      "title": "How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment",
+      "title_zh": "How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment",
+      "description": "arXiv:2602.16039v1 Announce Type: new \nAbstract: The rapid rise of large language models (LLMs) is reshaping the landscape of automatic assessment in education. While these systems demonstrate substantial advantages in adaptability to diverse question types and flexibility in output formats, they also introduce new challenges related to output uncertainty, stemming from the inherently probabilistic nature of LLMs. Output uncertainty is an inescapable challenge in automatic assessment, as assessm",
+      "link": "https://arxiv.org/abs/2602.16039",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-18"
+      "date": "2026-02-19"
     },
     {
-      "title": "Panini: Continual Learning in Token Space via Structured Memory",
-      "title_zh": "Panini: Continual Learning in Token Space via Structured Memory",
-      "description": "arXiv:2602.15156v1 Announce Type: new \nAbstract: Language models are increasingly used to reason over content they were not trained on, such as new documents, evolving knowledge, and user-specific data. A common approach is retrieval-augmented generation (RAG), which stores verbatim documents externally (as chunks) and retrieves only a relevant subset at inference time for an LLM to reason over. However, this results in inefficient usage of test-time compute (LLM repeatedly reasons over the same",
-      "link": "https://arxiv.org/abs/2602.15156",
+      "title": "Optimization Instability in Autonomous Agentic Workflows for Clinical Symptom Detection",
+      "title_zh": "Optimization Instability in Autonomous Agentic Workflows for Clinical Symptom Detection",
+      "description": "arXiv:2602.16037v1 Announce Type: new \nAbstract: Autonomous agentic workflows that iteratively refine their own behavior hold considerable promise, yet their failure modes remain poorly characterized. We investigate optimization instability, a phenomenon in which continued autonomous improvement paradoxically degrades classifier performance, using Pythia, an open-source framework for automated prompt optimization. Evaluating three clinical symptoms with varying prevalence (shortness of breath at",
+      "link": "https://arxiv.org/abs/2602.16037",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-18"
+      "date": "2026-02-19"
     },
     {
-      "title": "EAA: Automating materials characterization with vision language model agents",
-      "title_zh": "EAA: Automating materials characterization with vision language model agents",
-      "description": "arXiv:2602.15294v1 Announce Type: new \nAbstract: We present Experiment Automation Agents (EAA), a vision-language-model-driven agentic system designed to automate complex experimental microscopy workflows. EAA integrates multimodal reasoning, tool-augmented action, and optional long-term memory to support both autonomous procedures and interactive user-guided measurements. Built on a flexible task-manager architecture, the system enables workflows ranging from fully agent-driven automation to lo",
-      "link": "https://arxiv.org/abs/2602.15294",
+      "title": "Learning Personalized Agents from Human Feedback",
+      "title_zh": "Learning Personalized Agents from Human Feedback",
+      "description": "arXiv:2602.16173v1 Announce Type: new \nAbstract: Modern AI agents are powerful but often fail to align with the idiosyncratic, evolving preferences of individual users. Prior approaches typically rely on static datasets, either training implicit preference models on interaction history or encoding user profiles in external memory. However, these approaches struggle with new users and with preferences that change over time. We introduce Personalized Agents from Human Feedback (PAHF), a framework ",
+      "link": "https://arxiv.org/abs/2602.16173",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-18"
+      "date": "2026-02-19"
     },
     {
-      "title": "Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs",
-      "title_zh": "Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs",
-      "description": "arXiv:2602.15173v1 Announce Type: new \nAbstract: The use of large language models either as decision support systems, or in agentic workflows, is rapidly transforming the digital ecosystem. However, the understanding of LLM decision-making under uncertainty remains limited. We initiate a comparative study of LLM risky choices along two dimensions: (1) prospect representation (explicit vs. experience based) and (2) decision rationale (explanation). Our study, which involves 20 frontier and open L",
-      "link": "https://arxiv.org/abs/2602.15173",
+      "title": "Revolutionizing Long-Term Memory in AI: New Horizons with High-Capacity and High-Speed Storage",
+      "title_zh": "Revolutionizing Long-Term Memory in AI: New Horizons with High-Capacity and High-Speed Storage",
+      "description": "arXiv:2602.16192v1 Announce Type: new \nAbstract: Driven by our mission of \"uplifting the world with memory,\" this paper explores the design concept of \"memory\" that is essential for achieving artificial superintelligence (ASI). Rather than proposing novel methods, we focus on several alternative approaches whose potential benefits are widely imaginable, yet have remained largely unexplored. The currently dominant paradigm, which can be termed \"extract then store,\" involves extracting information",
+      "link": "https://arxiv.org/abs/2602.16192",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-18"
+      "date": "2026-02-19"
     },
     {
-      "title": "AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents",
-      "title_zh": "AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents",
-      "description": "arXiv:2602.15325v1 Announce Type: new \nAbstract: Foundation models for agriculture are increasingly trained on massive spatiotemporal data (e.g., multi-spectral remote sensing, soil grids, and field-level management logs) and achieve strong performance on forecasting and monitoring. However, these models lack language-based reasoning and interactive capabilities, limiting their usefulness in real-world agronomic workflows. Meanwhile, large language models (LLMs) excel at interpreting and generat",
-      "link": "https://arxiv.org/abs/2602.15325",
+      "title": "Multi-agent cooperation through in-context co-player inference",
+      "title_zh": "Multi-agent cooperation through in-context co-player inference",
+      "description": "arXiv:2602.16301v1 Announce Type: new \nAbstract: Achieving cooperation among self-interested agents remains a fundamental challenge in multi-agent reinforcement learning. Recent work showed that mutual cooperation can be induced between \"learning-aware\" agents that account for and shape the learning dynamics of their co-players. However, existing approaches typically rely on hardcoded, often inconsistent, assumptions about co-player learning rules or enforce a strict separation between \"naive le",
+      "link": "https://arxiv.org/abs/2602.16301",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-18"
-    },
-    {
-      "title": "Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis",
-      "title_zh": "Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis",
-      "description": "arXiv:2602.15067v1 Announce Type: new \nAbstract: Gliomas, among the most common primary brain tumors, vary widely in aggressiveness, prognosis, and histology, making treatment challenging due to complex and time-intensive surgical interventions. This study presents an Attention-Gated Recurrent Residual U-Net (R2U-Net) based Triplanar (2.5D) model for improved brain tumor segmentation. The proposed model enhances feature representation and segmentation accuracy by integrating residual, recurrent,",
-      "link": "https://arxiv.org/abs/2602.15067",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-18"
+      "date": "2026-02-19"
     }
   ]
 }
