@@ -51,26 +51,6 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
-      "title": "AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment",
-      "link": "https://arxiv.org/abs/2602.16714",
-      "description": "arXiv:2602.16714v1 Announce Type: new \nAbstract: Age assessment is crucial in forensic and judicial decision-making, particularly in cases involving undocumented individuals and unaccompanied minors, where legal thresholds determine access to protection, healthcare, and judicial procedures. Dental age assessment is widely recognized as one of the most reliable biological approaches for adolescents and young adults, but current practices are challenged by methodological heterogeneity, fragmented ",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment"
-    },
-    {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "link": "https://arxiv.org/abs/2602.16763",
-      "description": "arXiv:2602.16763v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) benchmarks play a central role in measuring progress in model development and guiding deployment decisions. However, many benchmarks quickly become saturated, meaning that they can no longer differentiate between the best-performing models, diminishing their long-term value. In this study, we analyze benchmark saturation across 60 Large Language Model (LLM) benchmarks selected from technical reports by major model deve",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -99,71 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "NeuDiff Agent: A Governed AI Workflow for Single-Crystal Neutron Crystallography",
-      "link": "https://arxiv.org/abs/2602.16812",
-      "description": "arXiv:2602.16812v1 Announce Type: new \nAbstract: Large-scale facilities increasingly face analysis and reporting latency as the limiting step in scientific throughput, particularly for structurally and magnetically complex samples that require iterative reduction, integration, refinement, and validation. To improve time-to-result and analysis efficiency, NeuDiff Agent is introduced as a governed, tool-using AI workflow for TOPAZ at the Spallation Neutron Source that takes instrument data product",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "NeuDiff Agent: A Governed AI Workflow for Single-Crystal Neutron Crystallography"
-    },
-    {
-      "title": "Node Learning: A Framework for Adaptive, Decentralised and Collaborative Network Edge AI",
-      "link": "https://arxiv.org/abs/2602.16814",
-      "description": "arXiv:2602.16814v1 Announce Type: new \nAbstract: The expansion of AI toward the edge increasingly exposes the cost and fragility of cen- tralised intelligence. Data transmission, latency, energy consumption, and dependence on large data centres create bottlenecks that scale poorly across heterogeneous, mobile, and resource-constrained environments. In this paper, we introduce Node Learning, a decen- tralised learning paradigm in which intelligence resides at individual edge nodes and expands thr",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Node Learning: A Framework for Adaptive, Decentralised and Collaborative Network Edge AI"
-    },
-    {
-      "title": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation",
-      "link": "https://arxiv.org/abs/2602.16727",
-      "description": "arXiv:2602.16727v1 Announce Type: new \nAbstract: Large-scale human mobility simulation is critical for applications such as urban planning, epidemiology, and transportation analysis. Recent works treat large language models (LLMs) as human agents to simulate realistic mobility behaviors using structured reasoning, but their high computational cost limits scalability. To address this, we design a mobility-aware cache framework named MobCache that leverages reconstructible caches to enable efficie",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation"
-    },
-    {
-      "title": "Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence",
-      "link": "https://arxiv.org/abs/2602.16716",
-      "description": "arXiv:2602.16716v1 Announce Type: new \nAbstract: Adaptive systems often operate across multiple contexts while reusing a fixed internal state space due to constraints on memory, representation, or physical resources. Such single-state reuse is ubiquitous in natural and artificial intelligence, yet its fundamental representational consequences remain poorly understood. We show that contextuality is not a peculiarity of quantum mechanics, but an inevitable consequence of single-state reuse in clas",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence"
-    },
-    {
-      "title": "Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents",
-      "link": "https://arxiv.org/abs/2602.16855",
-      "description": "arXiv:2602.16855v1 Announce Type: new \nAbstract: The paper introduces GUI-Owl-1.5, the latest native GUI agent model that features instruct/thinking variants in multiple sizes (2B/4B/8B/32B/235B) and supports a range of platforms (desktop, mobile, browser, and more) to enable cloud-edge collaboration and real-time interaction. GUI-Owl-1.5 achieves state-of-the-art results on more than 20+ GUI benchmarks on open-source models: (1) on GUI automation tasks, it obtains 56.5 on OSWorld, 71.6 on Andro",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4.5,
-      "title_zh": "Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents"
-    },
-    {
-      "title": "Simple Baselines are Competitive with Code Evolution",
-      "link": "https://arxiv.org/abs/2602.16805",
-      "description": "arXiv:2602.16805v1 Announce Type: new \nAbstract: Code evolution is a family of techniques that rely on large language models to search through possible computer programs by evolving or mutating existing code. Many proposed code evolution pipelines show impressive performance but are often not compared to simpler baselines. We test how well two simple baselines do over three domains: finding better mathematical bounds, designing agentic scaffolds, and machine learning competitions. We find that s",
-      "pubDate": "2026-02-20T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Simple Baselines are Competitive with Code Evolution"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-02-21T04:59:32.613Z",
+    "totalCount": 8,
+    "generatedAt": "2026-02-21T05:41:26.858Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 14.53125
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
