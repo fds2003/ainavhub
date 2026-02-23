@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "Trojans in Artificial Intelligence (TrojAI) Final Report",
+      "link": "https://arxiv.org/abs/2602.07152",
+      "description": "arXiv:2602.07152v1 Announce Type: cross \nAbstract: The Intelligence Advanced Research Projects Activity (IARPA) launched the TrojAI program to confront an emerging vulnerability in modern artificial intelligence: the threat of AI Trojans. These AI trojans are malicious, hidden backdoors intentionally embedded within an AI model that can cause a system to fail in unexpected ways, or allow a malicious actor to hijack the AI model at will. This multi-year initiative helped to map out the complex na",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 34,
+      "title_zh": "Trojans in Artificial Intelligence (TrojAI) Final Report"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -79,11 +89,81 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
+      "link": "https://arxiv.org/abs/2602.17676",
+      "description": "arXiv:2602.17676v1 Announce Type: new \nAbstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral pathologies including sycophancy, hallucination, and strategic deception that resist mitigation via reinforcement learning. Current safety paradigms treat these failures as transient training artifacts, lacking a unified theoretical framework to explain their emergence and stability. Here we show that thes",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 11,
+      "title_zh": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification"
+    },
+    {
+      "title": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory",
+      "link": "https://arxiv.org/abs/2602.18095",
+      "description": "arXiv:2602.18095v1 Announce Type: new \nAbstract: Natural language understanding requires interleaving textual and logical reasoning, yet large language models often fail to perform such reasoning reliably. Existing neurosymbolic systems combine LLMs with solvers but remain limited to fully formalizable tasks such as math or program synthesis, leaving natural documents with only partial logical structure unaddressed. We introduce Logitext, a neurosymbolic language that represents documents as nat",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory"
+    },
+    {
+      "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
+      "link": "https://arxiv.org/abs/2602.17910",
+      "description": "arXiv:2602.17910v1 Announce Type: new \nAbstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliability across entire interaction trajectories. We introduce APEMO (Affect-aware Peak-End Modulation for Orchestration), a runtime scheduling layer that optimizes computational allocation under fixed budgets by operationalizing temporal-affective signals. Instead of modifying model weights, APEMO detect",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 7,
+      "title_zh": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems"
+    },
+    {
+      "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
+      "link": "https://arxiv.org/abs/2602.17902",
+      "description": "arXiv:2602.17902v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remains ad hoc and fragile. Current agentic approaches often rely on unstructured text to manage context and coordinate execution, generating often overwhelming volumes of information that may obscure decision provenance and hinder auditability. In this work, we present El Agente Gr\\'afico, a single-agen",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5.5,
+      "title_zh": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents"
+    },
+    {
+      "title": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets",
+      "link": "https://arxiv.org/abs/2602.18025",
+      "description": "arXiv:2602.18025v1 Announce Type: new \nAbstract: Scalable robot policy pre-training has been hindered by the high cost of collecting high-quality demonstrations for each platform. In this study, we address this issue by uniting offline reinforcement learning (offline RL) with cross-embodiment learning. Offline RL leverages both expert and abundant suboptimal data, and cross-embodiment learning aggregates heterogeneous robot trajectories across diverse morphologies to acquire universal control pr",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets"
+    },
+    {
+      "title": "SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps",
+      "link": "https://arxiv.org/abs/2602.18201",
+      "description": "arXiv:2602.18201v1 Announce Type: new \nAbstract: Unsupervised representations are widely assumed to be neutral with respect to sensitive attributes when those attributes are withheld from training. We show that this assumption is false. Using SOMtime, a topology-preserving representation method based on high-capacity Self-Organizing Maps, we demonstrate that sensitive attributes such as age and income emerge as dominant latent axes in purely unsupervised embeddings, even when explicitly excluded",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps"
+    },
+    {
+      "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
+      "link": "https://arxiv.org/abs/2602.17990",
+      "description": "arXiv:2602.17990v1 Announce Type: new \nAbstract: LLM-based systems increasingly generate structured workflows for complex tasks. In practice, automatic evaluation of these workflows is difficult, because metric scores are often not calibrated, and score changes do not directly communicate the severity of workflow degradation. We introduce WorkflowPerturb, a controlled benchmark for studying workflow evaluation metrics. It works by applying realistic, controlled perturbations to golden workflows.",
+      "pubDate": "2026-02-23T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-02-23T04:10:52.555Z",
+    "totalCount": 16,
+    "generatedAt": "2026-02-23T05:58:09.922Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 14.84375
   }
 }
