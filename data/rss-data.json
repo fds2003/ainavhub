@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "Trojans in Artificial Intelligence (TrojAI) Final Report",
-      "link": "https://arxiv.org/abs/2602.07152",
-      "description": "arXiv:2602.07152v1 Announce Type: cross \nAbstract: The Intelligence Advanced Research Projects Activity (IARPA) launched the TrojAI program to confront an emerging vulnerability in modern artificial intelligence: the threat of AI Trojans. These AI trojans are malicious, hidden backdoors intentionally embedded within an AI model that can cause a system to fail in unexpected ways, or allow a malicious actor to hijack the AI model at will. This multi-year initiative helped to map out the complex na",
-      "pubDate": "2026-02-23T05:00:00.000Z",
+      "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
+      "link": "https://arxiv.org/abs/2602.18710",
+      "description": "arXiv:2602.18710v1 Announce Type: new \nAbstract: The conclusions of empirical research depend not only on data but on a sequence of analytic decisions that published results seldom make explicit. Past ``many-analyst\" studies have demonstrated this: independent teams testing the same hypothesis on the same dataset regularly reach conflicting conclusions. But such studies require months of coordination among dozens of research groups and are therefore rarely conducted. In this work, we show that f",
+      "pubDate": "2026-02-24T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 34,
-      "title_zh": "Trojans in Artificial Intelligence (TrojAI) Final Report"
+      "aiScore": 31.5,
+      "title_zh": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications",
+      "link": "https://arxiv.org/abs/2602.18582",
+      "description": "arXiv:2602.18582v1 Announce Type: new \nAbstract: When training artificial intelligence (AI) to perform tasks, humans often care not only about whether a task is completed but also how it is performed. As AI agents tackle increasingly complex tasks, aligning their behavior with human-provided specifications becomes critical for responsible AI deployment. Reward design provides a direct channel for such alignment by translating human expectations into reward functions that guide reinforcement lear",
+      "pubDate": "2026-02-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 27,
+      "title_zh": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -91,79 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification",
-      "link": "https://arxiv.org/abs/2602.17676",
-      "description": "arXiv:2602.17676v1 Announce Type: new \nAbstract: The rapid deployment of Large Language Models and AI agents across critical societal and technical domains is hindered by persistent behavioral pathologies including sycophancy, hallucination, and strategic deception that resist mitigation via reinforcement learning. Current safety paradigms treat these failures as transient training artifacts, lacking a unified theoretical framework to explain their emergence and stability. Here we show that thes",
-      "pubDate": "2026-02-23T05:00:00.000Z",
+      "title": "Federated Reasoning Distillation Framework with Model Learnability-Aware Data Allocation",
+      "link": "https://arxiv.org/abs/2602.18749",
+      "description": "arXiv:2602.18749v1 Announce Type: new \nAbstract: Data allocation plays a critical role in federated large language model (LLM) and small language models (SLMs) reasoning collaboration. Nevertheless, existing data allocation methods fail to address an under-explored challenge in collaboration: bidirectional model learnability gap, where client-side SLMs cannot identify high-reward samples matching their learnability constraints for effective knowledge transfer from LLMs, while LLMs struggle to se",
+      "pubDate": "2026-02-24T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Epistemic Traps: Rational Misalignment Driven by Model Misspecification"
+      "aiScore": 12,
+      "title_zh": "Federated Reasoning Distillation Framework with Model Learnability-Aware Data Allocation"
     },
     {
-      "title": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory",
-      "link": "https://arxiv.org/abs/2602.18095",
-      "description": "arXiv:2602.18095v1 Announce Type: new \nAbstract: Natural language understanding requires interleaving textual and logical reasoning, yet large language models often fail to perform such reasoning reliably. Existing neurosymbolic systems combine LLMs with solvers but remain limited to fully formalizable tasks such as math or program synthesis, leaving natural documents with only partial logical structure unaddressed. We introduce Logitext, a neurosymbolic language that represents documents as nat",
-      "pubDate": "2026-02-23T05:00:00.000Z",
+      "title": "The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol",
+      "link": "https://arxiv.org/abs/2602.18764",
+      "description": "arXiv:2602.18764v1 Announce Type: new \nAbstract: This paper establishes a fundamental convergence: Schema-Guided Dialogue (SGD) and the Model Context Protocol (MCP) represent two manifestations of a unified paradigm for deterministic, auditable LLM-agent interaction. SGD, designed for dialogue-based API discovery (2019), and MCP, now the de facto standard for LLM-tool integration, share the same core insight -- that schemas can encode not just tool signatures but operational constraints and reas",
+      "pubDate": "2026-02-24T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Neurosymbolic Language Reasoning as Satisfiability Modulo Theory"
+      "aiScore": 10,
+      "title_zh": "The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol"
     },
     {
-      "title": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems",
-      "link": "https://arxiv.org/abs/2602.17910",
-      "description": "arXiv:2602.17910v1 Announce Type: new \nAbstract: Traditional AI alignment primarily focuses on individual model outputs; however, autonomous agents in long-horizon workflows require sustained reliability across entire interaction trajectories. We introduce APEMO (Affect-aware Peak-End Modulation for Orchestration), a runtime scheduling layer that optimizes computational allocation under fixed budgets by operationalizing temporal-affective signals. Instead of modifying model weights, APEMO detect",
-      "pubDate": "2026-02-23T05:00:00.000Z",
+      "title": "TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models",
+      "link": "https://arxiv.org/abs/2602.18884",
+      "description": "arXiv:2602.18884v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs), particularly smaller, deployable variants, exhibit a critical deficiency in understanding temporal and procedural visual data, a bottleneck hindering their application in real-world embodied AI. This gap is largely caused by a systemic failure in training paradigms, which lack large-scale, procedurally coherent data. To address this problem, we introduce TPRU, a large-scale dataset sourced from diverse emb",
+      "pubDate": "2026-02-24T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems"
+      "aiScore": 9,
+      "title_zh": "TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models"
     },
     {
-      "title": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents",
-      "link": "https://arxiv.org/abs/2602.17902",
-      "description": "arXiv:2602.17902v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to automate scientific workflows, yet their integration with heterogeneous computational tools remains ad hoc and fragile. Current agentic approaches often rely on unstructured text to manage context and coordinate execution, generating often overwhelming volumes of information that may obscure decision provenance and hinder auditability. In this work, we present El Agente Gr\\'afico, a single-agen",
-      "pubDate": "2026-02-23T05:00:00.000Z",
+      "title": "GenPlanner: From Noise to Plans -- Emergent Reasoning in Flow Matching and Diffusion Models",
+      "link": "https://arxiv.org/abs/2602.18812",
+      "description": "arXiv:2602.18812v1 Announce Type: new \nAbstract: Path planning in complex environments is one of the key problems of artificial intelligence because it requires simultaneous understanding of the geometry of space and the global structure of the problem. In this paper, we explore the potential of using generative models as planning and reasoning mechanisms. We propose GenPlanner, an approach based on diffusion models and flow matching, along with two variants: DiffPlanner and FlowPlanner. We demo",
+      "pubDate": "2026-02-24T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5.5,
-      "title_zh": "El Agente Gr\\'afico: Structured Execution Graphs for Scientific Agents"
+      "aiScore": 5,
+      "title_zh": "GenPlanner: From Noise to Plans -- Emergent Reasoning in Flow Matching and Diffusion Models"
     },
     {
-      "title": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets",
-      "link": "https://arxiv.org/abs/2602.18025",
-      "description": "arXiv:2602.18025v1 Announce Type: new \nAbstract: Scalable robot policy pre-training has been hindered by the high cost of collecting high-quality demonstrations for each platform. In this study, we address this issue by uniting offline reinforcement learning (offline RL) with cross-embodiment learning. Offline RL leverages both expert and abundant suboptimal data, and cross-embodiment learning aggregates heterogeneous robot trajectories across diverse morphologies to acquire universal control pr",
-      "pubDate": "2026-02-23T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets"
-    },
-    {
-      "title": "SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps",
-      "link": "https://arxiv.org/abs/2602.18201",
-      "description": "arXiv:2602.18201v1 Announce Type: new \nAbstract: Unsupervised representations are widely assumed to be neutral with respect to sensitive attributes when those attributes are withheld from training. We show that this assumption is false. Using SOMtime, a topology-preserving representation method based on high-capacity Self-Organizing Maps, we demonstrate that sensitive attributes such as age and income emerge as dominant latent axes in purely unsupervised embeddings, even when explicitly excluded",
-      "pubDate": "2026-02-23T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps"
-    },
-    {
-      "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
-      "link": "https://arxiv.org/abs/2602.17990",
-      "description": "arXiv:2602.17990v1 Announce Type: new \nAbstract: LLM-based systems increasingly generate structured workflows for complex tasks. In practice, automatic evaluation of these workflows is difficult, because metric scores are often not calibrated, and score changes do not directly communicate the severity of workflow degradation. We introduce WorkflowPerturb, a controlled benchmark for studying workflow evaluation metrics. It works by applying realistic, controlled perturbations to golden workflows.",
-      "pubDate": "2026-02-23T05:00:00.000Z",
+      "title": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic",
+      "link": "https://arxiv.org/abs/2602.18607",
+      "description": "arXiv:2602.18607v1 Announce Type: new \nAbstract: In CAS adaptation, a challenge is to define the dynamic architecture of the system and changes in its behavior. Implementation-wise, this is projected into an adaptation mechanism, typically realized as an Adaptation Manager (AM). With the advances of generative LLMs, generating AM code based on system specification and desired AM behavior (partially in natural language) is a tempting opportunity. The recent introduction of vibe coding suggests a ",
+      "pubDate": "2026-02-24T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics"
+      "title_zh": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic"
+    },
+    {
+      "title": "Spilled Energy in Large Language Models",
+      "link": "https://arxiv.org/abs/2602.18671",
+      "description": "arXiv:2602.18671v1 Announce Type: new \nAbstract: We reinterpret the final Large Language Model (LLM) softmax classifier as an Energy-Based Model (EBM), decomposing the sequence-to-sequence probability chain into multiple interacting EBMs at inference. This principled approach allows us to track \"energy spills\" during decoding, which we empirically show correlate with factual errors, biases, and failures. Similar to Orgad et al. (2025), our method localizes the exact answer token and subsequently",
+      "pubDate": "2026-02-24T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Spilled Energy in Large Language Models"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-02-24T04:06:41.529Z",
+    "generatedAt": "2026-02-24T05:51:31.491Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.84375
+    "averageScore": 16.34375
   }
 }
