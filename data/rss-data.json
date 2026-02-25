@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse",
-      "link": "https://arxiv.org/abs/2602.18710",
-      "description": "arXiv:2602.18710v1 Announce Type: new \nAbstract: The conclusions of empirical research depend not only on data but on a sequence of analytic decisions that published results seldom make explicit. Past ``many-analyst\" studies have demonstrated this: independent teams testing the same hypothesis on the same dataset regularly reach conflicting conclusions. But such studies require months of coordination among dozens of research groups and are therefore rarely conducted. In this work, we show that f",
-      "pubDate": "2026-02-24T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 31.5,
-      "title_zh": "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -19,16 +9,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications",
-      "link": "https://arxiv.org/abs/2602.18582",
-      "description": "arXiv:2602.18582v1 Announce Type: new \nAbstract: When training artificial intelligence (AI) to perform tasks, humans often care not only about whether a task is completed but also how it is performed. As AI agents tackle increasingly complex tasks, aligning their behavior with human-provided specifications becomes critical for responsible AI deployment. Reward design provides a direct channel for such alignment by translating human expectations into reward functions that guide reinforcement lear",
-      "pubDate": "2026-02-24T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 27,
-      "title_zh": "Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -59,6 +39,16 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models",
+      "link": "https://arxiv.org/abs/2602.20324",
+      "description": "arXiv:2602.20324v1 Announce Type: new \nAbstract: Phenotyping is fundamental to rare disease diagnosis, but manual curation of structured phenotypes from clinical notes is labor-intensive and difficult to scale. Existing artificial intelligence approaches typically optimize individual components of phenotyping but do not operationalize the full clinical workflow of extracting features from clinical text, standardizing them to Human Phenotype Ontology (HPO) terms, and prioritizing diagnostically i",
+      "pubDate": "2026-02-25T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18,
+      "title_zh": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -101,69 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Federated Reasoning Distillation Framework with Model Learnability-Aware Data Allocation",
-      "link": "https://arxiv.org/abs/2602.18749",
-      "description": "arXiv:2602.18749v1 Announce Type: new \nAbstract: Data allocation plays a critical role in federated large language model (LLM) and small language models (SLMs) reasoning collaboration. Nevertheless, existing data allocation methods fail to address an under-explored challenge in collaboration: bidirectional model learnability gap, where client-side SLMs cannot identify high-reward samples matching their learnability constraints for effective knowledge transfer from LLMs, while LLMs struggle to se",
-      "pubDate": "2026-02-24T05:00:00.000Z",
+      "title": "PreScience: A Benchmark for Forecasting Scientific Contributions",
+      "link": "https://arxiv.org/abs/2602.20459",
+      "description": "arXiv:2602.20459v1 Announce Type: new \nAbstract: Can AI systems trained on the scientific record up to a fixed point in time forecast the scientific advances that follow? Such a capability could help researchers identify collaborators and impactful research directions, and anticipate which problems and methods will become central next. We introduce PreScience -- a scientific forecasting benchmark that decomposes the research process into four interdependent generative tasks: collaborator predict",
+      "pubDate": "2026-02-25T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Federated Reasoning Distillation Framework with Model Learnability-Aware Data Allocation"
+      "aiScore": 14,
+      "title_zh": "PreScience: A Benchmark for Forecasting Scientific Contributions"
     },
     {
-      "title": "The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol",
-      "link": "https://arxiv.org/abs/2602.18764",
-      "description": "arXiv:2602.18764v1 Announce Type: new \nAbstract: This paper establishes a fundamental convergence: Schema-Guided Dialogue (SGD) and the Model Context Protocol (MCP) represent two manifestations of a unified paradigm for deterministic, auditable LLM-agent interaction. SGD, designed for dialogue-based API discovery (2019), and MCP, now the de facto standard for LLM-tool integration, share the same core insight -- that schemas can encode not just tool signatures but operational constraints and reas",
-      "pubDate": "2026-02-24T05:00:00.000Z",
+      "title": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
+      "link": "https://arxiv.org/abs/2602.20303",
+      "description": "arXiv:2602.20303v1 Announce Type: new \nAbstract: Background: Childhood and adolescent overweight and obesity remain major public health concerns in the United States and are shaped by behavioral, household, and community factors. Their joint predictive structure at the population level remains incompletely characterized. Objectives: The study aims to identify multilevel predictors of overweight and obesity among U.S. adolescents and compare the predictive performance, calibration, and subgroup e",
+      "pubDate": "2026-02-25T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "The Convergence of Schema-Guided Dialogue Systems and the Model Context Protocol"
+      "aiScore": 8,
+      "title_zh": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health"
     },
     {
-      "title": "TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models",
-      "link": "https://arxiv.org/abs/2602.18884",
-      "description": "arXiv:2602.18884v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs), particularly smaller, deployable variants, exhibit a critical deficiency in understanding temporal and procedural visual data, a bottleneck hindering their application in real-world embodied AI. This gap is largely caused by a systemic failure in training paradigms, which lack large-scale, procedurally coherent data. To address this problem, we introduce TPRU, a large-scale dataset sourced from diverse emb",
-      "pubDate": "2026-02-24T05:00:00.000Z",
+      "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
+      "link": "https://arxiv.org/abs/2602.20424",
+      "description": "arXiv:2602.20424v1 Announce Type: new \nAbstract: Real-world requests to AI agents are fundamentally underspecified. Natural human communication relies on shared context and unstated constraints that speakers expect listeners to infer. Current agentic benchmarks test explicit instruction-following but fail to evaluate whether agents can reason about implicit requirements spanning accessibility needs, privacy boundaries, catastrophic risks, and contextual constraints. We present Implicit Intellige",
+      "pubDate": "2026-02-25T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "TPRU: Advancing Temporal and Procedural Understanding in Large Multimodal Models"
+      "aiScore": 8,
+      "title_zh": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say"
     },
     {
-      "title": "GenPlanner: From Noise to Plans -- Emergent Reasoning in Flow Matching and Diffusion Models",
-      "link": "https://arxiv.org/abs/2602.18812",
-      "description": "arXiv:2602.18812v1 Announce Type: new \nAbstract: Path planning in complex environments is one of the key problems of artificial intelligence because it requires simultaneous understanding of the geometry of space and the global structure of the problem. In this paper, we explore the potential of using generative models as planning and reasoning mechanisms. We propose GenPlanner, an approach based on diffusion models and flow matching, along with two variants: DiffPlanner and FlowPlanner. We demo",
-      "pubDate": "2026-02-24T05:00:00.000Z",
+      "title": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
+      "link": "https://arxiv.org/abs/2602.20426",
+      "description": "arXiv:2602.20426v1 Announce Type: new \nAbstract: The performance of LLM-based agents depends not only on the agent itself but also on the quality of the tool interfaces it consumes. While prior work has focused heavily on agent fine-tuning, tool interfaces-including natural language descriptions and parameter schemas-remain largely human-oriented and often become a bottleneck, especially when agents must select from large candidate tool sets. Existing approaches to improving tool interfaces rely",
+      "pubDate": "2026-02-25T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "GenPlanner: From Noise to Plans -- Emergent Reasoning in Flow Matching and Diffusion Models"
+      "aiScore": 6,
+      "title_zh": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use"
     },
     {
-      "title": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic",
-      "link": "https://arxiv.org/abs/2602.18607",
-      "description": "arXiv:2602.18607v1 Announce Type: new \nAbstract: In CAS adaptation, a challenge is to define the dynamic architecture of the system and changes in its behavior. Implementation-wise, this is projected into an adaptation mechanism, typically realized as an Adaptation Manager (AM). With the advances of generative LLMs, generating AM code based on system specification and desired AM behavior (partially in natural language) is a tempting opportunity. The recent introduction of vibe coding suggests a ",
-      "pubDate": "2026-02-24T05:00:00.000Z",
+      "title": "Diffusion Modulation via Environment Mechanism Modeling for Planning",
+      "link": "https://arxiv.org/abs/2602.20422",
+      "description": "arXiv:2602.20422v1 Announce Type: new \nAbstract: Diffusion models have shown promising capabilities in trajectory generation for planning in offline reinforcement learning (RL). However, conventional diffusion-based planning methods often fail to account for the fact that generating trajectories in RL requires unique consistency between transitions to ensure coherence in real environments. This oversight can result in considerable discrepancies between the generated trajectories and the underlyi",
+      "pubDate": "2026-02-25T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Diffusion Modulation via Environment Mechanism Modeling for Planning"
+    },
+    {
+      "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
+      "link": "https://arxiv.org/abs/2602.20333",
+      "description": "arXiv:2602.20333v1 Announce Type: new \nAbstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata with statistical validation on observational data. In Phase I, a large language model proposes a sparse draft DAG, serving as a semantically informed prior over the space of possible causal structures. In Phase II, this draft is audited and refined via conditional independence testing, with detected ",
+      "pubDate": "2026-02-25T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic"
+      "title_zh": "DMCD: Semantic-Statistical Framework for Causal Discovery"
     },
     {
-      "title": "Spilled Energy in Large Language Models",
-      "link": "https://arxiv.org/abs/2602.18671",
-      "description": "arXiv:2602.18671v1 Announce Type: new \nAbstract: We reinterpret the final Large Language Model (LLM) softmax classifier as an Energy-Based Model (EBM), decomposing the sequence-to-sequence probability chain into multiple interacting EBMs at inference. This principled approach allows us to track \"energy spills\" during decoding, which we empirically show correlate with factual errors, biases, and failures. Similar to Orgad et al. (2025), our method localizes the exact answer token and subsequently",
-      "pubDate": "2026-02-24T05:00:00.000Z",
+      "title": "ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory",
+      "link": "https://arxiv.org/abs/2602.20502",
+      "description": "arXiv:2602.20502v1 Announce Type: new \nAbstract: Existing Graphical User Interface (GUI) agents operate through step-by-step calls to vision language models--taking a screenshot, reasoning about the next action, executing it, then repeating on the new page--resulting in high costs and latency that scale with the number of reasoning steps, and limited accuracy due to no persistent memory of previously visited pages.\n  We propose ActionEngine, a training-free framework that transitions from reacti",
+      "pubDate": "2026-02-25T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Spilled Energy in Large Language Models"
+      "title_zh": "ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-02-25T04:08:29.964Z",
+    "generatedAt": "2026-02-25T05:52:49.291Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.34375
+    "averageScore": 14.0625
   }
 }
