@@ -37,15 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models",
-      "title_zh": "An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models",
-      "description": "arXiv:2602.20324v1 Announce Type: new \nAbstract: Phenotyping is fundamental to rare disease diagnosis, but manual curation of structured phenotypes from clinical notes is labor-intensive and difficult to scale. Existing artificial intelligence approaches typically optimize individual components of phenotyping but do not operationalize the full clinical workflow of extracting features from clinical text, standardizing them to Human Phenotype Ontology (HPO) terms, and prioritizing diagnostically i",
-      "link": "https://arxiv.org/abs/2602.20324",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-25"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -53,6 +44,24 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "The ASIR Courage Model: A Phase-Dynamic Framework for Truth Transitions in Human and AI Systems",
+      "title_zh": "The ASIR Courage Model: A Phase-Dynamic Framework for Truth Transitions in Human and AI Systems",
+      "description": "arXiv:2602.21745v1 Announce Type: new \nAbstract: We introduce the ASIR (Awakened Shared Intelligence Relationship) Courage Model, a phase-dynamic framework that formalizes truth-disclosure as a state transition rather than a personality trait. The mode characterizes the shift from suppression (S0) to expression (S1) as occurring when facilitative forces exceed inhibitory thresholds, expressed by the inequality lambda(1+gamma)+psi > theta+phi, where the terms represent baseline openness, relation",
+      "link": "https://arxiv.org/abs/2602.21745",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support",
+      "title_zh": "2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support",
+      "description": "arXiv:2602.21889v1 Announce Type: new \nAbstract: Across a growing number of fields, human decision making is supported by predictions from AI models. However, we still lack a deep understanding of the effects of adoption of these technologies. In this paper, we introduce a general computational framework, the 2-Step Agent, which models the effects of AI-assisted decision making. Our framework uses Bayesian methods for causal inference to model 1) how a prediction on a new observation affects the",
+      "link": "https://arxiv.org/abs/2602.21889",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-02-26"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -82,67 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "PreScience: A Benchmark for Forecasting Scientific Contributions",
-      "title_zh": "PreScience: A Benchmark for Forecasting Scientific Contributions",
-      "description": "arXiv:2602.20459v1 Announce Type: new \nAbstract: Can AI systems trained on the scientific record up to a fixed point in time forecast the scientific advances that follow? Such a capability could help researchers identify collaborators and impactful research directions, and anticipate which problems and methods will become central next. We introduce PreScience -- a scientific forecasting benchmark that decomposes the research process into four interdependent generative tasks: collaborator predict",
-      "link": "https://arxiv.org/abs/2602.20459",
+      "title": "Power and Limitations of Aggregation in Compound AI Systems",
+      "title_zh": "Power and Limitations of Aggregation in Compound AI Systems",
+      "description": "arXiv:2602.21556v1 Announce Type: new \nAbstract: When designing compound AI systems, a common approach is to query multiple copies of the same model and aggregate the responses to produce a synthesized output. Given the homogeneity of these models, this raises the question of whether aggregation unlocks access to a greater set of outputs than querying a single model. In this work, we investigate the power and limitations of aggregation within a stylized principal-agent framework. This framework ",
+      "link": "https://arxiv.org/abs/2602.21556",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-25"
+      "date": "2026-02-26"
     },
     {
-      "title": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
-      "title_zh": "Multilevel Determinants of Overweight and Obesity Among U.S. Children Aged 10-17: Comparative Evaluation of Statistical and Machine Learning Approaches Using the 2021 National Survey of Children's Health",
-      "description": "arXiv:2602.20303v1 Announce Type: new \nAbstract: Background: Childhood and adolescent overweight and obesity remain major public health concerns in the United States and are shaped by behavioral, household, and community factors. Their joint predictive structure at the population level remains incompletely characterized. Objectives: The study aims to identify multilevel predictors of overweight and obesity among U.S. adolescents and compare the predictive performance, calibration, and subgroup e",
-      "link": "https://arxiv.org/abs/2602.20303",
+      "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+      "title_zh": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+      "description": "arXiv:2602.21534v1 Announce Type: new \nAbstract: Agentic reinforcement learning (ARL) has rapidly gained attention as a promising paradigm for training agents to solve complex, multi-step interactive tasks. Despite encouraging early results, ARL remains highly unstable, often leading to training collapse. This instability limits scalability to larger environments and longer interaction horizons, and constrains systematic exploration of algorithmic design choices. In this paper, we first propose ",
+      "link": "https://arxiv.org/abs/2602.21534",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-25"
+      "date": "2026-02-26"
     },
     {
-      "title": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
-      "title_zh": "Implicit Intelligence -- Evaluating Agents on What Users Don't Say",
-      "description": "arXiv:2602.20424v1 Announce Type: new \nAbstract: Real-world requests to AI agents are fundamentally underspecified. Natural human communication relies on shared context and unstated constraints that speakers expect listeners to infer. Current agentic benchmarks test explicit instruction-following but fail to evaluate whether agents can reason about implicit requirements spanning accessibility needs, privacy boundaries, catastrophic risks, and contextual constraints. We present Implicit Intellige",
-      "link": "https://arxiv.org/abs/2602.20424",
+      "title": "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives",
+      "title_zh": "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives",
+      "description": "arXiv:2602.21351v1 Announce Type: new \nAbstract: The rapid accumulation of Earth science data has created a significant scalability challenge; while repositories like PANGAEA host vast collections of datasets, citation metrics indicate that a substantial portion remains underutilized, limiting data reusability. Here we present PANGAEA-GPT, a hierarchical multi-agent framework designed for autonomous data discovery and analysis. Unlike standard Large Language Model (LLM) wrappers, our architectur",
+      "link": "https://arxiv.org/abs/2602.21351",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-25"
+      "date": "2026-02-26"
     },
     {
-      "title": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
-      "title_zh": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
-      "description": "arXiv:2602.20426v1 Announce Type: new \nAbstract: The performance of LLM-based agents depends not only on the agent itself but also on the quality of the tool interfaces it consumes. While prior work has focused heavily on agent fine-tuning, tool interfaces-including natural language descriptions and parameter schemas-remain largely human-oriented and often become a bottleneck, especially when agents must select from large candidate tool sets. Existing approaches to improving tool interfaces rely",
-      "link": "https://arxiv.org/abs/2602.20426",
+      "title": "fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation",
+      "title_zh": "fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation",
+      "description": "arXiv:2602.21746v1 Announce Type: new \nAbstract: In a previous work, we introduced the fuzzy Ethical Decision-Making framework (fEDM), a risk-based ethical reasoning architecture grounded in fuzzy logic. The original model combined a fuzzy Ethical Risk Assessment module (fERA) with ethical decision rules, enabled formal structural verification through Fuzzy Petri Nets (FPNs), and validated outputs against a single normative referent. Although this approach ensured formal soundness and decision c",
+      "link": "https://arxiv.org/abs/2602.21746",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-25"
+      "date": "2026-02-26"
     },
     {
-      "title": "Diffusion Modulation via Environment Mechanism Modeling for Planning",
-      "title_zh": "Diffusion Modulation via Environment Mechanism Modeling for Planning",
-      "description": "arXiv:2602.20422v1 Announce Type: new \nAbstract: Diffusion models have shown promising capabilities in trajectory generation for planning in offline reinforcement learning (RL). However, conventional diffusion-based planning methods often fail to account for the fact that generating trajectories in RL requires unique consistency between transitions to ensure coherence in real environments. This oversight can result in considerable discrepancies between the generated trajectories and the underlyi",
-      "link": "https://arxiv.org/abs/2602.20422",
+      "title": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
+      "title_zh": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
+      "description": "arXiv:2602.21496v1 Announce Type: new \nAbstract: While defenses for structured PII are mature, Large Language Models (LLMs) pose a new threat: Semantic Sensitive Information (SemSI), where models infer sensitive identity attributes, generate reputation-harmful content, or hallucinate potentially wrong information. The capacity of LLMs to self-regulate these complex, context-dependent sensitive information leaks without destroying utility remains an open scientific question. To address this, we i",
+      "link": "https://arxiv.org/abs/2602.21496",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-25"
+      "date": "2026-02-26"
     },
     {
-      "title": "DMCD: Semantic-Statistical Framework for Causal Discovery",
-      "title_zh": "DMCD: Semantic-Statistical Framework for Causal Discovery",
-      "description": "arXiv:2602.20333v1 Announce Type: new \nAbstract: We present DMCD (DataMap Causal Discovery), a two-phase causal discovery framework that integrates LLM-based semantic drafting from variable metadata with statistical validation on observational data. In Phase I, a large language model proposes a sparse draft DAG, serving as a semantically informed prior over the space of possible causal structures. In Phase II, this draft is audited and refined via conditional independence testing, with detected ",
-      "link": "https://arxiv.org/abs/2602.20333",
+      "title": "ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices",
+      "title_zh": "ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices",
+      "description": "arXiv:2602.21858v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) have made significant progress in mobile agent development, yet their capabilities are predominantly confined to a reactive paradigm, where they merely execute explicit user commands. The emerging paradigm of proactive intelligence, where agents autonomously anticipate needs and initiate actions, represents the next frontier for mobile agents. However, its development is critically bottlenecked by the lack ",
+      "link": "https://arxiv.org/abs/2602.21858",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-02-25"
-    },
-    {
-      "title": "ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory",
-      "title_zh": "ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory",
-      "description": "arXiv:2602.20502v1 Announce Type: new \nAbstract: Existing Graphical User Interface (GUI) agents operate through step-by-step calls to vision language models--taking a screenshot, reasoning about the next action, executing it, then repeating on the new page--resulting in high costs and latency that scale with the number of reasoning steps, and limited accuracy due to no persistent memory of previously visited pages.\n  We propose ActionEngine, a training-free framework that transitions from reacti",
-      "link": "https://arxiv.org/abs/2602.20502",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-25"
+      "date": "2026-02-26"
     }
   ]
 }
