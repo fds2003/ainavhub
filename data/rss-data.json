@@ -31,6 +31,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
+      "link": "https://arxiv.org/abs/2602.22401",
+      "description": "arXiv:2602.22401v1 Announce Type: new \nAbstract: AI agents -- systems that execute multi-step reasoning workflows with persistent state, tool access, and specialist skills -- represent a qualitative shift from prior automation technologies in social science. Unlike chatbots that respond to isolated queries, AI agents can now read files, run code, query databases, search the web, and invoke domain-specific skills to execute entire research pipelines autonomously. This paper introduces the concept",
+      "pubDate": "2026-02-27T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 22.5,
+      "title_zh": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -41,6 +51,26 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
+      "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
+      "link": "https://arxiv.org/abs/2602.22302",
+      "description": "arXiv:2602.22302v1 Announce Type: new \nAbstract: Traditional software relies on contracts -- APIs, type systems, assertions -- to specify and enforce correct behavior. AI agents, by contrast, operate on prompts and natural language instructions with no formal behavioral specification. This gap is the root cause of drift, governance failures, and frequent project failures in agentic AI deployments. We introduce Agent Behavioral Contracts (ABC), a formal framework that brings Design-by-Contract pr",
+      "pubDate": "2026-02-27T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 19,
+      "title_zh": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents"
+    },
+    {
+      "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
+      "link": "https://arxiv.org/abs/2602.22425",
+      "description": "arXiv:2602.22425v1 Announce Type: new \nAbstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems have demonstrated significant advances in algorithm design, improving code efficiency, and enabling discovery across scientific domains.\n  Bridging these worlds, we present ArchAgent, an automated computer architecture discovery system built on AlphaEvolve. We show ArchAgent's ability to automatical",
+      "pubDate": "2026-02-27T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18,
+      "title_zh": "ArchAgent: Agentic AI-driven Computer Architecture Discovery"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -49,26 +79,6 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "The ASIR Courage Model: A Phase-Dynamic Framework for Truth Transitions in Human and AI Systems",
-      "link": "https://arxiv.org/abs/2602.21745",
-      "description": "arXiv:2602.21745v1 Announce Type: new \nAbstract: We introduce the ASIR (Awakened Shared Intelligence Relationship) Courage Model, a phase-dynamic framework that formalizes truth-disclosure as a state transition rather than a personality trait. The mode characterizes the shift from suppression (S0) to expression (S1) as occurring when facilitative forces exceed inhibitory thresholds, expressed by the inequality lambda(1+gamma)+psi > theta+phi, where the terms represent baseline openness, relation",
-      "pubDate": "2026-02-26T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "The ASIR Courage Model: A Phase-Dynamic Framework for Truth Transitions in Human and AI Systems"
-    },
-    {
-      "title": "2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support",
-      "link": "https://arxiv.org/abs/2602.21889",
-      "description": "arXiv:2602.21889v1 Announce Type: new \nAbstract: Across a growing number of fields, human decision making is supported by predictions from AI models. However, we still lack a deep understanding of the effects of adoption of these technologies. In this paper, we introduce a general computational framework, the 2-Step Agent, which models the effects of AI-assisted decision making. Our framework uses Bayesian methods for causal inference to model 1) how a prediction on a new observation affects the",
-      "pubDate": "2026-02-26T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -101,69 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Power and Limitations of Aggregation in Compound AI Systems",
-      "link": "https://arxiv.org/abs/2602.21556",
-      "description": "arXiv:2602.21556v1 Announce Type: new \nAbstract: When designing compound AI systems, a common approach is to query multiple copies of the same model and aggregate the responses to produce a synthesized output. Given the homogeneity of these models, this raises the question of whether aggregation unlocks access to a greater set of outputs than querying a single model. In this work, we investigate the power and limitations of aggregation within a stylized principal-agent framework. This framework ",
-      "pubDate": "2026-02-26T05:00:00.000Z",
+      "title": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
+      "link": "https://arxiv.org/abs/2602.22215",
+      "description": "arXiv:2602.22215v1 Announce Type: new \nAbstract: Large Language Models (LLMs) demonstrate potential in the field of scientific idea generation. However, the generated results often lack controllable academic context and traceable inspiration pathways. To bridge this gap, this paper proposes a scientific idea generation system called GYWI, which combines author knowledge graphs with retrieval-augmented generation (RAG) to form an external knowledge base to provide controllable context and trace o",
+      "pubDate": "2026-02-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Power and Limitations of Aggregation in Compound AI Systems"
+      "aiScore": 8,
+      "title_zh": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation"
     },
     {
-      "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2602.21534",
-      "description": "arXiv:2602.21534v1 Announce Type: new \nAbstract: Agentic reinforcement learning (ARL) has rapidly gained attention as a promising paradigm for training agents to solve complex, multi-step interactive tasks. Despite encouraging early results, ARL remains highly unstable, often leading to training collapse. This instability limits scalability to larger environments and longer interaction horizons, and constrains systematic exploration of algorithmic design choices. In this paper, we first propose ",
-      "pubDate": "2026-02-26T05:00:00.000Z",
+      "title": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents",
+      "link": "https://arxiv.org/abs/2602.22413",
+      "description": "arXiv:2602.22413v1 Announce Type: new \nAbstract: We investigate the collective accuracy of heterogeneous agents who learn to estimate their own reliability over time and selectively abstain from voting. While classical epistemic voting results, such as the \\textit{Condorcet Jury Theorem} (CJT), assume fixed participation, real-world aggregation often benefits from allowing agents to say ``I don't know.'' We propose a probabilistic framework where agents engage in a \\textit{calibration} phase, up",
+      "pubDate": "2026-02-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 7,
-      "title_zh": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning"
+      "title_zh": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents"
     },
     {
-      "title": "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives",
-      "link": "https://arxiv.org/abs/2602.21351",
-      "description": "arXiv:2602.21351v1 Announce Type: new \nAbstract: The rapid accumulation of Earth science data has created a significant scalability challenge; while repositories like PANGAEA host vast collections of datasets, citation metrics indicate that a substantial portion remains underutilized, limiting data reusability. Here we present PANGAEA-GPT, a hierarchical multi-agent framework designed for autonomous data discovery and analysis. Unlike standard Large Language Model (LLM) wrappers, our architectur",
-      "pubDate": "2026-02-26T05:00:00.000Z",
+      "title": "Exploring Human Behavior During Abstract Rule Inference and Problem Solving with the Cognitive Abstraction and Reasoning Corpus",
+      "link": "https://arxiv.org/abs/2602.22408",
+      "description": "arXiv:2602.22408v1 Announce Type: new \nAbstract: Humans exhibit remarkable flexibility in abstract reasoning, and can rapidly learn and apply rules from sparse examples. To investigate the cognitive strategies underlying this ability, we introduce the Cognitive Abstraction and Reasoning Corpus (CogARC), a diverse human-adapted subset of the Abstraction and Reasoning Corpus (ARC) which was originally developed to benchmark abstract reasoning in artificial intelligence. Across two experiments, Cog",
+      "pubDate": "2026-02-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives"
+      "aiScore": 5,
+      "title_zh": "Exploring Human Behavior During Abstract Rule Inference and Problem Solving with the Cognitive Abstraction and Reasoning Corpus"
     },
     {
-      "title": "fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation",
-      "link": "https://arxiv.org/abs/2602.21746",
-      "description": "arXiv:2602.21746v1 Announce Type: new \nAbstract: In a previous work, we introduced the fuzzy Ethical Decision-Making framework (fEDM), a risk-based ethical reasoning architecture grounded in fuzzy logic. The original model combined a fuzzy Ethical Risk Assessment module (fERA) with ethical decision rules, enabled formal structural verification through Fuzzy Petri Nets (FPNs), and validated outputs against a single normative referent. Although this approach ensured formal soundness and decision c",
-      "pubDate": "2026-02-26T05:00:00.000Z",
+      "title": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
+      "link": "https://arxiv.org/abs/2602.22442",
+      "description": "arXiv:2602.22442v1 Announce Type: new \nAbstract: Agent-based AutoML systems rely on large language models to make complex, multi-stage decisions across data processing, model selection, and evaluation. However, existing evaluation practices remain outcome-centric, focusing primarily on final task performance. Through a review of prior work, we find that none of the surveyed agentic AutoML systems report structured, decision-level evaluation metrics intended for post-hoc assessment of intermediat",
+      "pubDate": "2026-02-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation"
+      "title_zh": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines"
     },
     {
-      "title": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information",
-      "link": "https://arxiv.org/abs/2602.21496",
-      "description": "arXiv:2602.21496v1 Announce Type: new \nAbstract: While defenses for structured PII are mature, Large Language Models (LLMs) pose a new threat: Semantic Sensitive Information (SemSI), where models infer sensitive identity attributes, generate reputation-harmful content, or hallucinate potentially wrong information. The capacity of LLMs to self-regulate these complex, context-dependent sensitive information leaks without destroying utility remains an open scientific question. To address this, we i",
-      "pubDate": "2026-02-26T05:00:00.000Z",
+      "title": "Towards Autonomous Memory Agents",
+      "link": "https://arxiv.org/abs/2602.22406",
+      "description": "arXiv:2602.22406v1 Announce Type: new \nAbstract: Recent memory agents improve LLMs by extracting experiences and conversation history into an external storage. This enables low-overhead context assembly and online memory update without expensive LLM training. However, existing solutions remain passive and reactive; memory growth is bounded by information that happens to be available, while memory agents seldom seek external inputs in uncertainties. We propose autonomous memory agents that active",
+      "pubDate": "2026-02-27T05:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information"
-    },
-    {
-      "title": "ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices",
-      "link": "https://arxiv.org/abs/2602.21858",
-      "description": "arXiv:2602.21858v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) have made significant progress in mobile agent development, yet their capabilities are predominantly confined to a reactive paradigm, where they merely execute explicit user commands. The emerging paradigm of proactive intelligence, where agents autonomously anticipate needs and initiate actions, represents the next frontier for mobile agents. However, its development is critically bottlenecked by the lack ",
-      "pubDate": "2026-02-26T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices"
+      "title_zh": "Towards Autonomous Memory Agents"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-02-27T04:01:17.447Z",
+    "generatedAt": "2026-02-27T05:43:01.004Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.25
+    "averageScore": 15.46875
   }
 }
