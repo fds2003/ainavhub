@@ -31,16 +31,6 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
-      "link": "https://arxiv.org/abs/2602.22401",
-      "description": "arXiv:2602.22401v1 Announce Type: new \nAbstract: AI agents -- systems that execute multi-step reasoning workflows with persistent state, tool access, and specialist skills -- represent a qualitative shift from prior automation technologies in social science. Unlike chatbots that respond to isolated queries, AI agents can now read files, run code, query databases, search the web, and invoke domain-specific skills to execute entire research pipelines autonomously. This paper introduces the concept",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 22.5,
-      "title_zh": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -49,26 +39,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
-      "link": "https://arxiv.org/abs/2602.22302",
-      "description": "arXiv:2602.22302v1 Announce Type: new \nAbstract: Traditional software relies on contracts -- APIs, type systems, assertions -- to specify and enforce correct behavior. AI agents, by contrast, operate on prompts and natural language instructions with no formal behavioral specification. This gap is the root cause of drift, governance failures, and frequent project failures in agentic AI deployments. We introduce Agent Behavioral Contracts (ABC), a formal framework that brings Design-by-Contract pr",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 19,
-      "title_zh": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents"
-    },
-    {
-      "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
-      "link": "https://arxiv.org/abs/2602.22425",
-      "description": "arXiv:2602.22425v1 Announce Type: new \nAbstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems have demonstrated significant advances in algorithm design, improving code efficiency, and enabling discovery across scientific domains.\n  Bridging these worlds, we present ArchAgent, an automated computer architecture discovery system built on AlphaEvolve. We show ArchAgent's ability to automatical",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18,
-      "title_zh": "ArchAgent: Agentic AI-driven Computer Architecture Discovery"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -109,61 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
-      "link": "https://arxiv.org/abs/2602.22215",
-      "description": "arXiv:2602.22215v1 Announce Type: new \nAbstract: Large Language Models (LLMs) demonstrate potential in the field of scientific idea generation. However, the generated results often lack controllable academic context and traceable inspiration pathways. To bridge this gap, this paper proposes a scientific idea generation system called GYWI, which combines author knowledge graphs with retrieval-augmented generation (RAG) to form an external knowledge base to provide controllable context and trace o",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation"
-    },
-    {
-      "title": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents",
-      "link": "https://arxiv.org/abs/2602.22413",
-      "description": "arXiv:2602.22413v1 Announce Type: new \nAbstract: We investigate the collective accuracy of heterogeneous agents who learn to estimate their own reliability over time and selectively abstain from voting. While classical epistemic voting results, such as the \\textit{Condorcet Jury Theorem} (CJT), assume fixed participation, real-world aggregation often benefits from allowing agents to say ``I don't know.'' We propose a probabilistic framework where agents engage in a \\textit{calibration} phase, up",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents"
-    },
-    {
-      "title": "Exploring Human Behavior During Abstract Rule Inference and Problem Solving with the Cognitive Abstraction and Reasoning Corpus",
-      "link": "https://arxiv.org/abs/2602.22408",
-      "description": "arXiv:2602.22408v1 Announce Type: new \nAbstract: Humans exhibit remarkable flexibility in abstract reasoning, and can rapidly learn and apply rules from sparse examples. To investigate the cognitive strategies underlying this ability, we introduce the Cognitive Abstraction and Reasoning Corpus (CogARC), a diverse human-adapted subset of the Abstraction and Reasoning Corpus (ARC) which was originally developed to benchmark abstract reasoning in artificial intelligence. Across two experiments, Cog",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Exploring Human Behavior During Abstract Rule Inference and Problem Solving with the Cognitive Abstraction and Reasoning Corpus"
-    },
-    {
-      "title": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
-      "link": "https://arxiv.org/abs/2602.22442",
-      "description": "arXiv:2602.22442v1 Announce Type: new \nAbstract: Agent-based AutoML systems rely on large language models to make complex, multi-stage decisions across data processing, model selection, and evaluation. However, existing evaluation practices remain outcome-centric, focusing primarily on final task performance. Through a review of prior work, we find that none of the surveyed agentic AutoML systems report structured, decision-level evaluation metrics intended for post-hoc assessment of intermediat",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines"
-    },
-    {
-      "title": "Towards Autonomous Memory Agents",
-      "link": "https://arxiv.org/abs/2602.22406",
-      "description": "arXiv:2602.22406v1 Announce Type: new \nAbstract: Recent memory agents improve LLMs by extracting experiences and conversation history into an external storage. This enables low-overhead context assembly and online memory update without expensive LLM training. However, existing solutions remain passive and reactive; memory growth is bounded by information that happens to be available, while memory agents seldom seek external inputs in uncertainties. We propose autonomous memory agents that active",
-      "pubDate": "2026-02-28T05:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Towards Autonomous Memory Agents"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-02-28T10:11:55.970Z",
+    "totalCount": 8,
+    "generatedAt": "2026-02-28T11:09:54.861Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 15.46875
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
