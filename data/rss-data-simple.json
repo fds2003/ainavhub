@@ -28,15 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
-      "title_zh": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
-      "description": "arXiv:2602.22401v1 Announce Type: new \nAbstract: AI agents -- systems that execute multi-step reasoning workflows with persistent state, tool access, and specialist skills -- represent a qualitative shift from prior automation technologies in social science. Unlike chatbots that respond to isolated queries, AI agents can now read files, run code, query databases, search the web, and invoke domain-specific skills to execute entire research pipelines autonomously. This paper introduces the concept",
-      "link": "https://arxiv.org/abs/2602.22401",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -44,24 +35,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
-      "title_zh": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
-      "description": "arXiv:2602.22302v1 Announce Type: new \nAbstract: Traditional software relies on contracts -- APIs, type systems, assertions -- to specify and enforce correct behavior. AI agents, by contrast, operate on prompts and natural language instructions with no formal behavioral specification. This gap is the root cause of drift, governance failures, and frequent project failures in agentic AI deployments. We introduce Agent Behavioral Contracts (ABC), a formal framework that brings Design-by-Contract pr",
-      "link": "https://arxiv.org/abs/2602.22302",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
-    },
-    {
-      "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
-      "title_zh": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
-      "description": "arXiv:2602.22425v1 Announce Type: new \nAbstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems have demonstrated significant advances in algorithm design, improving code efficiency, and enabling discovery across scientific domains.\n  Bridging these worlds, we present ArchAgent, an automated computer architecture discovery system built on AlphaEvolve. We show ArchAgent's ability to automatical",
-      "link": "https://arxiv.org/abs/2602.22425",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -98,51 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
-      "title_zh": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
-      "description": "arXiv:2602.22215v1 Announce Type: new \nAbstract: Large Language Models (LLMs) demonstrate potential in the field of scientific idea generation. However, the generated results often lack controllable academic context and traceable inspiration pathways. To bridge this gap, this paper proposes a scientific idea generation system called GYWI, which combines author knowledge graphs with retrieval-augmented generation (RAG) to form an external knowledge base to provide controllable context and trace o",
-      "link": "https://arxiv.org/abs/2602.22215",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
-    },
-    {
-      "title": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents",
-      "title_zh": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents",
-      "description": "arXiv:2602.22413v1 Announce Type: new \nAbstract: We investigate the collective accuracy of heterogeneous agents who learn to estimate their own reliability over time and selectively abstain from voting. While classical epistemic voting results, such as the \\textit{Condorcet Jury Theorem} (CJT), assume fixed participation, real-world aggregation often benefits from allowing agents to say ``I don't know.'' We propose a probabilistic framework where agents engage in a \\textit{calibration} phase, up",
-      "link": "https://arxiv.org/abs/2602.22413",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
-    },
-    {
-      "title": "Exploring Human Behavior During Abstract Rule Inference and Problem Solving with the Cognitive Abstraction and Reasoning Corpus",
-      "title_zh": "Exploring Human Behavior During Abstract Rule Inference and Problem Solving with the Cognitive Abstraction and Reasoning Corpus",
-      "description": "arXiv:2602.22408v1 Announce Type: new \nAbstract: Humans exhibit remarkable flexibility in abstract reasoning, and can rapidly learn and apply rules from sparse examples. To investigate the cognitive strategies underlying this ability, we introduce the Cognitive Abstraction and Reasoning Corpus (CogARC), a diverse human-adapted subset of the Abstraction and Reasoning Corpus (ARC) which was originally developed to benchmark abstract reasoning in artificial intelligence. Across two experiments, Cog",
-      "link": "https://arxiv.org/abs/2602.22408",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
-    },
-    {
-      "title": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
-      "title_zh": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
-      "description": "arXiv:2602.22442v1 Announce Type: new \nAbstract: Agent-based AutoML systems rely on large language models to make complex, multi-stage decisions across data processing, model selection, and evaluation. However, existing evaluation practices remain outcome-centric, focusing primarily on final task performance. Through a review of prior work, we find that none of the surveyed agentic AutoML systems report structured, decision-level evaluation metrics intended for post-hoc assessment of intermediat",
-      "link": "https://arxiv.org/abs/2602.22442",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
-    },
-    {
-      "title": "Towards Autonomous Memory Agents",
-      "title_zh": "Towards Autonomous Memory Agents",
-      "description": "arXiv:2602.22406v1 Announce Type: new \nAbstract: Recent memory agents improve LLMs by extracting experiences and conversation history into an external storage. This enables low-overhead context assembly and online memory update without expensive LLM training. However, existing solutions remain passive and reactive; memory growth is bounded by information that happens to be available, while memory agents seldom seek external inputs in uncertainties. We propose autonomous memory agents that active",
-      "link": "https://arxiv.org/abs/2602.22406",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-02-27"
     }
   ]
 }
