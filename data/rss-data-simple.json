@@ -10,6 +10,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "AI Must Embrace Specialization via Superhuman Adaptable Intelligence",
+      "title_zh": "AI Must Embrace Specialization via Superhuman Adaptable Intelligence",
+      "description": "arXiv:2602.23643v1 Announce Type: new \nAbstract: Everyone from AI executives and researchers to doomsayers, politicians, and activists is talking about Artificial General Intelligence (AGI). Yet, they often don't seem to agree on its exact definition. One common definition of AGI is an AI that can do everything a human can do, but are humans truly general? In this paper, we address what's wrong with our conception of AGI, and why, even in its most coherent formulation, it is a flawed concept to ",
+      "link": "https://arxiv.org/abs/2602.23643",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
+      "title_zh": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
+      "description": "arXiv:2602.23373v1 Announce Type: new \nAbstract: Adverse media screening is a critical component of anti-money laundering (AML) and know-your-customer (KYC) compliance processes in financial institutions. Traditional approaches rely on keyword-based searches that generate high false-positive rates or require extensive manual review. We present an agentic system that leverages Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) to automate adverse media screening. Our system im",
+      "link": "https://arxiv.org/abs/2602.23373",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation",
+      "title_zh": "ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation",
+      "description": "arXiv:2602.23716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents show promise for e-commerce conversational shopping, yet existing implementations lack the interaction depth and contextual breadth required for complex product research. Meanwhile, the Deep Research paradigm, despite advancing information synthesis in web search, suffers from domain gaps when transferred to e-commerce. We propose ProductResearch, a multi-agent framework that synthesizes high-fidelity, long-",
+      "link": "https://arxiv.org/abs/2602.23716",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem",
+      "title_zh": "Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem",
+      "description": "arXiv:2602.23579v1 Announce Type: new \nAbstract: The Multiple Traveling Salesman Problem (mTSP) extends the Traveling Salesman Problem to m tours that start and end at a common depot and jointly visit all customers exactly once. In the min-max variant, the objective is to minimize the longest tour, reflecting workload balance. We propose a hybrid approach, Construct, Merge, Solve & Adapt with Reinforcement Learning (RL-CMSA), for the symmetric single-depot min-max mTSP. The method iteratively co",
+      "link": "https://arxiv.org/abs/2602.23579",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents",
+      "title_zh": "PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents",
+      "description": "arXiv:2602.23668v1 Announce Type: new \nAbstract: Large language model (LLM) agents typically rely on reactive decision-making paradigms such as ReAct, selecting actions conditioned on growing execution histories. While effective for short tasks, these approaches often lead to redundant tool usage, unstable reasoning, and high token consumption in complex long-horizon tasks involving branching, iteration, or multi-tool coordination. To address these limitations, this paper introduces PseudoAct, a",
+      "link": "https://arxiv.org/abs/2602.23668",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference",
+      "title_zh": "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference",
+      "description": "arXiv:2602.23681v1 Announce Type: new \nAbstract: The paradigm of large language model (LLM) reasoning is shifting from parameter scaling to test-time compute scaling, yet many existing approaches still rely on uniform brute-force sampling (for example, fixed best-of-N or self-consistency) that is costly, hard to attribute, and can trigger overthinking with diminishing returns. We propose ODAR-Expert, an adaptive routing framework that optimizes the accuracy-efficiency trade-off via principled re",
+      "link": "https://arxiv.org/abs/2602.23681",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "From Flat Logs to Causal Graphs: Hierarchical Failure Attribution for LLM-based Multi-Agent Systems",
+      "title_zh": "From Flat Logs to Causal Graphs: Hierarchical Failure Attribution for LLM-based Multi-Agent Systems",
+      "description": "arXiv:2602.23701v1 Announce Type: new \nAbstract: LLM-powered Multi-Agent Systems (MAS) have demonstrated remarkable capabilities in complex domains but suffer from inherent fragility and opaque failure mechanisms. Existing failure attribution methods, whether relying on direct prompting, costly replays, or supervised fine-tuning, typically treat execution logs as flat sequences. This linear perspective fails to disentangle the intricate causal links inherent to MAS, leading to weak observability",
+      "link": "https://arxiv.org/abs/2602.23701",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "MMKG-RDS: Reasoning Data Synthesis via Deep Mining of Multimodal Knowledge Graphs",
+      "title_zh": "MMKG-RDS: Reasoning Data Synthesis via Deep Mining of Multimodal Knowledge Graphs",
+      "description": "arXiv:2602.23632v1 Announce Type: new \nAbstract: Synthesizing high-quality training data is crucial for enhancing domain models' reasoning abilities. Existing methods face limitations in long-tail knowledge coverage, effectiveness verification, and interpretability. Knowledge-graph-based approaches still fall short in functionality, granularity, customizability, and evaluation. To address these issues, we propose MMKG-RDS, a flexible framework for reasoning data synthesis that leverages multimod",
+      "link": "https://arxiv.org/abs/2602.23632",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-02"
     }
   ]
 }
