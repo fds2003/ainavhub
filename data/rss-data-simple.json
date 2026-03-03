@@ -10,15 +10,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "AI Must Embrace Specialization via Superhuman Adaptable Intelligence",
-      "title_zh": "AI Must Embrace Specialization via Superhuman Adaptable Intelligence",
-      "description": "arXiv:2602.23643v1 Announce Type: new \nAbstract: Everyone from AI executives and researchers to doomsayers, politicians, and activists is talking about Artificial General Intelligence (AGI). Yet, they often don't seem to agree on its exact definition. One common definition of AGI is an AI that can do everything a human can do, but are humans truly general? In this paper, we address what's wrong with our conception of AGI, and why, even in its most coherent formulation, it is a flawed concept to ",
-      "link": "https://arxiv.org/abs/2602.23643",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-02"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -44,6 +35,24 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
+      "title_zh": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
+      "description": "arXiv:2603.00350v1 Announce Type: new \nAbstract: The prevailing paradigm in artificial intelligence research equates progress with scale: larger models trained on broader datasets are presumed to yield superior capabilities. This assumption, while empirically productive for general-purpose applications, obscures a fundamental epistemological tension between breadth and depth of knowledge. We introduce the concept of \\emph{Monotropic Artificial Intelligence} -- language models that deliberately s",
+      "link": "https://arxiv.org/abs/2603.00350",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+      "title_zh": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+      "description": "arXiv:2603.00309v1 Announce Type: new \nAbstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaboratively complete complex tasks. While many agentic AI systems utilize predefined workflows or agent roles in order to reduce complexity, ideally these agents would be truly autonomous, able to achieve emergent collaboration even as the number of collaborating agents increases. Yet in practice, such un",
+      "link": "https://arxiv.org/abs/2603.00309",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-03"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -82,67 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
-      "title_zh": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
-      "description": "arXiv:2602.23373v1 Announce Type: new \nAbstract: Adverse media screening is a critical component of anti-money laundering (AML) and know-your-customer (KYC) compliance processes in financial institutions. Traditional approaches rely on keyword-based searches that generate high false-positive rates or require extensive manual review. We present an agentic system that leverages Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) to automate adverse media screening. Our system im",
-      "link": "https://arxiv.org/abs/2602.23373",
+      "title": "NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI",
+      "title_zh": "NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI",
+      "description": "arXiv:2603.00376v1 Announce Type: new \nAbstract: \\textit{NeuroHex} is a hexagonal coordinate system designed to support highly efficient world models and reference frames for online adaptive AI systems. Inspired by the hexadirectional firing structure of grid cells in the human brain, NeuroHex adopts a cubic isometric hexagonal coordinate formulation that provides full 60{\\deg} rotational symmetry and low-cost translation, rotation and distance computation. We develop a mathematical framework th",
+      "link": "https://arxiv.org/abs/2603.00376",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-02"
+      "date": "2026-03-03"
     },
     {
-      "title": "ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation",
-      "title_zh": "ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation",
-      "description": "arXiv:2602.23716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents show promise for e-commerce conversational shopping, yet existing implementations lack the interaction depth and contextual breadth required for complex product research. Meanwhile, the Deep Research paradigm, despite advancing information synthesis in web search, suffers from domain gaps when transferred to e-commerce. We propose ProductResearch, a multi-agent framework that synthesizes high-fidelity, long-",
-      "link": "https://arxiv.org/abs/2602.23716",
+      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+      "title_zh": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+      "description": "arXiv:2603.00285v1 Announce Type: new \nAbstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific tasks. We introduce TraderBench, a benchmark that addresses both issues. It combines expert-verified static tasks (knowledge retrieval, analytical reasoning) with adversarial trading simulations score",
+      "link": "https://arxiv.org/abs/2603.00285",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-02"
+      "date": "2026-03-03"
     },
     {
-      "title": "Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem",
-      "title_zh": "Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem",
-      "description": "arXiv:2602.23579v1 Announce Type: new \nAbstract: The Multiple Traveling Salesman Problem (mTSP) extends the Traveling Salesman Problem to m tours that start and end at a common depot and jointly visit all customers exactly once. In the min-max variant, the objective is to minimize the longest tour, reflecting workload balance. We propose a hybrid approach, Construct, Merge, Solve & Adapt with Reinforcement Learning (RL-CMSA), for the symmetric single-depot min-max mTSP. The method iteratively co",
-      "link": "https://arxiv.org/abs/2602.23579",
+      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "title_zh": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "description": "arXiv:2603.00267v1 Announce Type: new \nAbstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to ",
+      "link": "https://arxiv.org/abs/2603.00267",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-02"
+      "date": "2026-03-03"
     },
     {
-      "title": "PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents",
-      "title_zh": "PseudoAct: Leveraging Pseudocode Synthesis for Flexible Planning and Action Control in Large Language Model Agents",
-      "description": "arXiv:2602.23668v1 Announce Type: new \nAbstract: Large language model (LLM) agents typically rely on reactive decision-making paradigms such as ReAct, selecting actions conditioned on growing execution histories. While effective for short tasks, these approaches often lead to redundant tool usage, unstable reasoning, and high token consumption in complex long-horizon tasks involving branching, iteration, or multi-tool coordination. To address these limitations, this paper introduces PseudoAct, a",
-      "link": "https://arxiv.org/abs/2602.23668",
+      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+      "title_zh": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+      "description": "arXiv:2603.00349v1 Announce Type: new \nAbstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, planning, and natural language communication. However, fine-grained analyses of how such collaboration emerges, unfolds, and contributes to task succe",
+      "link": "https://arxiv.org/abs/2603.00349",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-02"
+      "date": "2026-03-03"
     },
     {
-      "title": "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference",
-      "title_zh": "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference",
-      "description": "arXiv:2602.23681v1 Announce Type: new \nAbstract: The paradigm of large language model (LLM) reasoning is shifting from parameter scaling to test-time compute scaling, yet many existing approaches still rely on uniform brute-force sampling (for example, fixed best-of-N or self-consistency) that is costly, hard to attribute, and can trigger overthinking with diminishing returns. We propose ODAR-Expert, an adaptive routing framework that optimizes the accuracy-efficiency trade-off via principled re",
-      "link": "https://arxiv.org/abs/2602.23681",
+      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+      "title_zh": "How Well Do Multimodal Models Reason on ECG Signals?",
+      "description": "arXiv:2603.00312v1 Announce Type: new \nAbstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, verifying the validity of these traces remains a critical challenge. Existing evaluation methods are either unscalable, relying on manual clinician review, or superficial, utilizing proxy metrics (e.g. QA) that fail to capture the semantic correctness of clinical logic. In this work, we introduce a ",
+      "link": "https://arxiv.org/abs/2603.00312",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-02"
+      "date": "2026-03-03"
     },
     {
-      "title": "From Flat Logs to Causal Graphs: Hierarchical Failure Attribution for LLM-based Multi-Agent Systems",
-      "title_zh": "From Flat Logs to Causal Graphs: Hierarchical Failure Attribution for LLM-based Multi-Agent Systems",
-      "description": "arXiv:2602.23701v1 Announce Type: new \nAbstract: LLM-powered Multi-Agent Systems (MAS) have demonstrated remarkable capabilities in complex domains but suffer from inherent fragility and opaque failure mechanisms. Existing failure attribution methods, whether relying on direct prompting, costly replays, or supervised fine-tuning, typically treat execution logs as flat sequences. This linear perspective fails to disentangle the intricate causal links inherent to MAS, leading to weak observability",
-      "link": "https://arxiv.org/abs/2602.23701",
+      "title": "Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning",
+      "title_zh": "Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning",
+      "description": "arXiv:2603.00374v1 Announce Type: new \nAbstract: Offline learning of strategies takes data efficiency to its extreme by restricting algorithms to a fixed dataset of state-action trajectories. We consider the problem in a mixed-motive multiagent setting, where the goal is to solve a game under the offline learning constraint. We first frame this problem in terms of selecting among candidate equilibria. Since datasets may inform only a small fraction of game dynamics, it is generally infeasible in",
+      "link": "https://arxiv.org/abs/2603.00374",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-02"
-    },
-    {
-      "title": "MMKG-RDS: Reasoning Data Synthesis via Deep Mining of Multimodal Knowledge Graphs",
-      "title_zh": "MMKG-RDS: Reasoning Data Synthesis via Deep Mining of Multimodal Knowledge Graphs",
-      "description": "arXiv:2602.23632v1 Announce Type: new \nAbstract: Synthesizing high-quality training data is crucial for enhancing domain models' reasoning abilities. Existing methods face limitations in long-tail knowledge coverage, effectiveness verification, and interpretability. Knowledge-graph-based approaches still fall short in functionality, granularity, customizability, and evaluation. To address these issues, we propose MMKG-RDS, a flexible framework for reasoning data synthesis that leverages multimod",
-      "link": "https://arxiv.org/abs/2602.23632",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-02"
+      "date": "2026-03-03"
     }
   ]
 }
