@@ -10,6 +10,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models",
+      "title_zh": "Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models",
+      "description": "arXiv:2603.04722v1 Announce Type: new \nAbstract: Model Medicine is the science of understanding, diagnosing, treating, and preventing disorders in AI models, grounded in the principle that AI models -- like biological organisms -- have internal structures, dynamic processes, heritable traits, observable symptoms, classifiable conditions, and treatable states. This paper introduces Model Medicine as a research program, bridging the gap between current AI interpretability research (anatomical obse",
+      "link": "https://arxiv.org/abs/2603.04722",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-06"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -28,6 +37,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
+      "title_zh": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
+      "description": "arXiv:2603.04631v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly integrated into critical decision-making pipelines, a trend that raises the demand for robust and automated data analysis. Current approaches to dataset risk analysis are limited to manual auditing methods which involve time-consuming and complex tasks, whereas fully automated analysis based on Artificial Intelligence (AI) suffers from hallucinations and issues stemming from AI alignment. To this end, ",
+      "link": "https://arxiv.org/abs/2603.04631",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-06"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -35,6 +53,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Adaptive Memory Admission Control for LLM Agents",
+      "title_zh": "Adaptive Memory Admission Control for LLM Agents",
+      "description": "arXiv:2603.04549v1 Announce Type: new \nAbstract: LLM-based agents increasingly rely on long-term memory to support multi-session reasoning and interaction, yet current systems provide little control over what information is retained. In practice, agents either accumulate large volumes of conversational content, including hallucinated or obsolete facts, or depend on opaque, fully LLM-driven memory policies that are costly and difficult to audit. As a result, memory admission remains a poorly spec",
+      "link": "https://arxiv.org/abs/2603.04549",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-06"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -73,76 +100,49 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
-      "title_zh": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
-      "description": "arXiv:2603.03655v1 Announce Type: new \nAbstract: Tool-augmented large language model (LLM) agents promise to unify scientific reasoning with computation, yet their deployment in high-stakes domains like drug discovery is bottlenecked by two critical barriers: unconstrained tool-use governance and poor long-horizon reliability. In dependency-heavy pharmaceutical pipelines, autonomous agents often drift into irreproducible trajectories, where early-stage hallucinations multiplicatively compound in",
-      "link": "https://arxiv.org/abs/2603.03655",
+      "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+      "title_zh": "SkillNet: Create, Evaluate, and Connect AI Skills",
+      "description": "arXiv:2603.04448v1 Announce Type: new \nAbstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mechanism for skill consolidation, agents frequently ``reinvent the wheel'', rediscovering solutions in isolated contexts without leveraging prior strategies. To overcome this limitation, we introduce SkillNet, an open infrastructure designed to create, e",
+      "link": "https://arxiv.org/abs/2603.04448",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-05"
+      "date": "2026-03-06"
     },
     {
-      "title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
-      "title_zh": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
-      "description": "arXiv:2603.03761v1 Announce Type: new \nAbstract: LLM agents are rapidly becoming the practical interface for task automation, yet the ecosystem lacks a principled way to choose among an exploding space of deployable configurations. Existing LLM leaderboards and tool/agent benchmarks evaluate components in isolation and remain fragmented across tasks, metrics, and candidate pools, leaving a critical research gap: there is little query-conditioned supervision for learning to recommend end-to-end a",
-      "link": "https://arxiv.org/abs/2603.03761",
+      "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
+      "title_zh": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
+      "description": "arXiv:2603.04457v1 Announce Type: new \nAbstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every major innovation of the past century, from the Toyota Production System to Industry 4.0, has optimized within the Fordist paradigm without altering its structural logic: centralized mega-factories, located near labor pools, producing at scale. We argue that embodied intelligence is poised to break this ",
+      "link": "https://arxiv.org/abs/2603.04457",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-05"
+      "date": "2026-03-06"
     },
     {
-      "title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
-      "title_zh": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
-      "description": "arXiv:2603.03565v1 Announce Type: new \nAbstract: Conversational shopping assistants (CSAs) represent a compelling application of agentic AI, but moving from prototype to production reveals two underexplored challenges: how to evaluate multi-turn interactions and how to optimize tightly coupled multi-agent systems. Grocery shopping further amplifies these difficulties, as user requests are often underspecified, highly preference-sensitive, and constrained by factors such as budget and inventory. ",
-      "link": "https://arxiv.org/abs/2603.03565",
+      "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
+      "title_zh": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
+      "description": "arXiv:2603.04582v1 Announce Type: new \nAbstract: Agentic systems increasingly rely on language models to monitor their own behavior. For example, coding agents may self critique generated code for pull request approval or assess the safety of tool-use actions. We show that this design pattern can fail when the action is presented in a previous or in the same assistant turn instead of being presented by the user in a user turn. We define self-attribution bias as the tendency of a model to evaluat",
+      "link": "https://arxiv.org/abs/2603.04582",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-05"
+      "date": "2026-03-06"
     },
     {
-      "title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
-      "title_zh": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
-      "description": "arXiv:2603.03680v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have demonstrated remarkable proficiency in learned tasks, yet they often struggle to adapt to non-stationary environments with feedback. While In-Context Learning and external memory offer some flexibility, they fail to internalize the adaptive ability required for long-term improvement. Meta-Reinforcement Learning (meta-RL) provides an alternative by embedding the learning process directly within the model. Howe",
-      "link": "https://arxiv.org/abs/2603.03680",
+      "title": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
+      "title_zh": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
+      "description": "arXiv:2603.04636v1 Announce Type: new \nAbstract: Despite their wide-ranging benefits, LLM-based agents deployed in open environments can be exploited to produce manipulative material. In this study, we task LLMs with propaganda objectives and analyze their outputs using two domain-specific models: one that classifies text as propaganda or non-propaganda, and another that detects rhetorical techniques of propaganda (e.g., loaded language, appeals to fear, flag-waving, name-calling). Our findings ",
+      "link": "https://arxiv.org/abs/2603.04636",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-05"
+      "date": "2026-03-06"
     },
     {
-      "title": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
-      "title_zh": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
-      "description": "arXiv:2603.03781v1 Announce Type: new \nAbstract: Long-term memory is fundamental for personalized agents capable of accumulating knowledge, reasoning over user experiences, and adapting across time. However, existing memory benchmarks primarily target declarative memory, specifically semantic and episodic types, where all information is explicitly presented in dialogues. In contrast, real-world actions are also governed by non-declarative memory, including habitual and procedural types, and need",
-      "link": "https://arxiv.org/abs/2603.03781",
+      "title": "Using Vision + Language Models to Predict Item Difficulty",
+      "title_zh": "Using Vision + Language Models to Predict Item Difficulty",
+      "description": "arXiv:2603.04670v1 Announce Type: new \nAbstract: This project investigates the capabilities of large language models (LLMs) to determine the difficulty of data visualization literacy test items. We explore whether features derived from item text (question and answer options), the visualization image, or a combination of both can predict item difficulty (proportion of correct responses) for U.S. adults. We use GPT-4.1-nano to analyze items and generate predictions based on these distinct feature ",
+      "link": "https://arxiv.org/abs/2603.04670",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-05"
-    },
-    {
-      "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
-      "title_zh": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
-      "description": "arXiv:2603.03456v1 Announce Type: new \nAbstract: Agentic coding agents are increasingly deployed autonomously, at scale, and over long-context horizons. Throughout an agent's lifetime, it must navigate tensions between explicit instructions, learned values, and environmental pressures, often in contexts unseen during training. Prior work on model preferences, agent behavior under value tensions, and goal drift has relied on static, synthetic settings that do not capture the complexity of real-wo",
-      "link": "https://arxiv.org/abs/2603.03456",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-05"
-    },
-    {
-      "title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
-      "title_zh": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
-      "description": "arXiv:2603.03686v1 Announce Type: new \nAbstract: Automated design of chemical formulations is a cornerstone of materials science, yet it requires navigating a high-dimensional combinatorial space involving discrete compositional choices and continuous geometric constraints. Existing Large Language Model (LLM) agents face significant challenges in this setting, including context window limitations during long-horizon reasoning and path-dependent exploration that may lead to mode collapse. To addr",
-      "link": "https://arxiv.org/abs/2603.03686",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-05"
-    },
-    {
-      "title": "Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism",
-      "title_zh": "Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism",
-      "description": "arXiv:2603.03784v1 Announce Type: new \nAbstract: World models are essential for planning and evaluation in agentic systems, yet existing approaches lie at two extremes: hand-engineered simulators that offer consistency and reproducibility but are costly to adapt, and implicit neural models that are flexible but difficult to constrain, verify, and debug over long horizons. We seek a principled middle ground that combines the reliability of explicit simulators with the flexibility of learned model",
-      "link": "https://arxiv.org/abs/2603.03784",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-05"
+      "date": "2026-03-06"
     }
   ]
 }
