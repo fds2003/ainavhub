@@ -10,15 +10,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models",
-      "title_zh": "Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models",
-      "description": "arXiv:2603.04722v1 Announce Type: new \nAbstract: Model Medicine is the science of understanding, diagnosing, treating, and preventing disorders in AI models, grounded in the principle that AI models -- like biological organisms -- have internal structures, dynamic processes, heritable traits, observable symptoms, classifiable conditions, and treatable states. This paper introduces Model Medicine as a research program, bridging the gap between current AI interpretability research (anatomical obse",
-      "link": "https://arxiv.org/abs/2603.04722",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -37,15 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
-      "title_zh": "Towards automated data analysis: A guided framework for LLM-based risk estimation",
-      "description": "arXiv:2603.04631v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly integrated into critical decision-making pipelines, a trend that raises the demand for robust and automated data analysis. Current approaches to dataset risk analysis are limited to manual auditing methods which involve time-consuming and complex tasks, whereas fully automated analysis based on Artificial Intelligence (AI) suffers from hallucinations and issues stemming from AI alignment. To this end, ",
-      "link": "https://arxiv.org/abs/2603.04631",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -53,15 +35,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Adaptive Memory Admission Control for LLM Agents",
-      "title_zh": "Adaptive Memory Admission Control for LLM Agents",
-      "description": "arXiv:2603.04549v1 Announce Type: new \nAbstract: LLM-based agents increasingly rely on long-term memory to support multi-session reasoning and interaction, yet current systems provide little control over what information is retained. In practice, agents either accumulate large volumes of conversational content, including hallucinated or obsolete facts, or depend on opaque, fully LLM-driven memory policies that are costly and difficult to audit. As a result, memory admission remains a poorly spec",
-      "link": "https://arxiv.org/abs/2603.04549",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -98,51 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
-      "title_zh": "SkillNet: Create, Evaluate, and Connect AI Skills",
-      "description": "arXiv:2603.04448v1 Announce Type: new \nAbstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mechanism for skill consolidation, agents frequently ``reinvent the wheel'', rediscovering solutions in isolated contexts without leveraging prior strategies. To overcome this limitation, we introduce SkillNet, an open infrastructure designed to create, e",
-      "link": "https://arxiv.org/abs/2603.04448",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
-    },
-    {
-      "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
-      "title_zh": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
-      "description": "arXiv:2603.04457v1 Announce Type: new \nAbstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every major innovation of the past century, from the Toyota Production System to Industry 4.0, has optimized within the Fordist paradigm without altering its structural logic: centralized mega-factories, located near labor pools, producing at scale. We argue that embodied intelligence is poised to break this ",
-      "link": "https://arxiv.org/abs/2603.04457",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
-    },
-    {
-      "title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
-      "title_zh": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
-      "description": "arXiv:2603.04582v1 Announce Type: new \nAbstract: Agentic systems increasingly rely on language models to monitor their own behavior. For example, coding agents may self critique generated code for pull request approval or assess the safety of tool-use actions. We show that this design pattern can fail when the action is presented in a previous or in the same assistant turn instead of being presented by the user in a user turn. We define self-attribution bias as the tendency of a model to evaluat",
-      "link": "https://arxiv.org/abs/2603.04582",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
-    },
-    {
-      "title": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
-      "title_zh": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
-      "description": "arXiv:2603.04636v1 Announce Type: new \nAbstract: Despite their wide-ranging benefits, LLM-based agents deployed in open environments can be exploited to produce manipulative material. In this study, we task LLMs with propaganda objectives and analyze their outputs using two domain-specific models: one that classifies text as propaganda or non-propaganda, and another that detects rhetorical techniques of propaganda (e.g., loaded language, appeals to fear, flag-waving, name-calling). Our findings ",
-      "link": "https://arxiv.org/abs/2603.04636",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
-    },
-    {
-      "title": "Using Vision + Language Models to Predict Item Difficulty",
-      "title_zh": "Using Vision + Language Models to Predict Item Difficulty",
-      "description": "arXiv:2603.04670v1 Announce Type: new \nAbstract: This project investigates the capabilities of large language models (LLMs) to determine the difficulty of data visualization literacy test items. We explore whether features derived from item text (question and answer options), the visualization image, or a combination of both can predict item difficulty (proportion of correct responses) for U.S. adults. We use GPT-4.1-nano to analyze items and generate predictions based on these distinct feature ",
-      "link": "https://arxiv.org/abs/2603.04670",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-06"
     }
   ]
 }
