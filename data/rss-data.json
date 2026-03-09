@@ -31,6 +31,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
+      "link": "https://arxiv.org/abs/2603.06064",
+      "description": "arXiv:2603.06064v1 Announce Type: new \nAbstract: Task planning, the problem of sequencing actions to reach a goal from an initial state, is a core capability requirement for autonomous robotic systems. Whether large language models (LLMs) can serve as viable planners alongside classical symbolic methods remains an open question. We present PyPDDLEngine, an open-source Planning Domain Definition Language (PDDL) simulation engine that exposes planning operations as LLM tool calls through a Model C",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 21,
+      "title_zh": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -79,11 +89,81 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+      "link": "https://arxiv.org/abs/2603.05614",
+      "description": "arXiv:2603.05614v1 Announce Type: new \nAbstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and compete for shared resources under policy and governance constraints. This article shows that the structure of service-dependency graphs, modelled as DAGs whose nodes represent compute stages and whose edges encode execution ordering, is a primary deter",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum"
+    },
+    {
+      "title": "Offline Materials Optimization with CliqueFlowmer",
+      "link": "https://arxiv.org/abs/2603.06082",
+      "description": "arXiv:2603.06082v1 Announce Type: new \nAbstract: Recent advances in deep learning inspired neural network-based approaches to computational materials discovery (CMD). A plethora of problems in this field involve finding materials that optimize a target property. Nevertheless, the increasingly popular generative modeling methods are ineffective at boldly exploring attractive regions of the materials space due to their maximum likelihood training. In this work, we offer an alternative CMD techniqu",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 9,
+      "title_zh": "Offline Materials Optimization with CliqueFlowmer"
+    },
+    {
+      "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
+      "link": "https://arxiv.org/abs/2603.05860",
+      "description": "arXiv:2603.05860v1 Announce Type: new \nAbstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify findings, and refine their decisions through a sequence of specialized procedures. While LLM-based agents promise to orchestrate such heterogeneous medical tools, existing systems treat tool sets and invocation strategies as static after deployment. This design is brittle under real-world domain shi",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 7,
+      "title_zh": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery"
+    },
+    {
+      "title": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks",
+      "link": "https://arxiv.org/abs/2603.06067",
+      "description": "arXiv:2603.06067v1 Announce Type: new \nAbstract: Formal argumentation is being used increasingly in artificial intelligence as an effective and understandable way to model potentially conflicting pieces of information, called arguments, and identify so-called acceptable arguments depending on a chosen semantics. This paper deals with the specific context of Quantitative Bipolar Argumentation Frameworks (QBAF), where arguments have intrinsic weights and can attack or support each other. In this c",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks"
+    },
+    {
+      "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
+      "link": "https://arxiv.org/abs/2603.05910",
+      "description": "arXiv:2603.05910v1 Announce Type: new \nAbstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing benchmarks assume static environments with fixed schemas and toolsets, neglecting the evolutionary nature of the real world and agents' robustness to environmental changes. In this paper, we study a crucial problem: how to evolve the agent environment in a scalable and controllable way, thereby be",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks"
+    },
+    {
+      "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
+      "link": "https://arxiv.org/abs/2603.05912",
+      "description": "arXiv:2603.05912v1 Announce Type: new \nAbstract: Search-augmented LLM agents can produce deep research reports (DRRs), but verifying claim-level factuality remains challenging. Existing fact-checkers are primarily designed for general-domain, factoid-style atomic claims, and there is no benchmark to test whether such verifiers transfer to DRRs. Yet building such a benchmark is itself difficult. We first show that static expert-labeled benchmarks are brittle in this setting: in a controlled study",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality"
+    },
+    {
+      "title": "An Interactive Multi-Agent System for Evaluation of New Product Concepts",
+      "link": "https://arxiv.org/abs/2603.05980",
+      "description": "arXiv:2603.05980v1 Announce Type: new \nAbstract: Product concept evaluation is a critical stage that determines strategic resource allocation and project success in enterprises. However, traditional expert-led approaches face limitations such as subjective bias and high time and cost requirements. To support this process, this study proposes an automated approach utilizing a large language model (LLM)-based multi-agent system (MAS). Through a systematic analysis of previous research on product d",
+      "pubDate": "2026-03-09T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "An Interactive Multi-Agent System for Evaluation of New Product Concepts"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-03-09T01:04:09.231Z",
+    "totalCount": 16,
+    "generatedAt": "2026-03-09T04:05:16.759Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 14
   }
 }
