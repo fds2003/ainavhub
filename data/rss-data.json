@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "Not Too Short, Not Too Long: How LLM Response Length Shapes People's Critical Thinking in Error Detection",
+      "link": "https://arxiv.org/abs/2603.06878",
+      "description": "arXiv:2603.06878v1 Announce Type: new \nAbstract: Large language models (LLMs) have become common decision-support tools across educational and professional contexts, raising questions about how their outputs shape human critical thinking. Prior work suggests that the amount of AI assistance can influence cognitive engagement, yet little is known about how specific properties of LLM outputs (e.g., response length) impacts users' critical evaluation of information. In this study, we examine whethe",
+      "pubDate": "2026-03-10T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 37,
+      "title_zh": "Not Too Short, Not Too Long: How LLM Response Length Shapes People's Critical Thinking in Error Detection"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -9,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
+      "link": "https://arxiv.org/abs/2603.06811",
+      "description": "arXiv:2603.06811v1 Announce Type: new \nAbstract: With many organizations struggling to gain value from AI deployments, pressure to evaluate AI in an informed manner has intensified. Status quo AI evaluation approaches mask the operational realities that ultimately determine deployment success, making it difficult for decision makers outside the stack to know whether and how AI tools will deliver durable value. We introduce and describe context specification as a process to support and inform the",
+      "pubDate": "2026-03-10T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 24,
+      "title_zh": "Making AI Evaluation Deployment Relevant Through Context Specification"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -31,16 +51,6 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation",
-      "link": "https://arxiv.org/abs/2603.06064",
-      "description": "arXiv:2603.06064v1 Announce Type: new \nAbstract: Task planning, the problem of sequencing actions to reach a goal from an initial state, is a core capability requirement for autonomous robotic systems. Whether large language models (LLMs) can serve as viable planners alongside classical symbolic methods remains an open question. We present PyPDDLEngine, an open-source Planning Domain Definition Language (PDDL) simulation engine that exposes planning operations as LLM tool calls through a Model C",
-      "pubDate": "2026-03-09T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 21,
-      "title_zh": "Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -59,6 +69,16 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2603.06587",
+      "description": "arXiv:2603.06587v1 Announce Type: new \nAbstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcomes. We introduce two reinforcement learning frameworks, a novel Replication Learning of Option Pricing (RLOP) approach and an adaptive extension of Q-learner in Black-Scholes (QLBS), that prioritize shortfall probability and align learning objectives with downside sensitive hedging. Using listed SPY ",
+      "pubDate": "2026-03-10T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -91,79 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
-      "link": "https://arxiv.org/abs/2603.05614",
-      "description": "arXiv:2603.05614v1 Announce Type: new \nAbstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and compete for shared resources under policy and governance constraints. This article shows that the structure of service-dependency graphs, modelled as DAGs whose nodes represent compute stages and whose edges encode execution ordering, is a primary deter",
-      "pubDate": "2026-03-09T04:00:00.000Z",
+      "title": "Distributed Legal Infrastructure for a Trustworthy Agentic Web",
+      "link": "https://arxiv.org/abs/2603.06884",
+      "description": "arXiv:2603.06884v1 Announce Type: new \nAbstract: The agentic web marks a structural transition from a human-centered information network to a digital environment populated by artificial intelligence (AI) agents that perceive, decide, and act autonomously. As delegated action unfolds at machine speed, exceeds discrete moments of human judgment, and distributes decision-making across non-human actors, existing legal frameworks face growing strain, creating an urgent need for new mechanisms capable",
+      "pubDate": "2026-03-10T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum"
+      "aiScore": 13,
+      "title_zh": "Distributed Legal Infrastructure for a Trustworthy Agentic Web"
     },
     {
-      "title": "Offline Materials Optimization with CliqueFlowmer",
-      "link": "https://arxiv.org/abs/2603.06082",
-      "description": "arXiv:2603.06082v1 Announce Type: new \nAbstract: Recent advances in deep learning inspired neural network-based approaches to computational materials discovery (CMD). A plethora of problems in this field involve finding materials that optimize a target property. Nevertheless, the increasingly popular generative modeling methods are ineffective at boldly exploring attractive regions of the materials space due to their maximum likelihood training. In this work, we offer an alternative CMD techniqu",
-      "pubDate": "2026-03-09T04:00:00.000Z",
+      "title": "Enhancing the Detection of Coronary Artery Disease Using Machine Learning",
+      "link": "https://arxiv.org/abs/2603.06888",
+      "description": "arXiv:2603.06888v1 Announce Type: new \nAbstract: Coronary Artery Disease (CAD) remains a leading cause of morbidity and mortality worldwide. Early detection is critical to recover patient outcomes and decrease healthcare costs. In recent years, machine learning (ML) advancements have shown significant potential in enhancing the accuracy of CAD diagnosis. This study investigates the application of ML algorithms to improve the detection of CAD by analyzing patient data, including clinical features",
+      "pubDate": "2026-03-10T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Offline Materials Optimization with CliqueFlowmer"
+      "aiScore": 8,
+      "title_zh": "Enhancing the Detection of Coronary Artery Disease Using Machine Learning"
     },
     {
-      "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
-      "link": "https://arxiv.org/abs/2603.05860",
-      "description": "arXiv:2603.05860v1 Announce Type: new \nAbstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify findings, and refine their decisions through a sequence of specialized procedures. While LLM-based agents promise to orchestrate such heterogeneous medical tools, existing systems treat tool sets and invocation strategies as static after deployment. This design is brittle under real-world domain shi",
-      "pubDate": "2026-03-09T04:00:00.000Z",
+      "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
+      "link": "https://arxiv.org/abs/2603.06608",
+      "description": "arXiv:2603.06608v1 Announce Type: new \nAbstract: The research community lacks a middle ground between StarCraft IIs full game and its mini-games. The full-games sprawling state-action space renders reward signals sparse and noisy, but in mini-games simple agents saturate performance. This complexity gap hinders steady curriculum design and prevents researchers from experimenting with modern Reinforcement Learning algorithms in RTS environments under realistic compute budgets. To fill this gap, w",
+      "pubDate": "2026-03-10T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery"
+      "aiScore": 4,
+      "title_zh": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research"
     },
     {
-      "title": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks",
-      "link": "https://arxiv.org/abs/2603.06067",
-      "description": "arXiv:2603.06067v1 Announce Type: new \nAbstract: Formal argumentation is being used increasingly in artificial intelligence as an effective and understandable way to model potentially conflicting pieces of information, called arguments, and identify so-called acceptable arguments depending on a chosen semantics. This paper deals with the specific context of Quantitative Bipolar Argumentation Frameworks (QBAF), where arguments have intrinsic weights and can attack or support each other. In this c",
-      "pubDate": "2026-03-09T04:00:00.000Z",
+      "title": "Empowering Locally Deployable Medical Agent via State Enhanced Logical Skills for FHIR-based Clinical Tasks",
+      "link": "https://arxiv.org/abs/2603.06902",
+      "description": "arXiv:2603.06902v1 Announce Type: new \nAbstract: While Large Language Models demonstrate immense potential as proactive Medical Agents, their real-world deployment is severely bottlenecked by data scarcity under privacy constraints. To overcome this, we propose State-Enhanced Logical-Skill Memory (SELSM), a training-free framework that distills simulated clinical trajectories into entity-agnostic operational rules within an abstract skill space. During inference, a Query-Anchored Two-Stage Retri",
+      "pubDate": "2026-03-10T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Aggregative Semantics for Quantitative Bipolar Argumentation Frameworks"
+      "aiScore": 4,
+      "title_zh": "Empowering Locally Deployable Medical Agent via State Enhanced Logical Skills for FHIR-based Clinical Tasks"
     },
     {
-      "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
-      "link": "https://arxiv.org/abs/2603.05910",
-      "description": "arXiv:2603.05910v1 Announce Type: new \nAbstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing benchmarks assume static environments with fixed schemas and toolsets, neglecting the evolutionary nature of the real world and agents' robustness to environmental changes. In this paper, we study a crucial problem: how to evolve the agent environment in a scalable and controllable way, thereby be",
-      "pubDate": "2026-03-09T04:00:00.000Z",
+      "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
+      "link": "https://arxiv.org/abs/2603.06874",
+      "description": "arXiv:2603.06874v1 Announce Type: new \nAbstract: Large Language Models (LLMs) exhibit impressive general-purpose capabilities but also introduce serious safety risks, particularly the potential for deception as models acquire increased agency and human oversight diminishes. In this work, we present LieCraft: a novel evaluation framework and sandbox for measuring LLM deception that addresses key limitations of prior game-based evaluations. At its core, LieCraft is a novel multiplayer hidden-role ",
+      "pubDate": "2026-03-10T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks"
-    },
-    {
-      "title": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality",
-      "link": "https://arxiv.org/abs/2603.05912",
-      "description": "arXiv:2603.05912v1 Announce Type: new \nAbstract: Search-augmented LLM agents can produce deep research reports (DRRs), but verifying claim-level factuality remains challenging. Existing fact-checkers are primarily designed for general-domain, factoid-style atomic claims, and there is no benchmark to test whether such verifiers transfer to DRRs. Yet building such a benchmark is itself difficult. We first show that static expert-labeled benchmarks are brittle in this setting: in a controlled study",
-      "pubDate": "2026-03-09T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality"
-    },
-    {
-      "title": "An Interactive Multi-Agent System for Evaluation of New Product Concepts",
-      "link": "https://arxiv.org/abs/2603.05980",
-      "description": "arXiv:2603.05980v1 Announce Type: new \nAbstract: Product concept evaluation is a critical stage that determines strategic resource allocation and project success in enterprises. However, traditional expert-led approaches face limitations such as subjective bias and high time and cost requirements. To support this process, this study proposes an automated approach utilizing a large language model (LLM)-based multi-agent system (MAS). Through a systematic analysis of previous research on product d",
-      "pubDate": "2026-03-09T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "An Interactive Multi-Agent System for Evaluation of New Product Concepts"
+      "title_zh": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-03-10T03:25:45.442Z",
+    "generatedAt": "2026-03-10T05:04:05.478Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14
+    "averageScore": 16.875
   }
 }
