@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Not Too Short, Not Too Long: How LLM Response Length Shapes People's Critical Thinking in Error Detection",
-      "title_zh": "Not Too Short, Not Too Long: How LLM Response Length Shapes People's Critical Thinking in Error Detection",
-      "description": "arXiv:2603.06878v1 Announce Type: new \nAbstract: Large language models (LLMs) have become common decision-support tools across educational and professional contexts, raising questions about how their outputs shape human critical thinking. Prior work suggests that the amount of AI assistance can influence cognitive engagement, yet little is known about how specific properties of LLM outputs (e.g., response length) impacts users' critical evaluation of information. In this study, we examine whethe",
-      "link": "https://arxiv.org/abs/2603.06878",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-10"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -17,15 +8,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
-      "title_zh": "Making AI Evaluation Deployment Relevant Through Context Specification",
-      "description": "arXiv:2603.06811v1 Announce Type: new \nAbstract: With many organizations struggling to gain value from AI deployments, pressure to evaluate AI in an informed manner has intensified. Status quo AI evaluation approaches mask the operational realities that ultimately determine deployment success, making it difficult for decision makers outside the stack to know whether and how AI tools will deliver durable value. We introduce and describe context specification as a process to support and inform the",
-      "link": "https://arxiv.org/abs/2603.06811",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-10"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -46,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
+      "title_zh": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
+      "description": "arXiv:2603.08852v1 Announce Type: new \nAbstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such as A2A and MCP do not expose model-level properties as first-class primitives, ignoring properties fundamental to effective delegation: model identity, reasoning profile, quality calibration, and cost characteristics. We present the LLM Delegate Protocol (LDP), an AI-native communication protocol introducing five mechani",
+      "link": "https://arxiv.org/abs/2603.08852",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-11"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -62,15 +53,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
-      "title_zh": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
-      "description": "arXiv:2603.06587v1 Announce Type: new \nAbstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcomes. We introduce two reinforcement learning frameworks, a novel Replication Learning of Option Pricing (RLOP) approach and an adaptive extension of Q-learner in Black-Scholes (QLBS), that prioritize shortfall probability and align learning objectives with downside sensitive hedging. Using listed SPY ",
-      "link": "https://arxiv.org/abs/2603.06587",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-10"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -100,49 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Distributed Legal Infrastructure for a Trustworthy Agentic Web",
-      "title_zh": "Distributed Legal Infrastructure for a Trustworthy Agentic Web",
-      "description": "arXiv:2603.06884v1 Announce Type: new \nAbstract: The agentic web marks a structural transition from a human-centered information network to a digital environment populated by artificial intelligence (AI) agents that perceive, decide, and act autonomously. As delegated action unfolds at machine speed, exceeds discrete moments of human judgment, and distributes decision-making across non-human actors, existing legal frameworks face growing strain, creating an urgent need for new mechanisms capable",
-      "link": "https://arxiv.org/abs/2603.06884",
+      "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
+      "title_zh": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
+      "description": "arXiv:2603.08954v1 Announce Type: new \nAbstract: The first 72 hours of a missing-person investigation are critical for successful recovery. Guardian is an end-to-end system designed to support missing-child investigation and early search planning. This paper presents the Guardian LLM Pipeline, a multi-model system in which LLMs are used for intelligent information extraction and processing related to missing-person search operations. The pipeline coordinates end-to-end execution across task-spec",
+      "link": "https://arxiv.org/abs/2603.08954",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-10"
+      "date": "2026-03-11"
     },
     {
-      "title": "Enhancing the Detection of Coronary Artery Disease Using Machine Learning",
-      "title_zh": "Enhancing the Detection of Coronary Artery Disease Using Machine Learning",
-      "description": "arXiv:2603.06888v1 Announce Type: new \nAbstract: Coronary Artery Disease (CAD) remains a leading cause of morbidity and mortality worldwide. Early detection is critical to recover patient outcomes and decrease healthcare costs. In recent years, machine learning (ML) advancements have shown significant potential in enhancing the accuracy of CAD diagnosis. This study investigates the application of ML algorithms to improve the detection of CAD by analyzing patient data, including clinical features",
-      "link": "https://arxiv.org/abs/2603.06888",
+      "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
+      "title_zh": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
+      "description": "arXiv:2603.08933v1 Announce Type: new \nAbstract: The first 72 hours of a missing-child investigation are critical for successful recovery. However, law enforcement agencies often face fragmented, unstructured data and a lack of dynamic, geospatial predictive tools. Our system, Guardian, provides an end-to-end decision-support system for missing-child investigation and early search planning. It converts heterogeneous, unstructured case documents into a schema-aligned spatiotemporal representation",
+      "link": "https://arxiv.org/abs/2603.08933",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-10"
+      "date": "2026-03-11"
     },
     {
-      "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
-      "title_zh": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
-      "description": "arXiv:2603.06608v1 Announce Type: new \nAbstract: The research community lacks a middle ground between StarCraft IIs full game and its mini-games. The full-games sprawling state-action space renders reward signals sparse and noisy, but in mini-games simple agents saturate performance. This complexity gap hinders steady curriculum design and prevents researchers from experimenting with modern Reinforcement Learning algorithms in RTS environments under realistic compute budgets. To fill this gap, w",
-      "link": "https://arxiv.org/abs/2603.06608",
+      "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
+      "title_zh": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
+      "description": "arXiv:2603.08938v1 Announce Type: new \nAbstract: The rapid emergence of open-source, locally hosted intelligent agents marks a critical inflection point in human-computer interaction. Systems such as OpenClaw demonstrate that Large Language Model (LLM)-based agents can autonomously operate local computing environments, orchestrate workflows, and integrate external tools. However, within the current paradigm, these agents remain conventional applications running on legacy operating systems origin",
+      "link": "https://arxiv.org/abs/2603.08938",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-10"
+      "date": "2026-03-11"
     },
     {
-      "title": "Empowering Locally Deployable Medical Agent via State Enhanced Logical Skills for FHIR-based Clinical Tasks",
-      "title_zh": "Empowering Locally Deployable Medical Agent via State Enhanced Logical Skills for FHIR-based Clinical Tasks",
-      "description": "arXiv:2603.06902v1 Announce Type: new \nAbstract: While Large Language Models demonstrate immense potential as proactive Medical Agents, their real-world deployment is severely bottlenecked by data scarcity under privacy constraints. To overcome this, we propose State-Enhanced Logical-Skill Memory (SELSM), a training-free framework that distills simulated clinical trajectories into entity-agnostic operational rules within an abstract skill space. During inference, a Query-Anchored Two-Stage Retri",
-      "link": "https://arxiv.org/abs/2603.06902",
+      "title": "Meissa: Multi-modal Medical Agentic Intelligence",
+      "title_zh": "Meissa: Multi-modal Medical Agentic Intelligence",
+      "description": "arXiv:2603.09018v1 Announce Type: new \nAbstract: Multi-modal large language models (MM-LLMs) have shown strong performance in medical image understanding and clinical reasoning. Recent medical agent systems extend them with tool use and multi-agent collaboration, enabling complex decision-making. However, these systems rely almost entirely on frontier models (e.g., GPT), whose API-based deployment incurs high cost, high latency, and privacy risks that conflict with on-premise clinical requiremen",
+      "link": "https://arxiv.org/abs/2603.09018",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-10"
+      "date": "2026-03-11"
     },
     {
-      "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
-      "title_zh": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
-      "description": "arXiv:2603.06874v1 Announce Type: new \nAbstract: Large Language Models (LLMs) exhibit impressive general-purpose capabilities but also introduce serious safety risks, particularly the potential for deception as models acquire increased agency and human oversight diminishes. In this work, we present LieCraft: a novel evaluation framework and sandbox for measuring LLM deception that addresses key limitations of prior game-based evaluations. At its core, LieCraft is a novel multiplayer hidden-role ",
-      "link": "https://arxiv.org/abs/2603.06874",
+      "title": "The FABRIC Strategy for Verifying Neural Feedback Systems",
+      "title_zh": "The FABRIC Strategy for Verifying Neural Feedback Systems",
+      "description": "arXiv:2603.08964v1 Announce Type: new \nAbstract: Forward reachability analysis is a dominant approach for verifying reach-avoid specifications in neural feedback systems, i.e., dynamical systems controlled by neural networks, and a number of directions have been proposed and studied. In contrast, far less attention has been given to backward reachability analysis for these systems, in part because of the limited scalability of known techniques. In this work, we begin to address this gap by intro",
+      "link": "https://arxiv.org/abs/2603.08964",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-10"
+      "date": "2026-03-11"
+    },
+    {
+      "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+      "title_zh": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
+      "description": "arXiv:2603.08835v1 Announce Type: new \nAbstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a.). Yet existing benchmarks are model-centric: they fix the agentic setup and do not compare other system components. We argue that implementation decisions substantially impact performance, including choices such as topology, orchestration logic, and error handling. MASEval addresses this evaluation ga",
+      "link": "https://arxiv.org/abs/2603.08835",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+      "title_zh": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
+      "description": "arXiv:2603.08877v1 Announce Type: new \nAbstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but deployed settings impose explicit budgets on tool calls and completion tokens. We present a controlled measurement study of how search depth, retrieval strategy, and completion budget affect accuracy and cost under fixed constraints. Using Budget-Constrained Agentic Search (BCAS), a model-agnostic evaluation harness that sur",
+      "link": "https://arxiv.org/abs/2603.08877",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-11"
     }
   ]
 }
