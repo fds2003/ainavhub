@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities",
-      "link": "https://arxiv.org/abs/2603.11279",
-      "description": "arXiv:2603.11279v1 Announce Type: new \nAbstract: The immense number of parameters and deep neural networks make large language models (LLMs) rival the complexity of human brains, which also makes them opaque ``black box'' systems that are challenging to evaluate and interpret. AI Psychometrics is an emerging field that aims to tackle these challenges by applying psychometric methodologies to evaluate and interpret the psychological traits and processes of artificial intelligence (AI) systems. Th",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 40,
-      "title_zh": "AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -19,16 +9,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
-      "link": "https://arxiv.org/abs/2603.11299",
-      "description": "arXiv:2603.11299v1 Announce Type: new \nAbstract: This editorial addresses the critical intersection of artificial intelligence (AI) and blockchain technologies, highlighting their contrasting tendencies toward centralization and decentralization, respectively. While AI, particularly with the rise of large language models (LLMs), exhibits a strong centralizing force due to data and resource monopolization by large corporations, blockchain offers a counterbalancing mechanism through its inherent d",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 25,
-      "title_zh": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -59,16 +39,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Mind the Sim2Real Gap in User Simulation for Agentic Tasks",
-      "link": "https://arxiv.org/abs/2603.11245",
-      "description": "arXiv:2603.11245v1 Announce Type: new \nAbstract: As NLP evaluation shifts from static benchmarks to multi-turn interactive settings, LLM-based simulators have become widely used as user proxies, serving two roles: generating user turns and providing evaluation signals. Yet, these simulations are frequently assumed to be faithful to real human behaviors, often without rigorous verification. We formalize the Sim2Real gap in user simulation and present the first study running the full $\\tau$-bench ",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18,
-      "title_zh": "Mind the Sim2Real Gap in User Simulation for Agentic Tasks"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -109,61 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
-      "link": "https://arxiv.org/abs/2603.11214",
-      "description": "arXiv:2603.11214v1 Announce Type: new \nAbstract: We evaluate the autonomous cyber-attack capabilities of frontier AI models on two purpose-built cyber ranges-a 32-step corporate network attack and a 7-step industrial control system attack-that require chaining heterogeneous capabilities across extended action sequences. By comparing seven models released over an eighteen-month period (August 2024 to February 2026) at varying inference-time compute budgets, we observe two capability trends. First",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios"
-    },
-    {
-      "title": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics",
-      "link": "https://arxiv.org/abs/2603.11277",
-      "description": "arXiv:2603.11277v1 Announce Type: new \nAbstract: The rapid proliferation of large language model (LLM)-based agentic systems raises critical concerns regarding digital sovereignty, environmental sustainability, regulatory compliance, and ethical alignment. Whilst existing frameworks address individual dimensions in isolation, no unified architecture systematically integrates these imperatives into the decision-making processes of autonomous agents. This paper introduces the COMPASS (Compliance a",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics"
-    },
-    {
-      "title": "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms",
-      "link": "https://arxiv.org/abs/2603.11093",
-      "description": "arXiv:2603.11093v1 Announce Type: new \nAbstract: The development of high-level autonomous driving (AD) is shifting from perception-centric limitations to a more fundamental bottleneck, namely, a deficit in robust and generalizable reasoning. Although current AD systems manage structured environments, they consistently falter in long-tail scenarios and complex social interactions that require human-like judgment. Meanwhile, the advent of large language and multimodal models (LLMs and MLLMs) prese",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms"
-    },
-    {
-      "title": "PACED: Distillation at the Frontier of Student Competence",
-      "link": "https://arxiv.org/abs/2603.11178",
-      "description": "arXiv:2603.11178v1 Announce Type: new \nAbstract: Standard LLM distillation wastes compute on two fronts: problems the student has already mastered (near-zero gradients) and problems far beyond its reach (incoherent gradients that erode existing capabilities). We show that this waste is not merely intuitive but structurally inevitable: the gradient signal-to-noise ratio in distillation provably vanishes at both pass-rate extremes. This theoretical observation leads to Paced, a framework that conc",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "PACED: Distillation at the Frontier of Student Competence"
-    },
-    {
-      "title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
-      "link": "https://arxiv.org/abs/2603.11266",
-      "description": "arXiv:2603.11266v1 Announce Type: new \nAbstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. However, existing unlearning methods are brittle: minor query modifications, such as multi-hop reasoning and entity aliasing, can recover supposedly forgotten information. As a result, current evaluation metrics often create an illusion of effectiveness, failing to detect these vulnerabilities due t",
-      "pubDate": "2026-03-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-03-14T03:59:39.674Z",
+    "totalCount": 8,
+    "generatedAt": "2026-03-14T05:10:28.363Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 17.125
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
