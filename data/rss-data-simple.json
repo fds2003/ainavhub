@@ -46,6 +46,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+      "title_zh": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+      "description": "arXiv:2603.12733v1 Announce Type: new \nAbstract: Catastrophic failures of marine engines imply severe loss of functionality and destroy or damage the systems irreversibly. Being sudden and often unpredictable events, they pose a severe threat to navigation, crew, and passengers. The abrupt nature makes early detection the only effective countermeasure. However, research has concentrated on modeling the gradual degradation of components, with limited attention to sudden and anomalous phenomena. T",
+      "link": "https://arxiv.org/abs/2603.12733",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "AI Planning Framework for LLM-Based Web Agents",
+      "title_zh": "AI Planning Framework for LLM-Based Web Agents",
+      "description": "arXiv:2603.12710v1 Announce Type: new \nAbstract: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpret complex user requests, they often operate as black boxes, making it difficult to diagnose why they fail or how they plan. This paper addresses this gap by formally treating web tasks as sequential decision-making processes. We introduce a taxonomy that maps modern agent architectures to traditional planning paradigms: S",
+      "link": "https://arxiv.org/abs/2603.12710",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+      "title_zh": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+      "description": "arXiv:2603.12740v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly applied to complex, multi-step tasks that require interaction with diverse external tools across various domains. However, current LLM agent tool planning methods typically rely on greedy, reactive tool selection strategies that lack foresight and fail to account for inter-tool dependencies. In this paper, we present ToolTree, a novel Monte Carlo tree search-inspired planning paradigm for tool pla",
+      "link": "https://arxiv.org/abs/2603.12740",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
+      "title_zh": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
+      "description": "arXiv:2603.12813v1 Announce Type: new \nAbstract: Agentic AI systems integrating large language models (LLMs) with reasoning and tooluse capabilities are transforming various domains - in particular, software development. In contrast, their application in chemical process flowsheet modelling remains largely unexplored. In this work, we present an agentic AI framework that delivers assistance in an industrial flowsheet simulation environment. To this end, we show the capabilities of GitHub Copilot",
+      "link": "https://arxiv.org/abs/2603.12813",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+      "title_zh": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+      "description": "arXiv:2603.12933v1 Announce Type: new \nAbstract: Large Language Model (LLM)-driven Multi-Agent Systems (MAS) have demonstrated strong capability in complex reasoning and tool use, and heterogeneous agent pools further broaden the quality--cost trade-off space. Despite these advances, real-world deployment is often constrained by high inference cost, latency, and limited transparency, which hinders scalable and efficient routing. Existing routing strategies typically rely on expensive LLM-based s",
+      "link": "https://arxiv.org/abs/2603.12933",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation",
+      "title_zh": "Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation",
+      "description": "arXiv:2603.13017v1 Announce Type: new \nAbstract: Long conversations with an AI agent create a simple problem for one user: the history is useful, but carrying it verbatim is expensive. We study personalized agent memory: one user's conversation history with an agent, distilled into a compact retrieval layer for later search. Each exchange is compressed into a compound object with four fields (exchange_core, specific_context, thematic room_assignments, and regex-extracted files_touched). The sear",
+      "link": "https://arxiv.org/abs/2603.13017",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "AI Model Modulation with Logits Redistribution",
+      "title_zh": "AI Model Modulation with Logits Redistribution",
+      "description": "arXiv:2603.12755v1 Announce Type: new \nAbstract: Large-scale models are typically adapted to meet the diverse requirements of model owners and users. However, maintaining multiple specialized versions of the model is inefficient. In response, we propose AIM, a novel model modulation paradigm that enables a single model to exhibit diverse behaviors to meet the specific end requirements. AIM enables two key modulation modes: utility and focus modulations. The former provides model owners with dyna",
+      "link": "https://arxiv.org/abs/2603.12755",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation",
+      "title_zh": "Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation",
+      "description": "arXiv:2603.13131v1 Announce Type: new \nAbstract: Open-world embodied agents must solve long-horizon tasks where the main bottleneck is not single-step planning quality but how interaction experience is organized and evolved. To this end, we present Steve-Evolving, a non-parametric self-evolving framework that tightly couples fine-grained execution diagnosis with dual-track knowledge distillation in a closed loop. The method follows three phases: Experience Anchoring, Experience Distillation, and",
+      "link": "https://arxiv.org/abs/2603.13131",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-16"
     }
   ]
 }
