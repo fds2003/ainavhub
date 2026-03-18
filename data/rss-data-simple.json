@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
-      "title_zh": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
-      "description": "arXiv:2603.13236v1 Announce Type: new \nAbstract: AI-related incidents are becoming increasingly frequent and severe, ranging from safety failures to misuse by malicious actors. In such complex situations, identifying which elements caused an adverse outcome, the problem of cause selection, is a critical first step for establishing liability. This paper investigates folk perceptions of causal responsibility in causal chain structures when AI systems are involved in harmful outcomes. We conduct hu",
-      "link": "https://arxiv.org/abs/2603.13236",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-17"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -37,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "AIDABench: AI Data Analytics Benchmark",
+      "title_zh": "AIDABench: AI Data Analytics Benchmark",
+      "description": "arXiv:2603.15636v1 Announce Type: new \nAbstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation standards has grown increasingly urgent. Existing benchmarks and evaluations often focus on isolated capabilities or simplified scenarios, failing to capture the end-to-end task effectiveness required in practical settings. To address this gap, we introduce AIDABench, a comprehensive benchmark for eval",
+      "link": "https://arxiv.org/abs/2603.15636",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-18"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -44,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Quantum-Secure-By-Construction (QSC): A Paradigm Shift For Post-Quantum Agentic Intelligence",
+      "title_zh": "Quantum-Secure-By-Construction (QSC): A Paradigm Shift For Post-Quantum Agentic Intelligence",
+      "description": "arXiv:2603.15668v1 Announce Type: new \nAbstract: As agentic artificial intelligence systems scale across globally distributed and long lived infrastructures, secure and policy compliant communication becomes a fundamental systems challenge. This challenge grows more serious in the quantum era, where the cryptographic assumptions built into today's AI deployments may not remain valid over their operational lifetime. Here, we introduce quantum secure by construction, or QSC, as a design paradigm t",
+      "link": "https://arxiv.org/abs/2603.15668",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-18"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -82,67 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Automating Document Intelligence in Statutory City Planning",
-      "title_zh": "Automating Document Intelligence in Statutory City Planning",
-      "description": "arXiv:2603.13245v1 Announce Type: new \nAbstract: UK planning authorities face a legislative conflict between the Planning Act, which mandates public access to application documents, and the Data Protection Act, which requires protection of personal information. This situation creates a manually intensive workload for processing large document volumes, diverting planning officers to administrative tasks and creating legal compliance risks. This paper presents an integrated AI system designed to a",
-      "link": "https://arxiv.org/abs/2603.13245",
+      "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
+      "title_zh": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
+      "description": "arXiv:2603.15639v1 Announce Type: new \nAbstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current frameworks gate this agency on capability benchmarks that are empirically uncorrelated with operational robustness. We introduce the Comprehension-Gated Agent Economy (CGAE), a formal architecture in which an agent's economic permissions are upper-bounded by a verified comprehension function derived f",
+      "link": "https://arxiv.org/abs/2603.15639",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-17"
+      "date": "2026-03-18"
     },
     {
-      "title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
-      "title_zh": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
-      "description": "arXiv:2603.13247v1 Announce Type: new \nAbstract: The proliferation of autonomous AI agents capable of executing real-world actions - filesystem operations, API calls, database modifications, financial transactions - introduces a class of safety risk not addressed by existing content-moderation infrastructure. Current text-safety systems evaluate linguistic content for harm categories such as violence, hate speech, and sexual content; they are architecturally unsuitable for evaluating whether a p",
-      "link": "https://arxiv.org/abs/2603.13247",
+      "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
+      "title_zh": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
+      "description": "arXiv:2603.15634v1 Announce Type: new \nAbstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational part. However, existing approaches to constructing factual memory face several limitations. Textual methods impose heavy context and indexing burdens, while parametric methods suffer from catastrophic forgetting and high costs. To address these challenges, we introduce NextMem, a latent factual memory fr",
+      "link": "https://arxiv.org/abs/2603.15634",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-17"
+      "date": "2026-03-18"
     },
     {
-      "title": "When Alpha Breaks: Two-Level Uncertainty for Safe Deployment of Cross-Sectional Stock Rankers",
-      "title_zh": "When Alpha Breaks: Two-Level Uncertainty for Safe Deployment of Cross-Sectional Stock Rankers",
-      "description": "arXiv:2603.13252v1 Announce Type: new \nAbstract: Cross-sectional ranking models are often deployed as if point predictions were sufficient: the model outputs scores and the portfolio follows the induced ordering. Under non-stationarity, rankers can fail during regime shifts. In the AI Stock Forecaster, a LightGBM ranker performs well overall at a 20-day horizon, yet the 2024 holdout coincides with an AI thematic rally and sector rotation that breaks the signal at longer horizons and weakens 20d.",
-      "link": "https://arxiv.org/abs/2603.13252",
+      "title": "Compiled Memory: Not More Information, but More Precise Instructions for Language Agents",
+      "title_zh": "Compiled Memory: Not More Information, but More Precise Instructions for Language Agents",
+      "description": "arXiv:2603.15666v1 Announce Type: new \nAbstract: Existing memory systems for language agents address memory management: how to retrieve and page more information within a context budget. We address a complementary problem -- memory utility: what experience is worth keeping, and how it should change agent behavior. We present Atlas, a memory kernel that compiles accumulated task experience into an agent's instruction structure -- without fine-tuning, RAG, or human intervention. Memory is distilla",
+      "link": "https://arxiv.org/abs/2603.15666",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-17"
+      "date": "2026-03-18"
     },
     {
-      "title": "Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules: An Explainable AI Framework",
-      "title_zh": "Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules: An Explainable AI Framework",
-      "description": "arXiv:2603.13257v1 Announce Type: new \nAbstract: Deep Reinforcement Learning (DRL) agents achieve remarkable performance in continuous control but remain opaque, hindering deployment in safety-critical domains. Existing explainability methods either provide only local insights (SHAP, LIME) or employ over-simplified surrogates failing to capture continuous dynamics (decision trees). This work proposes a Hierarchical Takagi-Sugeno-Kang (TSK) Fuzzy Classifier System (FCS) distilling neural policies",
-      "link": "https://arxiv.org/abs/2603.13257",
+      "title": "I Know What I Don't Know: Latent Posterior Factor Models for Multi-Evidence Probabilistic Reasoning",
+      "title_zh": "I Know What I Don't Know: Latent Posterior Factor Models for Multi-Evidence Probabilistic Reasoning",
+      "description": "arXiv:2603.15670v1 Announce Type: new \nAbstract: Real-world decision-making, from tax compliance assessment to medical diagnosis, requires aggregating multiple noisy and potentially contradictory evidence sources. Existing approaches either lack explicit uncertainty quantification (neural aggregation methods) or rely on manually engineered discrete predicates (probabilistic logic frameworks), limiting scalability to unstructured data.\n  We introduce Latent Posterior Factors (LPF), a framework th",
+      "link": "https://arxiv.org/abs/2603.15670",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-17"
+      "date": "2026-03-18"
     },
     {
-      "title": "ManiBench: A Benchmark for Testing Visual-Logic Drift and Syntactic Hallucinations in Manim Code Generation",
-      "title_zh": "ManiBench: A Benchmark for Testing Visual-Logic Drift and Syntactic Hallucinations in Manim Code Generation",
-      "description": "arXiv:2603.13251v1 Announce Type: new \nAbstract: Traditional benchmarks like HumanEval and MBPP test logic and syntax effectively, but fail when code must produce dynamic, pedagogical visuals. We introduce ManiBench, a specialized benchmark evaluating LLM performance in generating Manim CE code, where temporal fidelity and version-aware API correctness are critical. ManiBench targets two key failure modes: Syntactic Hallucinations (valid Python referencing non-existent or deprecated Manim APIs) ",
-      "link": "https://arxiv.org/abs/2603.13251",
+      "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+      "title_zh": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+      "description": "arXiv:2603.15642v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed in long running workflows, where they must preserve user and task state across many turns. Many existing agent memory systems behave like external databases with ad hoc read/write rules, which can yield unstable retention, limited consolidation, and vulnerability to distractor content. We present CraniMem, a neurocognitively motivated, gated and bounded multi-stage memory design for agent",
+      "link": "https://arxiv.org/abs/2603.15642",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-17"
+      "date": "2026-03-18"
     },
     {
-      "title": "Deep Convolutional Architectures for EEG Classification: A Comparative Study with Temporal Augmentation and Confidence-Based Voting",
-      "title_zh": "Deep Convolutional Architectures for EEG Classification: A Comparative Study with Temporal Augmentation and Confidence-Based Voting",
-      "description": "arXiv:2603.13261v1 Announce Type: new \nAbstract: Electroencephalography (EEG) classification plays a key role in brain-computer interface (BCI) systems, yet it remains challenging due to the low signal-to-noise ratio, temporal variability of neural responses, and limited data availability. In this paper, we present a comparative study of deep learning architectures for classifying event-related potentials (ERPs) in EEG signals. The preprocessing pipeline includes bandpass filtering, spatial filt",
-      "link": "https://arxiv.org/abs/2603.13261",
+      "title": "GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure",
+      "title_zh": "GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure",
+      "description": "arXiv:2603.15643v1 Announce Type: new \nAbstract: Green Stormwater Infrastructure (GSI) systems, such as permeable pavement, rain gardens, and bioretention facilities, require continuous inspection and maintenance to ensure long-term performance. However, domain knowledge about GSI is often scattered across municipal manuals, regulatory documents, and inspection forms. As a result, non-expert users and maintenance staff may struggle to obtain reliable and actionable guidance from field observatio",
+      "link": "https://arxiv.org/abs/2603.15643",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-17"
-    },
-    {
-      "title": "DOVA: Deliberation-First Multi-Agent Orchestration for Autonomous Research Automation",
-      "title_zh": "DOVA: Deliberation-First Multi-Agent Orchestration for Autonomous Research Automation",
-      "description": "arXiv:2603.13327v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated remarkable capabilities in tool use, reasoning, and code generation, yet single-agent systems exhibit fundamental limitations when confronted with complex research tasks demanding multi-source synthesis, adversarial verification, and personalized delivery. We present DOVA (Deep Orchestrated Versatile Agent), a multi-agent platform introducing three key innovations: (1) deliberation-first orchestr",
-      "link": "https://arxiv.org/abs/2603.13327",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-17"
+      "date": "2026-03-18"
     }
   ]
 }
