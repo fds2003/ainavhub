@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "AI Scientist via Synthetic Task Scaling",
-      "link": "https://arxiv.org/abs/2603.17216",
-      "description": "arXiv:2603.17216v1 Announce Type: new \nAbstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform machine learning research, but don't offer a principled way to train such agents -- and current LLMs often generate plausible-looking but ineffective ideas. To make progress on training agents that can learn from doing, we provide a novel synthetic environment generation pipeline targeting machine lear",
-      "pubDate": "2026-03-19T04:00:00.000Z",
+      "title": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation",
+      "link": "https://arxiv.org/abs/2603.18201",
+      "description": "arXiv:2603.18201v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) systems are increasingly prominent in emerging smart cities, yet their reliability remains a critical concern. These systems typically operate through a sequence of interconnected functional stages, where upstream errors may propagate to downstream stages, ultimately affecting overall system reliability. Quantifying such error propagation is essential for accurate modeling of AI system reliability. However, this task i",
+      "pubDate": "2026-03-20T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 31,
-      "title_zh": "AI Scientist via Synthetic Task Scaling"
+      "aiScore": 32,
+      "title_zh": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks",
+      "link": "https://arxiv.org/abs/2603.18197",
+      "description": "arXiv:2603.18197v1 Announce Type: new \nAbstract: Recent studies reveal gaps in delegating critical tasks to agentic AI that accesses websites on the user's behalf, primarily due to limited access control mechanisms on websites designed for agentic AI. In response, we propose a design of website-based interaction for AI agents with fine-grained access control for delegated critical tasks. Our approach encompasses a website design and implementation, as well as modifications to the access grant pr",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 24,
+      "title_zh": "Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -41,14 +51,14 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures",
-      "link": "https://arxiv.org/abs/2603.17244",
-      "description": "arXiv:2603.17244v1 Announce Type: new \nAbstract: While individual components for AI agent memory exist in prior systems, their architectural synthesis and formal grounding remain underexplored. We present Kumiho, a graph-native cognitive memory architecture grounded in formal belief revision semantics. The structural primitives required for cognitive memory -- immutable revisions, mutable tag pointers, typed dependency edges, URI-based addressing -- are identical to those required for managing a",
-      "pubDate": "2026-03-19T04:00:00.000Z",
+      "title": "Continually self-improving AI",
+      "link": "https://arxiv.org/abs/2603.18073",
+      "description": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key ways. First, although a model's weights can be updated via fine-tuning, acquiring new knowledge from small, specialized corpora after pretraining remains highly data-inefficient. Second, the training of these systems relies heavily on finite, human-generated data from across history. Third, the pip",
+      "pubDate": "2026-03-20T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 20,
-      "title_zh": "Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures"
+      "aiScore": 22,
+      "title_zh": "Continually self-improving AI"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -71,14 +81,14 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
-      "title": "Transformers are Bayesian Networks",
-      "link": "https://arxiv.org/abs/2603.17063",
-      "description": "arXiv:2603.17063v1 Announce Type: new \nAbstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a Bayesian network. We establish this in five ways.\n  First, we prove that every sigmoid transformer with any weights implements weighted loopy belief propagation on its implicit factor graph. One layer is one round of BP. This holds for any weights -- trained, random, or constructed. Formally verified",
-      "pubDate": "2026-03-19T04:00:00.000Z",
+      "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+      "link": "https://arxiv.org/abs/2603.18085",
+      "description": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and even user harm. As LLMs serve as sources of guidance, emotional support, and even informal therapy, these risks are poised to escalate. However, studying the mechanisms underlying harmful human-AI interactions presents significant methodological challenges, where organic harmful interactions typica",
+      "pubDate": "2026-03-20T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 16,
-      "title_zh": "Transformers are Bayesian Networks"
+      "title_zh": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -111,59 +121,49 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
-      "link": "https://arxiv.org/abs/2603.17021",
-      "description": "arXiv:2603.17021v1 Announce Type: new \nAbstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring policies and deploying plans. In practice and model-based planning approaches, this problem conceptualization process often relies on participatory modeling to translate stakeholders' natural-language descriptions into a quantitative model, making this process complex and time-consuming. To facilitate this process, we pr",
-      "pubDate": "2026-03-19T04:00:00.000Z",
+      "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+      "link": "https://arxiv.org/abs/2603.18104",
+      "description": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative to inference, optimizer complexity, and structural degradation of geometric properties through training are consequences of this arithmetic substrate. This paper develops an alternative training architecture grounded in three prior results: the Dimensional Type System and Deterministic Memory Manag",
+      "pubDate": "2026-03-20T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty"
+      "aiScore": 12,
+      "title_zh": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI"
     },
     {
-      "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
-      "link": "https://arxiv.org/abs/2603.17169",
-      "description": "arXiv:2603.17169v1 Announce Type: new \nAbstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic board game Clue as a rule-based testbed for evaluating multi-step deductive reasoning, with six agents drawn from GPT-4o-mini and Gemini-2.5-Flash. We further investigate whether fine-tuning on structured logic puzzles transfers to improved in-game reasoning and gameplay. Across 18 simulated games, agents achieve only fo",
-      "pubDate": "2026-03-19T04:00:00.000Z",
+      "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
+      "link": "https://arxiv.org/abs/2603.18272",
+      "description": "arXiv:2603.18272v1 Announce Type: new \nAbstract: While large language models (LLMs) have advanced the development of general-purpose agents, achieving robust generalization to unseen tasks remains a significant challenge. Current approaches typically rely on either fine-tuning or training-free memory-augmented generation using retrieved experience; yet both have limitations: fine-tuning often fails to extrapolate to new tasks, while experience retrieval often underperforms compared to supervised",
+      "pubDate": "2026-03-20T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment"
+      "title_zh": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience"
     },
     {
-      "title": "Draft-and-Prune: Improving the Reliability of Auto-formalization for Logical Reasoning",
-      "link": "https://arxiv.org/abs/2603.17233",
-      "description": "arXiv:2603.17233v1 Announce Type: new \nAbstract: Auto-formalization (AF) translates natural-language reasoning problems into solver-executable programs, enabling symbolic solvers to perform sound logical deduction. In practice, however, AF pipelines are currently brittle: programs may fail to execute, or execute but encode incorrect semantics. While prior work largely mitigates syntactic failures via repairs based on solver feedback, reducing semantics failures remains a major bottleneck. We pro",
-      "pubDate": "2026-03-19T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Draft-and-Prune: Improving the Reliability of Auto-formalization for Logical Reasoning"
-    },
-    {
-      "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
-      "link": "https://arxiv.org/abs/2603.17112",
-      "description": "arXiv:2603.17112v1 Announce Type: new \nAbstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules connected by delegation edges, routing tasks through a dynamic execution graph. Current schedulers optimize load and fitness but are geometry-blind: they do not model how failures propagate differently in tree-like versus cyclic regimes. In tree-like delegation, a single failure can cascade exponentially; in dense cyclic gra",
-      "pubDate": "2026-03-19T04:00:00.000Z",
+      "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
+      "link": "https://arxiv.org/abs/2603.18122",
+      "description": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less or non-technical users. It supports incremental, interactive notebook-style development, and each step is converted to code with a required set of functions and behavior to enable incremental building of workflows. Agents are invoked only for code generation and error recovery, not orchestration or task execution. This age",
+      "pubDate": "2026-03-20T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching"
+      "title_zh": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows"
     },
     {
-      "title": "Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations",
-      "link": "https://arxiv.org/abs/2603.17305",
-      "description": "arXiv:2603.17305v1 Announce Type: new \nAbstract: We propose CRAFT, a red-teaming alignment framework that leverages model reasoning capabilities and hidden representations to improve robustness against jailbreak attacks. Unlike prior defenses that operate primarily at the output level, CRAFT aligns large reasoning models to generate safety-aware reasoning traces by explicitly optimizing objectives defined over the hidden state space. Methodologically, CRAFT integrates contrastive representation ",
-      "pubDate": "2026-03-19T04:00:00.000Z",
+      "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
+      "link": "https://arxiv.org/abs/2603.18189",
+      "description": "arXiv:2603.18189v1 Announce Type: new \nAbstract: Higher education instructors often lack timely and pedagogically grounded support, as scalable instructional guidance remains limited and existing tools rely on generic chatbot advice or non-scalable teaching center human-human consultations. We present TeachingCoach, a pedagogically grounded chatbot designed to support instructor professional development through real-time, conversational guidance. TeachingCoach is built on a data-centric pipeline",
+      "pubDate": "2026-03-20T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations"
+      "aiScore": 3,
+      "title_zh": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-03-20T01:03:42.846Z",
+    "generatedAt": "2026-03-20T04:02:31.128Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.9375
+    "averageScore": 17.5
   }
 }
