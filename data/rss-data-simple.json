@@ -37,6 +37,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+      "title_zh": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+      "description": "arXiv:2603.19685v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating systems, and web browsers. Web navigation, for example, requires handling dynamic content and long sequences of actions, making it particularly challenging. Existing LLM-based agents struggle with long-horizon planning in two main ways. During online execution, they often lose track as new informa",
+      "link": "https://arxiv.org/abs/2603.19685",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+      "title_zh": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+      "description": "arXiv:2603.19639v1 Announce Type: new \nAbstract: Although agentic workflows have demonstrated strong potential for solving complex tasks, existing automated generation methods remain inefficient and underperform, as they rely on predefined operator libraries and homogeneous LLM-only workflows in which all task-level computation is performed through probabilistic inference. To address these limitations, we propose HyEvo, an automated workflow-generation framework that leverages heterogeneous atom",
+      "link": "https://arxiv.org/abs/2603.19639",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
+      "title_zh": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
+      "description": "arXiv:2603.19715v1 Announce Type: new \nAbstract: Formal verification via interactive theorem proving is increasingly used to ensure the correctness of critical systems, yet constructing large proof scripts remains highly manual and limits scalability. Advances in large language models (LLMs), especially in mathematical reasoning, make their integration into software verification increasingly promising. This paper introduces a neuro-symbolic proof generation framework designed to automate proof s",
+      "link": "https://arxiv.org/abs/2603.19715",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "Hyperagents",
+      "title_zh": "Hyperagents",
+      "description": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, handcrafted meta-level mechanisms, fundamentally limiting how fast such systems can improve. The Darwin G\\\"odel Machine (DGM) demonstrates open-ended self-improvement in coding by repeatedly generating and evaluating self-modified variants. Because both",
+      "link": "https://arxiv.org/abs/2603.19461",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
+      "title_zh": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
+      "description": "arXiv:2603.19579v1 Announce Type: new \nAbstract: Multi-objective reinforcement learning (MORL) provides an effective solution for decision-making problems involving conflicting objectives. However, achieving high-quality approximations to the Pareto policy set remains challenging, especially in complex tasks with continuous or high-dimensional state-action space. In this paper, we propose the Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning (PA2D-MORL) method,",
+      "link": "https://arxiv.org/abs/2603.19579",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+      "title_zh": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+      "description": "arXiv:2603.19584v1 Announce Type: new \nAbstract: Battery life remains a critical challenge for mobile devices, yet existing power management mechanisms rely on static rules or coarse-grained heuristics that ignore user activities and personal preferences. We present PowerLens, a system that tames the reasoning power of Large Language Models (LLMs) for safe and personalized mobile power management on Android devices. The key idea is that LLMs' commonsense reasoning can bridge the semantic gap bet",
+      "link": "https://arxiv.org/abs/2603.19584",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+      "title_zh": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+      "description": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that disprove false ones. However, current AI efforts in mathematics focus almost exclusively on proof construction, often neglecting the equally important task of finding counterexamples. In this paper, we address this gap by fine-tuning large language models (LLMs) to reason about and generate counte",
+      "link": "https://arxiv.org/abs/2603.19514",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+      "title_zh": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+      "description": "arXiv:2603.19515v1 Announce Type: new \nAbstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluations often focus on specific reasoning or planning questions within controlled environments. Recent studies have explored travel planning as a medium to integrate various verbal reasoning tasks into real-world contexts. However, reasoning tasks extend beyond verbal reasoning alone, and a comprehensiv",
+      "link": "https://arxiv.org/abs/2603.19515",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-23"
     }
   ]
 }
