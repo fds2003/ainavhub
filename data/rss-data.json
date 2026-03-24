@@ -41,14 +41,14 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
-      "link": "https://arxiv.org/abs/2603.19685",
-      "description": "arXiv:2603.19685v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating systems, and web browsers. Web navigation, for example, requires handling dynamic content and long sequences of actions, making it particularly challenging. Existing LLM-based agents struggle with long-horizon planning in two main ways. During online execution, they often lose track as new informa",
-      "pubDate": "2026-03-23T04:00:00.000Z",
+      "title": "Leveraging Natural Language Processing and Machine Learning for Evidence-Based Food Security Policy Decision-Making in Data-Scarce Making",
+      "link": "https://arxiv.org/abs/2603.20425",
+      "description": "arXiv:2603.20425v1 Announce Type: new \nAbstract: Food security policy formulation in data-scarce regions remains a critical challenge due to limited structured datasets, fragmented textual reports, and demographic bias in decision-making systems. This study proposes ZeroHungerAI, an integrated Natural Language Processing (NLP) and Machine Learning (ML) framework designed for evidence-based food security policy modeling under extreme data scarcity. The system combines structured socio-economic in",
+      "pubDate": "2026-03-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 19,
-      "title_zh": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents"
+      "title_zh": "Leveraging Natural Language Processing and Machine Learning for Evidence-Based Food Security Policy Decision-Making in Data-Scarce Making"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -59,6 +59,16 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "AgentComm-Bench: Stress-Testing Cooperative Embodied AI Under Latency, Packet Loss, and Bandwidth Collapse",
+      "link": "https://arxiv.org/abs/2603.20285",
+      "description": "arXiv:2603.20285v1 Announce Type: new \nAbstract: Cooperative multi-agent methods for embodied AI are almost universally evaluated under idealized communication: zero latency, no packet loss, and unlimited bandwidth. Real-world deployment on robots with wireless links, autonomous vehicles on congested networks, or drone swarms in contested spectrum offers no such guarantees. We introduce AgentComm-Bench, a benchmark suite and evaluation protocol that systematically stress-tests cooperative embodi",
+      "pubDate": "2026-03-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "AgentComm-Bench: Stress-Testing Cooperative Embodied AI Under Latency, Packet Loss, and Bandwidth Collapse"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -91,79 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
-      "link": "https://arxiv.org/abs/2603.19639",
-      "description": "arXiv:2603.19639v1 Announce Type: new \nAbstract: Although agentic workflows have demonstrated strong potential for solving complex tasks, existing automated generation methods remain inefficient and underperform, as they rely on predefined operator libraries and homogeneous LLM-only workflows in which all task-level computation is performed through probabilistic inference. To address these limitations, we propose HyEvo, an automated workflow-generation framework that leverages heterogeneous atom",
-      "pubDate": "2026-03-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning"
-    },
-    {
-      "title": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
-      "link": "https://arxiv.org/abs/2603.19715",
-      "description": "arXiv:2603.19715v1 Announce Type: new \nAbstract: Formal verification via interactive theorem proving is increasingly used to ensure the correctness of critical systems, yet constructing large proof scripts remains highly manual and limits scalability. Advances in large language models (LLMs), especially in mathematical reasoning, make their integration into software verification increasingly promising. This paper introduces a neuro-symbolic proof generation framework designed to automate proof s",
-      "pubDate": "2026-03-23T04:00:00.000Z",
+      "title": "Deep reflective reasoning in interdependence constrained structured data extraction from clinical notes for digital health",
+      "link": "https://arxiv.org/abs/2603.20435",
+      "description": "arXiv:2603.20435v1 Announce Type: new \nAbstract: Extracting structured information from clinical notes requires navigating a dense web of interdependent variables where the value of one attribute logically constrains others. Existing Large Language Model (LLM)-based extraction pipelines often struggle to capture these dependencies, leading to clinically inconsistent outputs. We propose deep reflective reasoning, a large language model agent framework that iteratively self-critiques and revises s",
+      "pubDate": "2026-03-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 11.5,
-      "title_zh": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification"
+      "title_zh": "Deep reflective reasoning in interdependence constrained structured data extraction from clinical notes for digital health"
     },
     {
-      "title": "Hyperagents",
-      "link": "https://arxiv.org/abs/2603.19461",
-      "description": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, handcrafted meta-level mechanisms, fundamentally limiting how fast such systems can improve. The Darwin G\\\"odel Machine (DGM) demonstrates open-ended self-improvement in coding by repeatedly generating and evaluating self-modified variants. Because both",
-      "pubDate": "2026-03-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Hyperagents"
-    },
-    {
-      "title": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2603.19579",
-      "description": "arXiv:2603.19579v1 Announce Type: new \nAbstract: Multi-objective reinforcement learning (MORL) provides an effective solution for decision-making problems involving conflicting objectives. However, achieving high-quality approximations to the Pareto policy set remains challenging, especially in complex tasks with continuous or high-dimensional state-action space. In this paper, we propose the Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning (PA2D-MORL) method,",
-      "pubDate": "2026-03-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning"
-    },
-    {
-      "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
-      "link": "https://arxiv.org/abs/2603.19584",
-      "description": "arXiv:2603.19584v1 Announce Type: new \nAbstract: Battery life remains a critical challenge for mobile devices, yet existing power management mechanisms rely on static rules or coarse-grained heuristics that ignore user activities and personal preferences. We present PowerLens, a system that tames the reasoning power of Large Language Models (LLMs) for safe and personalized mobile power management on Android devices. The key idea is that LLMs' commonsense reasoning can bridge the semantic gap bet",
-      "pubDate": "2026-03-23T04:00:00.000Z",
+      "title": "LLM-Enhanced Energy Contrastive Learning for Out-of-Distribution Detection in Text-Attributed Graphs",
+      "link": "https://arxiv.org/abs/2603.20293",
+      "description": "arXiv:2603.20293v1 Announce Type: new \nAbstract: Text-attributed graphs, where nodes are enriched with textual attributes, have become a powerful tool for modeling real-world networks such as citation, social, and transaction networks. However, existing methods for learning from these graphs often assume that the distributions of training and testing data are consistent. This assumption leads to significant performance degradation when faced with out-of-distribution (OOD) data. In this paper, we",
+      "pubDate": "2026-03-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management"
+      "title_zh": "LLM-Enhanced Energy Contrastive Learning for Out-of-Distribution Detection in Text-Attributed Graphs"
     },
     {
-      "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
-      "link": "https://arxiv.org/abs/2603.19514",
-      "description": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that disprove false ones. However, current AI efforts in mathematics focus almost exclusively on proof construction, often neglecting the equally important task of finding counterexamples. In this paper, we address this gap by fine-tuning large language models (LLMs) to reason about and generate counte",
-      "pubDate": "2026-03-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Learning to Disprove: Formal Counterexample Generation with Large Language Models"
-    },
-    {
-      "title": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
-      "link": "https://arxiv.org/abs/2603.19515",
-      "description": "arXiv:2603.19515v1 Announce Type: new \nAbstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluations often focus on specific reasoning or planning questions within controlled environments. Recent studies have explored travel planning as a medium to integrate various verbal reasoning tasks into real-world contexts. However, reasoning tasks extend beyond verbal reasoning alone, and a comprehensiv",
-      "pubDate": "2026-03-23T04:00:00.000Z",
+      "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+      "link": "https://arxiv.org/abs/2603.20213",
+      "description": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming optimization goals from ranking prominence towards content inclusion. Generative Engine Optimization (GEO), specifically, aims to maximize visibility and attribution in black-box summarized outputs by strategically manipulating source content. However, existing methods rely on static heuristics, sing",
+      "pubDate": "2026-03-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models"
+      "title_zh": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization"
+    },
+    {
+      "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+      "link": "https://arxiv.org/abs/2603.20267",
+      "description": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-off between exploration depth and computational efficiency. Existing ToT implementations often rely on heavyweight LLM-based self-evaluation or rigid heuristics for branch pruning, making them prohibitively expensive and inflexible for broad application. To address this, we introduce DST, an adaptabl",
+      "pubDate": "2026-03-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors"
+    },
+    {
+      "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
+      "link": "https://arxiv.org/abs/2603.20270",
+      "description": "arXiv:2603.20270v1 Announce Type: new \nAbstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large language models (LLMs) when confronted with large, interconnected codebases. This paper presents FactorSmith, a framework that synthesizes playable game simulations in code from textual descriptions by combining two complementary ideas: factored POMDP decomposition for principled context reduction and ",
+      "pubDate": "2026-03-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement"
+    },
+    {
+      "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
+      "link": "https://arxiv.org/abs/2603.20276",
+      "description": "arXiv:2603.20276v1 Announce Type: new \nAbstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a promising but contested capability in large language models (LLMs). However, current evaluations often fail to distinguish genuine meta-cognition from the mere application of general world knowledge or text-based self-simulation. In this work, we propose a principled taxonomy that formalizes introsp",
+      "pubDate": "2026-03-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-03-24T01:01:41.385Z",
+    "generatedAt": "2026-03-24T04:06:11.278Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.53125
+    "averageScore": 14.09375
   }
 }
