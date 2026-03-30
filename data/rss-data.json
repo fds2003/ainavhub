@@ -79,11 +79,91 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+      "link": "https://arxiv.org/abs/2603.26499",
+      "description": "arXiv:2603.26499v1 Announce Type: new \nAbstract: Existing research has identified three structural performance bottlenecks in AI research agents: (1) synchronous single-GPU execution constrains sample throughput, limiting the benefit of search; (2) a generalization gap where validation-based selection causes performance to degrade over extended search horizons; and (3) the limited capability of fixed, single-turn LLM operators imposes a ceiling on search performance. We introduce AIRA$_2$, which",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 11,
+      "title_zh": "AIRA_2: Overcoming Bottlenecks in AI Research Agents"
+    },
+    {
+      "title": "A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning",
+      "link": "https://arxiv.org/abs/2603.25758",
+      "description": "arXiv:2603.25758v1 Announce Type: cross \nAbstract: Diffusion models have significantly reshaped the field of generative artificial intelligence and are now increasingly explored for their capacity in discriminative representation learning. Diffusion Transformer (DiT) has recently gained attention as a promising alternative to conventional U-Net-based diffusion models, demonstrating a promising avenue for downstream discriminative tasks via generative pre-training. However, its current training e",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 11,
+      "title_zh": "A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning"
+    },
+    {
+      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+      "link": "https://arxiv.org/abs/2603.26005",
+      "description": "arXiv:2603.26005v1 Announce Type: new \nAbstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most existing simulation environments prioritize building-side performance metrics and lack systematic evaluation of grid-level impacts, while their experimental workflows still rely heavily on manual config",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation"
+    },
+    {
+      "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
+      "link": "https://arxiv.org/abs/2502.09867",
+      "description": "arXiv:2502.09867v2 Announce Type: cross \nAbstract: Generative AI has enabled novice designers to quickly create professional-looking visual representations for product concepts. However, novices have limited domain knowledge that could constrain their ability to write prompts that effectively explore a product design space. To understand how experts explore and communicate about design spaces, we conducted a formative study with 12 experienced product designers and found that experts -- and thei",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design"
+    },
+    {
+      "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+      "link": "https://arxiv.org/abs/2603.26076",
+      "description": "arXiv:2603.26076v1 Announce Type: new \nAbstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, proprietary regional information, and fragmented communication across multiple stakeholders. The resulting data silos and semantic inconsistencies present a significant impediment to the Total Airport Management (TAM) initiative. This paper presents a methodological framework for constructing a domain-grounded, machine-readable K",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management"
+    },
+    {
+      "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+      "link": "https://arxiv.org/abs/2603.25750",
+      "description": "arXiv:2603.25750v1 Announce Type: cross \nAbstract: As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-time, natural human-computer interaction. However, the development of such models is constrained by the scarcity of high-quality, multi-speaker conversational data, as existing large-scale resources are predominantly single-speaker or limited in volume. Addressing the complex dynamics of natural di",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models"
+    },
+    {
+      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+      "link": "https://arxiv.org/abs/2603.25747",
+      "description": "arXiv:2603.25747v1 Announce Type: new \nAbstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. However, the absence of a comprehensive safety benchmark remains a major bottleneck, as existing evaluations rely on low-fidelity environments, simulated APIs, or narrowly scoped tasks. To address this gap, we present ",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments"
+    },
+    {
+      "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+      "link": "https://arxiv.org/abs/2603.26512",
+      "description": "arXiv:2603.26512v1 Announce Type: new \nAbstract: Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot resolve dimensional errors. We present CADSmith, a multi-agent pipeline that generates CadQuery code from natural language. It then undergoes an iterative refinement process through two nested correction loops: an inner loop that resolves execution errors and an outer loop grounded in programmatic ",
+      "pubDate": "2026-03-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-03-30T01:15:30.984Z",
+    "totalCount": 16,
+    "generatedAt": "2026-03-30T04:34:12.058Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 13.375
   }
 }
