@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
+      "title_zh": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
+      "description": "arXiv:2603.26983v1 Announce Type: new \nAbstract: Art. 50 II of the EU Artificial Intelligence Act mandates dual transparency for AI-generated content: outputs must be labeled in both human-understandable and machine-readable form for automated verification. This requirement, entering into force in August 2026, collides with fundamental constraints of current generative AI systems. Using synthetic data generation and automated fact-checking as diagnostic use cases, we show that compliance cannot ",
+      "link": "https://arxiv.org/abs/2603.26983",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-31"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -46,6 +55,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Bitboard version of Tetris AI",
+      "title_zh": "Bitboard version of Tetris AI",
+      "description": "arXiv:2603.26765v1 Announce Type: new \nAbstract: The efficiency of game engines and policy optimization algorithms is crucial for training reinforcement learning (RL) agents in complex sequential decision-making tasks, such as Tetris. Existing Tetris implementations suffer from low simulation speeds, suboptimal state evaluation, and inefficient training paradigms, limiting their utility for large-scale RL research. To address these limitations, this paper proposes a high-performance Tetris AI fr",
+      "link": "https://arxiv.org/abs/2603.26765",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-03-31"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -73,76 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
-      "title_zh": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
-      "description": "arXiv:2603.26499v1 Announce Type: new \nAbstract: Existing research has identified three structural performance bottlenecks in AI research agents: (1) synchronous single-GPU execution constrains sample throughput, limiting the benefit of search; (2) a generalization gap where validation-based selection causes performance to degrade over extended search horizons; and (3) the limited capability of fixed, single-turn LLM operators imposes a ceiling on search performance. We introduce AIRA$_2$, which",
-      "link": "https://arxiv.org/abs/2603.26499",
+      "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+      "title_zh": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+      "description": "arXiv:2603.27150v1 Announce Type: new \nAbstract: Large language models (LLMs) have revolutionized medical reasoning tasks, yet single-agent systems often falter on complex, interdisciplinary problems requiring robust handling of uncertainty and conflicting evidence. Multi-agent systems (MAS) leveraging LLMs enable collaborative intelligence, but prevailing centralized architectures suffer from scalability bottlenecks, single points of failure, and role confusion in resource-constrained environme",
+      "link": "https://arxiv.org/abs/2603.27150",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-30"
+      "date": "2026-03-31"
     },
     {
-      "title": "A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning",
-      "title_zh": "A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning",
-      "description": "arXiv:2603.25758v1 Announce Type: cross \nAbstract: Diffusion models have significantly reshaped the field of generative artificial intelligence and are now increasingly explored for their capacity in discriminative representation learning. Diffusion Transformer (DiT) has recently gained attention as a promising alternative to conventional U-Net-based diffusion models, demonstrating a promising avenue for downstream discriminative tasks via generative pre-training. However, its current training e",
-      "link": "https://arxiv.org/abs/2603.25758",
+      "title": "daVinci-LLM:Towards the Science of Pretraining",
+      "title_zh": "daVinci-LLM:Towards the Science of Pretraining",
+      "description": "arXiv:2603.27164v1 Announce Type: new \nAbstract: The foundational pretraining phase determines a model's capability ceiling, as post-training struggles to overcome capability foundations established during pretraining, yet it remains critically under-explored. This stems from a structural paradox: organizations with computational resources operate under commercial pressures that inhibit transparent disclosure, while academic institutions possess research freedom but lack pretraining-scale comput",
+      "link": "https://arxiv.org/abs/2603.27164",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-30"
+      "date": "2026-03-31"
     },
     {
-      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
-      "title_zh": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
-      "description": "arXiv:2603.26005v1 Announce Type: new \nAbstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control policies directly from data and cope with the complexity and uncertainty of large-scale building clusters. However, most existing simulation environments prioritize building-side performance metrics and lack systematic evaluation of grid-level impacts, while their experimental workflows still rely heavily on manual config",
-      "link": "https://arxiv.org/abs/2603.26005",
+      "title": "AutoMS: Multi-Agent Evolutionary Search for Cross-Physics Inverse Microstructure Design",
+      "title_zh": "AutoMS: Multi-Agent Evolutionary Search for Cross-Physics Inverse Microstructure Design",
+      "description": "arXiv:2603.27195v1 Announce Type: new \nAbstract: Designing microstructures that satisfy coupled cross-physics objectives is a fundamental challenge in material science. This inverse design problem involves a vast, discontinuous search space where traditional topology optimization is computationally prohibitive, and deep generative models often suffer from \"physical hallucinations,\" lacking the capability to ensure rigorous validity. To address this limitation, we introduce AutoMS, a multi-agent ",
+      "link": "https://arxiv.org/abs/2603.27195",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-30"
+      "date": "2026-03-31"
     },
     {
-      "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
-      "title_zh": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
-      "description": "arXiv:2502.09867v2 Announce Type: cross \nAbstract: Generative AI has enabled novice designers to quickly create professional-looking visual representations for product concepts. However, novices have limited domain knowledge that could constrain their ability to write prompts that effectively explore a product design space. To understand how experts explore and communicate about design spaces, we conducted a formative study with 12 experienced product designers and found that experts -- and thei",
-      "link": "https://arxiv.org/abs/2502.09867",
+      "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+      "title_zh": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+      "description": "arXiv:2603.26838v1 Announce Type: new \nAbstract: This paper surveys uncertainty-aware explainable artificial intelligence (UAXAI), examining how uncertainty is incorporated into explanatory pipelines and how such methods are evaluated. Across the literature, three recurring approaches to uncertainty quantification emerge (Bayesian, Monte Carlo, and Conformal methods), alongside distinct strategies for integrating uncertainty into explanations: assessing trustworthiness, constraining models or ex",
+      "link": "https://arxiv.org/abs/2603.26838",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-30"
+      "date": "2026-03-31"
     },
     {
-      "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
-      "title_zh": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
-      "description": "arXiv:2603.26076v1 Announce Type: new \nAbstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, proprietary regional information, and fragmented communication across multiple stakeholders. The resulting data silos and semantic inconsistencies present a significant impediment to the Total Airport Management (TAM) initiative. This paper presents a methodological framework for constructing a domain-grounded, machine-readable K",
-      "link": "https://arxiv.org/abs/2603.26076",
+      "title": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
+      "title_zh": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
+      "description": "arXiv:2603.26996v1 Announce Type: new \nAbstract: We present FormalProofBench, a private benchmark designed to evaluate whether AI models can produce formally verified mathematical proofs at the graduate level. Each task pairs a natural-language problem with a Lean~4 formal statement, and a model must output a Lean proof accepted by the Lean 4 checker. FormalProofBench targets advanced undergraduate and graduate mathematics, with problems drawn from qualifying exams and standard textbooks across ",
+      "link": "https://arxiv.org/abs/2603.26996",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-30"
+      "date": "2026-03-31"
     },
     {
-      "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
-      "title_zh": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
-      "description": "arXiv:2603.25750v1 Announce Type: cross \nAbstract: As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-time, natural human-computer interaction. However, the development of such models is constrained by the scarcity of high-quality, multi-speaker conversational data, as existing large-scale resources are predominantly single-speaker or limited in volume. Addressing the complex dynamics of natural di",
-      "link": "https://arxiv.org/abs/2603.25750",
+      "title": "The Price of Meaning: Why Every Semantic Memory System Forgets",
+      "title_zh": "The Price of Meaning: Why Every Semantic Memory System Forgets",
+      "description": "arXiv:2603.27116v1 Announce Type: new \nAbstract: Every major AI memory system in production today organises information by meaning. That organisation enables generalisation, analogy, and conceptual retrieval -- but it comes at a price. We prove that the same geometric structure enabling semantic generalisation makes interference, forgetting, and false recall inescapable. We formalise this tradeoff for \\textit{semantically continuous kernel-threshold memories}: systems whose retrieval score is a ",
+      "link": "https://arxiv.org/abs/2603.27116",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-03-30"
-    },
-    {
-      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
-      "title_zh": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
-      "description": "arXiv:2603.25747v1 Announce Type: new \nAbstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. However, the absence of a comprehensive safety benchmark remains a major bottleneck, as existing evaluations rely on low-fidelity environments, simulated APIs, or narrowly scoped tasks. To address this gap, we present ",
-      "link": "https://arxiv.org/abs/2603.25747",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-30"
-    },
-    {
-      "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
-      "title_zh": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
-      "description": "arXiv:2603.26512v1 Announce Type: new \nAbstract: Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visual feedback that cannot resolve dimensional errors. We present CADSmith, a multi-agent pipeline that generates CadQuery code from natural language. It then undergoes an iterative refinement process through two nested correction loops: an inner loop that resolves execution errors and an outer loop grounded in programmatic ",
-      "link": "https://arxiv.org/abs/2603.26512",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-03-30"
+      "date": "2026-03-31"
     }
   ]
 }
