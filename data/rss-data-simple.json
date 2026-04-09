@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "A mathematical theory of evolution for self-designing AIs",
-      "title_zh": "A mathematical theory of evolution for self-designing AIs",
-      "description": "arXiv:2604.05142v1 Announce Type: new \nAbstract: As artificial intelligence systems (AIs) become increasingly produced by recursive self-improvement, a form of evolution may emerge, in which the traits of AI systems are shaped by the success of earlier AIs in designing and propagating their descendants. There is a rich mathematical theory modeling how behavioral traits are shaped by biological evolution, but AI evolution will be radically different: biological DNA mutations are random and approx",
-      "link": "https://arxiv.org/abs/2604.05142",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-08"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -55,15 +46,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-      "title_zh": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-      "description": "arXiv:2604.05018v1 Announce Type: new \nAbstract: Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specific experimental pipelines, and produce superficial literature reviews. We introduce PaperOrchestra, a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials into submission-ready LaTeX ",
-      "link": "https://arxiv.org/abs/2604.05018",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-08"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -91,58 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-      "title_zh": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-      "description": "arXiv:2604.04937v1 Announce Type: new \nAbstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical problems, LLM performance degraded by 65% Apple Machine Learning Research, exposing brittle pattern-matching beneath apparent reasoning. This epistemic gap, the inability to ground claims in traceable evidence, limits AI reliability in domains requiring",
-      "link": "https://arxiv.org/abs/2604.04937",
+      "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+      "title_zh": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+      "description": "arXiv:2604.06392v1 Announce Type: new \nAbstract: We present Qualixar OS, the first application-layer operating system for universal AI agent orchestration. Unlike kernel-level approaches (AIOS) or single-framework tools (AutoGen, CrewAI), Qualixar OS provides a complete runtime for heterogeneous multi-agent systems spanning 10 LLM providers, 8+ agent frameworks, and 7 transports. We contribute: (1) execution semantics for 12 multi-agent topologies including grid, forest, mesh, and maker patterns",
+      "link": "https://arxiv.org/abs/2604.06392",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-08"
+      "date": "2026-04-09"
     },
     {
-      "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
-      "title_zh": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
-      "description": "arXiv:2604.05116v1 Announce Type: new \nAbstract: Clinical diagnosis requires sequential evidence acquisition under uncertainty. However, most Large Language Model (LLM) based diagnostic systems assume fully observed patient information and therefore do not explicitly model how clinical evidence should be sequentially acquired over time. Even when diagnosis is formulated as a sequential decision process, it is still challenging to learn effective diagnostic trajectories. This is because the space",
-      "link": "https://arxiv.org/abs/2604.05116",
+      "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
+      "title_zh": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
+      "description": "arXiv:2604.06405v1 Announce Type: new \nAbstract: Data harmonization remains a major bottleneck for integrative analysis due to heterogeneity in schemas, value representations, and domain-specific conventions. BDI-Kit provides an extensible toolkit for schema and value matching. It exposes two complementary interfaces tailored to different user needs: a Python API enabling developers to construct harmonization pipelines programmatically, and an AI-assisted chat interface allowing domain experts t",
+      "link": "https://arxiv.org/abs/2604.06405",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-08"
+      "date": "2026-04-09"
     },
     {
-      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-      "title_zh": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-      "description": "arXiv:2604.04940v1 Announce Type: new \nAbstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely on one-shot code synthesis, yielding brittle heuristics that underutilize the models' capacity for iterative reasoning. We propose ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback, a hybrid framework that",
-      "link": "https://arxiv.org/abs/2604.04940",
+      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+      "title_zh": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+      "description": "arXiv:2604.06277v1 Announce Type: new \nAbstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during training, enabling hallucination detection from internal activations alone at inference time.\n  We introduce a weak supervision framework that combi",
+      "link": "https://arxiv.org/abs/2604.06277",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-08"
+      "date": "2026-04-09"
     },
     {
-      "title": "Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays",
-      "title_zh": "Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays",
-      "description": "arXiv:2604.05162v1 Announce Type: new \nAbstract: Reconfigurable Intelligent Surfaces (RIS) are pivotal for next-generation smart radio environments, yet their practical deployment is severely bottlenecked by the intractable computational overhead of Channel State Information (CSI) estimation. To bypass this fundamental physical-layer barrier, we propose an AI-native, data-driven paradigm that replaces complex channel modeling with spatial intelligence. This paper presents a fully autonomous Mult",
-      "link": "https://arxiv.org/abs/2604.05162",
+      "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
+      "title_zh": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
+      "description": "arXiv:2604.06375v1 Announce Type: new \nAbstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches often lack traceability and may produce unsupported or inconsistent diagnostic outputs in safety-critical settings. We present SymptomWise, a framework that separates language understanding from diagnostic reasoning. The system combines expert-curated medical knowledge, deterministic codex-driven infer",
+      "link": "https://arxiv.org/abs/2604.06375",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-08"
+      "date": "2026-04-09"
     },
     {
-      "title": "Instruction-Tuned LLMs for Parsing and Mining Unstructured Logs on Leadership HPC Systems",
-      "title_zh": "Instruction-Tuned LLMs for Parsing and Mining Unstructured Logs on Leadership HPC Systems",
-      "description": "arXiv:2604.05168v1 Announce Type: new \nAbstract: Leadership-class HPC systems generate massive volumes of heterogeneous, largely unstructured system logs. Because these logs originate from diverse software, hardware, and runtime layers, they exhibit inconsistent formats, making structure extraction and pattern discovery extremely challenging. Therefore, robust log parsing and mining is critical to transform this raw telemetry into actionable insights that reveal operational patterns, diagnose an",
-      "link": "https://arxiv.org/abs/2604.05168",
+      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+      "title_zh": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+      "description": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusa",
+      "link": "https://arxiv.org/abs/2604.06233",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-08"
+      "date": "2026-04-09"
     },
     {
-      "title": "MedGemma 1.5 Technical Report",
-      "title_zh": "MedGemma 1.5 Technical Report",
-      "description": "arXiv:2604.05081v1 Announce Type: new \nAbstract: We introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating additional capabilities: high-dimensional medical imaging (CT/MRI volumes and histopathology whole slide images), anatomical localization via bounding boxes, multi-timepoint chest X-ray analysis, and improved medical document understanding (lab reports, electronic health records). We detail the innovations required to enable",
-      "link": "https://arxiv.org/abs/2604.05081",
+      "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
+      "title_zh": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
+      "description": "arXiv:2604.06401v1 Announce Type: new \nAbstract: The large language models (LLMs) might produce a persuasive argument within mathematical and logical fields, although such argument often includes some minor missteps, including the entire omission of side conditions, invalid inference patterns, or appeals to a lemma that cannot be derived logically out of the context being discussed. These omissions are infamously hard to notice solely out of the text, as even the misconstrued construction still ",
+      "link": "https://arxiv.org/abs/2604.06401",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-08"
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+      "title_zh": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+      "description": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to re",
+      "link": "https://arxiv.org/abs/2604.06251",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
+      "title_zh": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
+      "description": "arXiv:2604.06628v1 Announce Type: new \nAbstract: A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) generalizes. We revisit this claim for reasoning SFT with long chain-of-thought (CoT) supervision and find that cross-domain generalization is not absent but conditional, jointly shaped by optimization dynamics, training data, and base-model capability. Some reported failures are under-optimization artifacts: cross-domain ",
+      "link": "https://arxiv.org/abs/2604.06628",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-09"
     }
   ]
 }
