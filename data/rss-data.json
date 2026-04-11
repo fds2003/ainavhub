@@ -79,91 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
-      "link": "https://arxiv.org/abs/2604.06392",
-      "description": "arXiv:2604.06392v1 Announce Type: new \nAbstract: We present Qualixar OS, the first application-layer operating system for universal AI agent orchestration. Unlike kernel-level approaches (AIOS) or single-framework tools (AutoGen, CrewAI), Qualixar OS provides a complete runtime for heterogeneous multi-agent systems spanning 10 LLM providers, 8+ agent frameworks, and 7 transports. We contribute: (1) execution semantics for 12 multi-agent topologies including grid, forest, mesh, and maker patterns",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 14,
-      "title_zh": "Qualixar OS: A Universal Operating System for AI Agent Orchestration"
-    },
-    {
-      "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
-      "link": "https://arxiv.org/abs/2604.06405",
-      "description": "arXiv:2604.06405v1 Announce Type: new \nAbstract: Data harmonization remains a major bottleneck for integrative analysis due to heterogeneity in schemas, value representations, and domain-specific conventions. BDI-Kit provides an extensible toolkit for schema and value matching. It exposes two complementary interfaces tailored to different user needs: a Python API enabling developers to construct harmonization pipelines programmatically, and an AI-assisted chat interface allowing domain experts t",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization"
-    },
-    {
-      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-      "link": "https://arxiv.org/abs/2604.06277",
-      "description": "arXiv:2604.06277v1 Announce Type: new \nAbstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask whether this external supervision can instead be distilled into the model's own representations during training, enabling hallucination detection from internal activations alone at inference time.\n  We introduce a weak supervision framework that combi",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations"
-    },
-    {
-      "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
-      "link": "https://arxiv.org/abs/2604.06375",
-      "description": "arXiv:2604.06375v1 Announce Type: new \nAbstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches often lack traceability and may produce unsupported or inconsistent diagnostic outputs in safety-critical settings. We present SymptomWise, a framework that separates language understanding from diagnostic reasoning. The system combines expert-curated medical knowledge, deterministic codex-driven infer",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems"
-    },
-    {
-      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
-      "link": "https://arxiv.org/abs/2604.06233",
-      "description": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusa",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules"
-    },
-    {
-      "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
-      "link": "https://arxiv.org/abs/2604.06401",
-      "description": "arXiv:2604.06401v1 Announce Type: new \nAbstract: The large language models (LLMs) might produce a persuasive argument within mathematical and logical fields, although such argument often includes some minor missteps, including the entire omission of side conditions, invalid inference patterns, or appeals to a lemma that cannot be derived logically out of the context being discussed. These omissions are infamously hard to notice solely out of the text, as even the misconstrued construction still ",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning"
-    },
-    {
-      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
-      "link": "https://arxiv.org/abs/2604.06251",
-      "description": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to re",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5.5,
-      "title_zh": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times"
-    },
-    {
-      "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
-      "link": "https://arxiv.org/abs/2604.06628",
-      "description": "arXiv:2604.06628v1 Announce Type: new \nAbstract: A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) generalizes. We revisit this claim for reasoning SFT with long chain-of-thought (CoT) supervision and find that cross-domain generalization is not absent but conditional, jointly shaped by optimization dynamics, training data, and base-model capability. Some reported failures are under-optimization artifacts: cross-domain ",
-      "pubDate": "2026-04-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-04-11T01:10:26.069Z",
+    "totalCount": 8,
+    "generatedAt": "2026-04-11T04:09:47.552Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 14.15625
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
