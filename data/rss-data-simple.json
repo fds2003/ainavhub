@@ -71,6 +71,78 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction",
+      "title_zh": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction",
+      "description": "arXiv:2604.08931v1 Announce Type: new \nAbstract: Human cognitive development is shaped not only by individual effort but by structured social interaction, where role-based exchanges such as those between a tutor and a learner, enable solutions that neither could achieve alone. Inspired by these developmental principles, we ask the question whether a tutor-student multi-agent system can create a synergistic effect by pushing Large Language Model (LLM) beyond what it can do within existing framewo",
+      "link": "https://arxiv.org/abs/2604.08931",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
+      "title_zh": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
+      "description": "arXiv:2604.08603v1 Announce Type: new \nAbstract: Existing LLM-based agent systems share a common architectural failure: they answer from the unrestricted knowledge space without first simulating how active business scenarios reshape that space for the event at hand -- producing decisions that are fluent but ungrounded and carrying no audit trail. We present LOM-action, which equips enterprise AI with \\emph{event-driven ontology simulation}: business events trigger scenario conditions encoded in ",
+      "link": "https://arxiv.org/abs/2604.08603",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "PilotBench: A Benchmark for General Aviation Agents with Safety Constraints",
+      "title_zh": "PilotBench: A Benchmark for General Aviation Agents with Safety Constraints",
+      "description": "arXiv:2604.08987v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) advance toward embodied AI agents operating in physical environments, a fundamental question emerges: can models trained on text corpora reliably reason about complex physics while adhering to safety constraints? We address this through PilotBench, a benchmark evaluating LLMs on safety-critical flight trajectory and attitude prediction. Built from 708 real-world general aviation trajectories spanning nine operationa",
+      "link": "https://arxiv.org/abs/2604.08987",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
+      "title_zh": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
+      "description": "arXiv:2604.08685v1 Announce Type: new \nAbstract: Automated planning algorithms require an action model specifying the preconditions and effects of each action, but obtaining such a model is often hard. Learning action models from observations is feasible, but existing algorithms for numeric domains are offline, requiring expert traces as input. We propose the Reinforcement learning, Action Model learning, and Planning (RAMP) strategy for learning numeric planning action models online via interac",
+      "link": "https://arxiv.org/abs/2604.08685",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
+      "title_zh": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
+      "description": "arXiv:2604.08601v1 Announce Type: new \nAbstract: The rise of autonomous AI agents exposes a fundamental flaw in API-centric architectures: probabilistic systems directly execute state mutations without sufficient context, coordination, or safety guarantees. We introduce OpenKedge, a protocol that redefines mutation as a governed process rather than an immediate consequence of API invocation. OpenKedge requires actors to submit declarative intent proposals, which are evaluated against determinist",
+      "link": "https://arxiv.org/abs/2604.08601",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations",
+      "title_zh": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations",
+      "description": "arXiv:2604.08863v1 Announce Type: new \nAbstract: Recovering analytical solutions of physical fields from visual observations is a fundamental yet underexplored capability for AI-assisted scientific reasoning. We study visual-to-symbolic analytical solution inference (ViSA) for two-dimensional linear steady-state fields: given field visualizations (and first-order derivatives) plus minimal auxiliary metadata, the model must output a single executable SymPy expression with fully instantiated numer",
+      "link": "https://arxiv.org/abs/2604.08863",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
+      "title_zh": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
+      "description": "arXiv:2604.08905v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is effective in enhancing the accuracy of large language models in complex reasoning tasks. Existing RL policy optimization frameworks rely on final-answer correctness as feedback signals and rarely capture the internal logical structure of the reasoning process. Consequently, the models would generate fluent and semantically relevant responses but logically inconsistent, structurally erratic, or redundant. To this end,",
+      "link": "https://arxiv.org/abs/2604.08905",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment",
+      "title_zh": "SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment",
+      "description": "arXiv:2604.08988v1 Announce Type: new \nAbstract: Current LLM-based agents demonstrate strong performance in episodic task execution but remain constrained by static toolsets and episodic amnesia, failing to accumulate experience or optimize strategies across task boundaries. While the Self-Evolving Agent (SEA) paradigm has been previously proposed, this paper contributes a new formal definition of SEA grounded in digital embodiment and continuous cross-task evolution, and introduces SEA-Eval, th",
+      "link": "https://arxiv.org/abs/2604.08988",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-13"
     }
   ]
 }
