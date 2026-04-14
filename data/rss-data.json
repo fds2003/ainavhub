@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
+      "link": "https://arxiv.org/abs/2604.09554",
+      "description": "arXiv:2604.09554v1 Announce Type: new \nAbstract: Optimism for accelerating scientific discovery with AI continues to grow. Current applications of AI in scientific research range from training dedicated foundation models on scientific data to agentic autonomous hypothesis generation systems to AI-driven autonomous labs. The need to measure progress of AI systems in scientific domains correspondingly must not only accelerate, but increasingly shift focus to more real-world capabilities. Beyond ro",
+      "pubDate": "2026-04-14T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 32,
+      "title_zh": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -9,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Explainable Planning for Hybrid Systems",
+      "link": "https://arxiv.org/abs/2604.09578",
+      "description": "arXiv:2604.09578v1 Announce Type: new \nAbstract: The recent advancement in artificial intelligence (AI) technologies facilitates a paradigm shift toward automation. Autonomous systems are fully or partially replacing manually crafted ones. At the core of these systems is automated planning. With the advent of powerful planners, automated planning is now applied to many complex and safety-critical domains, including smart energy grids, self-driving cars, warehouse automation, urban and air traffi",
+      "pubDate": "2026-04-14T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 25.5,
+      "title_zh": "Explainable Planning for Hybrid Systems"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -51,6 +71,16 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
+      "title": "Persistent Identity in AI Agents: A Multi-Anchor Architecture for Resilient Memory and Continuity",
+      "link": "https://arxiv.org/abs/2604.09588",
+      "description": "arXiv:2604.09588v1 Announce Type: new \nAbstract: Modern AI agents suffer from a fundamental identity problem: when context windows overflow and conversation histories are summarized, agents experience catastrophic forgetting -- losing not just information, but continuity of self. This technical limitation reflects a deeper architectural flaw: AI agent identity is centralized in a single memory store, creating a single point of failure. Drawing on neurological case studies of human memory disorde",
+      "pubDate": "2026-04-14T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "Persistent Identity in AI Agents: A Multi-Anchor Architecture for Resilient Memory and Continuity"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -81,89 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction",
-      "link": "https://arxiv.org/abs/2604.08931",
-      "description": "arXiv:2604.08931v1 Announce Type: new \nAbstract: Human cognitive development is shaped not only by individual effort but by structured social interaction, where role-based exchanges such as those between a tutor and a learner, enable solutions that neither could achieve alone. Inspired by these developmental principles, we ask the question whether a tutor-student multi-agent system can create a synergistic effect by pushing Large Language Model (LLM) beyond what it can do within existing framewo",
-      "pubDate": "2026-04-13T04:00:00.000Z",
+      "title": "Hubble: An LLM-Driven Agentic Framework for Safe and Automated Alpha Factor Discovery",
+      "link": "https://arxiv.org/abs/2604.09601",
+      "description": "arXiv:2604.09601v1 Announce Type: new \nAbstract: Discovering predictive alpha factors in quantitative finance remains a formidable challenge due to the vast combinatorial search space and inherently low signal-to-noise ratios in financial data. Existing automated methods, particularly genetic programming, often produce complex, uninterpretable formulas prone to overfitting. We introduce Hubble, a closed-loop factor mining framework that leverages Large Language Models (LLMs) as intelligent searc",
+      "pubDate": "2026-04-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction"
+      "aiScore": 9,
+      "title_zh": "Hubble: An LLM-Driven Agentic Framework for Safe and Automated Alpha Factor Discovery"
     },
     {
-      "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
-      "link": "https://arxiv.org/abs/2604.08603",
-      "description": "arXiv:2604.08603v1 Announce Type: new \nAbstract: Existing LLM-based agent systems share a common architectural failure: they answer from the unrestricted knowledge space without first simulating how active business scenarios reshape that space for the event at hand -- producing decisions that are fluent but ungrounded and carrying no audit trail. We present LOM-action, which equips enterprise AI with \\emph{event-driven ontology simulation}: business events trigger scenario conditions encoded in ",
-      "pubDate": "2026-04-13T04:00:00.000Z",
+      "title": "Seven simple steps for log analysis in AI systems",
+      "link": "https://arxiv.org/abs/2604.09563",
+      "description": "arXiv:2604.09563v1 Announce Type: new \nAbstract: AI systems produce large volumes of logs as they interact with tools and users. Analysing these logs can help understand model capabilities, propensities, and behaviours, or assess whether an evaluation worked as intended. Researchers have started developing methods for log analysis, but a standardised approach is still missing. Here we suggest a pipeline based on current best practices. We illustrate it with concrete code examples in the Inspect ",
+      "pubDate": "2026-04-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI"
+      "aiScore": 8,
+      "title_zh": "Seven simple steps for log analysis in AI systems"
     },
     {
-      "title": "PilotBench: A Benchmark for General Aviation Agents with Safety Constraints",
-      "link": "https://arxiv.org/abs/2604.08987",
-      "description": "arXiv:2604.08987v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) advance toward embodied AI agents operating in physical environments, a fundamental question emerges: can models trained on text corpora reliably reason about complex physics while adhering to safety constraints? We address this through PilotBench, a benchmark evaluating LLMs on safety-critical flight trajectory and attitude prediction. Built from 708 real-world general aviation trajectories spanning nine operationa",
-      "pubDate": "2026-04-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "PilotBench: A Benchmark for General Aviation Agents with Safety Constraints"
-    },
-    {
-      "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
-      "link": "https://arxiv.org/abs/2604.08685",
-      "description": "arXiv:2604.08685v1 Announce Type: new \nAbstract: Automated planning algorithms require an action model specifying the preconditions and effects of each action, but obtaining such a model is often hard. Learning action models from observations is feasible, but existing algorithms for numeric domains are offline, requiring expert traces as input. We propose the Reinforcement learning, Action Model learning, and Planning (RAMP) strategy for learning numeric planning action models online via interac",
-      "pubDate": "2026-04-13T04:00:00.000Z",
+      "title": "DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings",
+      "link": "https://arxiv.org/abs/2604.09596",
+      "description": "arXiv:2604.09596v1 Announce Type: new \nAbstract: Dermatologic diseases impose a large and growing global burden, affecting billions and substantially reducing quality of life. While modern therapies can rapidly control acute symptoms, long-term outcomes are often limited by single-target paradigms, recurrent courses, and insufficient attention to systemic comorbidities. Traditional Chinese medicine (TCM) provides a complementary holistic approach via syndrome differentiation and individualized t",
+      "pubDate": "2026-04-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models"
+      "title_zh": "DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings"
     },
     {
-      "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
-      "link": "https://arxiv.org/abs/2604.08601",
-      "description": "arXiv:2604.08601v1 Announce Type: new \nAbstract: The rise of autonomous AI agents exposes a fundamental flaw in API-centric architectures: probabilistic systems directly execute state mutations without sufficient context, coordination, or safety guarantees. We introduce OpenKedge, a protocol that redefines mutation as a governed process rather than an immediate consequence of API invocation. OpenKedge requires actors to submit declarative intent proposals, which are evaluated against determinist",
-      "pubDate": "2026-04-13T04:00:00.000Z",
+      "title": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
+      "link": "https://arxiv.org/abs/2604.09581",
+      "description": "arXiv:2604.09581v1 Announce Type: new \nAbstract: Evaluating web usability typically requires time-consuming user studies and expert reviews, which often limits iteration speed during product development, especially for small teams and agile workflows. We present OpenFlo, a user-experience evaluation agent that simulates user behavior on websites and produces standardized usability. Unlike traditional tools that rely on DOM parsing, OpenFlo grounds actions and observations, enabling it to interac",
+      "pubDate": "2026-04-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains"
+      "title_zh": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding"
     },
     {
-      "title": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations",
-      "link": "https://arxiv.org/abs/2604.08863",
-      "description": "arXiv:2604.08863v1 Announce Type: new \nAbstract: Recovering analytical solutions of physical fields from visual observations is a fundamental yet underexplored capability for AI-assisted scientific reasoning. We study visual-to-symbolic analytical solution inference (ViSA) for two-dimensional linear steady-state fields: given field visualizations (and first-order derivatives) plus minimal auxiliary metadata, the model must output a single executable SymPy expression with fully instantiated numer",
-      "pubDate": "2026-04-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations"
-    },
-    {
-      "title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
-      "link": "https://arxiv.org/abs/2604.08905",
-      "description": "arXiv:2604.08905v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is effective in enhancing the accuracy of large language models in complex reasoning tasks. Existing RL policy optimization frameworks rely on final-answer correctness as feedback signals and rarely capture the internal logical structure of the reasoning process. Consequently, the models would generate fluent and semantically relevant responses but logically inconsistent, structurally erratic, or redundant. To this end,",
-      "pubDate": "2026-04-13T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "StaRPO: Stability-Augmented Reinforcement Policy Optimization"
-    },
-    {
-      "title": "SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment",
-      "link": "https://arxiv.org/abs/2604.08988",
-      "description": "arXiv:2604.08988v1 Announce Type: new \nAbstract: Current LLM-based agents demonstrate strong performance in episodic task execution but remain constrained by static toolsets and episodic amnesia, failing to accumulate experience or optimize strategies across task boundaries. While the Self-Evolving Agent (SEA) paradigm has been previously proposed, this paper contributes a new formal definition of SEA grounded in digital embodiment and continuous cross-task evolution, and introduces SEA-Eval, th",
-      "pubDate": "2026-04-13T04:00:00.000Z",
+      "title": "From Scalars to Tensors: Declared Losses Recover Epistemic Distinctions That Neutrosophic Scalars Cannot Express",
+      "link": "https://arxiv.org/abs/2604.09602",
+      "description": "arXiv:2604.09602v1 Announce Type: new \nAbstract: Leyva-V\\'azquez and Smarandache (2025) demonstrated that neutrosophic T/I/F evaluation, where Truth, Indeterminacy, and Falsity are independent dimensions not constrained to sum to 1.0, which reveals \"hyper-truth\"' (T+I+F > 1.0) in 35% of complex epistemic cases evaluated by LLMs. We extend their work in two directions. First, we replicate and extend their experiment across five model families from five vendors (Anthropic, Meta, DeepSeek, Alibaba,",
+      "pubDate": "2026-04-14T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment"
+      "title_zh": "From Scalars to Tensors: Declared Losses Recover Epistemic Distinctions That Neutrosophic Scalars Cannot Express"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-04-14T01:19:45.417Z",
+    "generatedAt": "2026-04-14T04:35:33.666Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.5
+    "averageScore": 16.53125
   }
 }
