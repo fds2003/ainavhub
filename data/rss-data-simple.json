@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
-      "title_zh": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
-      "description": "arXiv:2604.09554v1 Announce Type: new \nAbstract: Optimism for accelerating scientific discovery with AI continues to grow. Current applications of AI in scientific research range from training dedicated foundation models on scientific data to agentic autonomous hypothesis generation systems to AI-driven autonomous labs. The need to measure progress of AI systems in scientific domains correspondingly must not only accelerate, but increasingly shift focus to more real-world capabilities. Beyond ro",
-      "link": "https://arxiv.org/abs/2604.09554",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-14"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -19,13 +10,13 @@
       "date": "2021-10-28"
     },
     {
-      "title": "Explainable Planning for Hybrid Systems",
-      "title_zh": "Explainable Planning for Hybrid Systems",
-      "description": "arXiv:2604.09578v1 Announce Type: new \nAbstract: The recent advancement in artificial intelligence (AI) technologies facilitates a paradigm shift toward automation. Autonomous systems are fully or partially replacing manually crafted ones. At the core of these systems is automated planning. With the advent of powerful planners, automated planning is now applied to many complex and safety-critical domains, including smart energy grids, self-driving cars, warehouse automation, urban and air traffi",
-      "link": "https://arxiv.org/abs/2604.09578",
+      "title": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
+      "title_zh": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
+      "description": "arXiv:2604.12096v1 Announce Type: new \nAbstract: On online advertising platforms, newly introduced promotional ads face the cold-start problem, as they lack sufficient user feedback for model training. In this work, we propose LLM-HYPER, a novel framework that treats large language models (LLMs) as hypernetworks to directly generate the parameters of the click-through rate (CTR) estimator in a training-free manner. LLM-HYPER uses few-shot Chain-of-Thought prompting over multimodal ad content (te",
+      "link": "https://arxiv.org/abs/2604.12096",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -55,6 +46,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "A longitudinal health agent framework",
+      "title_zh": "A longitudinal health agent framework",
+      "description": "arXiv:2604.12019v1 Announce Type: new \nAbstract: Although artificial intelligence (AI) agents are increasingly proposed to support potentially longitudinal health tasks, such as symptom management, behavior change, and patient support, most current implementations fall short of facilitating user intent and fostering accountability. This contrasts with prior work on supporting longitudinal needs, where follow-up, coherent reasoning, and sustained alignment with individuals' goals are critical for",
+      "link": "https://arxiv.org/abs/2604.12019",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-15"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -62,15 +62,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Persistent Identity in AI Agents: A Multi-Anchor Architecture for Resilient Memory and Continuity",
-      "title_zh": "Persistent Identity in AI Agents: A Multi-Anchor Architecture for Resilient Memory and Continuity",
-      "description": "arXiv:2604.09588v1 Announce Type: new \nAbstract: Modern AI agents suffer from a fundamental identity problem: when context windows overflow and conversation histories are summarized, agents experience catastrophic forgetting -- losing not just information, but continuity of self. This technical limitation reflects a deeper architectural flaw: AI agent identity is centralized in a single memory store, creating a single point of failure. Drawing on neurological case studies of human memory disorde",
-      "link": "https://arxiv.org/abs/2604.09588",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-14"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -100,49 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Hubble: An LLM-Driven Agentic Framework for Safe and Automated Alpha Factor Discovery",
-      "title_zh": "Hubble: An LLM-Driven Agentic Framework for Safe and Automated Alpha Factor Discovery",
-      "description": "arXiv:2604.09601v1 Announce Type: new \nAbstract: Discovering predictive alpha factors in quantitative finance remains a formidable challenge due to the vast combinatorial search space and inherently low signal-to-noise ratios in financial data. Existing automated methods, particularly genetic programming, often produce complex, uninterpretable formulas prone to overfitting. We introduce Hubble, a closed-loop factor mining framework that leverages Large Language Models (LLMs) as intelligent searc",
-      "link": "https://arxiv.org/abs/2604.09601",
+      "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+      "title_zh": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+      "description": "arXiv:2604.11978v1 Announce Type: new \nAbstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, interdependent action sequences. Despite rapid progress in agentic systems, these long-horizon failures remain poorly characterized, hindering principled diagnosis and comparison across domains. To address this gap, we introduce HORIZON, an initial cross-domain diagnostic benchmark for systematically",
+      "link": "https://arxiv.org/abs/2604.11978",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
-      "title": "Seven simple steps for log analysis in AI systems",
-      "title_zh": "Seven simple steps for log analysis in AI systems",
-      "description": "arXiv:2604.09563v1 Announce Type: new \nAbstract: AI systems produce large volumes of logs as they interact with tools and users. Analysing these logs can help understand model capabilities, propensities, and behaviours, or assess whether an evaluation worked as intended. Researchers have started developing methods for log analysis, but a standardised approach is still missing. Here we suggest a pipeline based on current best practices. We illustrate it with concrete code examples in the Inspect ",
-      "link": "https://arxiv.org/abs/2604.09563",
+      "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
+      "title_zh": "Memory as Metabolism: A Design for Companion Knowledge Systems",
+      "description": "arXiv:2604.12034v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal wiki-style memory architectures emerged in April 2026 -- design proposals from Karpathy, MemPalace, and LLM Wiki v2 that compile knowledge into an interlinked artifact for long-term use by a single user. They sit alongside production memory systems that the major labs have shipped for over a year, and an active academic ",
+      "link": "https://arxiv.org/abs/2604.12034",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
-      "title": "DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings",
-      "title_zh": "DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings",
-      "description": "arXiv:2604.09596v1 Announce Type: new \nAbstract: Dermatologic diseases impose a large and growing global burden, affecting billions and substantially reducing quality of life. While modern therapies can rapidly control acute symptoms, long-term outcomes are often limited by single-target paradigms, recurrent courses, and insufficient attention to systemic comorbidities. Traditional Chinese medicine (TCM) provides a complementary holistic approach via syndrome differentiation and individualized t",
-      "link": "https://arxiv.org/abs/2604.09596",
+      "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
+      "title_zh": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
+      "description": "arXiv:2604.12066v1 Announce Type: new \nAbstract: Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school math problems. The teacher enters a base problem and desired topic, the LLM generates the problem, and then four AI agents evaluate the problem using criteria that each specializes in (mathematical accuracy, authenticity, readability, and realism). Eigh",
+      "link": "https://arxiv.org/abs/2604.12066",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
-      "title": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
-      "title_zh": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
-      "description": "arXiv:2604.09581v1 Announce Type: new \nAbstract: Evaluating web usability typically requires time-consuming user studies and expert reviews, which often limits iteration speed during product development, especially for small teams and agile workflows. We present OpenFlo, a user-experience evaluation agent that simulates user behavior on websites and produces standardized usability. Unlike traditional tools that rely on DOM parsing, OpenFlo grounds actions and observations, enabling it to interac",
-      "link": "https://arxiv.org/abs/2604.09581",
+      "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
+      "title_zh": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
+      "description": "arXiv:2604.12016v1 Announce Type: new \nAbstract: Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attractor-like dynamics. We ask whether the identity document of a persistent cognitive agent (its cognitive_core) exhibits analogous attractor-like behavior. We present a controlled experiment on Llama 3.1 8B Instruct, comparing hidden states of an original cognitive_core (Condition A), seven paraphrases (Condition B), and s",
+      "link": "https://arxiv.org/abs/2604.12016",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
     },
     {
-      "title": "From Scalars to Tensors: Declared Losses Recover Epistemic Distinctions That Neutrosophic Scalars Cannot Express",
-      "title_zh": "From Scalars to Tensors: Declared Losses Recover Epistemic Distinctions That Neutrosophic Scalars Cannot Express",
-      "description": "arXiv:2604.09602v1 Announce Type: new \nAbstract: Leyva-V\\'azquez and Smarandache (2025) demonstrated that neutrosophic T/I/F evaluation, where Truth, Indeterminacy, and Falsity are independent dimensions not constrained to sum to 1.0, which reveals \"hyper-truth\"' (T+I+F > 1.0) in 35% of complex epistemic cases evaluated by LLMs. We extend their work in two directions. First, we replicate and extend their experiment across five model families from five vendors (Anthropic, Meta, DeepSeek, Alibaba,",
-      "link": "https://arxiv.org/abs/2604.09602",
+      "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
+      "title_zh": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
+      "description": "arXiv:2604.11828v1 Announce Type: new \nAbstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization problem in its own right. This paper argues that the body of scientific knowledge, at any given historical moment, represents a \\emph{local optimum} rather than a global one--that the frameworks, formalisms, and paradigms through which we understand natu",
+      "link": "https://arxiv.org/abs/2604.11828",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-14"
+      "date": "2026-04-15"
+    },
+    {
+      "title": "When to Forget: A Memory Governance Primitive",
+      "title_zh": "When to Forget: A Memory Governance Primitive",
+      "description": "arXiv:2604.12007v1 Announce Type: new \nAbstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- deciding which memories to trust, suppress, or deprecate as the agent's task distribution shifts. Write-time importance scores are static; dynamic management systems use LLM judgment or structural heuristics rather than outcome feedback. This paper proposes Memory Worth (MW): a two-counter per-memory signal that tracks how",
+      "link": "https://arxiv.org/abs/2604.12007",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-15"
     }
   ]
 }
