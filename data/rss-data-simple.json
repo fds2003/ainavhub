@@ -10,15 +10,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
-      "title_zh": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
-      "description": "arXiv:2604.12096v1 Announce Type: new \nAbstract: On online advertising platforms, newly introduced promotional ads face the cold-start problem, as they lack sufficient user feedback for model training. In this work, we propose LLM-HYPER, a novel framework that treats large language models (LLMs) as hypernetworks to directly generate the parameters of the click-through rate (CTR) estimator in a training-free manner. LLM-HYPER uses few-shot Chain-of-Thought prompting over multimodal ad content (te",
-      "link": "https://arxiv.org/abs/2604.12096",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-16"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -46,13 +37,13 @@
       "date": "2021-10-21"
     },
     {
-      "title": "A longitudinal health agent framework",
-      "title_zh": "A longitudinal health agent framework",
-      "description": "arXiv:2604.12019v1 Announce Type: new \nAbstract: Although artificial intelligence (AI) agents are increasingly proposed to support potentially longitudinal health tasks, such as symptom management, behavior change, and patient support, most current implementations fall short of facilitating user intent and fostering accountability. This contrasts with prior work on supporting longitudinal needs, where follow-up, coherent reasoning, and sustained alignment with individuals' goals are critical for",
-      "link": "https://arxiv.org/abs/2604.12019",
+      "title": "Rethinking AI Hardware: A Three-Layer Cognitive Architecture for Autonomous Agents",
+      "title_zh": "Rethinking AI Hardware: A Three-Layer Cognitive Architecture for Autonomous Agents",
+      "description": "arXiv:2604.13757v1 Announce Type: new \nAbstract: The next generation of autonomous AI systems will be constrained not only by model capability, but by how intelligence is structured across heterogeneous hardware. Current paradigms -- cloud-centric AI, on-device inference, and edge-cloud pipelines -- treat planning, reasoning, and execution as a monolithic process, leading to unnecessary latency, energy consumption, and fragmented behavioral continuity. We introduce the Tri-Spirit Architecture, a",
+      "link": "https://arxiv.org/abs/2604.13757",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -91,58 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-      "title_zh": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-      "description": "arXiv:2604.11978v1 Announce Type: new \nAbstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, interdependent action sequences. Despite rapid progress in agentic systems, these long-horizon failures remain poorly characterized, hindering principled diagnosis and comparison across domains. To address this gap, we introduce HORIZON, an initial cross-domain diagnostic benchmark for systematically",
-      "link": "https://arxiv.org/abs/2604.11978",
+      "title": "The cognitive companion: a lightweight parallel monitoring architecture for detecting and recovering from reasoning degradation in LLM agents",
+      "title_zh": "The cognitive companion: a lightweight parallel monitoring architecture for detecting and recovering from reasoning degradation in LLM agents",
+      "description": "arXiv:2604.13759v1 Announce Type: new \nAbstract: Large language model (LLM) agents on multi-step tasks suffer reasoning degradation, looping, drift, stuck states, at rates up to 30% on hard tasks. Current solutions include hard step limits (abrupt) or LLM-as-judge monitoring (10-15% overhead per step). This paper introduces the Cognitive Companion, a parallel monitoring architecture with two implementations: an LLM-based Companion and a novel zero-overhead Probe-based Companion. We report a thre",
+      "link": "https://arxiv.org/abs/2604.13759",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
-      "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
-      "title_zh": "Memory as Metabolism: A Design for Companion Knowledge Systems",
-      "description": "arXiv:2604.12034v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal wiki-style memory architectures emerged in April 2026 -- design proposals from Karpathy, MemPalace, and LLM Wiki v2 that compile knowledge into an interlinked artifact for long-term use by a single user. They sit alongside production memory systems that the major labs have shipped for over a year, and an active academic ",
-      "link": "https://arxiv.org/abs/2604.12034",
+      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+      "title_zh": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+      "description": "arXiv:2604.13151v1 Announce Type: new \nAbstract: Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the problem space and exploit acquired knowledge effectively. However, systematically distinguishing and quantifying exploration and exploitation from observed actions without access to the agent's internal policy remains challenging. To address this, we des",
+      "link": "https://arxiv.org/abs/2604.13151",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
-      "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
-      "title_zh": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
-      "description": "arXiv:2604.12066v1 Announce Type: new \nAbstract: Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school math problems. The teacher enters a base problem and desired topic, the LLM generates the problem, and then four AI agents evaluate the problem using criteria that each specializes in (mathematical accuracy, authenticity, readability, and realism). Eigh",
-      "link": "https://arxiv.org/abs/2604.12066",
+      "title": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
+      "title_zh": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
+      "description": "arXiv:2604.13348v1 Announce Type: new \nAbstract: We introduce CONCORD, a privacy-aware asynchronous assistant-to-assistant (A2A) framework that leverages collaboration between proactive speech-based AI. As agents evolve from reactive to always-listening assistants, they face a core privacy risk (of capturing non-consenting speakers), which makes their social deployment a challenge. To overcome this, we implement CONCORD, which enforces owner-only speech capture via real-time speaker verification",
+      "link": "https://arxiv.org/abs/2604.13348",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
-      "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
-      "title_zh": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
-      "description": "arXiv:2604.12016v1 Announce Type: new \nAbstract: Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attractor-like dynamics. We ask whether the identity document of a persistent cognitive agent (its cognitive_core) exhibits analogous attractor-like behavior. We present a controlled experiment on Llama 3.1 8B Instruct, comparing hidden states of an original cognitive_core (Condition A), seven paraphrases (Condition B), and s",
-      "link": "https://arxiv.org/abs/2604.12016",
+      "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
+      "title_zh": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
+      "description": "arXiv:2604.13180v1 Announce Type: new \nAbstract: Recent advances in agentic AI have enabled increasingly autonomous workflows, but existing systems still face substantial challenges in achieving reliable deployment in real-world scientific research. In this work, we present a safe, lightweight, and user-friendly agentic framework for the autonomous execution of well-defined scientific tasks. The framework combines an isolated execution environment, a three-layer agent loop, and a self-assessing ",
+      "link": "https://arxiv.org/abs/2604.13180",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
-      "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-      "title_zh": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-      "description": "arXiv:2604.11828v2 Announce Type: new \nAbstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization problem in its own right. This paper argues that the body of scientific knowledge, at any given historical moment, represents a \\emph{local optimum} rather than a global one--that the frameworks, formalisms, and paradigms through which we understand natu",
-      "link": "https://arxiv.org/abs/2604.11828",
+      "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+      "title_zh": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+      "description": "arXiv:2604.13488v1 Announce Type: new \nAbstract: Autonomous Graphical User Interface (GUI) agents powered by Multimodal Large Language Models (MLLMs) enable digital automation on end-user devices. While scaling both parameters and data has yielded substantial gains, advanced methods still suffer from prohibitive deployment costs on resource-constrained devices. When facing complex in-the-wild scenarios, lightweight GUI agents are bottlenecked by limited capacity and poor task scalability under e",
+      "link": "https://arxiv.org/abs/2604.13488",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
     },
     {
-      "title": "When to Forget: A Memory Governance Primitive",
-      "title_zh": "When to Forget: A Memory Governance Primitive",
-      "description": "arXiv:2604.12007v1 Announce Type: new \nAbstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- deciding which memories to trust, suppress, or deprecate as the agent's task distribution shifts. Write-time importance scores are static; dynamic management systems use LLM judgment or structural heuristics rather than outcome feedback. This paper proposes Memory Worth (MW): a two-counter per-memory signal that tracks how",
-      "link": "https://arxiv.org/abs/2604.12007",
+      "title": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
+      "title_zh": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
+      "description": "arXiv:2604.13392v1 Announce Type: new \nAbstract: Tabular data remains prevalent in high-stakes domains such as healthcare and finance, where predictive models are expected to provide both high accuracy and faithful, human-understandable reasoning. While symbolic models offer verifiable logic, they lack semantic expressiveness. Meanwhile, general-purpose LLMs often require specialized fine-tuning to master domain-specific tabular reasoning. To address the dual challenges of scalable data curation",
+      "link": "https://arxiv.org/abs/2604.13392",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-16"
+      "date": "2026-04-17"
+    },
+    {
+      "title": "GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis",
+      "title_zh": "GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis",
+      "description": "arXiv:2604.13888v1 Announce Type: new \nAbstract: The integration of Large Language Models (LLMs) into Geographic Information Systems (GIS) marks a paradigm shift toward autonomous spatial analysis. However, evaluating these LLM-based agents remains challenging due to the complex, multi-step nature of geospatial workflows. Existing benchmarks primarily rely on static text or code matching, neglecting dynamic runtime feedback and the multimodal nature of spatial outputs. To address this gap, we in",
+      "link": "https://arxiv.org/abs/2604.13888",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-17"
     }
   ]
 }
