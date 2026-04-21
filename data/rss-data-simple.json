@@ -34,7 +34,7 @@
       "link": "https://arxiv.org/abs/2604.15456",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -61,7 +61,7 @@
       "link": "https://arxiv.org/abs/2604.15514",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -97,7 +97,7 @@
       "link": "https://arxiv.org/abs/2604.15495",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     },
     {
       "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
@@ -106,7 +106,7 @@
       "link": "https://arxiv.org/abs/2604.15726",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     },
     {
       "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
@@ -115,7 +115,7 @@
       "link": "https://arxiv.org/abs/2604.15559",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     },
     {
       "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
@@ -124,16 +124,16 @@
       "link": "https://arxiv.org/abs/2604.15709",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     },
     {
       "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
       "title_zh": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-      "description": "arXiv:2604.15719v1 Announce Type: new \nAbstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as \\emph{future prediction}, where an LLM agent must form a prediction for an unresolved question using only the public information available at the prediction time. The setting is difficult because public evidence evolves while useful supervision arrives only after the question is resolved, so most existing approaches still improve ma",
+      "description": "arXiv:2604.15719v2 Announce Type: new \nAbstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as future prediction, where an LLM agent must form a prediction for an unresolved question using only the public information available at the prediction time. The setting is difficult because public evidence evolves while useful supervision arrives only after the question is resolved, so most existing approaches still improve mainly fr",
       "link": "https://arxiv.org/abs/2604.15719",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     },
     {
       "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
@@ -142,7 +142,7 @@
       "link": "https://arxiv.org/abs/2604.15727",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-20"
+      "date": "2026-04-21"
     }
   ]
 }
