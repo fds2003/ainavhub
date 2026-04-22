@@ -28,13 +28,13 @@
       "date": "2021-10-21"
     },
     {
-      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
-      "title_zh": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
-      "description": "arXiv:2604.15456v1 Announce Type: new \nAbstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems lack explicit and inspectable criteria for evidence appraisal, creating a risk of compounding errors ",
-      "link": "https://arxiv.org/abs/2604.15456",
+      "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
+      "title_zh": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
+      "description": "arXiv:2604.18838v1 Announce Type: new \nAbstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Quantum Qutrit-based Neural Networks (QQTNs). By outlining methodologies, architectures, and training procedures, the study highlights significant differences in training times and performance metrics across models. While all models demonstrate robust a",
+      "link": "https://arxiv.org/abs/2604.18838",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-21"
+      "date": "2026-04-22"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -53,15 +53,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-      "title_zh": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-      "description": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADM",
-      "link": "https://arxiv.org/abs/2604.15514",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-21"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -91,58 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-      "title_zh": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-      "description": "arXiv:2604.15495v1 Announce Type: new \nAbstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While Vision-Language Models (VLMs) help assistive systems navigate semantically-rich spaces, they still ",
-      "link": "https://arxiv.org/abs/2604.15495",
+      "title": "AI scientists produce results without reasoning scientifically",
+      "title_zh": "AI scientists produce results without reasoning scientifically",
+      "description": "arXiv:2604.18805v1 Announce Type: new \nAbstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scientific agents across eight domains, spanning workflow execution to hypothesis-driven inquiry, through more than 25,000 agent runs and two complementary lenses: (i) a systematic perf",
+      "link": "https://arxiv.org/abs/2604.18805",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-21"
+      "date": "2026-04-22"
     },
     {
-      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
-      "title_zh": "LLM Reasoning Is Latent, Not the Chain of Thought",
-      "description": "arXiv:2604.15726v1 Announce Type: new \nAbstract: This position paper argues that large language model (LLM) reasoning should be studied as latent-state trajectory formation rather than as faithful surface chain-of-thought (CoT). This matters because claims about faithfulness, interpretability, reasoning benchmarks, and inference-time intervention all depend on what the field takes the primary object of reasoning to be. We ask what that object should be once three often-confounded factors are sep",
-      "link": "https://arxiv.org/abs/2604.15726",
+      "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
+      "title_zh": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
+      "description": "arXiv:2604.18882v1 Announce Type: new \nAbstract: We present a formally verified framework for patent analysis as a hybrid AI + Lean 4 pipeline. The DAG-coverage core (Algorithm 1b) is fully machine-verified once bounded match scores are fixed. Freedom-to-operate, claim-construction sensitivity, cross-claim consistency, and doctrine-of-equivalents analyses are formalized at the specification level with kernel-checked candidate certificates. Existing patent-analysis approaches rely on manual exper",
+      "link": "https://arxiv.org/abs/2604.18882",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-21"
+      "date": "2026-04-22"
     },
     {
-      "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
-      "title_zh": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
-      "description": "arXiv:2604.15559v1 Announce Type: new \nAbstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first empirical evidence that unsafe agent behaviors can transfer subliminally through model distillation ",
-      "link": "https://arxiv.org/abs/2604.15559",
+      "title": "AutomationBench",
+      "title_zh": "AutomationBench",
+      "description": "arXiv:2604.18934v1 Announce Type: new \nAbstract: Existing AI benchmarks for software automation rarely combine cross-application coordination, autonomous API discovery, and policy adherence. Real business workflows demand all three: a single task may span a CRM, inbox, calendar, and messaging platform - requiring the agent to find the right endpoints, follow a policy document, and write correct data to each system. To address this gap, we introduce AutomationBench, a benchmark for evaluating AI ",
+      "link": "https://arxiv.org/abs/2604.18934",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-21"
+      "date": "2026-04-22"
     },
     {
-      "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
-      "title_zh": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
-      "description": "arXiv:2604.15709v1 Announce Type: new \nAbstract: Agent \\texttt{skills} are structured collections of instructions, tools, and supporting resources that help large language model (LLM) agents perform particular classes of tasks. Empirical evidence shows that the design of \\texttt{skills} can materially affect agent task performance, yet systematically optimizing \\texttt{skills} remains challenging. Since a \\texttt{skill} comprises instructions, tools, and supporting resources in a structured way,",
-      "link": "https://arxiv.org/abs/2604.15709",
+      "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
+      "title_zh": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
+      "description": "arXiv:2604.18789v1 Announce Type: new \nAbstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a critical vulnerability: an imperfect Reward Model (RM) can become a single point of failure when it fails to penalize unsafe behaviors. While existing red-teaming approaches primarily target policy-level weaknesses, they overlook what we term systemic weaknesses cases where both the core LLM and the RM fail in tandem.\n  We pre",
+      "link": "https://arxiv.org/abs/2604.18789",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-21"
+      "date": "2026-04-22"
     },
     {
-      "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-      "title_zh": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-      "description": "arXiv:2604.15719v2 Announce Type: new \nAbstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as future prediction, where an LLM agent must form a prediction for an unresolved question using only the public information available at the prediction time. The setting is difficult because public evidence evolves while useful supervision arrives only after the question is resolved, so most existing approaches still improve mainly fr",
-      "link": "https://arxiv.org/abs/2604.15719",
+      "title": "How Adversarial Environments Mislead Agentic AI?",
+      "title_zh": "How Adversarial Environments Mislead Agentic AI?",
+      "description": "arXiv:2604.18874v1 Announce Type: new \nAbstract: Tool-integrated agents are deployed on the premise that external tools ground their outputs in reality. Yet this very reliance creates a critical attack surface. Current evaluations benchmark capability in benign settings, asking \"can the agent use tools correctly\" but never \"what if the tools lie\". We identify this Trust Gap: agents are evaluated for performance, not for skepticism. We formalize this vulnerability as Adversarial Environmental Inj",
+      "link": "https://arxiv.org/abs/2604.18874",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-21"
+      "date": "2026-04-22"
     },
     {
-      "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
-      "title_zh": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
-      "description": "arXiv:2604.15727v1 Announce Type: new \nAbstract: Large language models exhibit systematic limitations in structured logical reasoning: they conflate hypothesis generation with verification, cannot distinguish conjecture from validated knowledge, and allow weak reasoning steps to propagate unchecked through inference chains. We present a symbolic reasoning scaffold that operationalizes Peirce's tripartite inference -- abduction, deduction, and induction -- as an explicit protocol for LLM-assisted",
-      "link": "https://arxiv.org/abs/2604.15727",
+      "title": "Error-free Training for MedMNIST Datasets",
+      "title_zh": "Error-free Training for MedMNIST Datasets",
+      "description": "arXiv:2604.18916v1 Announce Type: new \nAbstract: In this paper, we introduce a new concept called Artificial Special Intelligence by which Machine Learning models for the classification problem can be trained error-free, thus acquiring the capability of not making repeated mistakes. The method is applied to 18 MedMNIST biomedical datasets. Except for three datasets, which suffer from the double-labeling problem, all are trained to perfection.",
+      "link": "https://arxiv.org/abs/2604.18916",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-21"
+      "date": "2026-04-22"
+    },
+    {
+      "title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
+      "title_zh": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
+      "description": "arXiv:2604.18873v1 Announce Type: new \nAbstract: Large language models (LLMs) are highly capable at language generation, but they remain unreliable when reasoning requires explicit symbolic structure, multi-step inference, and interpretable uncertainty. This paper presents a neuro-symbolic framework for translating natural-language reasoning problems into executable formal representations using first-order logic (FOL) and Narsese, the language of the Non-Axiomatic Reasoning System (NARS). To sup",
+      "link": "https://arxiv.org/abs/2604.18873",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-04-22"
     }
   ]
 }
