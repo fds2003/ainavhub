@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-      "link": "https://arxiv.org/abs/2604.19751",
-      "description": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, or transfer ability that the work is supposed to cultivate or certify. This paper proposes AI to Lea",
-      "pubDate": "2026-04-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 40,
-      "title_zh": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -51,6 +41,26 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
+      "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+      "link": "https://arxiv.org/abs/2604.20862",
+      "description": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning system is becoming increasingly necessary. Accordingly, several countries and defense organizations ",
+      "pubDate": "2026-04-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18.5,
+      "title_zh": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations"
+    },
+    {
+      "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+      "link": "https://arxiv.org/abs/2604.20972",
+      "description": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Trap. We formalize evaluation as policy-grounded correctness and introduce the Defensibility Index (DI",
+      "pubDate": "2026-04-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 17.5,
+      "title_zh": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -59,6 +69,16 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
+      "link": "https://arxiv.org/abs/2604.21061",
+      "description": "arXiv:2604.21061v1 Announce Type: new \nAbstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisions, but often relies on annotated data and does not make use of the multimodal nature of IVF data. We investigated whether foundational vision-language models can be fine-tuned to predict natural language descriptions of embryo morphology and development. Using a publicly available embryo time-lapse dataset, we fine-tuned",
+      "pubDate": "2026-04-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -91,79 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
-      "link": "https://arxiv.org/abs/2604.19754",
-      "description": "arXiv:2604.19754v1 Announce Type: new \nAbstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical science assessment based on an NGSS-aligned learning progression. The dataset consists of 1,466 hig",
-      "pubDate": "2026-04-23T04:00:00.000Z",
+      "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
+      "link": "https://arxiv.org/abs/2604.21036",
+      "description": "arXiv:2604.21036v1 Announce Type: new \nAbstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how they depict demographic groups across professions. Prompts such as 'doctor' or 'CEO' frequently yield lighter-skinned outputs, while lower-status roles like 'janitor' show more diversity, reinforcing stereotypes. Existing mitigation methods typically ",
+      "pubDate": "2026-04-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 14,
-      "title_zh": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom"
+      "aiScore": 15,
+      "title_zh": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models"
     },
     {
-      "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
-      "link": "https://arxiv.org/abs/2604.19755",
-      "description": "arXiv:2604.19755v1 Announce Type: new \nAbstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit and governance constraints. While large language models (LLMs) can summarize heterogeneous evidence and draft rationales, unconstrained generation is risky in regulated workflows due to hallucinations, weak provenance, and explanations that are not faithful to the underlying decision. We propose an e",
-      "pubDate": "2026-04-23T04:00:00.000Z",
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "link": "https://arxiv.org/abs/2604.20987",
+      "description": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability. Games are a good testbed for evaluating agent skill usage in environments. Large Language Models (LLMs) offer a promising alternative as game playing agents, but they often stru",
+      "pubDate": "2026-04-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 9,
-      "title_zh": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks"
+      "title_zh": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks"
     },
     {
-      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
-      "link": "https://arxiv.org/abs/2604.19753",
-      "description": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our approach is the observation that pretrained embeddings produce representations that distinguish proble",
-      "pubDate": "2026-04-23T04:00:00.000Z",
+      "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+      "link": "https://arxiv.org/abs/2604.21006",
+      "description": "arXiv:2604.21006v1 Announce Type: new \nAbstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define corresponding qualitative and quantitative evaluation metrics and implement an automated scoring procedure ",
+      "pubDate": "2026-04-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research"
+    },
+    {
+      "title": "The Last Harness You'll Ever Build",
+      "link": "https://arxiv.org/abs/2604.21003",
+      "description": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand nuanced domain knowledge. \\textbf{Each new task domain requires painstaking, expert-driven harness ",
+      "pubDate": "2026-04-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6.5,
+      "title_zh": "The Last Harness You'll Ever Build"
+    },
+    {
+      "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
+      "link": "https://arxiv.org/abs/2604.21027",
+      "description": "arXiv:2604.21027v1 Announce Type: new \nAbstract: Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not explicitly leverage the hierarchical structure of clinical data. Motivated by evidence that medical ontologies and patient trajectories exhibit hyperbolic geometry, we propose HypEHR, a compact Lorentzian model that embeds codes, visits, and questions in hyperbolic space and answers queries via geometry-consistent cross-at",
+      "pubDate": "2026-04-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings"
-    },
-    {
-      "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
-      "link": "https://arxiv.org/abs/2604.19759",
-      "description": "arXiv:2604.19759v1 Announce Type: new \nAbstract: Clinical trials require strict adherence to medication protocols, yet dosing errors remain a persistent challenge affecting patient safety and trial integrity. We present an automated system for detecting dosing errors in unstructured clinical trial narratives using gradient boosting with comprehensive multi-modal feature engineering. Our approach combines 3,451 features spanning traditional NLP (TF-IDF, character n-grams), dense semantic embeddin",
-      "pubDate": "2026-04-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM"
-    },
-    {
-      "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
-      "link": "https://arxiv.org/abs/2604.19760",
-      "description": "arXiv:2604.19760v1 Announce Type: new \nAbstract: We present a simulation-based evaluation of the Inference Headroom Ratio (IHR), a dimensionless diagnostic quantity for characterizing inference stability in constrained decision systems. IHR formalizes the relationship between a system's effective inferential capacity C and the combined uncertainty and constraint load U + K imposed by its operating environment, and is intended to capture proximity to an inference stability boundary rather than ou",
-      "pubDate": "2026-04-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint"
-    },
-    {
-      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-      "link": "https://arxiv.org/abs/2604.19749",
-      "description": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms through two key lenses: (1) First, by analyzing tool-use behavior across different internal knowledg",
-      "pubDate": "2026-04-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?"
-    },
-    {
-      "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
-      "link": "https://arxiv.org/abs/2604.19758",
-      "description": "arXiv:2604.19758v1 Announce Type: new \nAbstract: We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q), component analysis (101 Q), and full cycle analysis (82 Q). Ground truth is computed programmatically from CoolProp 7.2.0, covering water, R-134a, and variable-cp air. Six frontier LLMs are evaluated across three independent runs each. The composite leaderboard is led by Claude Opus 4.6 (94.1%), GPT-5.4 (93.1%), and Gemi",
-      "pubDate": "2026-04-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models"
+      "title_zh": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-04-24T01:22:25.715Z",
+    "generatedAt": "2026-04-24T04:44:46.231Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.3125
+    "averageScore": 16.09375
   }
 }
