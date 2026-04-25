@@ -37,24 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-      "title_zh": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-      "description": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning system is becoming increasingly necessary. Accordingly, several countries and defense organizations ",
-      "link": "https://arxiv.org/abs/2604.20862",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-      "title_zh": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-      "description": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Trap. We formalize evaluation as policy-grounded correctness and introduce the Defensibility Index (DI",
-      "link": "https://arxiv.org/abs/2604.20972",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -62,15 +44,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
-      "title_zh": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
-      "description": "arXiv:2604.21061v1 Announce Type: new \nAbstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisions, but often relies on annotated data and does not make use of the multimodal nature of IVF data. We investigated whether foundational vision-language models can be fine-tuned to predict natural language descriptions of embryo morphology and development. Using a publicly available embryo time-lapse dataset, we fine-tuned",
-      "link": "https://arxiv.org/abs/2604.21061",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -98,51 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
-      "title_zh": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
-      "description": "arXiv:2604.21036v1 Announce Type: new \nAbstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how they depict demographic groups across professions. Prompts such as 'doctor' or 'CEO' frequently yield lighter-skinned outputs, while lower-status roles like 'janitor' show more diversity, reinforcing stereotypes. Existing mitigation methods typically ",
-      "link": "https://arxiv.org/abs/2604.21036",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-      "title_zh": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-      "description": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability. Games are a good testbed for evaluating agent skill usage in environments. Large Language Models (LLMs) offer a promising alternative as game playing agents, but they often stru",
-      "link": "https://arxiv.org/abs/2604.20987",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-      "title_zh": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-      "description": "arXiv:2604.21006v1 Announce Type: new \nAbstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define corresponding qualitative and quantitative evaluation metrics and implement an automated scoring procedure ",
-      "link": "https://arxiv.org/abs/2604.21006",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "The Last Harness You'll Ever Build",
-      "title_zh": "The Last Harness You'll Ever Build",
-      "description": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand nuanced domain knowledge. \\textbf{Each new task domain requires painstaking, expert-driven harness ",
-      "link": "https://arxiv.org/abs/2604.21003",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
-    },
-    {
-      "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
-      "title_zh": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
-      "description": "arXiv:2604.21027v1 Announce Type: new \nAbstract: Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not explicitly leverage the hierarchical structure of clinical data. Motivated by evidence that medical ontologies and patient trajectories exhibit hyperbolic geometry, we propose HypEHR, a compact Lorentzian model that embeds codes, visits, and questions in hyperbolic space and answers queries via geometry-consistent cross-at",
-      "link": "https://arxiv.org/abs/2604.21027",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-04-24"
     }
   ]
 }
