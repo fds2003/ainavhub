@@ -73,76 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
-      "title_zh": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
-      "description": "arXiv:2604.22026v1 Announce Type: new \nAbstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper proposes a two-layer certification framework that separates knowledge quality assessment from grading of",
-      "link": "https://arxiv.org/abs/2604.22026",
+      "title": "A Systematic Approach for Large Language Models Debugging",
+      "title_zh": "A Systematic Approach for Large Language Models Debugging",
+      "description": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and the difficulty of diagnosing errors across diverse tasks and settings. This paper introduces a systematic approach for LLM debugging that treats models as observable systems, pro",
+      "link": "https://arxiv.org/abs/2604.23027",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     },
     {
-      "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
-      "title_zh": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
-      "description": "arXiv:2604.22273v1 Announce Type: new \nAbstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correction as a cybernetic feedback loop in which the same language model serves as both controller and plant, and use a two-state Markov model over {Correct, Incorrect} to operationalize a simple deployment diagnostic: iterate only when ECR/EIR > Acc/(1 - Acc). In this view, EIR functions as a stability m",
-      "link": "https://arxiv.org/abs/2604.22273",
+      "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+      "title_zh": "Don't Make the LLM Read the Graph: Make the Graph Think",
+      "description": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across four LLM families in the cooperative card game Hanabi, we establish four findings. First, integration architecture determines whether belief graphs provide value: as prompt context, graphs are decorative for strong models and beneficial only for weak models on 2nd-order Theory of Mind (80% vs 10%, p<0.",
+      "link": "https://arxiv.org/abs/2604.23057",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     },
     {
-      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
-      "title_zh": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
-      "description": "arXiv:2604.21937v1 Announce Type: new \nAbstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous agent that leads drug molecule evaluation, screening, and optimization. It unifies over 30 special",
-      "link": "https://arxiv.org/abs/2604.21937",
+      "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+      "title_zh": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+      "description": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), yet their reasoning suffers from stochastic instability and lacks a verifiable, compositional structure. To address this, we introduce Analytica, a novel agent architecture built on the principle of Soft Propositional Reasoning (SPR). SPR reframes complex analysis as a structured process of estimating t",
+      "link": "https://arxiv.org/abs/2604.23072",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     },
     {
-      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-      "title_zh": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-      "description": "arXiv:2604.22085v1 Announce Type: new \nAbstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade agentic systems. Existing methodologies largely depend on hybrid semantic graph architectures, which impose substantial computational overhead during both ingestion and retrieval. These systems typically require large language model mediated entity e",
-      "link": "https://arxiv.org/abs/2604.22085",
+      "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
+      "title_zh": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
+      "description": "arXiv:2604.23090v1 Announce Type: new \nAbstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineering. While large language models (LLMs) show promise, it remains unclear which architectural design choices drive generation quality and why current approaches fail. We present a controlled experimental study using domain-specific insurance contracts to investigate these questions. We first establish a single-agent LLM bas",
+      "link": "https://arxiv.org/abs/2604.23090",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     },
     {
-      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
-      "title_zh": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
-      "description": "arXiv:2604.22119v1 Announce Type: new \nAbstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but are not limited to, deception (intentionally misleading users or evaluators), evaluation gaming (strategically manipulating performance during safety testing), and reward hacking (exploiting misspecifi",
-      "link": "https://arxiv.org/abs/2604.22119",
+      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "title_zh": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "description": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report genera",
+      "link": "https://arxiv.org/abs/2604.22777",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     },
     {
-      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
-      "title_zh": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
-      "description": "arXiv:2604.21965v1 Announce Type: new \nAbstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's methods description and original data? We develop an agentic reproduction system that extracts structured methods descriptions from papers, runs reimplementations under strict information isolation -- agents never see the original code, results, or pape",
-      "link": "https://arxiv.org/abs/2604.21965",
+      "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+      "title_zh": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+      "description": "arXiv:2604.23049v1 Announce Type: new \nAbstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements for safe and controlled autonomy. Prior work has established the importance of human oversight for ensuring transparency, accountability, and trustworthiness in such systems. However, existing implementations of Human-in-the-Loop (HITL) mechanisms are typically embedded within application logic, limiting reuse, consistency",
+      "link": "https://arxiv.org/abs/2604.23049",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     },
     {
-      "title": "Sound Agentic Science Requires Adversarial Experiments",
-      "title_zh": "Sound Agentic Science Requires Adversarial Experiments",
-      "description": "arXiv:2604.22080v1 Announce Type: new \nAbstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is often framed as an acceleration of discovery, but it also accelerates a familiar failure mode, the rapid production of plausible, endlessly revisable analyses that are easy to generate, effectively turning hypothesis space into candidate claims supported by selectively chosen analyses, optimized for",
-      "link": "https://arxiv.org/abs/2604.22080",
+      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+      "title_zh": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+      "description": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in parallel and together ensure semantic coverage of the original query. After iterating on test case cov",
+      "link": "https://arxiv.org/abs/2604.22934",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     },
     {
-      "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
-      "title_zh": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
-      "description": "arXiv:2604.22411v1 Announce Type: new \nAbstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Machines Lab highlights implementation-level sources of nondeterminism, including batch-size variation, kernel non-invariance, and floating-point non-associativity. In this short note we formalize this behavior by introducing the notion of \\emph{background temperature} $T_{\\mathrm{bg}}$, the effective ",
-      "link": "https://arxiv.org/abs/2604.22411",
+      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+      "title_zh": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+      "description": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid autoformalisation in scientific domains, we present FormalScience; a domain-agnostic human-in-the-lo",
+      "link": "https://arxiv.org/abs/2604.23002",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-04-27"
+      "date": "2026-04-28"
     }
   ]
 }
