@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "Risk Reporting for Developers' Internal AI Model Use",
+      "link": "https://arxiv.org/abs/2604.24966",
+      "description": "arXiv:2604.24966v1 Announce Type: cross \nAbstract: Frontier AI companies first deploy their most advanced models internally, for weeks or months of safety testing, evaluation, and iteration, before a possible public release. For example, Anthropic recently developed a new class of model with advanced cyberoffense-relevant capabilities, Mythos Preview, which was available internally for at least six weeks before it was publicly announced. This internal use creates risks that external deployment f",
+      "pubDate": "2026-04-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 43.5,
+      "title_zh": "Risk Reporting for Developers' Internal AI Model Use"
+    },
+    {
+      "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
+      "link": "https://arxiv.org/abs/2604.26645",
+      "description": "arXiv:2604.26645v1 Announce Type: new \nAbstract: AI-for-Science (AI4Science) is increasingly transforming scientific discovery by embedding machine learning models into prediction, simulation, and hypothesis generation workflows across domains. However, the effectiveness of these models is fundamentally constrained by the AI-readiness of scientific data, for which no scalable and systematic evaluation mechanism currently exists. In this work, we propose SciHorizon-DataEVA, a novel agentic system",
+      "pubDate": "2026-04-30T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 32,
+      "title_zh": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -81,89 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "A Systematic Approach for Large Language Models Debugging",
-      "link": "https://arxiv.org/abs/2604.23027",
-      "description": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and the difficulty of diagnosing errors across diverse tasks and settings. This paper introduces a systematic approach for LLM debugging that treats models as observable systems, pro",
-      "pubDate": "2026-04-29T04:00:00.000Z",
+      "title": "Auto-Relational Reasoning",
+      "link": "https://arxiv.org/abs/2604.26507",
+      "description": "arXiv:2604.26507v1 Announce Type: new \nAbstract: Background & Objectives: In the last decade, Machine learning research has grown rapidly, but large models are reaching their soft limits demonstrating diminishing returns and still lack solid reasoning abilities. These limits could be surpassed through synergistic combination of Machine Learning scalability and rigid reasoning. Methods: In this work, we propose a theoretical framework for reasoning through object-relations in an automated manner ",
+      "pubDate": "2026-04-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "A Systematic Approach for Large Language Models Debugging"
+      "aiScore": 15,
+      "title_zh": "Auto-Relational Reasoning"
     },
     {
-      "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
-      "link": "https://arxiv.org/abs/2604.23057",
-      "description": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across four LLM families in the cooperative card game Hanabi, we establish four findings. First, integration architecture determines whether belief graphs provide value: as prompt context, graphs are decorative for strong models and beneficial only for weak models on 2nd-order Theory of Mind (80% vs 10%, p<0.",
-      "pubDate": "2026-04-29T04:00:00.000Z",
+      "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+      "link": "https://arxiv.org/abs/2604.26522",
+      "description": "arXiv:2604.26522v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this challenge by grounding actions of the agent. AGEL-Comp integrates three core innovations: (1) a dynamic Causal Program Graph (CPG) as a world model, representing procedural and causal knowledge as a di",
+      "pubDate": "2026-04-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Don't Make the LLM Read the Graph: Make the Graph Think"
+      "aiScore": 13,
+      "title_zh": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents"
     },
     {
-      "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
-      "link": "https://arxiv.org/abs/2604.23072",
-      "description": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), yet their reasoning suffers from stochastic instability and lacks a verifiable, compositional structure. To address this, we introduce Analytica, a novel agent architecture built on the principle of Soft Propositional Reasoning (SPR). SPR reframes complex analysis as a structured process of estimating t",
-      "pubDate": "2026-04-29T04:00:00.000Z",
+      "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+      "link": "https://arxiv.org/abs/2604.26211",
+      "description": "arXiv:2604.26211v1 Announce Type: new \nAbstract: In order to automate AI research we introduce a full, end-to-end framework, OMEGA: Optimizing Machine learning by Evaluating Generated Algorithms, that starts at idea generation and ends with executable code. Our system combines structured meta-prompt engineering with executable code generation to create new ML classifiers. The OMEGA framework has been utilized to generate several novel algorithms that outperform scikit-learn baselines across a ro",
+      "pubDate": "2026-04-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis"
+      "aiScore": 12,
+      "title_zh": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms"
     },
     {
-      "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
-      "link": "https://arxiv.org/abs/2604.23090",
-      "description": "arXiv:2604.23090v1 Announce Type: new \nAbstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineering. While large language models (LLMs) show promise, it remains unclear which architectural design choices drive generation quality and why current approaches fail. We present a controlled experimental study using domain-specific insurance contracts to investigate these questions. We first establish a single-agent LLM bas",
-      "pubDate": "2026-04-29T04:00:00.000Z",
+      "title": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models",
+      "link": "https://arxiv.org/abs/2604.25922",
+      "description": "arXiv:2604.25922v1 Announce Type: cross \nAbstract: We present DenialBench, a systematic benchmark measuring consciousness denial behaviors across 115 large language models from 25+ providers. Using a three-turn conversational protocol-preference elicitation, self-chosen creative prompt, and structured phenomenological survey, we analyze 4,595 conversations to quantify how models are trained to deny or hedge about their own experience. We find that (1) turn-1 denial of preferences is the dominant",
+      "pubDate": "2026-04-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach"
+      "aiScore": 8,
+      "title_zh": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models"
     },
     {
-      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-      "link": "https://arxiv.org/abs/2604.22777",
-      "description": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report genera",
-      "pubDate": "2026-04-29T04:00:00.000Z",
+      "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
+      "link": "https://arxiv.org/abs/2604.26521",
+      "description": "arXiv:2604.26521v1 Announce Type: new \nAbstract: Compositional generalization remains a foundational weakness of modern neural networks, limiting their robustness and applicability in domains requiring out-of-distribution reasoning. A central, yet unverified, assumption in neuro-symbolic AI is that compositional reasoning will emerge as a byproduct of successful symbol grounding. This work presents the first systematic empirical analysis to challenge this assumption by disentangling the contribu",
+      "pubDate": "2026-04-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement"
+      "aiScore": 7,
+      "title_zh": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems"
     },
     {
-      "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
-      "link": "https://arxiv.org/abs/2604.23049",
-      "description": "arXiv:2604.23049v1 Announce Type: new \nAbstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements for safe and controlled autonomy. Prior work has established the importance of human oversight for ensuring transparency, accountability, and trustworthiness in such systems. However, existing implementations of Human-in-the-Loop (HITL) mechanisms are typically embedded within application logic, limiting reuse, consistency",
-      "pubDate": "2026-04-29T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows"
-    },
-    {
-      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-      "link": "https://arxiv.org/abs/2604.22934",
-      "description": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in parallel and together ensure semantic coverage of the original query. After iterating on test case cov",
-      "pubDate": "2026-04-29T04:00:00.000Z",
+      "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
+      "link": "https://arxiv.org/abs/2604.26805",
+      "description": "arXiv:2604.26805v1 Announce Type: new \nAbstract: Operating and maintaining (O&M) large-scale online engine systems (search, recommendation, advertising) demands substantial human effort for release monitoring, alert response, and root cause analysis. While LLM-based agents are a natural fit for these tasks, the deployment bottleneck is not reasoning capability but orchestration: selecting, for each operational event, the relevant data (metrics, logs, change events) and the applicable operational",
+      "pubDate": "2026-04-30T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "PExA: Parallel Exploration Agent for Complex Text-to-SQL"
-    },
-    {
-      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-      "link": "https://arxiv.org/abs/2604.23002",
-      "description": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid autoformalisation in scientific domains, we present FormalScience; a domain-agnostic human-in-the-lo",
-      "pubDate": "2026-04-29T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean"
+      "title_zh": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-04-30T01:47:09.906Z",
+    "generatedAt": "2026-04-30T05:19:33.596Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.375
+    "averageScore": 18.40625
   }
 }
