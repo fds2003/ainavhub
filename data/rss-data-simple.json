@@ -46,6 +46,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+      "title_zh": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+      "description": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in this setting for three fundamental reasons: agents can strategically optimize against evaluation procedures; demonstrated competence does not reliably transfer across heterogeneous task contexts; an",
+      "link": "https://arxiv.org/abs/2605.00073",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Causal Foundations of Collective Agency",
+      "title_zh": "Causal Foundations of Collective Agency",
+      "description": "arXiv:2605.00248v1 Announce Type: new \nAbstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a collective agent with capabilities and goals distinct from those of any individual. More generally, determining when a group of agents can be viewed as a unified collective agent is a foundational question in the study of interactions and incentives in both biological and artificial systems. We adopt a behavioral perspec",
+      "link": "https://arxiv.org/abs/2605.00248",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Agentic AI for Trip Planning Optimization Application",
+      "title_zh": "Agentic AI for Trip Planning Optimization Application",
+      "description": "arXiv:2605.00276v1 Announce Type: new \nAbstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itineraries, as interacting factors such as travel time, energy consumption, and traffic conditions directly affect plan quality. Yet existing systems are largely designed for feasibility-oriented planning, and current benchmarks provide only reference answers without ground truth, preventing objective evaluation of optimizat",
+      "link": "https://arxiv.org/abs/2605.00276",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+      "title_zh": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+      "description": "arXiv:2605.00300v1 Announce Type: new \nAbstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are actually made is the endpoint: the (provider, model, stock-keeping-unit) tuple at which a specific quantization, decoding strategy, region, and serving stack is exposed. We introduce TokenArena, a continuous benchmark that measures inference at endpoint granularity along five core axes (output speed, time to first token, w",
+      "link": "https://arxiv.org/abs/2605.00300",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+      "title_zh": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+      "description": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports, selected WITSML real-time objects, 15,634 production records, formation tops, and perforations into a dual-store architecture: DuckDB for structured queries over 12 tables with 65,447 rows, and Chr",
+      "link": "https://arxiv.org/abs/2605.00060",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+      "title_zh": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+      "description": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool-augmented reasoning does not necessarily outperform native CoT. To explain this performance gap, we propose a Factorized Intervention Framework that isolates the cost of prompt formatting, the overh",
+      "link": "https://arxiv.org/abs/2605.00136",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+      "title_zh": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+      "description": "arXiv:2605.00334v1 Announce Type: new \nAbstract: Production agentic systems make many model calls per user request, and most of those calls are short, structured, and routine. This raises a practical routing question that existing evaluations do not directly answer: which parts of an agent workflow truly require large frontier intelligence, and which can be handled by smaller models? We introduce AgentFloor, a deterministic 30-task benchmark organized as a six-tier capability ladder, spanning in",
+      "link": "https://arxiv.org/abs/2605.00334",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+      "title_zh": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+      "description": "arXiv:2605.00412v1 Announce Type: new \nAbstract: World models have recently re-emerged as a central paradigm for embodied intelligence, robotics, autonomous driving, and model-based reinforcement learning. However, current world model research is often dominated by three partially separated routes: 2D video-generative models that emphasize visual future synthesis, 3D scene-centric models that emphasize spatial reconstruction, and JEPA-like latent models that emphasize abstract predictive represe",
+      "link": "https://arxiv.org/abs/2605.00412",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-05"
     }
   ]
 }
