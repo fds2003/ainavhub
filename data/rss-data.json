@@ -41,6 +41,36 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
+      "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+      "link": "https://arxiv.org/abs/2605.06696",
+      "description": "arXiv:2605.06696v1 Announce Type: new \nAbstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious similarity, as consequential coalitions may form at the level of internal representations before any overt behavioral change is apparent. Here, we introduce a practical method for de",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18,
+      "title_zh": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations"
+    },
+    {
+      "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+      "link": "https://arxiv.org/abs/2605.06702",
+      "description": "arXiv:2605.06702v1 Announce Type: new \nAbstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains constrained by a rigid separation between training and deployment, after which learning effectively ceases. This limitation contrasts with natural intelligence, which continually adapts through interaction with its environment. In this paper, we formalise deployment-time learning (DTL) as the third stage in the LLM lifecycle",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18,
+      "title_zh": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment"
+    },
+    {
+      "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+      "link": "https://arxiv.org/abs/2605.06716",
+      "description": "arXiv:2605.06716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the architectural cornerstone of these systems, current research remains fragmented, oscillating between operating system engineering and cognitive science. This theoretical divide prevents a unified view of technological synthesis and a coherent evolutionary pe",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 17,
+      "title_zh": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -49,6 +79,16 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+      "link": "https://arxiv.org/abs/2605.06772",
+      "description": "arXiv:2605.06772v1 Announce Type: new \nAbstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Structured Critic--Actor Loop for AI Reasoning), an Actor--Critic--Judge pipeline applied to quantum field theory and string theory problems. The Actor proposes solutions, the Critic ",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -79,11 +119,51 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
+      "link": "https://arxiv.org/abs/2605.06815",
+      "description": "arXiv:2605.06815v1 Announce Type: new \nAbstract: The pursuit of artificial general intelligence necessitates robust methods for evaluating the cognitive capabilities of models beyond narrow task performance. Here, we introduce a psychometric framework to assess the cognitive profiles of generative AI, comparing them to human norms and tracking their evolution across generations. Initial evaluation of leading multimodal models using tasks adapted from the Wechsler Adult Intelligence Scale reveale",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 13,
+      "title_zh": "Uneven Evolution of Cognition Across Generations of Generative AI Models"
+    },
+    {
+      "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+      "link": "https://arxiv.org/abs/2605.06671",
+      "description": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Divide-and-Conquer multi-agent framework for scalable graph algorithm reasoning. Specifically, inspir",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning"
+    },
+    {
+      "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
+      "link": "https://arxiv.org/abs/2605.06812",
+      "description": "arXiv:2605.06812v1 Announce Type: new \nAbstract: LLM-based agentic systems are rapidly evolving to perform complex autonomous tasks through dynamic tool invocation, stateful memory management, and multi-agent collaboration. However, this semantics-driven execution paradigm creates a severe semantic gap between low-level physical events and high-level execution intent, making post-hoc security auditing fundamentally difficult. Existing representation mechanisms, including static SBOMs and runtime",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Towards Security-Auditable LLM Agents: A Unified Graph Representation"
+    },
+    {
+      "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+      "link": "https://arxiv.org/abs/2605.06761",
+      "description": "arXiv:2605.06761v1 Announce Type: new \nAbstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Existing data collection attempts remain limited to offline trajectories for supervised fine-tuning or a handful of simulated environments for RL training, thus failing to capture web diversity. We propose Weblica (Web Replica), a framework for constructing reproducible and scalable web environments. Our framework leverages ",
+      "pubDate": "2026-05-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-05-11T01:53:39.857Z",
+    "totalCount": 16,
+    "generatedAt": "2026-05-11T05:47:58.987Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 16.125
   }
 }
