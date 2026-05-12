@@ -11,6 +11,16 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
+      "title": "Alignment as Jurisprudence",
+      "link": "https://arxiv.org/abs/2605.08416",
+      "description": "arXiv:2605.08416v1 Announce Type: new \nAbstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions by powerful actors, in one case judges and in the other increasingly powerful artificial intelligences, will be made in the unknown future. And they use similar tools of the specification and interpr",
+      "pubDate": "2026-05-12T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 24,
+      "title_zh": "Alignment as Jurisprudence"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -31,6 +41,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+      "link": "https://arxiv.org/abs/2605.08388",
+      "description": "arXiv:2605.08388v1 Announce Type: new \nAbstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have morphed into Human-AI team tasks. From writing essays to developing advanced algorithms, humans have found that using AI assistance has led to an accelerated work pace like never before. In classification",
+      "pubDate": "2026-05-12T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -39,36 +59,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
-      "link": "https://arxiv.org/abs/2605.06696",
-      "description": "arXiv:2605.06696v1 Announce Type: new \nAbstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious similarity, as consequential coalitions may form at the level of internal representations before any overt behavioral change is apparent. Here, we introduce a practical method for de",
-      "pubDate": "2026-05-11T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18,
-      "title_zh": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations"
-    },
-    {
-      "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
-      "link": "https://arxiv.org/abs/2605.06702",
-      "description": "arXiv:2605.06702v1 Announce Type: new \nAbstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains constrained by a rigid separation between training and deployment, after which learning effectively ceases. This limitation contrasts with natural intelligence, which continually adapts through interaction with its environment. In this paper, we formalise deployment-time learning (DTL) as the third stage in the LLM lifecycle",
-      "pubDate": "2026-05-11T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18,
-      "title_zh": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment"
-    },
-    {
-      "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
-      "link": "https://arxiv.org/abs/2605.06716",
-      "description": "arXiv:2605.06716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the architectural cornerstone of these systems, current research remains fragmented, oscillating between operating system engineering and cognitive science. This theoretical divide prevents a unified view of technological synthesis and a coherent evolutionary pe",
-      "pubDate": "2026-05-11T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 17,
-      "title_zh": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -81,14 +71,14 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
-      "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
-      "link": "https://arxiv.org/abs/2605.06772",
-      "description": "arXiv:2605.06772v1 Announce Type: new \nAbstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Structured Critic--Actor Loop for AI Reasoning), an Actor--Critic--Judge pipeline applied to quantum field theory and string theory problems. The Actor proposes solutions, the Critic ",
-      "pubDate": "2026-05-11T04:00:00.000Z",
+      "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
+      "link": "https://arxiv.org/abs/2605.08409",
+      "description": "arXiv:2605.08409v1 Announce Type: new \nAbstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does not stem from the AI model, rooted instead in a systemic consequence of the paradigm shift from user-driven knowledge search to users and agents engaged in strategic, repeated-play communication. We formalize the problem as a Crawford-Sobel cheap tal",
+      "pubDate": "2026-05-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 16,
-      "title_zh": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning"
+      "title_zh": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -121,49 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
-      "link": "https://arxiv.org/abs/2605.06815",
-      "description": "arXiv:2605.06815v1 Announce Type: new \nAbstract: The pursuit of artificial general intelligence necessitates robust methods for evaluating the cognitive capabilities of models beyond narrow task performance. Here, we introduce a psychometric framework to assess the cognitive profiles of generative AI, comparing them to human norms and tracking their evolution across generations. Initial evaluation of leading multimodal models using tasks adapted from the Wechsler Adult Intelligence Scale reveale",
-      "pubDate": "2026-05-11T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Uneven Evolution of Cognition Across Generations of Generative AI Models"
-    },
-    {
-      "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-      "link": "https://arxiv.org/abs/2605.06671",
-      "description": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Divide-and-Conquer multi-agent framework for scalable graph algorithm reasoning. Specifically, inspir",
-      "pubDate": "2026-05-11T04:00:00.000Z",
+      "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+      "link": "https://arxiv.org/abs/2605.08386",
+      "description": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: injecting coarse skills can introduce irrelevant or misleading context, while rewriting entire skills is expensive and often unnecessary. We propose SkillLens, a hierarchical skill-evolution framework that",
+      "pubDate": "2026-05-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning"
+      "title_zh": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents"
     },
     {
-      "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
-      "link": "https://arxiv.org/abs/2605.06812",
-      "description": "arXiv:2605.06812v1 Announce Type: new \nAbstract: LLM-based agentic systems are rapidly evolving to perform complex autonomous tasks through dynamic tool invocation, stateful memory management, and multi-agent collaboration. However, this semantics-driven execution paradigm creates a severe semantic gap between low-level physical events and high-level execution intent, making post-hoc security auditing fundamentally difficult. Existing representation mechanisms, including static SBOMs and runtime",
-      "pubDate": "2026-05-11T04:00:00.000Z",
+      "title": "Embeddings for Preferences, Not Semantics",
+      "link": "https://arxiv.org/abs/2605.08360",
+      "description": "arXiv:2605.08360v1 Announce Type: new \nAbstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard text embeddings measure semantic similarity, whereas distances in facility location problems and fai",
+      "pubDate": "2026-05-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Towards Security-Auditable LLM Agents: A Unified Graph Representation"
+      "aiScore": 4,
+      "title_zh": "Embeddings for Preferences, Not Semantics"
     },
     {
-      "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-      "link": "https://arxiv.org/abs/2605.06761",
-      "description": "arXiv:2605.06761v1 Announce Type: new \nAbstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Existing data collection attempts remain limited to offline trajectories for supervised fine-tuning or a handful of simulated environments for RL training, thus failing to capture web diversity. We propose Weblica (Web Replica), a framework for constructing reproducible and scalable web environments. Our framework leverages ",
-      "pubDate": "2026-05-11T04:00:00.000Z",
+      "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+      "link": "https://arxiv.org/abs/2605.08427",
+      "description": "arXiv:2605.08427v1 Announce Type: new \nAbstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges to a Nash equilibrium, the model is guaranteed to respond safely within the settings of the game. Although the parameter sharing enforced by the use of the same model for the two roles improves stabili",
+      "pubDate": "2026-05-12T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play"
+    },
+    {
+      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+      "link": "https://arxiv.org/abs/2605.08220",
+      "description": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level semantic priming) or low-level spatial priming? This paper presents a comparative investigation into t",
+      "pubDate": "2026-05-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents"
+      "title_zh": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction"
+    },
+    {
+      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "link": "https://arxiv.org/abs/2605.08374",
+      "description": "arXiv:2605.08374v1 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories we",
+      "pubDate": "2026-05-12T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-05-12T01:49:21.044Z",
+    "generatedAt": "2026-05-12T05:28:47.931Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.125
+    "averageScore": 15.0625
   }
 }
