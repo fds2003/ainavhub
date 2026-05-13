@@ -14,7 +14,7 @@
       "title": "Alignment as Jurisprudence",
       "link": "https://arxiv.org/abs/2605.08416",
       "description": "arXiv:2605.08416v1 Announce Type: new \nAbstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions by powerful actors, in one case judges and in the other increasingly powerful artificial intelligences, will be made in the unknown future. And they use similar tools of the specification and interpr",
-      "pubDate": "2026-05-12T04:00:00.000Z",
+      "pubDate": "2026-05-13T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 24,
@@ -44,7 +44,7 @@
       "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
       "link": "https://arxiv.org/abs/2605.08388",
       "description": "arXiv:2605.08388v1 Announce Type: new \nAbstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have morphed into Human-AI team tasks. From writing essays to developing advanced algorithms, humans have found that using AI assistance has led to an accelerated work pace like never before. In classification",
-      "pubDate": "2026-05-12T04:00:00.000Z",
+      "pubDate": "2026-05-13T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 20,
@@ -74,7 +74,7 @@
       "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
       "link": "https://arxiv.org/abs/2605.08409",
       "description": "arXiv:2605.08409v1 Announce Type: new \nAbstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does not stem from the AI model, rooted instead in a systemic consequence of the paradigm shift from user-driven knowledge search to users and agents engaged in strategic, repeated-play communication. We formalize the problem as a Crawford-Sobel cheap tal",
-      "pubDate": "2026-05-12T04:00:00.000Z",
+      "pubDate": "2026-05-13T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 16,
@@ -111,10 +111,20 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
+      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "link": "https://arxiv.org/abs/2605.08374",
+      "description": "arXiv:2605.08374v2 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories we",
+      "pubDate": "2026-05-13T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 7,
+      "title_zh": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs"
+    },
+    {
       "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
       "link": "https://arxiv.org/abs/2605.08386",
       "description": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: injecting coarse skills can introduce irrelevant or misleading context, while rewriting entire skills is expensive and often unnecessary. We propose SkillLens, a hierarchical skill-evolution framework that",
-      "pubDate": "2026-05-12T04:00:00.000Z",
+      "pubDate": "2026-05-13T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
@@ -124,7 +134,7 @@
       "title": "Embeddings for Preferences, Not Semantics",
       "link": "https://arxiv.org/abs/2605.08360",
       "description": "arXiv:2605.08360v1 Announce Type: new \nAbstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard text embeddings measure semantic similarity, whereas distances in facility location problems and fai",
-      "pubDate": "2026-05-12T04:00:00.000Z",
+      "pubDate": "2026-05-13T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
@@ -134,7 +144,7 @@
       "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
       "link": "https://arxiv.org/abs/2605.08427",
       "description": "arXiv:2605.08427v1 Announce Type: new \nAbstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges to a Nash equilibrium, the model is guaranteed to respond safely within the settings of the game. Although the parameter sharing enforced by the use of the same model for the two roles improves stabili",
-      "pubDate": "2026-05-12T04:00:00.000Z",
+      "pubDate": "2026-05-13T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
@@ -144,26 +154,16 @@
       "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
       "link": "https://arxiv.org/abs/2605.08220",
       "description": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level semantic priming) or low-level spatial priming? This paper presents a comparative investigation into t",
-      "pubDate": "2026-05-12T04:00:00.000Z",
+      "pubDate": "2026-05-13T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
       "title_zh": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction"
-    },
-    {
-      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "link": "https://arxiv.org/abs/2605.08374",
-      "description": "arXiv:2605.08374v1 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories we",
-      "pubDate": "2026-05-12T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-05-13T01:54:02.541Z",
+    "generatedAt": "2026-05-13T05:38:52.926Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.0625
+    "averageScore": 15.3125
   }
 }

@@ -16,7 +16,7 @@
       "link": "https://arxiv.org/abs/2605.08416",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -43,7 +43,7 @@
       "link": "https://arxiv.org/abs/2605.08388",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -70,7 +70,7 @@
       "link": "https://arxiv.org/abs/2605.08409",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -100,13 +100,22 @@
       "date": "2021-10-21"
     },
     {
+      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "title_zh": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "description": "arXiv:2605.08374v2 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories we",
+      "link": "https://arxiv.org/abs/2605.08374",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-13"
+    },
+    {
       "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
       "title_zh": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
       "description": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: injecting coarse skills can introduce irrelevant or misleading context, while rewriting entire skills is expensive and often unnecessary. We propose SkillLens, a hierarchical skill-evolution framework that",
       "link": "https://arxiv.org/abs/2605.08386",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     },
     {
       "title": "Embeddings for Preferences, Not Semantics",
@@ -115,7 +124,7 @@
       "link": "https://arxiv.org/abs/2605.08360",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     },
     {
       "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
@@ -124,7 +133,7 @@
       "link": "https://arxiv.org/abs/2605.08427",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     },
     {
       "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
@@ -133,16 +142,7 @@
       "link": "https://arxiv.org/abs/2605.08220",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-12"
-    },
-    {
-      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "title_zh": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "description": "arXiv:2605.08374v1 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories we",
-      "link": "https://arxiv.org/abs/2605.08374",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     }
   ]
 }
