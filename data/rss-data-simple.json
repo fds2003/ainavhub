@@ -10,15 +10,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "Alignment as Jurisprudence",
-      "title_zh": "Alignment as Jurisprudence",
-      "description": "arXiv:2605.08416v1 Announce Type: new \nAbstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions by powerful actors, in one case judges and in the other increasingly powerful artificial intelligences, will be made in the unknown future. And they use similar tools of the specification and interpr",
-      "link": "https://arxiv.org/abs/2605.08416",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-05-13"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -37,15 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-      "title_zh": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-      "description": "arXiv:2605.08388v1 Announce Type: new \nAbstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have morphed into Human-AI team tasks. From writing essays to developing advanced algorithms, humans have found that using AI assistance has led to an accelerated work pace like never before. In classification",
-      "link": "https://arxiv.org/abs/2605.08388",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-05-13"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -62,15 +44,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
-      "title_zh": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
-      "description": "arXiv:2605.08409v1 Announce Type: new \nAbstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does not stem from the AI model, rooted instead in a systemic consequence of the paradigm shift from user-driven knowledge search to users and agents engaged in strategic, repeated-play communication. We formalize the problem as a Crawford-Sobel cheap tal",
-      "link": "https://arxiv.org/abs/2605.08409",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-05-13"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -100,49 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "title_zh": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "description": "arXiv:2605.08374v2 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories we",
-      "link": "https://arxiv.org/abs/2605.08374",
+      "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
+      "title_zh": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
+      "description": "arXiv:2605.12894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information. However, collecting real interaction data at scale remains expensive. The field has turned to LLM-based user simulators as stand-ins, but these simulators inherit the behavior of their underlying models: cooperative and homogeneous. As a result, age",
+      "link": "https://arxiv.org/abs/2605.12894",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-13"
+      "date": "2026-05-14"
     },
     {
-      "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-      "title_zh": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-      "description": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: injecting coarse skills can introduce irrelevant or misleading context, while rewriting entire skills is expensive and often unnecessary. We propose SkillLens, a hierarchical skill-evolution framework that",
-      "link": "https://arxiv.org/abs/2605.08386",
+      "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
+      "title_zh": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
+      "description": "arXiv:2605.12838v1 Announce Type: new \nAbstract: Tracking an interpretable emotional arc of a conversation via the sentiment of individual utterances processed as a whole is central to both understanding and guiding communication in applied, especially clinical, conversational contexts. Existing approaches to emotion recognition operate at the utterance level, obscuring the persistent phases that characterize real conversational dynamics. We propose a lightweight framework that models conversati",
+      "link": "https://arxiv.org/abs/2605.12838",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-13"
+      "date": "2026-05-14"
     },
     {
-      "title": "Embeddings for Preferences, Not Semantics",
-      "title_zh": "Embeddings for Preferences, Not Semantics",
-      "description": "arXiv:2605.08360v1 Announce Type: new \nAbstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard text embeddings measure semantic similarity, whereas distances in facility location problems and fai",
-      "link": "https://arxiv.org/abs/2605.08360",
+      "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+      "title_zh": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+      "description": "arXiv:2605.12673v1 Announce Type: new \nAbstract: Agent benchmarks have become the de facto measure of frontier AI competence, guiding model selection, investment, and deployment. However, reward hacking, where agents maximize a score without performing the intended task, emerges spontaneously in frontier models without overfitting. We argue that benchmarks must be secure by design. From past incidents of reward hacks, we derive a taxonomy of eight recurring flaw patterns and compile them into th",
+      "link": "https://arxiv.org/abs/2605.12673",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-13"
+      "date": "2026-05-14"
     },
     {
-      "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
-      "title_zh": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
-      "description": "arXiv:2605.08427v1 Announce Type: new \nAbstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges to a Nash equilibrium, the model is guaranteed to respond safely within the settings of the game. Although the parameter sharing enforced by the use of the same model for the two roles improves stabili",
-      "link": "https://arxiv.org/abs/2605.08427",
+      "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+      "title_zh": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+      "description": "arXiv:2605.12730v1 Announce Type: new \nAbstract: Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a result, they systematically fail to capture the collective dynamics that determine whether a group remains stable or transitions into escalation or breakdown. We propose a different foundation: a group of interacting humans constitutes a complex dynamical system in the precise mathematical sense, exhibiting emergence, nonline",
+      "link": "https://arxiv.org/abs/2605.12730",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-13"
+      "date": "2026-05-14"
     },
     {
-      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-      "title_zh": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-      "description": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key research question: what is the most effective strategy to improve model performance (high-level semantic priming) or low-level spatial priming? This paper presents a comparative investigation into t",
-      "link": "https://arxiv.org/abs/2605.08220",
+      "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+      "title_zh": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+      "description": "arXiv:2605.12620v1 Announce Type: new \nAbstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-language knowledge and chain-of-thought (CoT) reasoning, yet remain brittle when faced with challenging out-of-distribution scenarios. To address this, we propose Verifier-Guided Action Selection (Ve",
+      "link": "https://arxiv.org/abs/2605.12620",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-13"
+      "date": "2026-05-14"
+    },
+    {
+      "title": "CHAL: Council of Hierarchical Agentic Language",
+      "title_zh": "CHAL: Council of Hierarchical Agentic Language",
+      "description": "arXiv:2605.12718v1 Announce Type: new \nAbstract: Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodologies face certain structural limitations: debate tends to induce a martingale over belief trajectories, majority voting accounts for most observed gains, and LLMs exhibit confidence escalation rather than calibration across rounds. We argue that the genuine value of debate, and dialectic systems as a whole, lies not in gro",
+      "link": "https://arxiv.org/abs/2605.12718",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Revealing Interpretable Failure Modes of VLMs",
+      "title_zh": "Revealing Interpretable Failure Modes of VLMs",
+      "description": "arXiv:2605.12674v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) are increasingly used in safety-critical applications because of their broad reasoning capabilities and ability to generalize with minimal task-specific engineering. Despite these advantages, they can exhibit catastrophic failures in specific real-world situations, constituting failure modes.\n  We introduce REVELIO, a framework for systematically uncovering interpretable failure modes in VLMs. We define a failure mode",
+      "link": "https://arxiv.org/abs/2605.12674",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+      "title_zh": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
+      "description": "arXiv:2605.12682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as reasoning modules in many applications. While they are efficient in certain tasks, LLMs often struggle to produce human-aligned solutions. Human-aligned decision making requires accounting for both explicitly stated goals and latent user preferences that shape how ambiguous situations should be resolved. Existing approaches to incorporating such preferences either rely on extensive and repeated",
+      "link": "https://arxiv.org/abs/2605.12682",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-05-14"
     }
   ]
 }
