@@ -41,14 +41,14 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-      "link": "https://arxiv.org/abs/2605.18801",
-      "description": "arXiv:2605.18801v1 Announce Type: new \nAbstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question. Current approaches rely heavily on extensive experimentation with large public datasets to obtain empirical heuristics for data filtering and dataset construction. These approaches are compute intens",
-      "pubDate": "2026-05-21T04:00:00.000Z",
+      "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+      "link": "https://arxiv.org/abs/2605.20520",
+      "description": "arXiv:2605.20520v1 Announce Type: new \nAbstract: Benchmark-based evaluation remains important for tracking frontier AI progress. But it can both overstate and understate deployed capability because it privileges tasks that can be precisely specified, automatically graded, easy to optimize for, and run with low budgets and short time horizons. We advocate for a complementary class of evaluations, which we term open-world evaluations: long-horizon, messy, real-world tasks assessed through small-sa",
+      "pubDate": "2026-05-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 18,
-      "title_zh": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance"
+      "aiScore": 18.5,
+      "title_zh": "Open-World Evaluations for Measuring Frontier AI Capabilities"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -59,6 +59,16 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
+      "link": "https://arxiv.org/abs/2605.20554",
+      "description": "arXiv:2605.20554v1 Announce Type: new \nAbstract: According to canonical negotiation theory, people's success in a negotiation depends on how well they balance competing demands--empathizing and asserting, demonstrating concern for other and concern for self, being soft on the people and hard on the problem. Yet people struggle to manage these tensions, so researchers have lacked the ability to rigorously test the field's prescriptions under controlled conditions. AI agents do not face the same l",
+      "pubDate": "2026-05-22T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -91,79 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-      "link": "https://arxiv.org/abs/2605.18937",
-      "description": "arXiv:2605.18937v1 Announce Type: new \nAbstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data from PHRs as context. A total of 2,257 user queries were drawn from 3 different distributions to r",
-      "pubDate": "2026-05-21T04:00:00.000Z",
+      "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
+      "link": "https://arxiv.org/abs/2605.20577",
+      "description": "arXiv:2605.20577v1 Announce Type: new \nAbstract: Riichi Mahjong is a multi-player, imperfect-information game characterized by stochasticity and high-dimensional state spaces. These attributes present a unique combination of challenges that mirror complex real-world decision-making problems in reinforcement learning. While prior research has heavily relied on supervised learning from human play logs to pre-train the policy, algorithms capable of learning \\textit{tabula rasa} (from scratch) offer",
+      "pubDate": "2026-05-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "Evaluating the Utility of Personal Health Records in Personalized Health AI"
+      "aiScore": 8,
+      "title_zh": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX"
     },
     {
-      "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
-      "link": "https://arxiv.org/abs/2605.19093",
-      "description": "arXiv:2605.19093v1 Announce Type: new \nAbstract: System prompts are a central control mechanism in modern AI systems, shaping behavior across conversations, tasks, and user populations. Yet they are difficult to tune when feedback is available only as aggregate metrics rather than per-example labels, failures, or critiques. We study this aggregate feedback setting as sample-constrained black-box optimization over discrete, variable-length text. We introduce ReElicit, a Bayesian optimization fram",
-      "pubDate": "2026-05-21T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts"
-    },
-    {
-      "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-      "link": "https://arxiv.org/abs/2605.18818",
-      "description": "arXiv:2605.18818v1 Announce Type: new \nAbstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large language model structured field extraction as well as our experience running this pipeline on thousand",
-      "pubDate": "2026-05-21T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production"
-    },
-    {
-      "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
-      "link": "https://arxiv.org/abs/2605.19127",
-      "description": "arXiv:2605.19127v1 Announce Type: new \nAbstract: LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems. The user defines what may and must not be shared, and the agent must robustly follow that intent even when third-party systems behave adversarially. We introduce POLAR-Bench (Policy-aware adversarial Benchmark), in which a trusted model with a privacy policy and a task converses with a third-party model that adversariall",
-      "pubDate": "2026-05-21T04:00:00.000Z",
+      "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+      "link": "https://arxiv.org/abs/2605.20630",
+      "description": "arXiv:2605.20630v1 Announce Type: new \nAbstract: Industrial asset operations workflows are latency-sensitive because a single user query may require coordination over sensor data, work orders, failure modes, forecasting tools, and domain-specific agents. We evaluate this problem on AssetOpsBench (AOB), an industrial agent benchmark whose plan-execute pipeline exposes repeated overhead from tool discovery, LLM planning, MCP tool execution, and final summarization. Existing LLM caching techniques ",
+      "pubDate": "2026-05-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents"
+      "title_zh": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines"
     },
     {
-      "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-      "link": "https://arxiv.org/abs/2605.19008",
-      "description": "arXiv:2605.19008v1 Announce Type: new \nAbstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LBW-Guard), a bounded autonomous training-control governance layer that operates above AdamW. Rather than replacing the optimizer update rule, LBW-Guard observes training telemetry, interprets instability-sensitive regime",
-      "pubDate": "2026-05-21T04:00:00.000Z",
+      "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
+      "link": "https://arxiv.org/abs/2605.20190",
+      "description": "arXiv:2605.20190v1 Announce Type: new \nAbstract: Iterative industrial design-simulation optimization is bottlenecked by the CAD-CAE semantic gap: translating simulation feedback into valid geometric edits under diverse, coupled constraints. To fill this gap, we propose COSMO-Agent (Closed-loop Optimization, Simulation, and Modeling Orchestration), a tool-augmented reinforcement learning (RL) framework that teaches LLMs to complete the closed-loop CAD-CAE process. Specifically, we cast CAD genera",
+      "pubDate": "2026-05-22T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration"
+    },
+    {
+      "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+      "link": "https://arxiv.org/abs/2605.20423",
+      "description": "arXiv:2605.20423v1 Announce Type: new \nAbstract: Large Language Models (LLMs) perform well on many language tasks, but their Theory of Mind (ToM) reasoning is still uneven in complex social settings. Existing benchmarks, including ExploreToM, do not always test the recursive beliefs and information asymmetries that make these settings difficult. This paper presents OSCToM (Observer-Self Conflict Theory of Mind), an approach for modeling nested belief conflicts in LLM-based ToM tasks. The key cas",
+      "pubDate": "2026-05-22T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind"
+    },
+    {
+      "title": "High Quality Embeddings for Horn Logic Reasoning",
+      "link": "https://arxiv.org/abs/2605.20467",
+      "description": "arXiv:2605.20467v1 Announce Type: new \nAbstract: Neural networks can be trained to rank the choices made by logical reasoners, resulting in more efficient searches for answers. A key step in this process is creating useful embeddings, i.e., numeric representations of logical statements. This paper introduces and evaluates several approaches to creating embeddings that result in better downstream results. We train embeddings using triplet loss, which requires examples consisting of an anchor, a p",
+      "pubDate": "2026-05-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency"
+      "title_zh": "High Quality Embeddings for Horn Logic Reasoning"
     },
     {
-      "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
-      "link": "https://arxiv.org/abs/2605.19035",
-      "description": "arXiv:2605.19035v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Agent-to-Agent (A2A) network, a paradigm where heterogeneous agents autonomously coordinate to solve multi-step tasks. While these networks may offer better task performance compared to simply using one",
-      "pubDate": "2026-05-21T04:00:00.000Z",
+      "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
+      "link": "https://arxiv.org/abs/2605.20530",
+      "description": "arXiv:2605.20530v1 Announce Type: new \nAbstract: Large language model agents now act on codebases, browsers, operating systems, calendars, files, and tool ecosystems, but the benchmarks used to evaluate them are fragmented: each emphasizes a different unit of measurement (final task success, tool-call validity, repeated-pass consistency, trajectory safety, or attack robustness). A line of 2024-2025 work has converged on the diagnosis that a single accuracy column is no longer the right unit of c",
+      "pubDate": "2026-05-22T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On"
-    },
-    {
-      "title": "Interference-Aware Multi-Task Unlearning",
-      "link": "https://arxiv.org/abs/2605.19042",
-      "description": "arXiv:2605.19042v1 Announce Type: new \nAbstract: Machine unlearning aims to remove the contribution of designated training data from a trained model while preserving performance on the remaining data. Existing work mainly focuses on single-task settings, whereas modern models often operate in multi-task setups with shared backbones, where removing supervision for one task or instance can unintentionally affect others. We introduce multi-task unlearning with two settings: full-task unlearning, wh",
-      "pubDate": "2026-05-21T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Interference-Aware Multi-Task Unlearning"
+      "title_zh": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-05-22T03:00:23.617Z",
+    "generatedAt": "2026-05-22T05:16:16.043Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.8125
+    "averageScore": 14.09375
   }
 }
