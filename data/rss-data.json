@@ -1,89 +1,89 @@
 {
   "articles": [
     {
-      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:19:58.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 28,
-      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+      "link": "https://arxiv.org/abs/2605.22883",
+      "description": "arXiv:2605.22883v1 Announce Type: new \nAbstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool calls, retries, and failure-recovery cycles - the invocation count is an implementation artifact rather than a task property, and inference-level normalization misrepresents the energ",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 19,
+      "title_zh": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems"
     },
     {
-      "title": "Best Practices for Building the AI Development Platform in Government",
-      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:20:17.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 24,
-      "title_zh": "Best Practices for Building the AI Development Platform in Government"
-    },
-    {
-      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
-      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
-      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
-      "pubDate": "2021-10-21T20:34:39.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 24,
-      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
-    },
-    {
-      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
-      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
-      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
-      "pubDate": "2021-10-21T21:02:24.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 20,
-      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
-      "pubDate": "2021-10-28T21:49:47.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 17,
-      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:18:48.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
+      "title": "Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems",
+      "link": "https://arxiv.org/abs/2605.23179",
+      "description": "arXiv:2605.23179v1 Announce Type: new \nAbstract: Agentic AI orchestrators reduce the interface and assembly costs of composing information systems capabilities across organizational boundaries, seemingly accelerating modularization and organizational disaggregation. Yet AI-enabled capabilities whose outputs require evidence, review, signoff, or assignable responsibility may retain integrated accountability boundaries even when their technical interfaces become modular. We develop a capability-le",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
       "aiScore": 16,
-      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias"
+      "title_zh": "Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems"
     },
     {
-      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
-      "pubDate": "2021-10-28T22:10:19.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 16,
-      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case"
+      "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+      "link": "https://arxiv.org/abs/2605.23024",
+      "description": "arXiv:2605.23024v1 Announce Type: new \nAbstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from curiosities into design rules. Its flagship result proves an accuracy ceiling set by architecture alone: past a critical reasoning depth, no amount of training moves it, at any adapter rank, sample si",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 14,
+      "title_zh": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems"
     },
     {
-      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
-      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
-      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
-      "pubDate": "2021-10-21T20:52:34.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 16,
-      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+      "title": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems",
+      "link": "https://arxiv.org/abs/2605.23109",
+      "description": "arXiv:2605.23109v1 Announce Type: new \nAbstract: AI agents increasingly excel at generating, testing, and refining code. However, they fall short on tasks requiring formal guarantees of full coverage that testing alone cannot provide. Distributed systems are a prime example: properties such as consistency between reads and writes must hold under every possible interleaving of events. Mechanized formal verification can guarantee such correctness, but typically demands months to years of expert ef",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 14,
+      "title_zh": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems"
+    },
+    {
+      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "link": "https://arxiv.org/abs/2605.22878",
+      "description": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic retrieval, which lack the topological reasoning capabilities required to navigate complex logical conn",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 10,
+      "title_zh": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research"
+    },
+    {
+      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+      "link": "https://arxiv.org/abs/2605.22866",
+      "description": "arXiv:2605.22866v1 Announce Type: new \nAbstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the system on arbitrary component subsets. That requirement fails for third-party APIs, opaque endpoints, and agentic orchestrators that concentrate routing on a few tools, leaving most coalitions un-eva",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems"
+    },
+    {
+      "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+      "link": "https://arxiv.org/abs/2605.22874",
+      "description": "arXiv:2605.22874v1 Announce Type: new \nAbstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for reliability; neural methods achieve fluency but provide no correctness guarantees. We present NeuroNL2LTL, a neurosymbolic architecture unifying learned translation with formal verification. NeuroNL2L",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4.5,
+      "title_zh": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic"
+    },
+    {
+      "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+      "link": "https://arxiv.org/abs/2605.22875",
+      "description": "arXiv:2605.22875v1 Announce Type: new \nAbstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or formal theorem proving, RMA targets research-level mathematical problems that require long-horizon reasoning, literature grounding, and iterative proof refinement. RMA decomposes research-level proof solving into specialized modules for problem analysis, ",
+      "pubDate": "2026-05-25T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "RMA: an Agentic System for Research-Level Mathematical Problems"
     }
   ],
   "metadata": {
     "totalCount": 8,
-    "generatedAt": "2026-05-25T03:00:43.033Z",
+    "generatedAt": "2026-05-25T05:27:29.229Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
-    "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "researchArticles": 8,
+    "industryArticles": 0,
+    "academicArticles": 8,
+    "averageScore": 11.0625
   }
 }
