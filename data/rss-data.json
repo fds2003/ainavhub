@@ -31,6 +31,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Right-Sizing Communication and Recommendation Set Size in AI-Assisted Search",
+      "link": "https://arxiv.org/abs/2605.23944",
+      "description": "arXiv:2605.23944v1 Announce Type: new \nAbstract: We model the interaction between a user and an AI driven recommendation system. The user initiates the process by conveying preference information through a costly and noisy message. The AI assistant, acting as a Bayesian agent, interprets the user's message to form a posterior belief about their true preferences and make product recommendations. In particular, it determines how many recommendations to present so as to maximize the user's expected",
+      "pubDate": "2026-05-26T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "Right-Sizing Communication and Recommendation Set Size in AI-Assisted Search"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -41,14 +51,14 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-      "link": "https://arxiv.org/abs/2605.22883",
-      "description": "arXiv:2605.22883v1 Announce Type: new \nAbstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool calls, retries, and failure-recovery cycles - the invocation count is an implementation artifact rather than a task property, and inference-level normalization misrepresents the energ",
-      "pubDate": "2026-05-25T04:00:00.000Z",
+      "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+      "link": "https://arxiv.org/abs/2605.23929",
+      "description": "arXiv:2605.23929v1 Announce Type: new \nAbstract: Modern AI systems increasingly rely on workflows composed of multiple interacting agents, some powered by large language models (LLMs) and others by conventional computational modules. This paper analyzes the fundamental tradeoffs between latency, reliability, and cost in LLM-enabled agentic workflows. We introduce performance models for both LLM and non-LLM agents that capture the relationship between computational effort and output quality, inco",
+      "pubDate": "2026-05-26T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 19,
-      "title_zh": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems"
+      "title_zh": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -59,16 +69,6 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems",
-      "link": "https://arxiv.org/abs/2605.23179",
-      "description": "arXiv:2605.23179v1 Announce Type: new \nAbstract: Agentic AI orchestrators reduce the interface and assembly costs of composing information systems capabilities across organizational boundaries, seemingly accelerating modularization and organizational disaggregation. Yet AI-enabled capabilities whose outputs require evidence, review, signoff, or assignable responsibility may retain integrated accountability boundaries even when their technical interfaces become modular. We develop a capability-le",
-      "pubDate": "2026-05-25T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -101,69 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
-      "link": "https://arxiv.org/abs/2605.23024",
-      "description": "arXiv:2605.23024v1 Announce Type: new \nAbstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from curiosities into design rules. Its flagship result proves an accuracy ceiling set by architecture alone: past a critical reasoning depth, no amount of training moves it, at any adapter rank, sample si",
-      "pubDate": "2026-05-25T04:00:00.000Z",
+      "title": "MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics",
+      "link": "https://arxiv.org/abs/2605.23941",
+      "description": "arXiv:2605.23941v1 Announce Type: new \nAbstract: Alzheimer's disease is a neurodegenerative disorder marked by progressive declines in memory and language that reduce independence in daily life, motivating socially assistive robotic support. This paper presents MEMOR-E, a mobile quadruped robot with an interactive tablet interface that assists patients and caregivers through medication reminders, routine guidance, memory oriented interactions, and companionship. We evaluated the feasibility of f",
+      "pubDate": "2026-05-26T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 14,
-      "title_zh": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems"
+      "aiScore": 12.5,
+      "title_zh": "MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics"
     },
     {
-      "title": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems",
-      "link": "https://arxiv.org/abs/2605.23109",
-      "description": "arXiv:2605.23109v1 Announce Type: new \nAbstract: AI agents increasingly excel at generating, testing, and refining code. However, they fall short on tasks requiring formal guarantees of full coverage that testing alone cannot provide. Distributed systems are a prime example: properties such as consistency between reads and writes must hold under every possible interleaving of events. Mechanized formal verification can guarantee such correctness, but typically demands months to years of expert ef",
-      "pubDate": "2026-05-25T04:00:00.000Z",
+      "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+      "link": "https://arxiv.org/abs/2605.23908",
+      "description": "arXiv:2605.23908v1 Announce Type: new \nAbstract: We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamental property of these processes in their human form has been their open-endedness: their capacity for generating a seemingly endless supply of novel and meaningful new forms. Do artificial agents have any capacity for such fruitful unguided discovery?",
+      "pubDate": "2026-05-26T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 14,
-      "title_zh": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems"
+      "aiScore": 7,
+      "title_zh": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models"
     },
     {
-      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
-      "link": "https://arxiv.org/abs/2605.22878",
-      "description": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic retrieval, which lack the topological reasoning capabilities required to navigate complex logical conn",
-      "pubDate": "2026-05-25T04:00:00.000Z",
+      "title": "Authority Inversion in LLM-Mediated Ubiquitous Systems: When Models Trust Users Over Sensors",
+      "link": "https://arxiv.org/abs/2605.23938",
+      "description": "arXiv:2605.23938v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly fuse heterogeneous inputs in ubiquitous systems. Yet, how LLMs implicitly allocate authority when sensor measurements and user claims conflict remains unexamined, raising critical reliability concerns for deployments where physical sensing must retain priority. Unlike explicit traditional fusion, LLMs bury authority allocation within learned representations. We discover this allocation is severely format-d",
+      "pubDate": "2026-05-26T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research"
+      "aiScore": 6,
+      "title_zh": "Authority Inversion in LLM-Mediated Ubiquitous Systems: When Models Trust Users Over Sensors"
     },
     {
-      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-      "link": "https://arxiv.org/abs/2605.22866",
-      "description": "arXiv:2605.22866v1 Announce Type: new \nAbstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the system on arbitrary component subsets. That requirement fails for third-party APIs, opaque endpoints, and agentic orchestrators that concentrate routing on a few tools, leaving most coalitions un-eva",
-      "pubDate": "2026-05-25T04:00:00.000Z",
+      "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
+      "link": "https://arxiv.org/abs/2605.23926",
+      "description": "arXiv:2605.23926v1 Announce Type: new \nAbstract: Reasoning-capable large language models solve hard problems by emitting long chains of thought, paying heavily in latency, GPU time, and energy. Casual inspection of their traces reveals extensive reformulation, verification, and circular self-reflection, yet how much of this deliberation is actually necessary has never been measured at scale or explained from first principles. This paper closes both gaps.\n  We formalise reasoning redundancy direc",
+      "pubDate": "2026-05-26T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems"
+      "aiScore": 5,
+      "title_zh": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning"
     },
     {
-      "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
-      "link": "https://arxiv.org/abs/2605.22874",
-      "description": "arXiv:2605.22874v1 Announce Type: new \nAbstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for reliability; neural methods achieve fluency but provide no correctness guarantees. We present NeuroNL2LTL, a neurosymbolic architecture unifying learned translation with formal verification. NeuroNL2L",
-      "pubDate": "2026-05-25T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4.5,
-      "title_zh": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic"
-    },
-    {
-      "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
-      "link": "https://arxiv.org/abs/2605.22875",
-      "description": "arXiv:2605.22875v1 Announce Type: new \nAbstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or formal theorem proving, RMA targets research-level mathematical problems that require long-horizon reasoning, literature grounding, and iterative proof refinement. RMA decomposes research-level proof solving into specialized modules for problem analysis, ",
-      "pubDate": "2026-05-25T04:00:00.000Z",
+      "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
+      "link": "https://arxiv.org/abs/2605.23934",
+      "description": "arXiv:2605.23934v1 Announce Type: new \nAbstract: Quantum computing devices are recognized as powerful tools for solving NP-complete problems. However, the intricacy of their modeling presents notable barriers for non-specialists, while the tedious iteration of constraint weights and modeling methodologies also consumes substantial effort on the part of experts. To address these challenges, this study integrates a femtosecond laser-pumped Coherent Ising Machine (CIM) with an LLM-driven agentic sy",
+      "pubDate": "2026-05-26T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "RMA: an Agentic System for Research-Level Mathematical Problems"
+      "title_zh": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model"
+    },
+    {
+      "title": "Fuzzy, Neutrosophic, and Uncertain Graph Theory: Properties and Applications",
+      "link": "https://arxiv.org/abs/2605.23936",
+      "description": "arXiv:2605.23936v1 Announce Type: new \nAbstract: This book presents a comprehensive and systematic survey of graph theory under uncertainty, with particular emphasis on the unifying role of the uncertain graph framework. It reviews fundamental concepts, structural properties, graph classes, and graph parameters within fuzzy, neutrosophic, and related models, while also introducing a wide range of extensions such as uncertain digraphs, hypergraphs, superhypergraphs, and dynamic graphs. In additio",
+      "pubDate": "2026-05-26T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Fuzzy, Neutrosophic, and Uncertain Graph Theory: Properties and Applications"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-05-26T03:00:04.074Z",
+    "generatedAt": "2026-05-26T04:32:10.260Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.59375
+    "averageScore": 14.78125
   }
 }
