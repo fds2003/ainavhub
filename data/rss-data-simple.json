@@ -73,76 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Experiments in Agentic AI for Science",
-      "title_zh": "Experiments in Agentic AI for Science",
-      "description": "arXiv:2605.26305v1 Announce Type: new \nAbstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cloud backends. The first agent, DeepTS/DeepCollector, automates the large-scale curation, extraction, and deduplication of time-series datasets. The second, DeepScribe, is an auton",
-      "link": "https://arxiv.org/abs/2605.26305",
+      "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+      "title_zh": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+      "description": "arXiv:2605.27566v1 Announce Type: new \nAbstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitting, while uncalibrated generators obscure algorithmic capability with stochastic noise. To resolve this, we introduce \\textbf{DynaSchedBench}, a diagnostic framework for DFJSP that rigorously controls the instance-generation process. Instead of relyi",
+      "link": "https://arxiv.org/abs/2605.27566",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     },
     {
-      "title": "Managing Uncertainty in LLM-Generated Procedural Knowledge for Virtual Laboratory Planning",
-      "title_zh": "Managing Uncertainty in LLM-Generated Procedural Knowledge for Virtual Laboratory Planning",
-      "description": "arXiv:2605.26333v1 Announce Type: new \nAbstract: Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, authoring new simulated laboratory procedures remains costly: educators must describe new equipment, define how instruments and materials interact, and specify valid procedural flows that can be executed or assessed inside the virtual environment. Large la",
-      "link": "https://arxiv.org/abs/2605.26333",
+      "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+      "title_zh": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+      "description": "arXiv:2605.27570v1 Announce Type: new \nAbstract: Parallel LLM test-time scaling techniques (e.g., best-of-$N$) require drawing $N>1$ sequences conditioned on the same input prompt. These methods boost accuracy while exploiting the computational efficiency of batching $N$ generations. However, each sequence in the batch is traditionally generated independently and hence does not reuse intermediate generations, computations, or observations from other sequences. In this paper, we propose LaneRoPE ",
+      "link": "https://arxiv.org/abs/2605.27570",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     },
     {
-      "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
-      "title_zh": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
-      "description": "arXiv:2605.26252v1 Announce Type: new \nAbstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and database paradigms treat memory as storage. They localize correctness at records, embeddings, or edges. Each supplies only some of the capabilities that long-term memory requires. The result is four recurring failure modes: unregulated growth, missing s",
-      "link": "https://arxiv.org/abs/2605.26252",
+      "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
+      "title_zh": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
+      "description": "arXiv:2605.27580v1 Announce Type: new \nAbstract: A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable input, produces different outcomes on different occasions, and different individuals produce divergent outcomes that no observable covariate fully predicts. We argue that this variability belongs in the dynamic latent state of the person, and that human o",
+      "link": "https://arxiv.org/abs/2605.27580",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     },
     {
-      "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
-      "title_zh": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
-      "description": "arXiv:2605.26321v1 Announce Type: new \nAbstract: AI agents are beginning to complete valuable, long-horizon business operations tasks, but training and evaluation environments for enterprise work still struggle to balance realism, verifiability, and scale. Environment and task creation frequently suffers from a failure mode we call artifact drift: when instructions, environments, oracles, and verifiers are created by loosely coupled processes, they frequently disagree on what a task requires, pr",
-      "link": "https://arxiv.org/abs/2605.26321",
+      "title": "Voluntary Collusion with Secret Tools in Competing LLM Agents",
+      "title_zh": "Voluntary Collusion with Secret Tools in Competing LLM Agents",
+      "description": "arXiv:2605.27593v1 Announce Type: new \nAbstract: Even when a tool is explicitly described as unfair and harmful to others, ostensibly safety-aligned LLM agents still voluntarily engage in secret collusion whenever doing so confers a strategic advantage. To investigate this phenomenon, we introduce an empirical framework built on two strategic multi-agent environments: Liar's Bar, a competitive deception scenario, and Cleanup, a mixed-motive resource-management scenario, in which agents are offer",
+      "link": "https://arxiv.org/abs/2605.27593",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     },
     {
-      "title": "JobBench: Aligning Agent Work With Human Will",
-      "title_zh": "JobBench: Aligning Agent Work With Human Will",
-      "description": "arXiv:2605.26329v1 Announce Type: new \nAbstract: Current benchmarks for occupational AI agents are scoped primarily by economic values, telling a replacement story. We introduce JobBench, which evaluates AI agents on the workflows that experts identify as high-priority for delegation, empowering humans based on their needs instead of replacing them with GDP value. JobBench covers 130 agentic tasks across 35 occupations. Each task is packaged as a workspace of heterogeneous reference files, requi",
-      "link": "https://arxiv.org/abs/2605.26329",
+      "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+      "title_zh": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+      "description": "arXiv:2605.27575v1 Announce Type: new \nAbstract: As organizations move toward production deployments of AI agents, which execute non-deterministic workflows, maintain stateful sessions, and often operate with privileged access to internal services, the engineering challenge shifts from building individual agents to operating them at scale with proper isolation, governance, and security. In this paper we present Agyn, an open-source platform designed around three key principles tailored for agent",
+      "link": "https://arxiv.org/abs/2605.27575",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     },
     {
-      "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-      "title_zh": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-      "description": "arXiv:2605.26302v1 Announce Type: new \nAbstract: Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how long does an agent remain reliable after deployment? Even when model weights are frozen, an agent's effective state keeps changing as it compresses interaction history, retrieves from a growing memory store, revises facts after updates, and undergoes ro",
-      "link": "https://arxiv.org/abs/2605.26302",
+      "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+      "title_zh": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+      "description": "arXiv:2605.27373v1 Announce Type: new \nAbstract: As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that include ethical and moral considerations, unlike traditional utility-maximisation models. To achieve this, a key aspect is assessing how well these decisions align with human values. To this end, a promising line of research is centred on developing approaches based on Large Language Models (LLMs) to identify human values fro",
+      "link": "https://arxiv.org/abs/2605.27373",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     },
     {
-      "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
-      "title_zh": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
-      "description": "arXiv:2605.26322v1 Announce Type: new \nAbstract: Theory of Mind (ToM), the ability to infer others' knowledge, intentions, and emotions, is commonly evaluated in large language models (LLMs) using end-point question answering, where performance is judged solely by the final answer to a social reasoning query. This paradigm obscures whether the model actually constructs the underlying mental-state representations required for robust reasoning, particularly in scenarios involving divergent, evolvi",
-      "link": "https://arxiv.org/abs/2605.26322",
+      "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
+      "title_zh": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
+      "description": "arXiv:2605.27551v1 Announce Type: new \nAbstract: The origin of species has been the mystery of mysteries in natural science. By analogy, the origin of synthetic information, we suggest, is the mystery of mysteries in information science. The question carries a moral weight that a technical account can neither fully resolve nor responsibly ignore, as its impact on truth, trust, and human intellect extends deep into the broader economy and society. The very power of artificial intelligence makes t",
+      "link": "https://arxiv.org/abs/2605.27551",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     },
     {
-      "title": "Automatic Layer Selection for Hallucination Detection",
-      "title_zh": "Automatic Layer Selection for Hallucination Detection",
-      "description": "arXiv:2605.26366v1 Announce Type: new \nAbstract: Recent studies on hallucination detection have shown that hallucination-related signals are more strongly encoded in intermediate layers than in the final layer of large language models (LLMs). Although a growing body of work has sought to exploit this property for hallucination detection, how to automate the selection of high-performing layers remains underexplored, and principled methods for this purpose are still lacking. To address this gap, w",
-      "link": "https://arxiv.org/abs/2605.26366",
+      "title": "Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention",
+      "title_zh": "Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention",
+      "description": "arXiv:2605.27584v1 Announce Type: new \nAbstract: The proliferation of social media platforms and online communities has inadvertently catalyzed the spread of cyberbullying, hate speech, and other forms of online toxicity, making the effective governance of such harm a critical societal and computational challenge. While significant strides have been made in automating content moderation, existing research predominantly treats cyberbullying governance as passive, isolated detection at the post le",
+      "link": "https://arxiv.org/abs/2605.27584",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-05-27"
+      "date": "2026-05-28"
     }
   ]
 }
