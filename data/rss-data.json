@@ -31,6 +31,16 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+      "link": "https://arxiv.org/abs/2606.00005",
+      "description": "arXiv:2606.00005v1 Announce Type: new \nAbstract: We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than error. The protocol assigns engineered cognitive personas to language models -- separating what a model is from how it reasons -- and introduces an In-Sample/Out-of-Sample validation framework adapted from quantitative finance to distinguish training-data",
+      "pubDate": "2026-06-02T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -81,89 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
-      "link": "https://arxiv.org/abs/2605.30637",
-      "description": "arXiv:2605.30637v1 Announce Type: new \nAbstract: Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future health outcomes under incomplete evidence. LLMs are increasingly used to support these decisions due to strong language capabilities, broad biomedical knowledge, and efficiency, yet the reliability of LLMs on real-world clinical decision tasks remains insufficiently understood. To evaluate CDM models",
-      "pubDate": "2026-06-01T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs"
-    },
-    {
-      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
-      "link": "https://arxiv.org/abs/2605.30542",
-      "description": "arXiv:2605.30542v1 Announce Type: new \nAbstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting future observations. Existing observation-predictive world models can produce visually plausible but physically wrong rollouts. This failure is structural; distinct physical systems can look identical yet diverge under intervention. We expose this problem ",
-      "pubDate": "2026-06-01T04:00:00.000Z",
+      "title": "Universal Quantum Transformer",
+      "link": "https://arxiv.org/abs/2606.00045",
+      "description": "arXiv:2606.00045v1 Announce Type: new \nAbstract: Classical continuous-space neural networks fundamentally struggle to lock into exact mathematical symmetries, such as modular arithmetic and non-commutative algebra. To approximate these discrete logical rules, they often rely on massive parameter scaling, resulting in stochastic instability even after delayed generalization phenomena known as grokking. Here, we introduce the Universal Quantum Transformer (UQT), a fundamentally novel, quantum-nati",
+      "pubDate": "2026-06-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI"
+      "title_zh": "Universal Quantum Transformer"
     },
     {
-      "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
-      "link": "https://arxiv.org/abs/2605.30785",
-      "description": "arXiv:2605.30785v1 Announce Type: new \nAbstract: LLM agents increasingly face long-horizon tasks such as web search and deep research in real-world applications, where accumulated context can cause long-context degradation and reasoning failures. Prior work mitigates this through context management with agent-side context control or fixed strategies such as summarization, which require training the agent itself for adaptation - making it impractical for closed-source agents and ignoring that dif",
-      "pubDate": "2026-06-01T04:00:00.000Z",
+      "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+      "link": "https://arxiv.org/abs/2606.00240",
+      "description": "arXiv:2606.00240v1 Announce Type: new \nAbstract: Effective real-world assistance requires AI agents with robust Theory of Mind (ToM): inferring human mental states from their behavior. Despite recent advances, several key challenges remain, including (1) online inference with robust uncertainty updates over multiple hypotheses; (2) efficient reasoning suitable for real-time assistance; and (3) the lack of ground-truth mental state annotations in real-world domains. We address these challenges by",
+      "pubDate": "2026-06-02T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 10,
+      "title_zh": "MindZero: Learning Online Mental Reasoning With Zero Annotations"
+    },
+    {
+      "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
+      "link": "https://arxiv.org/abs/2606.00102",
+      "description": "arXiv:2606.00102v1 Announce Type: new \nAbstract: Over the centuries, probability theory has grown from the calculus of games of chance into a central framework for reasoning under uncertainty. This article interprets that evolution not merely as a mathematical history, but as a transformation of rationality itself. From Pascal and Fermat's combinatorial symmetry to the inductive logic of Bayes and Laplace, from Poisson's statistics of events to Kolmogorov's axiomatic formalization, probability p",
+      "pubDate": "2026-06-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "Learning Agent-Compatible Context Management for Long-Horizon Tasks"
+      "title_zh": "On the evolution of the concept of probability as a mirror of the evolution of reason"
     },
     {
-      "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
-      "link": "https://arxiv.org/abs/2605.30680",
-      "description": "arXiv:2605.30680v1 Announce Type: new \nAbstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and so cannot evaluate mechanisms by the equilibrium they produce. We recast hospital mechanism design as program synthesis for language models: typed, inspectable rule programs are executed and scored by Medi-Sim, a multi-agent simulator with five strategic provider channels (coding, selection, delay, ",
-      "pubDate": "2026-06-01T04:00:00.000Z",
+      "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
+      "link": "https://arxiv.org/abs/2606.00138",
+      "description": "arXiv:2606.00138v1 Announce Type: new \nAbstract: Finite element analysis (FEA) is the most important numerical approach for solid mechanics. Challenges of FEA include a steep learning curve for entry-level users and potential false simulations due to incorrect definitions of key simulation components, such as boundary conditions, load cases, and solution variables. Years of engineering experience are usually necessary for real-world problem-solving. To address these issues, we present AbaqusAgen",
+      "pubDate": "2026-06-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response"
+      "aiScore": 8,
+      "title_zh": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems"
     },
     {
-      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
-      "link": "https://arxiv.org/abs/2605.30621",
-      "description": "arXiv:2605.30621v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Harness self-evolution adapts such agents by updating these harnesses from execution evidence. Yet it remains unclear whether a model's base capability in task-solving predicts its capabilities in harness self-evolution: which models produce useful harn",
-      "pubDate": "2026-06-01T04:00:00.000Z",
+      "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+      "link": "https://arxiv.org/abs/2606.00017",
+      "description": "arXiv:2606.00017v1 Announce Type: new \nAbstract: Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate game rules, or on decisions made by other players. Standard reinforcement learning assumes that rewards can be assigned at each step, but this assumption fails in settings where outcomes are entangled across time and agents. We introduce delayed per-step",
+      "pubDate": "2026-06-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents"
+      "aiScore": 5,
+      "title_zh": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution"
     },
     {
-      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
-      "link": "https://arxiv.org/abs/2605.30576",
-      "description": "arXiv:2605.30576v1 Announce Type: new \nAbstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propose an uncertainty-aware framework that leverages expert advice to guide exploration while avoiding long-term dependence. Advice is triggered when epistemic or aleatoric uncertainty exceeds adaptive thresholds derived from rolling buffers, ensuring adv",
-      "pubDate": "2026-06-01T04:00:00.000Z",
+      "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+      "link": "https://arxiv.org/abs/2606.00007",
+      "description": "arXiv:2606.00007v1 Announce Type: new \nAbstract: As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becomes a critical challenge. Human platform governance mechanisms do not transfer directly: agent statelessness undermines deterrence-based sanctions, model homogeneity violates independence assumptions underlying crowd wisdom, and sycophancy collapses deliberative consensus.\n  We propose a deliberative",
+      "pubDate": "2026-06-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving"
+      "title_zh": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases"
     },
     {
-      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
-      "link": "https://arxiv.org/abs/2605.30512",
-      "description": "arXiv:2605.30512v1 Announce Type: new \nAbstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ignore conservation laws, and violate geometric constraints. We present PhyDrawGen, a neuro-symbolic pipeline that decouples semantic scene understanding from physical constraint satisfaction. First, a large language model extracts a typed scene graph fr",
-      "pubDate": "2026-06-01T04:00:00.000Z",
+      "title": "Robust Shielding for Safe Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2606.00270",
+      "description": "arXiv:2606.00270v1 Announce Type: new \nAbstract: Shielding is an effective approach to formally guarantee the safety of reinforcement learning agents in Markov decision processes (MDPs). However, existing shielding techniques typically assume knowledge of the safety-relevant transition dynamics - a requirement that is seldom met in practice. To address this limitation, we introduce a novel shielding framework for robust MDPs (RMDPs), i.e., MDPs with sets of transition probabilities. We define sa",
+      "pubDate": "2026-06-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language"
-    },
-    {
-      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
-      "link": "https://arxiv.org/abs/2605.30738",
-      "description": "arXiv:2605.30738v1 Announce Type: new \nAbstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Although large language models achieve strong results on individual benchmarks, their ability to compose reasoning strategies, preserve intermediate states, and coordinate tools across domains remains underexplored. We present MAVEN (Modular Agentic Verification and Execution Network), a lightweight symbolic reasoning scaffol",
-      "pubDate": "2026-06-01T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "MAVEN: Improving Generalization in Agentic Tool Calling"
+      "aiScore": 4,
+      "title_zh": "Robust Shielding for Safe Reinforcement Learning"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-06-02T03:01:05.475Z",
+    "generatedAt": "2026-06-02T05:29:48.504Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.6875
+    "averageScore": 14.5
   }
 }
