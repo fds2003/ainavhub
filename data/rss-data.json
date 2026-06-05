@@ -4,7 +4,7 @@
       "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
       "link": "https://arxiv.org/abs/2606.04150",
       "description": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that this picture is inaccurate on two accounts, both in how AI emotional support arises and how it shapes future behavior. First, AI emotional support commonly emerges incidentally within task-oriented inter",
-      "pubDate": "2026-06-04T04:00:00.000Z",
+      "pubDate": "2026-06-05T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 48,
@@ -19,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "link": "https://arxiv.org/abs/2606.04037",
+      "description": "arXiv:2606.04037v2 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We present an ontology-grounded verification framework -- to our knowledge the first to combine three components: ",
+      "pubDate": "2026-06-05T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 27,
+      "title_zh": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -44,7 +54,7 @@
       "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
       "link": "https://arxiv.org/abs/2606.04152",
       "description": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics and abductive reasoning. Applied to AI-generated condensations of three source texts, PEEL reveals sy",
-      "pubDate": "2026-06-04T04:00:00.000Z",
+      "pubDate": "2026-06-05T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 23,
@@ -59,16 +69,6 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "link": "https://arxiv.org/abs/2606.04037",
-      "description": "arXiv:2606.04037v1 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We propose an ontology-grounded verification framework combining three components: an Agent Operational Envelope f",
-      "pubDate": "2026-06-04T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 19,
-      "title_zh": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -114,7 +114,7 @@
       "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
       "link": "https://arxiv.org/abs/2606.04246",
       "description": "arXiv:2606.04246v1 Announce Type: new \nAbstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step dependencies, and strict correctness constraints in Verilog and VHDL. We present StepPRM-RTL, a novel framework that combines stepwise trajectory modeling, process-reward modeling (PRM), and retrieval-augmented fine-tuning (RAFT) to enhance both the functional correctness and reasoning fidelity of LLM-based RTL code generatio",
-      "pubDate": "2026-06-04T04:00:00.000Z",
+      "pubDate": "2026-06-05T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 11.5,
@@ -124,7 +124,7 @@
       "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
       "link": "https://arxiv.org/abs/2606.04202",
       "description": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We introduce SMAC-Talk, a natural language extension of the StarCraft Multi-Agent Challenge for evaluating LLM-based agents in cooperative multi-agent environments. The environment has",
-      "pubDate": "2026-06-04T04:00:00.000Z",
+      "pubDate": "2026-06-05T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 10,
@@ -134,7 +134,7 @@
       "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
       "link": "https://arxiv.org/abs/2606.04223",
       "description": "arXiv:2606.04223v1 Announce Type: new \nAbstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agent error. Building on prior work on reasoning-trace disagreement in human-AI collaborative moderation, we propose a knowledge-representation layer in which reasoning ",
-      "pubDate": "2026-06-04T04:00:00.000Z",
+      "pubDate": "2026-06-05T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 7,
@@ -144,7 +144,7 @@
       "title": "Can Generalist Agents Automate Data Curation?",
       "link": "https://arxiv.org/abs/2606.04261",
       "description": "arXiv:2606.04261v1 Announce Type: new \nAbstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iteratively propose, implement, evaluate, and revise data policies against noisy benchmark feedback. We ask whether generalist coding agents can automate this data-curation loop. We introduce *Curation-Bench*, an agent-centric benchmark that fixes the model, training recipe, and evaluation suite while giving agents command-line ",
-      "pubDate": "2026-06-04T04:00:00.000Z",
+      "pubDate": "2026-06-05T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
@@ -154,7 +154,7 @@
       "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
       "link": "https://arxiv.org/abs/2606.04244",
       "description": "arXiv:2606.04244v1 Announce Type: new \nAbstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and then reason over the tool's output, specifically when they rely on visual aids. This gap is especially important because real engineering and scientific workflows often rely on visualization tools for analysis, validation, and decision-making. To study this discrepancy, we intr",
-      "pubDate": "2026-06-04T04:00:00.000Z",
+      "pubDate": "2026-06-05T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
@@ -163,7 +163,7 @@
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-06-05T03:00:38.622Z",
+    "generatedAt": "2026-06-05T05:26:50.610Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 17.90625
+    "averageScore": 18.40625
   }
 }
