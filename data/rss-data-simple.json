@@ -46,6 +46,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+      "title_zh": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+      "description": "arXiv:2606.06533v1 Announce Type: new \nAbstract: What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving processes shaped by data, objectives, architectures, and optimization dynamics. Yet much of AI research treats models as fixed artifacts, analyzing behaviors after training rather than asking why they emerge. This position paper argues that a science of AI must move beyond post-hoc fixes and study the training dynamics th",
+      "link": "https://arxiv.org/abs/2606.06533",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "title_zh": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "description": "arXiv:2606.06529v1 Announce Type: new \nAbstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework for deploying capable but untrusted AI agents under the oversight of a weaker, trusted monitor and a limited human audit budget. Control evaluations stress-test these protocols by pitting a red-team attack policy against the blue-team monitor, but current evaluations typically assume attackers that ",
+      "link": "https://arxiv.org/abs/2606.06529",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+      "title_zh": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+      "description": "arXiv:2606.06531v1 Announce Type: new \nAbstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, auditable, and responsibility-bounded repair. Prediction and game-theoretic planners can suggest plausible cooperation, yet they do not return a proof that the repair respects hard rules, right-of-way, cost allocation, and ego fallback. We introduce CARVE, Certified Affordable Repair of Vetoed maneuvers ",
+      "link": "https://arxiv.org/abs/2606.06531",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "title_zh": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "description": "arXiv:2606.06523v1 Announce Type: new \nAbstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most agent systems still lack formal methods for specifying, verifying, and debugging their workflow and execution trajectories. This challenge mirrors a long-standing problem in mathematics, where the ambiguity of natural languages (NLs) motivates the deve",
+      "link": "https://arxiv.org/abs/2606.06523",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "title_zh": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+      "description": "arXiv:2606.06514v1 Announce Type: new \nAbstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a classifier is fair if its outputs remain invariant under the counterfactual operation of switching a sensitive attribute, with merit features held fixed. We implement loss based regularization as a symmetry restoring mechanism and evaluate the framework on four synthetic datasets with varying levels ",
+      "link": "https://arxiv.org/abs/2606.06514",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "DiBS: Diffusion-Informed Branch Selection",
+      "title_zh": "DiBS: Diffusion-Informed Branch Selection",
+      "description": "arXiv:2606.06518v1 Announce Type: new \nAbstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing works of solving Sudoku mainly focus on two dominant approaches, i.e., traditional heuristic and deep learning solver. However, they suffer from two complementary limitations: learning-based solvers lack hard correctness guarantees, while complete symbolic solvers are still prone to long-tail search. ",
+      "link": "https://arxiv.org/abs/2606.06518",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "AEGIS: A Backup Reflex for Physical AI",
+      "title_zh": "AEGIS: A Backup Reflex for Physical AI",
+      "description": "arXiv:2606.06660v1 Announce Type: new \nAbstract: Long-horizon robot manipulation tends to fail gradually: one bad step degrades the state, and the policy spirals into a basin from which it cannot recover. The failure is often visible before it happens. We introduce AEGIS (Activation-probe Early-warning, Gated Inference Switching), a selective escalation method that uses a lightweight probe on a weak policy's frozen activations to detect high-risk steps while there is still time to act. When the ",
+      "link": "https://arxiv.org/abs/2606.06660",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+      "title_zh": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+      "description": "arXiv:2606.06741v1 Announce Type: new \nAbstract: Self-evolving agents requires adaptation after deployment, but existing approaches assume a usable learning loop, such as curated skills, successful trajectories, or verifier signals. Real open-world deployments may provide none of these, offering only a task prompt. In this work, we study open-world self-evolution, where an agent must build both its skills and its own verification signals from scratch, using open-world resources but no target-tas",
+      "link": "https://arxiv.org/abs/2606.06741",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-08"
     }
   ]
 }
