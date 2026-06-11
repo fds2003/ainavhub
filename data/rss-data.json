@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
-      "link": "https://arxiv.org/abs/2606.10086",
-      "description": "arXiv:2606.10086v1 Announce Type: new \nAbstract: This paper develops a theory of exploratory adaptation under AI-assisted optimization. The central argument is that the long-run adaptive effects of AI systems depend critically on how predictive assistance interacts with exploratory responsiveness itself. We formalize this mechanism using a dynamical framework in which cognitive, institutional, and technological systems evolve over rugged epistemic landscapes characterized by multiple locally rei",
-      "pubDate": "2026-06-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 32,
-      "title_zh": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -51,16 +41,6 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "Business World Model",
-      "link": "https://arxiv.org/abs/2606.10044",
-      "description": "arXiv:2606.10044v1 Announce Type: new \nAbstract: Businesses are increasingly adopting AI-enabled tools to improve productivity, reduce costs, and enhance products and services. However, the transformative potential of AI extends beyond automating predefined tasks: it lies in enabling intelligent systems to plan, optimize, and execute business initiatives from high-level strategic objectives. This paper introduces the concept and architecture of a business world model (BWM), a world model special",
-      "pubDate": "2026-06-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 17,
-      "title_zh": "Business World Model"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -69,6 +49,26 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "Can AI Agents Synthesize Scientific Conclusions?",
+      "link": "https://arxiv.org/abs/2606.11337",
+      "description": "arXiv:2606.11337v1 Announce Type: new \nAbstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their ability to do so in high-stakes domains such as health remains unclear. We introduce SciConBench, a large-scale live benchmark of 9.11K questions and expert-written conclusions from systematic reviews to evaluate open-domain scientific conclusion synthesis. The benchmark draws on an expert-validated aut",
+      "pubDate": "2026-06-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "Can AI Agents Synthesize Scientific Conclusions?"
+    },
+    {
+      "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
+      "link": "https://arxiv.org/abs/2606.11379",
+      "description": "arXiv:2606.11379v1 Announce Type: new \nAbstract: Pre-mediation, the preparatory phase preceding direct human negotiation, plays a critical role in achieving mutually beneficial agreements, yet is often omitted due to cost, time, and limited access to trained mediators. We introduce an automated mediator for human negotiation, implemented as a structured pipeline of LLM modules, that supports pre-mediation in integrative negotiation settings. The pipeline decomposes preparation into specialized m",
+      "pubDate": "2026-06-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -101,69 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling",
-      "link": "https://arxiv.org/abs/2606.10286",
-      "description": "arXiv:2606.10286v1 Announce Type: new \nAbstract: Open-pit mine scheduling is a critical process for maximizing economic return under complex geotechnical and operational constraints. While Mixed-Integer Linear Programming (MILP) provides mathematically optimal baselines, its exponential computational complexity and inability to adapt in real time limit its practical deployment in dynamic industrial environments. This work introduces a simulator-driven Large Language Model (LLM) scheduling framew",
-      "pubDate": "2026-06-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling"
-    },
-    {
-      "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
-      "link": "https://arxiv.org/abs/2606.10254",
-      "description": "arXiv:2606.10254v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have achieved near-perfect performance in \\emph{solving} high-school mathematics, their ability to \\emph{evaluate} the diverse reasoning processes of real human students remains under-examined. To bridge this gap, we introduce \\textbf{RealMath-Eval}, a rigorously annotated benchmark of 224 real-world exam responses from high schools. Our initial evaluation reveals that even state-of-the-art LLM judges struggle si",
-      "pubDate": "2026-06-10T04:00:00.000Z",
+      "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
+      "link": "https://arxiv.org/abs/2606.11207",
+      "description": "arXiv:2606.11207v1 Announce Type: new \nAbstract: We present SemantiClean, a modular framework for extracting structured semantic signals from e-commerce session data and driving pluggable inference targets including purchase intent, customer segmentation, and product affinity through a shared element library. Unlike conventional end-to-end predictors that optimise solely for accuracy, SemantiClean prioritises auditability, structural governance, and sigma=0 reproducibility, explicitly trading ma",
+      "pubDate": "2026-06-11T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 9,
-      "title_zh": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning"
+      "title_zh": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference"
     },
     {
-      "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
-      "link": "https://arxiv.org/abs/2606.10209",
-      "description": "arXiv:2606.10209v1 Announce Type: new \nAbstract: Large language models deployed as autonomous agents for enterprise workflows face a key challenge: verbose tool responses from enterprise systems can cause context overflow, stale-state errors, and high inference cost. We study this problem in automated expense itemization in Microsoft Dynamics 365 Finance and Operations using Model Context Protocol tools. We evaluate four GPT-5 configurations on a 50-task hotel expense benchmark: no user model, f",
-      "pubDate": "2026-06-10T04:00:00.000Z",
+      "title": "Forecasting Future Behavior as a Learning Task",
+      "link": "https://arxiv.org/abs/2606.11445",
+      "description": "arXiv:2606.11445v1 Announce Type: new \nAbstract: Trust in an AI system is often anchored by explanations of how it works, which one then uses to forecast its behavior on new inputs. For large reasoning models (LRMs), this conventional route is particularly difficult to follow: explanation methods for single token generations do not naturally generalize to long trajectories, and the trajectories themselves are often not faithful when read as natural language. We propose an alternative that bypass",
+      "pubDate": "2026-06-11T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents"
+      "aiScore": 7,
+      "title_zh": "Forecasting Future Behavior as a Learning Task"
     },
     {
-      "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
-      "link": "https://arxiv.org/abs/2606.10094",
-      "description": "arXiv:2606.10094v1 Announce Type: new \nAbstract: Classical theories of cognition describe problem solving as exploratory search through structured problem spaces in which repeated interaction gradually compresses search into efficient representational structures. Predictive artificial intelligence systems introduce a distinct regime in which stabilization may occur before exploratory diversification unfolds, supplying solutions and decision trajectories prior to internally generated search. This",
-      "pubDate": "2026-06-10T04:00:00.000Z",
+      "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+      "link": "https://arxiv.org/abs/2606.11543",
+      "description": "arXiv:2606.11543v1 Announce Type: new \nAbstract: Agent Skills augment large language model (LLM) agents with procedural knowledge at inference time, but current benchmarks rarely distinguish what a Skill says from how it is organized. We study this distinction through Progressive Disclosure, where a concise root file points agents to supporting resources on demand, and compare it with a normalized flat baseline. We present SkillJuror, a framework for evaluating Skill writing paradigms through se",
+      "pubDate": "2026-06-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 7,
+      "title_zh": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior"
+    },
+    {
+      "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
+      "link": "https://arxiv.org/abs/2606.11440",
+      "description": "arXiv:2606.11440v1 Announce Type: new \nAbstract: Existing multi-agent LLM orchestration methods, ranging from brute-force ensembles to learned routers, select models and topologies based on task and model features. However, these methods do not consider the runtime state of the serving infrastructure. On shared GPU clusters under concurrent load, this infrastructure blindness causes systematic resource underutilization: preferred models accumulate deep request queues while equally capable altern",
+      "pubDate": "2026-06-11T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 5,
-      "title_zh": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression"
+      "title_zh": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration"
     },
     {
-      "title": "Deployment-Time Memorization in Foundation-Model Agents",
-      "link": "https://arxiv.org/abs/2606.10062",
-      "description": "arXiv:2606.10062v1 Announce Type: new \nAbstract: Foundation-model agents are increasingly long-lived systems that remember users across interactions, making memorization an explicit deployment-time function rather than solely a property of model weights. Existing work addresses parametric memorization or audits fixed memory configurations, but does not characterize how memory-design choices jointly shape personalization utility, extraction risk, and deletion fidelity. We study this surface as de",
-      "pubDate": "2026-06-10T04:00:00.000Z",
+      "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
+      "link": "https://arxiv.org/abs/2606.11634",
+      "description": "arXiv:2606.11634v1 Announce Type: new \nAbstract: The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length.\n  To address this, we study SWARR (Sliding-Window Attention with Reinforced Adaptation for Math Reasoning), a practical recipe for adapting SWA models to mathematical reasoning. SWARR has two stages: (1) efficient conversion from a pretrained SA model to SWA ",
+      "pubDate": "2026-06-11T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning"
+    },
+    {
+      "title": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
+      "link": "https://arxiv.org/abs/2606.11537",
+      "description": "arXiv:2606.11537v1 Announce Type: new \nAbstract: Financial and tabular question answering requires more than fluent reasoning: answers must be grounded in the exact facts, formulas, units, signs, and scales that support them. A single misread cell or incorrect operation can silently produce a plausible but wrong result. We introduce \\textsc{MOCA-Agent}, a market-of-claims code agent that replaces free-form multi-agent debate with claim-level verification. The system decomposes each question into",
+      "pubDate": "2026-06-11T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Deployment-Time Memorization in Foundation-Model Agents"
-    },
-    {
-      "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
-      "link": "https://arxiv.org/abs/2606.10147",
-      "description": "arXiv:2606.10147v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) can listen and see, but how do audio and visual signals actually travel through the network to shape an answer? Despite their growing role in research and real-world applications, the internal pathways through which audio and visual tokens influence the final prediction remain poorly understood. In this study, we examine audio-visual information flow inside Audio-Visual Large Language Models (AVLLMs), traci",
-      "pubDate": "2026-06-10T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs"
+      "title_zh": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-06-11T03:01:06.972Z",
+    "generatedAt": "2026-06-11T05:29:20.441Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.6875
+    "averageScore": 14.25
   }
 }
