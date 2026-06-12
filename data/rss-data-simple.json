@@ -10,6 +10,24 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Strategic Decision Support for AI Agents",
+      "title_zh": "Strategic Decision Support for AI Agents",
+      "description": "arXiv:2606.12587v1 Announce Type: new \nAbstract: Traditionally, decision support studies how humans use machine learning models to make better decisions. In modern agentic systems, this division of roles is increasingly reversed: AI agents act on behalf of users, while humans and tools becomes support mechanisms around them. This role reversal brings reliability concerns to the forefront, since agentic errors can be consequential and agent behavior must remain aligned with human goals and constr",
+      "link": "https://arxiv.org/abs/2606.12587",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "From AGI to ASI",
+      "title_zh": "From AGI to ASI",
+      "description": "arXiv:2606.12683v1 Announce Type: new \nAbstract: Over the last decade, building human-level artificial general intelligence has moved from far-fetched speculation to being a concrete next-decade target for many of the largest AI organisations. Achieving this goal would have profound and far-reaching impacts on human society, which raises many complex questions for the decade ahead. This report investigates how AI itself might continue to develop in a post-AGI world along the continuum of machine",
+      "link": "https://arxiv.org/abs/2606.12683",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-12"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -37,6 +55,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+      "title_zh": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+      "description": "arXiv:2606.12657v1 Announce Type: new \nAbstract: Human mobility data is important for transportation, urban planning, and epidemic control, but large-scale trajectory collection is often costly and privacy-constrained, motivating realistic synthetic trajectory generation. Existing LLM-based generators typically rely on either prompt engineering, which preserves zero-shot reasoning but lacks fine-grained spatiotemporal grounding, or trajectory-level fine-tuning, which improves statistical precisi",
+      "link": "https://arxiv.org/abs/2606.12657",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-12"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -44,24 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Can AI Agents Synthesize Scientific Conclusions?",
-      "title_zh": "Can AI Agents Synthesize Scientific Conclusions?",
-      "description": "arXiv:2606.11337v1 Announce Type: new \nAbstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their ability to do so in high-stakes domains such as health remains unclear. We introduce SciConBench, a large-scale live benchmark of 9.11K questions and expert-written conclusions from systematic reviews to evaluate open-domain scientific conclusion synthesis. The benchmark draws on an expert-validated aut",
-      "link": "https://arxiv.org/abs/2606.11337",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-06-11"
-    },
-    {
-      "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
-      "title_zh": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
-      "description": "arXiv:2606.11379v1 Announce Type: new \nAbstract: Pre-mediation, the preparatory phase preceding direct human negotiation, plays a critical role in achieving mutually beneficial agreements, yet is often omitted due to cost, time, and limited access to trained mediators. We introduce an automated mediator for human negotiation, implemented as a structured pipeline of LLM modules, that supports pre-mediation in integrative negotiation settings. The pipeline decomposes preparation into specialized m",
-      "link": "https://arxiv.org/abs/2606.11379",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-06-11"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -91,58 +100,49 @@
       "date": "2021-10-21"
     },
     {
-      "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
-      "title_zh": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
-      "description": "arXiv:2606.11207v1 Announce Type: new \nAbstract: We present SemantiClean, a modular framework for extracting structured semantic signals from e-commerce session data and driving pluggable inference targets including purchase intent, customer segmentation, and product affinity through a shared element library. Unlike conventional end-to-end predictors that optimise solely for accuracy, SemantiClean prioritises auditability, structural governance, and sigma=0 reproducibility, explicitly trading ma",
-      "link": "https://arxiv.org/abs/2606.11207",
+      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "title_zh": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "description": "arXiv:2606.12451v1 Announce Type: new \nAbstract: Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture specialized tool semantics, parametric tool retrieval addresses this by encoding each tool as a virtual token appended to the LLM vocabulary, fine-tuned in two stages (memorization then retrieval SFT) to use the LLM as a retriever, achieving strong perfo",
+      "link": "https://arxiv.org/abs/2606.12451",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-11"
+      "date": "2026-06-12"
     },
     {
-      "title": "Forecasting Future Behavior as a Learning Task",
-      "title_zh": "Forecasting Future Behavior as a Learning Task",
-      "description": "arXiv:2606.11445v1 Announce Type: new \nAbstract: Trust in an AI system is often anchored by explanations of how it works, which one then uses to forecast its behavior on new inputs. For large reasoning models (LRMs), this conventional route is particularly difficult to follow: explanation methods for single token generations do not naturally generalize to long trajectories, and the trajectories themselves are often not faithful when read as natural language. We propose an alternative that bypass",
-      "link": "https://arxiv.org/abs/2606.11445",
+      "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
+      "title_zh": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
+      "description": "arXiv:2606.12702v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical systems, making it essential to evaluate the real-world utility of these systems. However, static benchmarks tend to measure correctness rather than user acceptance, aggregate performance across queries, and require densely annotated datasets -- leading to major blind spots for evaluating clinical systems. In this work, we perform a deployment-centered evaluation of an LLM syst",
+      "link": "https://arxiv.org/abs/2606.12702",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-11"
+      "date": "2026-06-12"
     },
     {
-      "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
-      "title_zh": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
-      "description": "arXiv:2606.11543v1 Announce Type: new \nAbstract: Agent Skills augment large language model (LLM) agents with procedural knowledge at inference time, but current benchmarks rarely distinguish what a Skill says from how it is organized. We study this distinction through Progressive Disclosure, where a concise root file points agents to supporting resources on demand, and compare it with a normalized flat baseline. We present SkillJuror, a framework for evaluating Skill writing paradigms through se",
-      "link": "https://arxiv.org/abs/2606.11543",
+      "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+      "title_zh": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+      "description": "arXiv:2606.12563v1 Announce Type: new \nAbstract: Arbor is a multi-agent framework that introduces structured tree search as a cognition layer for autonomous agents operating in large, stateful action spaces. Prior autonomous optimization systems operate on isolated targets with stateless evaluation. Arbor instead maintains an explicit search tree of scored hypotheses that serves as the shared working memory across agents, evolving with every measurement, treating failures as diagnostic signal th",
+      "link": "https://arxiv.org/abs/2606.12563",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-11"
+      "date": "2026-06-12"
     },
     {
-      "title": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
-      "title_zh": "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration",
-      "description": "arXiv:2606.11440v1 Announce Type: new \nAbstract: Existing multi-agent LLM orchestration methods, ranging from brute-force ensembles to learned routers, select models and topologies based on task and model features. However, these methods do not consider the runtime state of the serving infrastructure. On shared GPU clusters under concurrent load, this infrastructure blindness causes systematic resource underutilization: preferred models accumulate deep request queues while equally capable altern",
-      "link": "https://arxiv.org/abs/2606.11440",
+      "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+      "title_zh": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+      "description": "arXiv:2606.12616v1 Announce Type: new \nAbstract: Closed-loop driving simulators typically populate their environments with non-ego traffic agents that behave largely the same way, produced either by rule-based traffic managers or by learned models trained toward a single behavioral mode. Recent work introduces style variation through post-hoc labels on observational data or LLM-inferred reward weights, but these signals act as proxies for what a style should reward rather than demonstrations of ",
+      "link": "https://arxiv.org/abs/2606.12616",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-11"
+      "date": "2026-06-12"
     },
     {
-      "title": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
-      "title_zh": "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning",
-      "description": "arXiv:2606.11634v1 Announce Type: new \nAbstract: The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length.\n  To address this, we study SWARR (Sliding-Window Attention with Reinforced Adaptation for Math Reasoning), a practical recipe for adapting SWA models to mathematical reasoning. SWARR has two stages: (1) efficient conversion from a pretrained SA model to SWA ",
-      "link": "https://arxiv.org/abs/2606.11634",
+      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "title_zh": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "description": "arXiv:2606.12730v1 Announce Type: new \nAbstract: Anticipating LLM behavioral tendencies from low-cost psychometric probes is critical for safe deployment, but only if self-reports (SR) reliably predict behavior. Recent work documented substantial SR-behavior dissociation in LLMs, but relied on broad personality traits (Big 5) that predict specific behaviors weakly, even in humans. Furthermore, the isolation of conversational sessions combined with weak context matching left open whether LLMs tru",
+      "link": "https://arxiv.org/abs/2606.12730",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-11"
-    },
-    {
-      "title": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
-      "title_zh": "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Reasoning",
-      "description": "arXiv:2606.11537v1 Announce Type: new \nAbstract: Financial and tabular question answering requires more than fluent reasoning: answers must be grounded in the exact facts, formulas, units, signs, and scales that support them. A single misread cell or incorrect operation can silently produce a plausible but wrong result. We introduce \\textsc{MOCA-Agent}, a market-of-claims code agent that replaces free-form multi-agent debate with claim-level verification. The system decomposes each question into",
-      "link": "https://arxiv.org/abs/2606.11537",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-06-11"
+      "date": "2026-06-12"
     }
   ]
 }
