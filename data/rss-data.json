@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
-      "link": "https://arxiv.org/abs/2606.13734",
-      "description": "arXiv:2606.13734v1 Announce Type: new \nAbstract: Recent evidence reported by Tully, Longoni, and Appel (2025) suggests that lower artificial intelligence (AI) literacy predicts greater receptivity toward AI. We revisit this claim using the public data from Study 3 of that article, which measures past usage of five AI tool categories on a five-point frequency scale. We first reproduce the negative association between AI literacy and aggregate AI usage using OLS on participant-level averages, bina",
-      "pubDate": "2026-06-15T04:00:00.000Z",
+      "title": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
+      "link": "https://arxiv.org/abs/2606.15078",
+      "description": "arXiv:2606.15078v1 Announce Type: new \nAbstract: We develop a formal theory of cognitive debt: the stock of unverified reasoning obligations that accumulates when individuals use AI as a substitute rather than a complement for first-principles cognition. The model features two state variables per agent, cognitive capital and cognitive debt, and a multiplicative production technology in which cognitive capital functions as collateral that determines the return to AI adoption. We establish six pro",
+      "pubDate": "2026-06-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 61,
-      "title_zh": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link"
+      "aiScore": 32,
+      "title_zh": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,6 +19,16 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
+    },
+    {
+      "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+      "link": "https://arxiv.org/abs/2606.14997",
+      "description": "arXiv:2606.14997v1 Announce Type: new \nAbstract: Memory formation is fundamental to intelligence, yet whether deep neural networks preserve identifiable memory traces analogous to biological memory units remains an open question. This work introduces a geometric framework to identify such \"AI engrams\" by formalizing the neuroscientific criteria of specificity, reactivation, sufficiency, and necessity into a constrained inverse problem. We derive a closed-form estimator that isolates individual m",
+      "pubDate": "2026-06-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 24,
+      "title_zh": "AI Engram: In Search of Memory Traces in Artificial Intelligence"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -39,6 +49,16 @@
       "category": "行业趋势",
       "aiScore": 24,
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
+    },
+    {
+      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+      "link": "https://arxiv.org/abs/2606.14838",
+      "description": "arXiv:2606.14838v1 Announce Type: new \nAbstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI systems, we must first have an understanding of what good explanations are. In this paper we propose a definition inspired by the notion of counterfactual explanations, however we argue that one must ",
+      "pubDate": "2026-06-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 22,
+      "title_zh": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -91,79 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-      "link": "https://arxiv.org/abs/2606.13682",
-      "description": "arXiv:2606.13682v1 Announce Type: new \nAbstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging as the number of jobs and machines increases. While exact methods quickly become intractable, classical dispatching rules and metaheuristics may require substantial tuning to maintain solution quality at large scales. This study develops a Transformer-based scheduling policy for OSSP using an encoder-decoder architecture w",
-      "pubDate": "2026-06-15T04:00:00.000Z",
+      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+      "link": "https://arxiv.org/abs/2606.14923",
+      "description": "arXiv:2606.14923v1 Announce Type: new \nAbstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative survival game, checking a teammate's work consumes resources, while trusting a wrong answer can be fatal. Relative to a memoryless version of the same model, reduced verification provides an observabl",
+      "pubDate": "2026-06-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem"
+      "aiScore": 15,
+      "title_zh": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems"
     },
     {
-      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
-      "link": "https://arxiv.org/abs/2606.13710",
-      "description": "arXiv:2606.13710v1 Announce Type: new \nAbstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open-ended research tasks, yet it is constrained by the static parametric deep research capabilities of agent systems. The latter allows agents to autonomously interact with the environment to gain experi",
-      "pubDate": "2026-06-15T04:00:00.000Z",
+      "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+      "link": "https://arxiv.org/abs/2606.14935",
+      "description": "arXiv:2606.14935v1 Announce Type: new \nAbstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoning scales poorly. Symbolic delegation offers a complementary route: a language model translates the problem, while a solver performs the inference. However, current autoformalization pipelines for logic programming are typically bespoke integrations tied to particular tasks or agents. We introduce P",
+      "pubDate": "2026-06-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 9,
+      "title_zh": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents"
+    },
+    {
+      "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+      "link": "https://arxiv.org/abs/2606.15029",
+      "description": "arXiv:2606.15029v1 Announce Type: new \nAbstract: LLM judges are used to reduce the need for costly human labor in evaluating open-ended text generation. However, the reliability of these judges depends critically on their alignment with human raters -- a property that itself depends on costly human annotations. In this work, we develop a method (Metric Match) for estimating correlation-based reliability metrics of LLM judges from limited annotations. Metric Match selects a subset of samples for ",
+      "pubDate": "2026-06-16T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 9,
+      "title_zh": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability"
+    },
+    {
+      "title": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
+      "link": "https://arxiv.org/abs/2606.15077",
+      "description": "arXiv:2606.15077v1 Announce Type: new \nAbstract: We present an LLM-driven framework for retrieving remote sensing data from cloud-based geospatial catalogues using natural language queries. The system converts user intent into structured API calls, enabling efficient access to satellite imagery and environmental datasets. The architecture integrates three agents: Guardrail for safety and policy enforcement, General-QA for intent interpretation, and Recommender-Analyst for schema-aware API call g",
+      "pubDate": "2026-06-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher"
+      "title_zh": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation"
     },
     {
-      "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
-      "link": "https://arxiv.org/abs/2606.13731",
-      "description": "arXiv:2606.13731v1 Announce Type: new \nAbstract: Business intelligence (BI) increasingly combines dashboard interaction with LLM-based assistance, but these two modes often fall out of sync during multi-step analysis. As users switch between direct dashboard manipulation and natural-language queries, it becomes difficult to preserve a consistent analytical state across filters, hierarchies, metrics, and chart context. We present TwinBI, an agentic digital-twin framework that couples an LLM-based",
-      "pubDate": "2026-06-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards"
-    },
-    {
-      "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
-      "link": "https://arxiv.org/abs/2606.13782",
-      "description": "arXiv:2606.13782v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made notable progress in automated theorem proving, yet existing formal benchmarks remain limited in both mathematical coverage and difficulty. Most are concentrated in areas that are easier to formalize, such as algebra and elementary number theory, and provide limited coverage of subfields that require deeper reasoning, including mathematical analysis. To address this gap, we introduce MA-ProofBench, to the best",
-      "pubDate": "2026-06-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis"
-    },
-    {
-      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-      "link": "https://arxiv.org/abs/2606.13707",
-      "description": "arXiv:2606.13707v1 Announce Type: new \nAbstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestration for task decomposition and collaboration. However, existing orchestration frameworks are limited to a narrow set of modalities and struggle to generalize to more complex settings where heterogeneous modalities coexist and interact. This limitati",
-      "pubDate": "2026-06-15T04:00:00.000Z",
+      "title": "Relational Structural Causal Models",
+      "link": "https://arxiv.org/abs/2606.14892",
+      "description": "arXiv:2606.14892v1 Announce Type: new \nAbstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also combinatorial, supporting generalization to unseen combinations of objects. In this work, we formally study when and how such a model can be learned. We develop relational structural causal models, extending structural causal models (Pearl 2009) to settings where objects and their relations vary. Fi",
+      "pubDate": "2026-06-16T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 5,
-      "title_zh": "Orchestra-o1: Omnimodal Agent Orchestration"
-    },
-    {
-      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-      "link": "https://arxiv.org/abs/2606.13683",
-      "description": "arXiv:2606.13683v1 Announce Type: new \nAbstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper proposes a User Portrait based Nested Rollout Policy Adaptation (UP-NRPA) online framework with Large Language Models. In contrast to conventional approaches dependent on model training and require offline reinforcement learning policy models for user groups, UP-NRPA enables dynamic customization of dialo",
-      "pubDate": "2026-06-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems"
-    },
-    {
-      "title": "WorkBench Revisited: Workplace Agents Two Years On",
-      "link": "https://arxiv.org/abs/2606.13715",
-      "description": "arXiv:2606.13715v1 Announce Type: new \nAbstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26% of them. We re-visit the benchmark in June 2026 and find that the best agent to date, Claude Opus 4.8, completes 89% and takes an unintended harmful action on 2.5%. Aside from this considerable progress in frontier agent performance, three things stand out. First, capability and safety go togethe",
-      "pubDate": "2026-06-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "WorkBench Revisited: Workplace Agents Two Years On"
+      "title_zh": "Relational Structural Causal Models"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-06-16T03:01:20.742Z",
+    "generatedAt": "2026-06-16T05:45:21.147Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.5
+    "averageScore": 17.6875
   }
 }
