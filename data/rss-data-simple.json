@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
-      "title_zh": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
-      "description": "arXiv:2606.15078v1 Announce Type: new \nAbstract: We develop a formal theory of cognitive debt: the stock of unverified reasoning obligations that accumulates when individuals use AI as a substitute rather than a complement for first-principles cognition. The model features two state variables per agent, cognitive capital and cognitive debt, and a multiplicative production technology in which cognitive capital functions as collateral that determines the return to AI adoption. We establish six pro",
-      "link": "https://arxiv.org/abs/2606.15078",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-06-16"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -17,15 +8,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
-      "title_zh": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
-      "description": "arXiv:2606.14997v1 Announce Type: new \nAbstract: Memory formation is fundamental to intelligence, yet whether deep neural networks preserve identifiable memory traces analogous to biological memory units remains an open question. This work introduces a geometric framework to identify such \"AI engrams\" by formalizing the neuroscientific criteria of specificity, reactivation, sufficiency, and necessity into a constrained inverse problem. We derive a closed-form estimator that isolates individual m",
-      "link": "https://arxiv.org/abs/2606.14997",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-06-16"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -46,15 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-      "title_zh": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-      "description": "arXiv:2606.14838v1 Announce Type: new \nAbstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI systems, we must first have an understanding of what good explanations are. In this paper we propose a definition inspired by the notion of counterfactual explanations, however we argue that one must ",
-      "link": "https://arxiv.org/abs/2606.14838",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-06-16"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -62,6 +35,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+      "title_zh": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+      "description": "arXiv:2606.17405v1 Announce Type: new \nAbstract: Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict safety constraints. We present an online adaptive framework that integrates Treatment Effect (TE) estimation to quantify clinical benefits, a patient Digital Twin (DT) to simulate treatment trajectories, and Reinforcement Learning (RL) for sequential decision-making. The AI system is initially trained on historical medical ",
+      "link": "https://arxiv.org/abs/2606.17405",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-17"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -100,49 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
-      "title_zh": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
-      "description": "arXiv:2606.14923v1 Announce Type: new \nAbstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative survival game, checking a teammate's work consumes resources, while trusting a wrong answer can be fatal. Relative to a memoryless version of the same model, reduced verification provides an observabl",
-      "link": "https://arxiv.org/abs/2606.14923",
+      "title": "Nothing from Something: Can a Language Model Discover 0?",
+      "title_zh": "Nothing from Something: Can a Language Model Discover 0?",
+      "description": "arXiv:2606.17289v1 Announce Type: new \nAbstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery requires a strong form of out of distribution generalization; the ability to hypothesize genuinely new - and potentially logically more powerful - mathematical structures. It has been hypothesized th",
+      "link": "https://arxiv.org/abs/2606.17289",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
-      "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
-      "title_zh": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
-      "description": "arXiv:2606.14935v1 Announce Type: new \nAbstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through extended internal reasoning scales poorly. Symbolic delegation offers a complementary route: a language model translates the problem, while a solver performs the inference. However, current autoformalization pipelines for logic programming are typically bespoke integrations tied to particular tasks or agents. We introduce P",
-      "link": "https://arxiv.org/abs/2606.14935",
+      "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+      "title_zh": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+      "description": "arXiv:2606.17339v1 Announce Type: new \nAbstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal systems. Current clinical speech AI methods have largely progressed through isolated condition-specific studies, making results difficult to compare and generalization difficult to assess. We introduce SpeechDx, a large-scale benchmark for clinical speech AI spanning 12 datasets and 27 tasks across diverse health condition",
+      "link": "https://arxiv.org/abs/2606.17339",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
-      "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
-      "title_zh": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
-      "description": "arXiv:2606.15029v1 Announce Type: new \nAbstract: LLM judges are used to reduce the need for costly human labor in evaluating open-ended text generation. However, the reliability of these judges depends critically on their alignment with human raters -- a property that itself depends on costly human annotations. In this work, we develop a method (Metric Match) for estimating correlation-based reliability metrics of LLM judges from limited annotations. Metric Match selects a subset of samples for ",
-      "link": "https://arxiv.org/abs/2606.15029",
+      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+      "title_zh": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+      "description": "arXiv:2606.17220v1 Announce Type: new \nAbstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to serve as a strong baseline in this domain. It motivates us to propose a self-evolving framework for rule-driven query rewriting that enhances BM25 without any parameter training. Th",
+      "link": "https://arxiv.org/abs/2606.17220",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
-      "title": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
-      "title_zh": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
-      "description": "arXiv:2606.15077v1 Announce Type: new \nAbstract: We present an LLM-driven framework for retrieving remote sensing data from cloud-based geospatial catalogues using natural language queries. The system converts user intent into structured API calls, enabling efficient access to satellite imagery and environmental datasets. The architecture integrates three agents: Guardrail for safety and policy enforcement, General-QA for intent interpretation, and Recommender-Analyst for schema-aware API call g",
-      "link": "https://arxiv.org/abs/2606.15077",
+      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+      "title_zh": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+      "description": "arXiv:2606.17443v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands compete in this new channel. We study brand dynamics in LLM recommendations using skincare products -- a category where consumers cannot easily judge quality before buying and must rely on brand reputation -- across three commercial LLMs (GPT-4o-mini, Claude Sonnet, Gemini 3 Flash), with a robustness check on search goods. ",
+      "link": "https://arxiv.org/abs/2606.17443",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
     },
     {
-      "title": "Relational Structural Causal Models",
-      "title_zh": "Relational Structural Causal Models",
-      "description": "arXiv:2606.14892v1 Announce Type: new \nAbstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and counterfactuals, and also combinatorial, supporting generalization to unseen combinations of objects. In this work, we formally study when and how such a model can be learned. We develop relational structural causal models, extending structural causal models (Pearl 2009) to settings where objects and their relations vary. Fi",
-      "link": "https://arxiv.org/abs/2606.14892",
+      "title": "Dissecting model behavior through agent trajectories",
+      "title_zh": "Dissecting model behavior through agent trajectories",
+      "description": "arXiv:2606.17454v1 Announce Type: new \nAbstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model assumptions and harness behavior can easily prevent the model's full capabilities from translating into agent performance. We formalize this as the `intent-execution' gap: the mismatch between what the model intends and what the harness executes, and vic",
+      "link": "https://arxiv.org/abs/2606.17454",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-16"
+      "date": "2026-06-17"
+    },
+    {
+      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+      "title_zh": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
+      "description": "arXiv:2606.17312v1 Announce Type: new \nAbstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a failure mode especially prevalent in multi-step deductive reasoning. Existing methods assess reliability primarily through output dispersion -- measuring how much sampled answers differ -- but this discards a complementary signal: whether the model can consistently rank competing reasoning candidates.",
+      "link": "https://arxiv.org/abs/2606.17312",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+      "title_zh": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
+      "description": "arXiv:2606.17328v1 Announce Type: new \nAbstract: LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggregating accuracy over question rows or episodes. Because this approach scores question rows independently, even when several questions probe the same fact, it cannot show how that fact behaves as conditions change. We introduce MemTrace, a benchmark whose unit of measurement is the knowledge point: a single typed fact about ",
+      "link": "https://arxiv.org/abs/2606.17328",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-17"
     }
   ]
 }
