@@ -28,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+      "title_zh": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+      "description": "arXiv:2606.18413v1 Announce Type: new \nAbstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual expertise. We study shared-workspace human-AI teams, where AI agents and human collaborators must coordinate responsibilities before submitting a final answer. Using the Collaborative Gym environment with DiscoveryBench tasks, we examine when adding simulated human collaborators improves performance and when process loss t",
+      "link": "https://arxiv.org/abs/2606.18413",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-18"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -35,15 +44,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-      "title_zh": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-      "description": "arXiv:2606.17405v1 Announce Type: new \nAbstract: Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict safety constraints. We present an online adaptive framework that integrates Treatment Effect (TE) estimation to quantify clinical benefits, a patient Digital Twin (DT) to simulate treatment trajectories, and Reinforcement Learning (RL) for sequential decision-making. The AI system is initially trained on historical medical ",
-      "link": "https://arxiv.org/abs/2606.17405",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-06-17"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -82,67 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Nothing from Something: Can a Language Model Discover 0?",
-      "title_zh": "Nothing from Something: Can a Language Model Discover 0?",
-      "description": "arXiv:2606.17289v1 Announce Type: new \nAbstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery requires a strong form of out of distribution generalization; the ability to hypothesize genuinely new - and potentially logically more powerful - mathematical structures. It has been hypothesized th",
-      "link": "https://arxiv.org/abs/2606.17289",
+      "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
+      "title_zh": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
+      "description": "arXiv:2606.18874v1 Announce Type: new \nAbstract: AI systems can increasingly automate scientific workflows, but the reasoning that links prior evidence, generated ideas, experiments and final claims often remains implicit inside model inference. Here we introduce Xcientist, a research harness that externalizes research synthesis and experimental validation into inspectable, contract-governed processes. Xcientist organizes literature evidence, idea states, implementation plans, ablation records a",
+      "link": "https://arxiv.org/abs/2606.18874",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
-      "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-      "title_zh": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-      "description": "arXiv:2606.17339v1 Announce Type: new \nAbstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal systems. Current clinical speech AI methods have largely progressed through isolated condition-specific studies, making results difficult to compare and generalization difficult to assess. We introduce SpeechDx, a large-scale benchmark for clinical speech AI spanning 12 datasets and 27 tasks across diverse health condition",
-      "link": "https://arxiv.org/abs/2606.17339",
+      "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+      "title_zh": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+      "description": "arXiv:2606.18803v1 Announce Type: new \nAbstract: Bringing Large Language Models (LLMs) into industrial ride-hailing dispatch as semantic feature extractors over platform-scale behavioral logs is a compelling but under-explored data systems problem. Production matching pipelines remain dominated by structured numerical features, yet decisive behavioral signals (e.g., a driver's habitual aversion to certain regions) are inherently contextual and naturally expressible as LLM-generated user profiles",
+      "link": "https://arxiv.org/abs/2606.18803",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
-      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-      "title_zh": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-      "description": "arXiv:2606.17220v1 Announce Type: new \nAbstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to serve as a strong baseline in this domain. It motivates us to propose a self-evolving framework for rule-driven query rewriting that enhances BM25 without any parameter training. Th",
-      "link": "https://arxiv.org/abs/2606.17220",
+      "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+      "title_zh": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+      "description": "arXiv:2606.18786v1 Announce Type: new \nAbstract: Robot soccer is a challenging testbed for multi-agent reinforcement learning because it combines partial observability, cooperative and adversarial interaction, sparse rewards, and long-horizon tactical behavior. RoboCup 2D Soccer Simulation (RCSS2D) provides a mature robot-soccer platform, but its competition-oriented server-client architecture is difficult to use directly with modern Python-based MARL workflows. We introduce R2D-RL, a reinforcem",
+      "link": "https://arxiv.org/abs/2606.18786",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
-      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-      "title_zh": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-      "description": "arXiv:2606.17443v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands compete in this new channel. We study brand dynamics in LLM recommendations using skincare products -- a category where consumers cannot easily judge quality before buying and must rely on brand reputation -- across three commercial LLMs (GPT-4o-mini, Claude Sonnet, Gemini 3 Flash), with a robustness check on search goods. ",
-      "link": "https://arxiv.org/abs/2606.17443",
+      "title": "Generative-Model Predictive Planning for Navigation in Partially Observable Environments",
+      "title_zh": "Generative-Model Predictive Planning for Navigation in Partially Observable Environments",
+      "description": "arXiv:2606.18888v1 Announce Type: new \nAbstract: Navigation in partially observable environments presents a significant challenge for autonomous agents, requiring effective decision-making with limited sensory information in unknown environments. Belief-based methods, particularly those using neural networks to approximate the belief space, often fail to capture the inherent multimodality of belief spaces, especially in high-dimensional cases with perceptual aliasing. While generative models pre",
+      "link": "https://arxiv.org/abs/2606.18888",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
-      "title": "Dissecting model behavior through agent trajectories",
-      "title_zh": "Dissecting model behavior through agent trajectories",
-      "description": "arXiv:2606.17454v1 Announce Type: new \nAbstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model assumptions and harness behavior can easily prevent the model's full capabilities from translating into agent performance. We formalize this as the `intent-execution' gap: the mismatch between what the model intends and what the harness executes, and vic",
-      "link": "https://arxiv.org/abs/2606.17454",
+      "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+      "title_zh": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+      "description": "arXiv:2606.18686v1 Announce Type: new \nAbstract: Forecasting benchmarks for general-purpose AI systems usually inherit the constraints of the real world: outcomes resolve slowly, tail events are rare, and counterfactual questions are difficult to score. We introduce ForecastBench-Sim, a simulated-world forecasting benchmark built on game rollouts from Freeciv, a turn-based strategy game modelled on the Civilization series. Forecasters receive a fixed world report (a structured snapshot of the cu",
+      "link": "https://arxiv.org/abs/2606.18686",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
-      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-      "title_zh": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-      "description": "arXiv:2606.17312v1 Announce Type: new \nAbstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a failure mode especially prevalent in multi-step deductive reasoning. Existing methods assess reliability primarily through output dispersion -- measuring how much sampled answers differ -- but this discards a complementary signal: whether the model can consistently rank competing reasoning candidates.",
-      "link": "https://arxiv.org/abs/2606.17312",
+      "title": "SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety",
+      "title_zh": "SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety",
+      "description": "arXiv:2606.18936v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly embedded in AI for Science (AI4Science) workflows, from scientific question answering and literature analysis to laboratory planning and autonomous discovery. This progress creates an urgent need for safety benchmarks that evaluate not only scientific competence, but also whether models recognize and avoid risks in high-stakes scientific contexts. Existing AI4Science safety datasets cover several disci",
+      "link": "https://arxiv.org/abs/2606.18936",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
-      "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-      "title_zh": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-      "description": "arXiv:2606.17328v1 Announce Type: new \nAbstract: LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggregating accuracy over question rows or episodes. Because this approach scores question rows independently, even when several questions probe the same fact, it cannot show how that fact behaves as conditions change. We introduce MemTrace, a benchmark whose unit of measurement is the knowledge point: a single typed fact about ",
-      "link": "https://arxiv.org/abs/2606.17328",
+      "title": "CEO-Bench: Can Agents Play the Long Game?",
+      "title_zh": "CEO-Bench: Can Agents Play the Long Game?",
+      "description": "arXiv:2606.18543v1 Announce Type: new \nAbstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticated skills that remain largely untested in agents: (1) navigating long horizons amid uncertainty; (2) acquiring information in noisy environments; (3) adapting to a changing world; (4) orchestrating multiple moving parts toward a coherent goal. We in",
+      "link": "https://arxiv.org/abs/2606.18543",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     }
   ]
 }
