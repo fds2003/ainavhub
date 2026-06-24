@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+      "title_zh": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+      "description": "arXiv:2606.24099v1 Announce Type: new \nAbstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in papers are often used to indicate popularity and influence, existing studies usually evaluate individual algorithms in isolation and pay limited attention to the collective influence formed through their interconnections. This study constructs large-scale algorithm co-occurrence networks in natural language processing (N",
+      "link": "https://arxiv.org/abs/2606.24099",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -37,6 +46,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "Critique of Agent Model",
+      "title_zh": "Critique of Agent Model",
+      "description": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both",
+      "link": "https://arxiv.org/abs/2606.23991",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -71,6 +89,60 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "title_zh": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "description": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming th",
+      "link": "https://arxiv.org/abs/2606.23927",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "title_zh": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "description": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent al",
+      "link": "https://arxiv.org/abs/2606.24014",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "title_zh": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "description": "arXiv:2606.24047v1 Announce Type: new \nAbstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hardship further increases their psychological risk. Current machine learning (ML) models are typically ineffective at capturing the high-dimensional and complex risk patterns that exist in this marginalized group. This paper suggests a hybrid predictive model that merges an ensemble",
+      "link": "https://arxiv.org/abs/2606.24047",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "title_zh": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "description": "arXiv:2606.24112v1 Announce Type: new \nAbstract: Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, several images, mixed provenance, and subtle text--image framing errors. Existing benchmarks and methods remain poorly matched to this setting: they usually isolate short captions, single images, binary labels, or one manipulation source, while agentic verification remains costly under realistic evidence search. We present Re",
+      "link": "https://arxiv.org/abs/2606.24112",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "title_zh": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "description": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded re",
+      "link": "https://arxiv.org/abs/2606.23938",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "title_zh": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "description": "arXiv:2606.24064v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer rather than how to reason. This trajectory-level imitation encourages memorization of instance-specific steps rather than acquisition of transferable problem-solving skills, limiting generalization to novel problems. We propose Strategy-Guided Policy Optimization (SGPO), which re",
+      "link": "https://arxiv.org/abs/2606.24064",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-06-24"
     }
   ]
 }
