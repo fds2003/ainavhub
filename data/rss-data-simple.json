@@ -1,73 +1,145 @@
 {
   "articles": [
     {
-      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-      "title_zh": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-      "description": "arXiv:2606.24937v1 Announce Type: new \nAbstract: The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, organized around a central thesis: building great agentic systems requires understanding every layer of the pipeline, not just one. The book opens with the LLM substrate -- transformer architecture, GPU systems, training and fine-tuning (SFT,LoRA, MoE), m",
-      "link": "https://arxiv.org/abs/2606.24937",
+      "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+      "title_zh": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+      "description": "arXiv:2606.24099v1 Announce Type: new \nAbstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in papers are often used to indicate popularity and influence, existing studies usually evaluate individual algorithms in isolation and pay limited attention to the collective influence formed through their interconnections. This study constructs large-scale algorithm co-occurrence networks in natural language processing (N",
+      "link": "https://arxiv.org/abs/2606.24099",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
     },
     {
-      "title": "Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty",
-      "title_zh": "Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty",
-      "description": "arXiv:2606.25198v1 Announce Type: new \nAbstract: Autonomous AI Research promises to accelerate the scientific progress of machine learning. To realise this goal, current Large Language Model (LLM)-based agents need to go beyond just writing code, to mastering the exploration of simultaneously performant, diverse and novel ideas. To this end, we introduce Heuresis, a framework that abstracts the research pipeline into a set of general and composable primitives, enabling open-ended scientific expl",
-      "link": "https://arxiv.org/abs/2606.25198",
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Best Practices for Building the AI Development Platform in Government",
+      "title_zh": "Best Practices for Building the AI Development Platform in Government",
+      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "Critique of Agent Model",
+      "title_zh": "Critique of Agent Model",
+      "description": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both",
+      "link": "https://arxiv.org/abs/2606.23991",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
     },
     {
-      "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
-      "title_zh": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
-      "description": "arXiv:2606.25108v1 Announce Type: new \nAbstract: Autonomous AI systems are transitioning from advisory to autonomous roles for medication prescriptions. Recent United States bill H.R. 238 and Utah's prescription-renewal pilot both authorize AI to prescribe medications in an agentic capacity. While some regulatory guidelines suggest aggregate model performance metrics for clearance, they do not require i) calibrated per-prediction confidence for action-gated thresholds, ii) differentiated communi",
-      "link": "https://arxiv.org/abs/2606.25108",
+      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
+      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "title_zh": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "description": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming th",
+      "link": "https://arxiv.org/abs/2606.23927",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
     },
     {
-      "title": "Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions",
-      "title_zh": "Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions",
-      "description": "arXiv:2606.25396v1 Announce Type: new \nAbstract: AI companions powered by large language models increasingly interact with cognition-developing users, including children and adolescents, creating risks that may accumulate over time. Existing safety evaluations largely rely on single-turn or short-session tests, which cannot capture risks that emerge only through prolonged interaction. To address this gap, we propose TSJ (Theater-Stage-Judge), a longitudinal framework combining persona-driven use",
-      "link": "https://arxiv.org/abs/2606.25396",
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "title_zh": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "description": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent al",
+      "link": "https://arxiv.org/abs/2606.24014",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
     },
     {
-      "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
-      "title_zh": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
-      "description": "arXiv:2606.25358v1 Announce Type: new \nAbstract: Assessing financial literacy during gameplay without disrupting the learning experience remains a key challenge in serious games for education. We present the Agentic BKT pipeline, a multi-agent large language model architecture for stealth assessment of financial competencies from open-ended gameplay events. The pipeline processes events from a 2D platformer serious game aligned with the OECD/INFE financial literacy framework through four phases:",
-      "link": "https://arxiv.org/abs/2606.25358",
+      "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "title_zh": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "description": "arXiv:2606.24047v1 Announce Type: new \nAbstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hardship further increases their psychological risk. Current machine learning (ML) models are typically ineffective at capturing the high-dimensional and complex risk patterns that exist in this marginalized group. This paper suggests a hybrid predictive model that merges an ensemble",
+      "link": "https://arxiv.org/abs/2606.24047",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
     },
     {
-      "title": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
-      "title_zh": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
-      "description": "arXiv:2606.25103v1 Announce Type: new \nAbstract: We address the problem of explainability in machine learning models through feature attribution methods. In particular, we consider a variant of Shapley values known as Asymmetric Shapley Values (ASV), which enables the incorporation of causal knowledge into model-agnostic explanations through the use of a causal graph. We show that in certain contexts in which the computation of SHAP is $\\#P$-hard, the exact computation of ASV can be done in poly",
-      "link": "https://arxiv.org/abs/2606.25103",
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "title_zh": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "description": "arXiv:2606.24112v1 Announce Type: new \nAbstract: Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, several images, mixed provenance, and subtle text--image framing errors. Existing benchmarks and methods remain poorly matched to this setting: they usually isolate short captions, single images, binary labels, or one manipulation source, while agentic verification remains costly under realistic evidence search. We present Re",
+      "link": "https://arxiv.org/abs/2606.24112",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
     },
     {
-      "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
-      "title_zh": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
-      "description": "arXiv:2606.25161v1 Announce Type: new \nAbstract: Large language model (LLM) agents rely on long-term memory to support extended interactions and personalized assistance beyond finite context windows. Existing memory agents actively update external memory through generated write, revise, and delete operations, but these updates may omit important information, corrupt existing memory, or introduce unsupported hallucinated content. Once stored, such errors become persistent system-state failures th",
-      "link": "https://arxiv.org/abs/2606.25161",
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "title_zh": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "description": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded re",
+      "link": "https://arxiv.org/abs/2606.23938",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
     },
     {
-      "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
-      "title_zh": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
-      "description": "arXiv:2606.24965v1 Announce Type: new \nAbstract: Reasoning about relational structures remains a significant challenge for neural models, particularly when they must systematically apply learned knowledge to problem instances that are harder than those seen in training. Progress is hampered by the difficulty of evaluating such generalization, since a priori, it is rarely clear what makes an instance hard. We study how this issue can be addressed by using large language models (LLMs) to automate ",
-      "link": "https://arxiv.org/abs/2606.24965",
+      "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "title_zh": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "description": "arXiv:2606.24064v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer rather than how to reason. This trajectory-level imitation encourages memorization of instance-specific steps rather than acquisition of transferable problem-solving skills, limiting generalization to novel problems. We propose Strategy-Guided Policy Optimization (SGPO), which re",
+      "link": "https://arxiv.org/abs/2606.24064",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "date": "2026-06-25"
