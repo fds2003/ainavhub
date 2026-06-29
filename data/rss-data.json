@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+      "link": "https://arxiv.org/abs/2606.27619",
+      "description": "arXiv:2606.27619v1 Announce Type: new \nAbstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper proposes DysLexLens, a low-resource LLM framework, designed to analyse dyslexic learners experience with AI through online forum discussions. DysLexLens is designed as an end-to-end, evidence-traceable architecture which t",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 29,
+      "title_zh": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -29,6 +39,16 @@
       "category": "行业趋势",
       "aiScore": 24,
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
+    },
+    {
+      "title": "AI-Model Network: Concept, Current State and Future",
+      "link": "https://arxiv.org/abs/2606.27382",
+      "description": "arXiv:2606.27382v1 Announce Type: new \nAbstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. The rapid development of the Internet, cloud computing, and big data is pushing artificial intelligence into the era of large models (LMs). However, the practical application of LMs is currently hindered by high training co",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 23.5,
+      "title_zh": "AI-Model Network: Concept, Current State and Future"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -79,11 +99,71 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+      "link": "https://arxiv.org/abs/2606.27806",
+      "description": "arXiv:2606.27806v1 Announce Type: new \nAbstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in language, but its errors appear as hallucinated state changes that are hard to score with ordinary regression losses. A parameterized world model is a trained transition predictor; its errors are easier to measure with quantities such as NodeMSE, delta accuracy, and validity accuracy, but it is usually weaker as a standalo",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 15,
+      "title_zh": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents"
+    },
+    {
+      "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+      "link": "https://arxiv.org/abs/2606.27757",
+      "description": "arXiv:2606.27757v1 Announce Type: new \nAbstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critical security concerns regarding robustness and reliability. Planning, a core component of intelligent behavior, remains challenging for LLMs, which often produce infeasible or incorrect solutions in long-horizon decision-making tasks due to inherent complexity. In this paper, we propose a symbolic feedback-driven iterative ",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 13,
+      "title_zh": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework"
+    },
+    {
+      "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+      "link": "https://arxiv.org/abs/2606.27736",
+      "description": "arXiv:2606.27736v1 Announce Type: new \nAbstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poisoning allows adversarially crafted content to be systematically surfaced by retrieval systems, contaminating LLM reasoning. In this paper, we propose Tree of Evidence (ToE), a hierarchical evidence reasoning framework for automated fact-checking that models each claim as a dynami",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 11,
+      "title_zh": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation"
+    },
+    {
+      "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+      "link": "https://arxiv.org/abs/2606.27483",
+      "description": "arXiv:2606.27483v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike humans who employ \"what-if\" reasoning to evaluate potential plans before commitment, standard agents lack an internal world model to simulate future outcomes. Therefore, we propose to internalize future-aware planning by training a single autoregressive model to verbalize both a ",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning"
+    },
+    {
+      "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+      "link": "https://arxiv.org/abs/2606.27443",
+      "description": "arXiv:2606.27443v1 Announce Type: new \nAbstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce adversarial language, while those prompted with high agreeableness become cooperative, but the relationship between communication style and task performance has not been systematically examined across multiple domains. In t",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "When Does Personality Composition Matter for Multi-Agent LLM Teams?"
+    },
+    {
+      "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+      "link": "https://arxiv.org/abs/2606.27593",
+      "description": "arXiv:2606.27593v1 Announce Type: new \nAbstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: building-block architectural components that specify a cover of local contexts, local representation families, restriction maps, gluing rules, obstruction policies, update obligations, and human-facing views. A foundry is an organized sheaf of knowledge that carries within it an argumentation compo",
+      "pubDate": "2026-06-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-06-29T03:00:42.540Z",
+    "totalCount": 16,
+    "generatedAt": "2026-06-29T05:29:50.952Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 16.65625
   }
 }
