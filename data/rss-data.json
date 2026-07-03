@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
-      "link": "https://arxiv.org/abs/2607.00211",
-      "description": "arXiv:2607.00211v1 Announce Type: new \nAbstract: Epistemic thinking plays a central role in students' learning processes when applying generative artificial intelligence (GenAI), particularly in programming contexts where learners must construct queries, evaluate and validate AI-generated outputs, and regulate problem-solving strategies. This study introduces the conceptual framework of Epistemic AI Literacy (EAIL), reframing AI literacy as a process-oriented epistemic phenomenon that emerges th",
-      "pubDate": "2026-07-02T04:00:00.000Z",
+      "title": "The Agentic Garden of Forking Paths",
+      "link": "https://arxiv.org/abs/2607.01507",
+      "description": "arXiv:2607.01507v1 Announce Type: new \nAbstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden forking paths are difficult to observe. We show that AI agents capture much of the analytical variation among human researchers while making these paths explicit. Across four high-stakes domains, assigning different personas is sufficient for AI agents to report divergent, often opposing, conclusio",
+      "pubDate": "2026-07-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 33,
-      "title_zh": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming"
+      "aiScore": 28,
+      "title_zh": "The Agentic Garden of Forking Paths"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,16 +19,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-      "link": "https://arxiv.org/abs/2607.00001",
-      "description": "arXiv:2607.00001v1 Announce Type: new \nAbstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, dynamic, and constructed through interaction--particularly with adaptive technologies. As AI systems become more persistent, personalized, and socially embedded, they increasingly participate in shaping what people attend to, value, and endorse over ",
-      "pubDate": "2026-07-02T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 24,
-      "title_zh": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -101,69 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
-      "link": "https://arxiv.org/abs/2607.00155",
-      "description": "arXiv:2607.00155v1 Announce Type: new \nAbstract: We study runtime human oversight of an AI agent when private information runs in both directions: the human privately knows her reward function, while the AI privately knows the quality of the action it proposes. This is the kind of asymmetry that arises naturally when an autonomous robot or software agent has inspected a situation its human supervisor cannot directly assess. Building on Cooperative Inverse Reinforcement Learning (CIRL) and the Ov",
-      "pubDate": "2026-07-02T04:00:00.000Z",
+      "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+      "link": "https://arxiv.org/abs/2607.01584",
+      "description": "arXiv:2607.01584v1 Announce Type: new \nAbstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA Earth Observation Knowledge Graph. A heterogeneous graph neural network trained on historical co-usage relations ranks candidate dataset pairings, and a three-agent LLM pipeline f",
+      "pubDate": "2026-07-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 14,
-      "title_zh": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry"
+      "aiScore": 15,
+      "title_zh": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation"
     },
     {
-      "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
-      "link": "https://arxiv.org/abs/2607.00035",
-      "description": "arXiv:2607.00035v1 Announce Type: new \nAbstract: LLMs and agents can generate web scrapers from natural-language requirements, but direct generation remains unreliable because of dependency errors, broken selectors, schema mismatches, and heterogeneous page structures. We propose a constrained, verifiable agent framework that shifts LLM output from free-form code to typed JSON collector configurations, combining a six-type collector taxonomy, template and utility-function constraints, static Air",
-      "pubDate": "2026-07-02T04:00:00.000Z",
+      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+      "link": "https://arxiv.org/abs/2607.01306",
+      "description": "arXiv:2607.01306v1 Announce Type: new \nAbstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining da",
+      "pubDate": "2026-07-03T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations"
+    },
+    {
+      "title": "Janus: a Playground for User-Involved Agentic Permission Management",
+      "link": "https://arxiv.org/abs/2607.01510",
+      "description": "arXiv:2607.01510v1 Announce Type: new \nAbstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and what role should they play? Despite many proposed approaches, the user's role in agentic permission management remains under explored. We introduce Janus, a playground system for implementing and evaluating user-involved agentic permission management designs. Janus consists of two components: Janus",
+      "pubDate": "2026-07-03T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Janus: a Playground for User-Involved Agentic Permission Management"
+    },
+    {
+      "title": "The Wiola Architecture for Efficient Small Language Models",
+      "link": "https://arxiv.org/abs/2607.01394",
+      "description": "arXiv:2607.01394v1 Announce Type: new \nAbstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing model family including GPT, LLaMA, Mistral, or Falcon. Wiola introduces five independently novel components: (i) Spiral Rotary Positional Encoding (SRPE), which embeds token positions on a three-dimensional helical manifold combining absolute, relative, and hierarchical positional signals; (ii) Gat",
+      "pubDate": "2026-07-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection"
+      "title_zh": "The Wiola Architecture for Efficient Small Language Models"
     },
     {
-      "title": "Solution space path planning for supporting en-route air traffic control",
-      "link": "https://arxiv.org/abs/2607.00064",
-      "description": "arXiv:2607.00064v1 Announce Type: new \nAbstract: As technology advances, many path-planning algorithms have been proposed for Air Traffic Management, yet their operational adoption in tactical control remains limited, revealing a misalignment between algorithmic design priorities and air traffic controllers' needs. This underscores the need for decision-support solutions that are inherently interpretable, computationally efficient, and explicitly designed for human use. Focusing on this design c",
-      "pubDate": "2026-07-02T04:00:00.000Z",
+      "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+      "link": "https://arxiv.org/abs/2607.01433",
+      "description": "arXiv:2607.01433v1 Announce Type: new \nAbstract: Divergent thinking is a crucial aspect of creativity, yet large language models (LLMs) tend to consistently generate similar responses to open-ended questions, in what has been termed the artificial hivemind effect. Here, we introduce CreativityNeuro, a data-free method for enhancing divergent thinking in LLMs via contrastive weight steering. We evaluate our method across multiple creativity assessments and report several main findings. On the Div",
+      "pubDate": "2026-07-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Solution space path planning for supporting en-route air traffic control"
+      "aiScore": 3,
+      "title_zh": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse"
     },
     {
-      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-      "link": "https://arxiv.org/abs/2607.00147",
-      "description": "arXiv:2607.00147v1 Announce Type: new \nAbstract: Rare disease differential diagnosis is a critical yet arduous clinical task, requiring physicians to identify precise phenotypes from complex, unstructured patient symptoms and execute intricate reasoning within a vast search space. However, existing AI approaches typically rely on pipeline-based phenotype extraction or retrieval-augmented generation, which suffer from critical information loss due to predefined ontologies, retrieval bottlenecks, ",
-      "pubDate": "2026-07-02T04:00:00.000Z",
+      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+      "link": "https://arxiv.org/abs/2607.01436",
+      "description": "arXiv:2607.01436v1 Announce Type: new \nAbstract: Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medical foundation models, however, remain almost entirely autoregressive. We adapt a mixture-of-experts diffusion language model, DiffusionGemma-26B, and benchmark it against its same-size AR sibling Gemma-4-26B under an identical LoRA recipe on medical vi",
+      "pubDate": "2026-07-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation"
+      "aiScore": 3,
+      "title_zh": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting"
     },
     {
-      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
-      "link": "https://arxiv.org/abs/2607.00233",
-      "description": "arXiv:2607.00233v1 Announce Type: new \nAbstract: How do two agents invent a shared language from scratch? In a Lewis signaling game, a sender and receiver must coordinate on a code using only their interaction history. We study five memory architectures across varying channel configurations with LLM agents and find that memory architecture matters more than channel capacity. Agents with a persistent private notebook benefit from surplus channel capacity and avoid the high-capacity collapse seen ",
-      "pubDate": "2026-07-02T04:00:00.000Z",
+      "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+      "link": "https://arxiv.org/abs/2607.01531",
+      "description": "arXiv:2607.01531v1 Announce Type: new \nAbstract: Learning how an environment behaves from interaction is central to building agents that adapt to unfamiliar tasks. World models learned with deep networks are flexible but data-hungry and transfer poorly beyond their training distribution. Program-synthesized world models, written as source code by LLMs and refined through counterexample-guided inductive synthesis (CEGIS), are instead data-efficient and reusable, yet they have been demonstrated ma",
+      "pubDate": "2026-07-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents"
-    },
-    {
-      "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
-      "link": "https://arxiv.org/abs/2607.00032",
-      "description": "arXiv:2607.00032v1 Announce Type: new \nAbstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-scale dissemination, the document-centric organisation constrains how knowledge can be structured, updated, shared, and reused. Formal approaches address some of these limitations but struggle to achieve widespread contribution and adoption due to their prioritisation of formal structure over other ",
-      "pubDate": "2026-07-02T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons"
+      "aiScore": 3,
+      "title_zh": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-07-03T02:22:27.012Z",
+    "generatedAt": "2026-07-03T06:18:57.977Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 16.25
+    "averageScore": 14.9375
   }
 }
