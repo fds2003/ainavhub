@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "The Agentic Garden of Forking Paths",
-      "link": "https://arxiv.org/abs/2607.01507",
-      "description": "arXiv:2607.01507v1 Announce Type: new \nAbstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden forking paths are difficult to observe. We show that AI agents capture much of the analytical variation among human researchers while making these paths explicit. Across four high-stakes domains, assigning different personas is sufficient for AI agents to report divergent, often opposing, conclusio",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 28,
-      "title_zh": "The Agentic Garden of Forking Paths"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -89,81 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
-      "link": "https://arxiv.org/abs/2607.01584",
-      "description": "arXiv:2607.01584v1 Announce Type: new \nAbstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA Earth Observation Knowledge Graph. A heterogeneous graph neural network trained on historical co-usage relations ranks candidate dataset pairings, and a three-agent LLM pipeline f",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation"
-    },
-    {
-      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-      "link": "https://arxiv.org/abs/2607.01306",
-      "description": "arXiv:2607.01306v1 Announce Type: new \nAbstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining da",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations"
-    },
-    {
-      "title": "Janus: a Playground for User-Involved Agentic Permission Management",
-      "link": "https://arxiv.org/abs/2607.01510",
-      "description": "arXiv:2607.01510v1 Announce Type: new \nAbstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and what role should they play? Despite many proposed approaches, the user's role in agentic permission management remains under explored. We introduce Janus, a playground system for implementing and evaluating user-involved agentic permission management designs. Janus consists of two components: Janus",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Janus: a Playground for User-Involved Agentic Permission Management"
-    },
-    {
-      "title": "The Wiola Architecture for Efficient Small Language Models",
-      "link": "https://arxiv.org/abs/2607.01394",
-      "description": "arXiv:2607.01394v1 Announce Type: new \nAbstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing model family including GPT, LLaMA, Mistral, or Falcon. Wiola introduces five independently novel components: (i) Spiral Rotary Positional Encoding (SRPE), which embeds token positions on a three-dimensional helical manifold combining absolute, relative, and hierarchical positional signals; (ii) Gat",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "The Wiola Architecture for Efficient Small Language Models"
-    },
-    {
-      "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
-      "link": "https://arxiv.org/abs/2607.01433",
-      "description": "arXiv:2607.01433v1 Announce Type: new \nAbstract: Divergent thinking is a crucial aspect of creativity, yet large language models (LLMs) tend to consistently generate similar responses to open-ended questions, in what has been termed the artificial hivemind effect. Here, we introduce CreativityNeuro, a data-free method for enhancing divergent thinking in LLMs via contrastive weight steering. We evaluate our method across multiple creativity assessments and report several main findings. On the Div",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse"
-    },
-    {
-      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-      "link": "https://arxiv.org/abs/2607.01436",
-      "description": "arXiv:2607.01436v1 Announce Type: new \nAbstract: Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medical foundation models, however, remain almost entirely autoregressive. We adapt a mixture-of-experts diffusion language model, DiffusionGemma-26B, and benchmark it against its same-size AR sibling Gemma-4-26B under an identical LoRA recipe on medical vi",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting"
-    },
-    {
-      "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
-      "link": "https://arxiv.org/abs/2607.01531",
-      "description": "arXiv:2607.01531v1 Announce Type: new \nAbstract: Learning how an environment behaves from interaction is central to building agents that adapt to unfamiliar tasks. World models learned with deep networks are flexible but data-hungry and transfer poorly beyond their training distribution. Program-synthesized world models, written as source code by LLMs and refined through counterexample-guided inductive synthesis (CEGIS), are instead data-efficient and reusable, yet they have been demonstrated ma",
-      "pubDate": "2026-07-03T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-07-04T01:44:09.059Z",
+    "totalCount": 8,
+    "generatedAt": "2026-07-04T05:34:00.976Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 14.9375
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
