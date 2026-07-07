@@ -51,6 +51,16 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
+      "title": "Automated Data Readiness for Scientific AI",
+      "link": "https://arxiv.org/abs/2607.02771",
+      "description": "arXiv:2607.02771v1 Announce Type: new \nAbstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before serving as AI training data. However, no existing framework fully unifies automated transformation, readiness assessment, provenance tracking, and agent-native deployment. We present REDI, an open-source framework that addresses this gap through a unified five-stage pipeline (ingest, preprocess, transform, structure, and",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 16,
+      "title_zh": "Automated Data Readiness for Scientific AI"
+    },
+    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -79,11 +89,81 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+      "link": "https://arxiv.org/abs/2607.02914",
+      "description": "arXiv:2607.02914v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable capabilities across diverse applications, yet ensuring their simultaneous safety, helpfulness, and trustworthiness remains a persistent challenge. Conventional refusal-oriented alignment strategies mitigate harmful content generation but systematically fail to serve legitimate user needs, often withholding information that could safely and constructively address the underlying intent of sen",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models"
+    },
+    {
+      "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
+      "link": "https://arxiv.org/abs/2607.02941",
+      "description": "arXiv:2607.02941v1 Announce Type: new \nAbstract: Multi-product kitting delivery imposes significant challenges for real-time scheduling in hybrid manufacturing systems that integrate processing and assembly, as dynamic order arrivals simultaneously alter supply dependencies and the set of feasible job-machine assignments. This paper proposes a sliding-window-based reinforcement learning (SWRL) framework for end-to-end online scheduling in the flexible assembly flow shop scheduling problem with c",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery"
+    },
+    {
+      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+      "link": "https://arxiv.org/abs/2607.02686",
+      "description": "arXiv:2607.02686v1 Announce Type: new \nAbstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad reasoning priors. Yet integrating SLM guidance into this setting has proven difficult: across all test environments, vanilla uncertainty-gated approaches achieve an overwrite rate at or near zero, meaning the SLM almost never contributes an independent",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability"
+    },
+    {
+      "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
+      "link": "https://arxiv.org/abs/2607.02931",
+      "description": "arXiv:2607.02931v1 Announce Type: new \nAbstract: AI tools are accelerating scientific publication while the systems that review it struggle to keep up, and independent verification of published research has become both harder and more important. As manual replication is slow and expensive, a growing line of work uses coding agents to automate parts of the process. Existing efforts are largely packaged as benchmarks with companion agents that only run inside the benchmark's own pipeline, and no g",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research"
+    },
+    {
+      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+      "link": "https://arxiv.org/abs/2607.02807",
+      "description": "arXiv:2607.02807v1 Announce Type: new \nAbstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they tend to converge onto a single high-level approach, then proceed with low-level edits while missing other superior approaches to the problem. We hypothesize two harness-level design choices contribute to this behavior: accumulating context in a single long-running agent and only exposing a single program state to edit. We ",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery"
+    },
+    {
+      "title": "Object-Centric Environment Modeling for Agentic Tasks",
+      "link": "https://arxiv.org/abs/2607.02846",
+      "description": "arXiv:2607.02846v1 Announce Type: new \nAbstract: Large language model (LLM) agents can improve through accumulated experience, but free-form textual memories become difficult to maintain, validate, and reuse as interactions grow. Recent symbolic approaches learn executable skills or programmatic world models, yet often store local procedures or assume simplified dynamics. We propose Object-Centric Environment Modeling (OCM), which organizes experience into an executable object-centric environmen",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Object-Centric Environment Modeling for Agentic Tasks"
+    },
+    {
+      "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
+      "link": "https://arxiv.org/abs/2607.02879",
+      "description": "arXiv:2607.02879v1 Announce Type: new \nAbstract: Current benchmarks for evaluating large language models (LLMs) in medical calculation are largely based on simplified settings, where each patient case corresponds to a single calculator and the required tool is explicitly specified in the query. However, real clinical scenarios often require multiple calculators for joint evaluation, nested-scale calculation, and fuzzy queries that do not directly specify the target calculator. To this end, we pr",
+      "pubDate": "2026-07-07T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-07-07T02:03:03.411Z",
+    "totalCount": 16,
+    "generatedAt": "2026-07-07T06:33:28.927Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 12.9375
   }
 }
