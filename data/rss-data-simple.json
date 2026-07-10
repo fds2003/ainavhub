@@ -28,15 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
-      "title_zh": "Learning social norms enhances compatibility in dynamic human-AI coordination",
-      "description": "arXiv:2607.07021v1 Announce Type: new \nAbstract: Humans continuously coordinate with others in dynamic interactions, often through implicit, hard-to-quantify social norms that act as shared tacit expectations among interacting agents. As AI agents, including large language models (LLMs), become embedded in daily life, they increasingly participate in such interactions and reshape social interaction structures. Yet they often fail to coordinate with humans in an effective, considerate, and natura",
-      "link": "https://arxiv.org/abs/2607.07021",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-07-09"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -46,15 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
-      "title_zh": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
-      "description": "arXiv:2607.07189v1 Announce Type: new \nAbstract: Vision-language models (VLMs) and agentic AI have shown strong performance on semantic visual tasks, but it remains unclear whether they can handle the physics and inverse problems that underlie computational imaging. We present ImagingBench, a benchmark of 20 computational imaging tasks spanning five categories: ray and wave optics, image signal processing, inverse reconstruction, computational sensing, and calibration. ImagingBench evaluates thr",
-      "link": "https://arxiv.org/abs/2607.07189",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-07-09"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -62,15 +44,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-      "title_zh": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-      "description": "arXiv:2607.06820v1 Announce Type: new \nAbstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM reasoning with verifiable feedback from SageMath, together with Context7 for the up-to-date documentation. We evaluate this agentic setup across frontier models for solving research-level mathematical p",
-      "link": "https://arxiv.org/abs/2607.06820",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-07-09"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -100,49 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
-      "title_zh": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
-      "description": "arXiv:2607.07097v1 Announce Type: new \nAbstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the difference as a single \"pipeline effect.\" We argue that this aggregate is difficult to interpret because it conflates three mechanisms: harmful intent may be reframed as plausible operational work, the planner may refuse or transform the request, and the executor may act under delegation prompts implying prior approval. To se",
-      "link": "https://arxiv.org/abs/2607.07097",
+      "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+      "title_zh": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+      "description": "arXiv:2607.07850v1 Announce Type: new \nAbstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromyography (sEMG) signals obtained from the forearm are commonly employed for this purpose. In this paper, we present a novel approach for sEMG representation that utilizes graph networks which contain information about muscle activation patterns in the forearm. Based on these graph networks, we have ",
+      "link": "https://arxiv.org/abs/2607.07850",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-09"
+      "date": "2026-07-10"
     },
     {
-      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-      "title_zh": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-      "description": "arXiv:2607.06906v1 Announce Type: new \nAbstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per-token prices mask the pattern; total spend rises anyway. We argue the decisive lever against token maxing is the harness: the orchestration layer that assembles context, exposes tools, sequences turns, delegates work, and",
-      "link": "https://arxiv.org/abs/2607.06906",
+      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+      "title_zh": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+      "description": "arXiv:2607.07846v1 Announce Type: new \nAbstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and differential equations in MATLAB. The course application is CTEC 247: Applied Computational Analysis II by the Department of Electrical & Computer Engineering Technology at New York Institute of Technology Old Westbury. T",
+      "link": "https://arxiv.org/abs/2607.07846",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-09"
+      "date": "2026-07-10"
     },
     {
-      "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
-      "title_zh": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
-      "description": "arXiv:2607.06993v1 Announce Type: new \nAbstract: Customer behavior modeling underpins recommendation, marketing, and decision support, yet existing approaches either optimize predictive accuracy without explaining decisions or simulate users without grounding them in real behavioral data. We present the Large Behavioral Model (LBM) that learns customer decision making directly from large-scale retail transactions through a unified Person-Environment formulation. Customer state is represented by ",
-      "link": "https://arxiv.org/abs/2607.06993",
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "title_zh": "AI-integrated models for assessing agricultural resilience",
+      "description": "arXiv:2607.07759v1 Announce Type: new \nAbstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
+      "link": "https://arxiv.org/abs/2607.07759",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-09"
+      "date": "2026-07-10"
     },
     {
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "title_zh": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "description": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instructions, uses its tools, verifies its own work, recovers from mistakes, and talks to them along the way. AgentLens evaluates that whole trajectory. It pairs formal verification, whe",
-      "link": "https://arxiv.org/abs/2607.06624",
+      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "title_zh": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "description": "arXiv:2607.07766v1 Announce Type: new \nAbstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychological support often requires. Developers' safety responses have been largely reactive, addressing the most visible and acute harms while subtler, longer-term patterns of risk (e.g., dependency, boundary ",
+      "link": "https://arxiv.org/abs/2607.07766",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-09"
+      "date": "2026-07-10"
     },
     {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "title_zh": "LLM-powered reasoning in agent-based modeling",
-      "description": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hy",
-      "link": "https://arxiv.org/abs/2607.06757",
+      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+      "title_zh": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+      "description": "arXiv:2607.07775v1 Announce Type: new \nAbstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic prostheses are a representative example of this tight coupling. Also referred to as bionic limbs, robotic prostheses are devices that support people who have lost limbs in pursuing daily life activities such as walking and grasping objects. Bionic limbs are now perceptive and responsive owing to th",
+      "link": "https://arxiv.org/abs/2607.07775",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-09"
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "title_zh": "Context Graphs for Proactive Enterprise Agents",
+      "description": "arXiv:2607.07721v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities,",
+      "link": "https://arxiv.org/abs/2607.07721",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "title_zh": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "description": "arXiv:2607.07761v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing fro",
+      "link": "https://arxiv.org/abs/2607.07761",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Infinity-Parser2 Technical Report",
+      "title_zh": "Infinity-Parser2 Technical Report",
+      "description": "arXiv:2607.07836v1 Announce Type: new \nAbstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for end-to-end document parsing, addressing the persistent scarcity of faithfully annotated parsing corpora. Our contributions are threefold. First, we build a scalable synthesis engine, pairing a controllable rendering framework with an iterative refinement loop, and use it to construct and open-source I",
+      "link": "https://arxiv.org/abs/2607.07836",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-07-10"
     }
   ]
 }
