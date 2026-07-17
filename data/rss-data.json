@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
-      "link": "https://arxiv.org/abs/2607.13230",
-      "description": "arXiv:2607.13230v1 Announce Type: new \nAbstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external environments, and interact with third-party services. This paper develops an AI-native mathematical framework for underwriting, pricing, and contract design for agentic AI deployments. A deployment is represented by a risk state that captures autonomy level, operational authority, permission exposure, governance maturity, ",
-      "pubDate": "2026-07-16T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 34.5,
-      "title_zh": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -51,16 +41,6 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-      "link": "https://arxiv.org/abs/2607.13049",
-      "description": "arXiv:2607.13049v1 Announce Type: new \nAbstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's spinal cord, remains a primary bottleneck to scalable Embodied AI. Hence, we propose SPINE (Scalable Physical Integration with ageNtic Expertise): an agentic framework for systematically debugging and deploying bimanual robo",
-      "pubDate": "2026-07-16T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 17,
-      "title_zh": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -69,16 +49,6 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
-      "link": "https://arxiv.org/abs/2607.13220",
-      "description": "arXiv:2607.13220v1 Announce Type: new \nAbstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems are rarely solved by one reasoner alone. They are solved by teams whose members bring different priors, experimental backgrounds, tacit knowledge, and domain-trained intuitions. The open problem is the",
-      "pubDate": "2026-07-16T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -111,59 +81,89 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-      "link": "https://arxiv.org/abs/2607.13073",
-      "description": "arXiv:2607.13073v1 Announce Type: new \nAbstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In this paper we expand the cognitive power of $IFOL_B$ by using the probability computation for the currently unknown sentences, based on Nilsson's probability structure for the $IFOL_B$. We introduce t",
-      "pubDate": "2026-07-16T04:00:00.000Z",
+      "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+      "link": "https://arxiv.org/abs/2607.14158",
+      "description": "arXiv:2607.14158v1 Announce Type: new \nAbstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission System Operator (TSO) context. We focus on integrating Large Language Models with numerical simulation tools, structured workflows, and human supervision. We identify key industrial requirements for agent assisted grid studies and introduce pypowsybl-mcp, an MCP-based interface exposing selected capabilities of our simulati",
+      "pubDate": "2026-07-17T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 7,
-      "title_zh": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL"
+      "aiScore": 12,
+      "title_zh": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers"
     },
     {
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "link": "https://arxiv.org/abs/2607.13069",
-      "description": "arXiv:2607.13069v1 Announce Type: new \nAbstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we intervene on a single premise by substituting its target predicate with a fresh symbol, re-run the model, and check whether each reasoning step's normalized conclusion (canonical predicate form) changes. W",
-      "pubDate": "2026-07-16T04:00:00.000Z",
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "link": "https://arxiv.org/abs/2607.14097",
+      "description": "arXiv:2607.14097v1 Announce Type: new \nAbstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory networks from the GREmLN project. For a given focal gene, the framework performs dual-network classif",
+      "pubDate": "2026-07-17T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics"
+    },
+    {
+      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+      "link": "https://arxiv.org/abs/2607.14126",
+      "description": "arXiv:2607.14126v1 Announce Type: new \nAbstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown promise in automating insulin delivery, their ``black-box'' nature makes it hard for patients and doctors to trust them fully. This paper presents LLM-T1D, a promising approach that combines the precis",
+      "pubDate": "2026-07-17T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control"
+    },
+    {
+      "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+      "link": "https://arxiv.org/abs/2607.14141",
+      "description": "arXiv:2607.14141v1 Announce Type: new \nAbstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and estimating parameters are difficult. Currently, researchers must choose between relying on expert judgement or using large datasets to learn the structure and parameters of the network. We propose a new methodology using Large Language Models to bridge the gap between expert opinion and data-driven learning. This approac",
+      "pubDate": "2026-07-17T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach"
+    },
+    {
+      "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+      "link": "https://arxiv.org/abs/2607.14145",
+      "description": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents struggle to incorporate them effectively, and retraining from scratch is often impractical. We identify the core obstacle in such toolset expansion problem as behavioral inertia: the tendency of agents to fall back on familiar tools and established reasoning patterns despite having",
+      "pubDate": "2026-07-17T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution"
+      "title_zh": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability"
     },
     {
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "link": "https://arxiv.org/abs/2607.13037",
-      "description": "arXiv:2607.13037v1 Announce Type: new \nAbstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset level, forcing catastrophic over-deletion. We present ob, a record- and token-level data provenance system that propagates author identity through data processing pipelines and resolves revocation requ",
-      "pubDate": "2026-07-16T04:00:00.000Z",
+      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "link": "https://arxiv.org/abs/2607.14093",
+      "description": "arXiv:2607.14093v1 Announce Type: new \nAbstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the proposed architecture integrates three qualitatively different learning mechanisms corresponding to the biological hierarchy of reflexes, skills, and reasoning such as Hebbian neuroplasticity for individual ",
+      "pubDate": "2026-07-17T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets"
+      "aiScore": 5,
+      "title_zh": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue"
     },
     {
-      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
-      "link": "https://arxiv.org/abs/2607.13157",
-      "description": "arXiv:2607.13157v1 Announce Type: new \nAbstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions become durable state, how that state is scoped, how it is retrieved under late",
-      "pubDate": "2026-07-16T04:00:00.000Z",
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "link": "https://arxiv.org/abs/2607.14095",
+      "description": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal over a hierarchical",
+      "pubDate": "2026-07-17T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents"
+      "aiScore": 3,
+      "title_zh": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs"
     },
     {
-      "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
-      "link": "https://arxiv.org/abs/2607.13219",
-      "description": "arXiv:2607.13219v1 Announce Type: new \nAbstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core algorithm performs an iterative bidirectional search: from both the initial and target permutation states, random operation sequences generate cycles in the Cayley graph of the symmetric group Sn; their intersection yields a connecting path. When no direct intersection is found, a distance-guided bridge selection narrows the",
-      "pubDate": "2026-07-16T04:00:00.000Z",
+      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+      "link": "https://arxiv.org/abs/2607.14159",
+      "description": "arXiv:2607.14159v1 Announce Type: new \nAbstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orchestration, memory, decoding, and output handling. While harness design strongly affects agent behavior, most automatic improvement methods optimize narrower artifacts such as prompts, pipelines, or workflows, and deployed agents usually reuse a single global harness for all cases. We introduce MemoHarness, an adaptive harne",
+      "pubDate": "2026-07-17T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "CayleyR: Solving the TopSpin puzzle via cycle intersection"
+      "aiScore": 3,
+      "title_zh": "MemoHarness: Agent Harnesses That Learn from Experience"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-07-17T01:24:20.800Z",
+    "generatedAt": "2026-07-17T04:50:33.019Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.84375
+    "averageScore": 13.375
   }
 }
