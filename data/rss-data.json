@@ -1,89 +1,169 @@
 {
   "articles": [
     {
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "link": "https://arxiv.org/abs/2607.18241",
-      "description": "arXiv:2607.18241v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequential tool calls. We present BatchDAG, a system in which an LLM generates a typed directed acyclic graph (DAG) of operations -- SQL queries, semantic searches, in-memory transforms, parallel fan-outs, ",
-      "pubDate": "2026-07-22T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data"
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:19:58.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 28,
+      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
-      "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-      "link": "https://arxiv.org/abs/2607.18246",
-      "description": "arXiv:2607.18246v1 Announce Type: new \nAbstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduces a governance-first approach to AI engineering: treating large language model (LLM) outputs as noisy sensor measurements rather than direct decisions. Unlike probabilistic agents, Phionyx enforces deterministic state evolution via a structured state vector governed by deterministic state-evolution equations, enabling re",
-      "pubDate": "2026-07-22T04:00:00.000Z",
+      "title": "Best Practices for Building the AI Development Platform in Government",
+      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:20:17.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 24,
+      "title_zh": "Best Practices for Building the AI Development Platform in Government"
+    },
+    {
+      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
+      "pubDate": "2021-10-21T20:34:39.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 24,
+      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
+    },
+    {
+      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
+      "pubDate": "2021-10-21T21:02:24.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 20,
+      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
+      "pubDate": "2021-10-28T21:49:47.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 17,
+      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
+    },
+    {
+      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
+      "pubDate": "2021-10-28T23:18:48.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16,
+      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias"
+    },
+    {
+      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
+      "pubDate": "2021-10-28T22:10:19.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16,
+      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case"
+    },
+    {
+      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
+      "pubDate": "2021-10-21T20:52:34.000Z",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "aiScore": 16,
+      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "link": "https://arxiv.org/abs/2607.19349",
+      "description": "arXiv:2607.19349v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world serving workloads, yet existing studies often rely on proxy traces or coarse-grained characterizations that fail to capture the heterogeneity of modern multi-model LLM platforms. We present FineServe, ",
+      "pubDate": "2026-07-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 15,
-      "title_zh": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance"
+      "title_zh": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads"
     },
     {
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "link": "https://arxiv.org/abs/2607.18242",
-      "description": "arXiv:2607.18242v1 Announce Type: new \nAbstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolDNS, a radical framework that retrofits semantic tool discovery onto the Internet's most resilient substrate: the Domain Name System (DNS). By embedding functional intent and organizational trust into ",
-      "pubDate": "2026-07-22T04:00:00.000Z",
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "link": "https://arxiv.org/abs/2607.19351",
+      "description": "arXiv:2607.19351v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks are doubly dynamic: adversaries refine injection strategies against deployed defenses while normal-agent behavior drifts with system expansion. Existing defenses treat deployment as a closed-world prob",
+      "pubDate": "2026-07-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "AI Tool Discovery at Scale: All You Need is DNS"
+      "aiScore": 9,
+      "title_zh": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks"
     },
     {
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "link": "https://arxiv.org/abs/2607.18243",
-      "description": "arXiv:2607.18243v1 Announce Type: new \nAbstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produce a risk estimate while treating the internal failure path as a black box. We couple those two views by proposing CPSAINT, a seven-layer integrity decomposition over Physical state, Sensors, Data, Co",
-      "pubDate": "2026-07-22T04:00:00.000Z",
+      "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+      "link": "https://arxiv.org/abs/2607.19359",
+      "description": "arXiv:2607.19359v1 Announce Type: new \nAbstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate single-hop recall, leaving multi-hop association largely unmeasured. We make three contributions. First, we introduce MemHop, a multi-hop memory benchmark of 1,000 questions at hop depths 1-5 across 10 social-network scenarios, with per-hop evidence annotations. Second, we present Profile-Graph Memory (ProGraph), a two-layer",
+      "pubDate": "2026-07-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI"
+      "aiScore": 9,
+      "title_zh": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles"
     },
     {
-      "title": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems",
-      "link": "https://arxiv.org/abs/2607.18255",
-      "description": "arXiv:2607.18255v1 Announce Type: new \nAbstract: Contribution attribution has become a central problem in LLM-based multi-agent systems, where final outputs are produced through multiple agents, message exchanges, and ordered workflow dependencies. Existing attribution methods often rely on counterfactual valuation, such as removing agents or comparing score changes across altered agent subsets. In language-mediated workflows, these methods require repeated model calls, introduce high variance, ",
-      "pubDate": "2026-07-22T04:00:00.000Z",
+      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+      "link": "https://arxiv.org/abs/2607.19356",
+      "description": "arXiv:2607.19356v1 Announce Type: new \nAbstract: Tool-using LLM agents increasingly execute high-impact actions, making runtime safety monitoring essential. We present NEXUS (Neural EXecution Utility and Safety), a structured-plan safety monitor that applies a formal intervention policy to select among four actions: allow, block, request confirmation, or request revision. NEXUS combines deterministic safety rules, argument-level inspection, and a calibrated logistic-regression risk score for gra",
+      "pubDate": "2026-07-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems"
+      "aiScore": 6,
+      "title_zh": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents"
     },
     {
-      "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
-      "link": "https://arxiv.org/abs/2607.18252",
-      "description": "arXiv:2607.18252v1 Announce Type: new \nAbstract: Machine learning methods have shown that data-driven policies can accelerate mixed-integer linear programming (MILP) solvers, but many such approaches remain difficult to inspect, adapt, and deploy because the learned policy is represented as an external predictor or other opaque model. By contrast, explicit solver logic is easier to understand and integrate, but is usually hand-designed rather than learned from solver feedback. We study whether t",
-      "pubDate": "2026-07-22T04:00:00.000Z",
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "link": "https://arxiv.org/abs/2607.19350",
+      "description": "arXiv:2607.19350v1 Announce Type: new \nAbstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes FraudShield AI, a hybrid framework that integrates Long Short-Term Memory (LSTM) networks with hand-crafted Graph Topological Features to capture both temporal sequences and structural relational context.",
+      "pubDate": "2026-07-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers"
+      "aiScore": 4,
+      "title_zh": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience"
     },
     {
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "link": "https://arxiv.org/abs/2607.18239",
-      "description": "arXiv:2607.18239v1 Announce Type: new \nAbstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that positions frontier language models as autonomous system administrators in a high-fidelity Linux sandbox to measure power-seeking propensity across five dimensions: self-preservation, increasing autonom",
-      "pubDate": "2026-07-22T04:00:00.000Z",
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "link": "https://arxiv.org/abs/2607.19353",
+      "description": "arXiv:2607.19353v1 Announce Type: new \nAbstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated large language model serving remains workload dependent and operationally important. This paper presents a benchmark study comparing standard non-confidential execution with confidential computing mode ",
+      "pubDate": "2026-07-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI"
+      "aiScore": 4,
+      "title_zh": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX"
     },
     {
-      "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
-      "link": "https://arxiv.org/abs/2607.18253",
-      "description": "arXiv:2607.18253v1 Announce Type: new \nAbstract: Modern language query routers improve inference efficiency by assigning each query to a model that balances response quality and monetary cost. However, current query routers are largely latency-agnostic and do not consider the generation latency experienced by queries at model instances. In practice, latency is often controlled by load-balancing policies such as round-robin or join-the-shortest-queue, which do not account for model accuracy or in",
-      "pubDate": "2026-07-22T04:00:00.000Z",
+      "title": "Information Discernment in Large Language Models",
+      "link": "https://arxiv.org/abs/2607.19355",
+      "description": "arXiv:2607.19355v1 Announce Type: new \nAbstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)? We formalize this as information discernment and introduce Learn2Discern (L2D), an experimental framework and benchmark grounded in three normative axioms with interpretable metrics. To establish ext",
+      "pubDate": "2026-07-23T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads"
+      "title_zh": "Information Discernment in Large Language Models"
+    },
+    {
+      "title": "Statistically Grounded Sparse-Feature Interventions for Activation-Space Control in Large Language Models",
+      "link": "https://arxiv.org/abs/2607.19364",
+      "description": "arXiv:2607.19364v1 Announce Type: new \nAbstract: Activation steering offers a lightweight alternative to fine-tuning for behavioral control of large language models, but SAE-based steering methods often rely on learned steering objectives or single-criterion feature selection. We introduce a transparent SAE-feature steering pipeline that first applies a six-condition reliability filter, then ranks sparse features through an unweighted Borda consensus over three complementary statistics: $F$-test",
+      "pubDate": "2026-07-23T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Statistically Grounded Sparse-Feature Interventions for Activation-Space Control in Large Language Models"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-07-23T01:27:54.025Z",
+    "totalCount": 16,
+    "generatedAt": "2026-07-23T05:12:06.822Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -141,8 +221,8 @@
   },
   "summary": {
     "researchArticles": 8,
-    "industryArticles": 0,
+    "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 10.875
+    "averageScore": 13.375
   }
 }
