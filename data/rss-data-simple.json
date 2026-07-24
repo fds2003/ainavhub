@@ -28,6 +28,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "title_zh": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "description": "arXiv:2607.20468v1 Announce Type: new \nAbstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known recipe and tuning a few hyperparameters, making it unclear whether strong results reflect genuine optimization or memorized solutions. We introduce InferenceBench, where an agent must deploy an OpenA",
+      "link": "https://arxiv.org/abs/2607.20468",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -37,6 +46,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "title_zh": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "description": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic AI system that transforms traditional test management into an autonomous quality intelligence ecosystem. AINTMA deploys six specialized AI agents (Test Discovery, Risk Assessment, Reinforcement Learnin",
+      "link": "https://arxiv.org/abs/2607.20452",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -44,6 +62,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "title_zh": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "description": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers to large language m",
+      "link": "https://arxiv.org/abs/2607.20463",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-07-24"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -73,76 +100,49 @@
       "date": "2021-10-21"
     },
     {
-      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-      "title_zh": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-      "description": "arXiv:2607.19349v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world serving workloads, yet existing studies often rely on proxy traces or coarse-grained characterizations that fail to capture the heterogeneity of modern multi-model LLM platforms. We present FineServe, ",
-      "link": "https://arxiv.org/abs/2607.19349",
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "title_zh": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "description": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domains like medicine, where small token-level perturbations can result in significant semantic changes, underexplored. In this work, we present the first rigorous study of how LLM watermarks affect medica",
+      "link": "https://arxiv.org/abs/2607.20462",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     },
     {
-      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-      "title_zh": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-      "description": "arXiv:2607.19351v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks are doubly dynamic: adversaries refine injection strategies against deployed defenses while normal-agent behavior drifts with system expansion. Existing defenses treat deployment as a closed-world prob",
-      "link": "https://arxiv.org/abs/2607.19351",
+      "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+      "title_zh": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+      "description": "arXiv:2607.20470v1 Announce Type: new \nAbstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annotation cost, and a lack of optimization methods for tailoring LLMs to specific tasks. To address the above issues, we propose a \\textbf{Plan}ning framework for constructing \\textbf{E}xtractive-based LLMs called \\textbf{PlanE}, which includes data decom",
+      "link": "https://arxiv.org/abs/2607.20470",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     },
     {
-      "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
-      "title_zh": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
-      "description": "arXiv:2607.19359v1 Announce Type: new \nAbstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate single-hop recall, leaving multi-hop association largely unmeasured. We make three contributions. First, we introduce MemHop, a multi-hop memory benchmark of 1,000 questions at hop depths 1-5 across 10 social-network scenarios, with per-hop evidence annotations. Second, we present Profile-Graph Memory (ProGraph), a two-layer",
-      "link": "https://arxiv.org/abs/2607.19359",
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "title_zh": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "description": "arXiv:2607.20466v1 Announce Type: new \nAbstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-generated kernel optimization on Google Cloud TPUs. JAXBench comprises 50 JAX workloads that are both relevant and provide headroom for optimization. We extract 17 production ML operators from architectures in the publi",
+      "link": "https://arxiv.org/abs/2607.20466",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     },
     {
-      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
-      "title_zh": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
-      "description": "arXiv:2607.19356v1 Announce Type: new \nAbstract: Tool-using LLM agents increasingly execute high-impact actions, making runtime safety monitoring essential. We present NEXUS (Neural EXecution Utility and Safety), a structured-plan safety monitor that applies a formal intervention policy to select among four actions: allow, block, request confirmation, or request revision. NEXUS combines deterministic safety rules, argument-level inspection, and a calibrated logistic-regression risk score for gra",
-      "link": "https://arxiv.org/abs/2607.19356",
+      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "title_zh": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "description": "arXiv:2607.20469v1 Announce Type: new \nAbstract: Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task-general structure, if any, is used at decode time rather than during prefill. We propose DecodeShare, a protocol that identifies a low-dimensional subspace consistently shared across tasks in decode-time hidden states, and then tests its causal role by removing that subspace only during decoding. In our experiments, dist",
+      "link": "https://arxiv.org/abs/2607.20469",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     },
     {
-      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-      "title_zh": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-      "description": "arXiv:2607.19350v1 Announce Type: new \nAbstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes FraudShield AI, a hybrid framework that integrates Long Short-Term Memory (LSTM) networks with hand-crafted Graph Topological Features to capture both temporal sequences and structural relational context.",
-      "link": "https://arxiv.org/abs/2607.19350",
+      "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+      "title_zh": "Benchmarking the Personalization Capabilities of Large Language Models",
+      "description": "arXiv:2607.20471v1 Announce Type: new \nAbstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party problem in which sender and receiver have independent objectives. Large language models remove the bounded-inventory constraint of classical retrieval-and-ranking approaches by generating a continuum of message variants conditioned on inferred receiver",
+      "link": "https://arxiv.org/abs/2607.20471",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-      "title_zh": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-      "description": "arXiv:2607.19353v1 Announce Type: new \nAbstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated large language model serving remains workload dependent and operationally important. This paper presents a benchmark study comparing standard non-confidential execution with confidential computing mode ",
-      "link": "https://arxiv.org/abs/2607.19353",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Information Discernment in Large Language Models",
-      "title_zh": "Information Discernment in Large Language Models",
-      "description": "arXiv:2607.19355v1 Announce Type: new \nAbstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)? We formalize this as information discernment and introduce Learn2Discern (L2D), an experimental framework and benchmark grounded in three normative axioms with interpretable metrics. To establish ext",
-      "link": "https://arxiv.org/abs/2607.19355",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Statistically Grounded Sparse-Feature Interventions for Activation-Space Control in Large Language Models",
-      "title_zh": "Statistically Grounded Sparse-Feature Interventions for Activation-Space Control in Large Language Models",
-      "description": "arXiv:2607.19364v1 Announce Type: new \nAbstract: Activation steering offers a lightweight alternative to fine-tuning for behavioral control of large language models, but SAE-based steering methods often rely on learned steering objectives or single-criterion feature selection. We introduce a transparent SAE-feature steering pipeline that first applies a six-condition reliability filter, then ranks sparse features through an unweighted Borda consensus over three complementary statistics: $F$-test",
-      "link": "https://arxiv.org/abs/2607.19364",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     }
   ]
 }
