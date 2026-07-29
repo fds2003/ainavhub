@@ -1,169 +1,89 @@
 {
   "articles": [
     {
-      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:19:58.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 28,
-      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Best Practices for Building the AI Development Platform in Government",
-      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:20:17.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 24,
-      "title_zh": "Best Practices for Building the AI Development Platform in Government"
-    },
-    {
-      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
-      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
-      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
-      "pubDate": "2021-10-21T20:34:39.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 24,
-      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
-    },
-    {
-      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
-      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
-      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
-      "pubDate": "2021-10-21T21:02:24.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 20,
-      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
-      "pubDate": "2021-10-28T21:49:47.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 17,
-      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:18:48.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 16,
-      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias"
-    },
-    {
-      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
-      "pubDate": "2021-10-28T22:10:19.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 16,
-      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case"
-    },
-    {
-      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
-      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
-      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
-      "pubDate": "2021-10-21T20:52:34.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 16,
-      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
-      "link": "https://arxiv.org/abs/2607.22561",
-      "description": "arXiv:2607.22561v1 Announce Type: new \nAbstract: LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternative: program distillation. Instead of prompting an LLM at the evaluation time, we distill its decision logic into a committee of programs that score candidates directly. These programmatic judges offe",
-      "pubDate": "2026-07-28T04:00:00.000Z",
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "link": "https://arxiv.org/abs/2607.24759",
+      "description": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across se",
+      "pubDate": "2026-07-29T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 15,
-      "title_zh": "Codifying the Judge: Scalable Evaluation via Program Distillation"
+      "aiScore": 19,
+      "title_zh": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents"
     },
     {
-      "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
-      "link": "https://arxiv.org/abs/2607.22562",
-      "description": "arXiv:2607.22562v1 Announce Type: new \nAbstract: Managing long-context dependencies remains a primary bottleneck in LLM agents, as redundant and irrelevant information can degrade multi-step reasoning. Strategic Forgetting for Agent Memory Systems (SF-AMS) is proposed as a framework for maintaining compact high-utility memory by modeling the long-term importance of memory units. SF-AMS replaces static retrieval and heuristic decay with a utility-driven survival mechanism that updates memory impo",
-      "pubDate": "2026-07-28T04:00:00.000Z",
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "link": "https://arxiv.org/abs/2607.24762",
+      "description": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most direct ways to reduce latency and cost, but it has traditionally required expert engineers to hand-write low-level GPU code. Agentic systems built on large language models (LLMs) can now generate and opt",
+      "pubDate": "2026-07-29T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent"
+      "aiScore": 18,
+      "title_zh": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels"
     },
     {
-      "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
-      "link": "https://arxiv.org/abs/2607.22563",
-      "description": "arXiv:2607.22563v1 Announce Type: new \nAbstract: Industrial agent benchmarks require realistic evaluation scenarios that integrate telemetry, failure modes, maintenance records, and domain standards. However, existing benchmarks such as AssetOpsBench rely on manually authored scenarios and cover a limited set of asset classes. We extend AssetOpsBench with a Smart Grid Transformer asset class and four IEC-grounded diagnostic tools for health-index prediction, dissolved-gas analysis, winding-tempe",
-      "pubDate": "2026-07-28T04:00:00.000Z",
+      "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
+      "link": "https://arxiv.org/abs/2607.24773",
+      "description": "arXiv:2607.24773v1 Announce Type: new \nAbstract: Managing cloud infrastructure efficiently, especially in environments of large cloud providers or hyperscalers, requires optimizing the use of physical resources to minimize costs and maximize performance. Selecting the right virtual machine (VM) sizes is crucial to achieving cost efficiency in these dynamic environments. However, traditional VM allocation and scheduling approaches often fail to account for the fluctuating and unpredictable nature",
+      "pubDate": "2026-07-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 13,
+      "title_zh": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations"
+    },
+    {
+      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "link": "https://arxiv.org/abs/2607.24769",
+      "description": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feigning alignment -- in frontier language models, most work has been performed exclusively in English, leaving a major gap in multilingual safety. We apply Petri, an open-source automated auditing framew",
+      "pubDate": "2026-07-29T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 7,
-      "title_zh": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents"
+      "title_zh": "LLM Scheming Inversely Scales with Pretraining Language Coverage"
     },
     {
-      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-      "link": "https://arxiv.org/abs/2607.22554",
-      "description": "arXiv:2607.22554v1 Announce Type: new \nAbstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this knowledge when the same question is phrased in different but equivalent ways. In this work, we study how model answers change under meaning-preserving paraphrases across factual question answering and mathematical reasoning tasks. Across four benchmarks and 13 models, we find that model outputs frequently depend on the exac",
-      "pubDate": "2026-07-28T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy"
-    },
-    {
-      "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
-      "link": "https://arxiv.org/abs/2607.22564",
-      "description": "arXiv:2607.22564v1 Announce Type: new \nAbstract: Convolutional neural networks often contain redundant feature maps that increase storage and inference cost. This paper presents a loss-aware feature-map pruning framework using multi-armed bandits. Feature-map pruning is structured because it removes complete convolutional output channels and their producing filters rather than isolated scalar weights. Each candidate feature map is treated as an arm. At each play time, one map is temporarily mask",
-      "pubDate": "2026-07-28T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits"
-    },
-    {
-      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-      "link": "https://arxiv.org/abs/2607.22548",
-      "description": "arXiv:2607.22548v1 Announce Type: new \nAbstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of workloads, environmental parameters, and physical metrics. Current machine learning approaches for HPC and its telemetry typically rely on a static subset of anonymous, fixed-position sensor variables tailored to single tasks. Consequently, these models become obsolete when target tasks change or sensor metrics vary. We pro",
-      "pubDate": "2026-07-28T04:00:00.000Z",
+      "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
+      "link": "https://arxiv.org/abs/2607.24774",
+      "description": "arXiv:2607.24774v1 Announce Type: new \nAbstract: Nuclear radiation, the energy released during atomic decay, poses persistent risks to public health and the environment, and concerns have only grown since the Fukushima accident and the recent commencement of treated-water discharge. Modern monitoring networks now record radiation levels and accompanying weather conditions at thousands of stations, opening the door to nationwide forecasting that can inform emergency response, agricultural advisor",
+      "pubDate": "2026-07-29T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series"
+      "title_zh": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting"
     },
     {
-      "title": "DSTFView: Multi-View Cloud-Edge Workload Forecasting with Dual-Input Spatio-Temporal-Frequency Modeling",
-      "link": "https://arxiv.org/abs/2607.22565",
-      "description": "arXiv:2607.22565v1 Announce Type: new \nAbstract: With the widespread deployment of edge-side AI inference, edge platforms are increasingly required to support latency-sensitive, highly concurrent, and reliability-critical applications. However, existing methods often struggle to balance multidimensional feature modeling and forecasting efficiency in collaborative cloud-edge environments. To address this issue, we propose DSTFView, a dual-input spatio-temporal-frequency multi-view workload foreca",
-      "pubDate": "2026-07-28T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "DSTFView: Multi-View Cloud-Edge Workload Forecasting with Dual-Input Spatio-Temporal-Frequency Modeling"
-    },
-    {
-      "title": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting",
-      "link": "https://arxiv.org/abs/2607.22568",
-      "description": "arXiv:2607.22568v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed on mobile and embedded devices to improve privacy and reduce network latency. Yet on-device inference faces a fundamental constraint: high energy consumption on battery-powered, resource-limited hardware. While model compression and runtime acceleration have been widely studied, the effect of \\emph{prompt design} on energy efficiency remains underexplored. This paper presents an empirical stud",
-      "pubDate": "2026-07-28T04:00:00.000Z",
+      "title": "PATHFinder Agent for Tailored Prenatal Care",
+      "link": "https://arxiv.org/abs/2607.24768",
+      "description": "arXiv:2607.24768v1 Announce Type: new \nAbstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) recently introduced guidelines advocating tailored prenatal care, called PATH (Plan for Tailored Healthcare). We present PATHFinder Agent(Planner for Appropriate Tailored Healthcare), an end-to-end conversational agentic system that gathers patient health and social context through s",
+      "pubDate": "2026-07-29T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting"
+      "title_zh": "PATHFinder Agent for Tailored Prenatal Care"
+    },
+    {
+      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+      "link": "https://arxiv.org/abs/2607.24770",
+      "description": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret instructions, track task progress, reason about spatial state, and recover from errors while performing physical actions. Prior multimodal assistants have shown promise for procedural guidance, but most rely on cloud inference and fixed always-on perception, making them poorly suited to privacy-sensitive, latency-critical d",
+      "pubDate": "2026-07-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop"
+    },
+    {
+      "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+      "link": "https://arxiv.org/abs/2607.24772",
+      "description": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. However, existing RS agents built on general-purpose LLMs remain largely domain-agnostic, resulting in brittle and error-prone workflows. Moreover, these failures are seldom consolidated into a reusable experience for subsequent analyses. To address this issue, we introduce RSMeM, a knowledge-enhanced memory evolution mech",
+      "pubDate": "2026-07-29T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-07-29T01:21:00.898Z",
+    "totalCount": 8,
+    "generatedAt": "2026-07-29T04:56:09.686Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -221,8 +141,8 @@
   },
   "summary": {
     "researchArticles": 8,
-    "industryArticles": 8,
+    "industryArticles": 0,
     "academicArticles": 8,
-    "averageScore": 13.4375
+    "averageScore": 8.75
   }
 }
