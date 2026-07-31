@@ -41,24 +41,14 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-      "link": "https://arxiv.org/abs/2607.24759",
-      "description": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across se",
-      "pubDate": "2026-07-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 19,
-      "title_zh": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents"
-    },
-    {
-      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-      "link": "https://arxiv.org/abs/2607.24762",
-      "description": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most direct ways to reduce latency and cost, but it has traditionally required expert engineers to hand-write low-level GPU code. Agentic systems built on large language models (LLMs) can now generate and opt",
-      "pubDate": "2026-07-30T04:00:00.000Z",
+      "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
+      "link": "https://arxiv.org/abs/2607.26367",
+      "description": "arXiv:2607.26367v1 Announce Type: new \nAbstract: An important skill in theoretical physics is to recognize when a new problem can be transformed into a known model. We study this skill as an AI-agent task: can LLM-based agents discover statistical mechanical mappings from a raw partition function to a tractable representation? To probe this question, we introduce StatMechBench-v0, a benchmark of six Ising-type problems covering transfer-matrix methods, gauge-removable disorder, and planar/Pfaffi",
+      "pubDate": "2026-07-31T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 18,
-      "title_zh": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels"
+      "title_zh": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -101,69 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
-      "link": "https://arxiv.org/abs/2607.24773",
-      "description": "arXiv:2607.24773v1 Announce Type: new \nAbstract: Managing cloud infrastructure efficiently, especially in environments of large cloud providers or hyperscalers, requires optimizing the use of physical resources to minimize costs and maximize performance. Selecting the right virtual machine (VM) sizes is crucial to achieving cost efficiency in these dynamic environments. However, traditional VM allocation and scheduling approaches often fail to account for the fluctuating and unpredictable nature",
-      "pubDate": "2026-07-30T04:00:00.000Z",
+      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+      "link": "https://arxiv.org/abs/2607.26160",
+      "description": "arXiv:2607.26160v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it through training rather than execute its rules. We introduce GuideSkill, an external reasoning layer that compiles disease-specific criteria into executable functions returning ordinal diagnostic-support scores. GuideSkill-Zero is initialized from guidelines, while GuideSkill-Evo uses case--diagnosis pairs to refine covere",
+      "pubDate": "2026-07-31T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations"
+      "aiScore": 9,
+      "title_zh": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning"
     },
     {
-      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
-      "link": "https://arxiv.org/abs/2607.24769",
-      "description": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feigning alignment -- in frontier language models, most work has been performed exclusively in English, leaving a major gap in multilingual safety. We apply Petri, an open-source automated auditing framew",
-      "pubDate": "2026-07-30T04:00:00.000Z",
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "link": "https://arxiv.org/abs/2607.26159",
+      "description": "arXiv:2607.26159v1 Announce Type: new \nAbstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capability, extrapolate it to new tasks, transport it to another system or site, and combine it with assumptions about human review and downstream consequences. Validity-centred approaches require evidence for each claim. This paper identifies a further epistemic problem: warranted links don't automaticall",
+      "pubDate": "2026-07-31T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "When benchmark inferences do not compose: Projectibility in AI evaluation"
+    },
+    {
+      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+      "link": "https://arxiv.org/abs/2607.26191",
+      "description": "arXiv:2607.26191v1 Announce Type: new \nAbstract: Evaluation methodologies for language models increasingly combine multiple signals, from automated metrics and LLM-as-judge ratings to human assessments and benchmark suite results. When these signals are aggregated via averaging, evaluation confidence can then substantially exceed the reliability of the weakest signal: a phenomenon we call trust inflation in evaluation. We argue that evaluation scores should be treated as epistemic claims with th",
+      "pubDate": "2026-07-31T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 7,
-      "title_zh": "LLM Scheming Inversely Scales with Pretraining Language Coverage"
+      "title_zh": "Position: Evaluation Scores Are Perishable Knowledge Claims"
     },
     {
-      "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
-      "link": "https://arxiv.org/abs/2607.24774",
-      "description": "arXiv:2607.24774v1 Announce Type: new \nAbstract: Nuclear radiation, the energy released during atomic decay, poses persistent risks to public health and the environment, and concerns have only grown since the Fukushima accident and the recent commencement of treated-water discharge. Modern monitoring networks now record radiation levels and accompanying weather conditions at thousands of stations, opening the door to nationwide forecasting that can inform emergency response, agricultural advisor",
-      "pubDate": "2026-07-30T04:00:00.000Z",
+      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "link": "https://arxiv.org/abs/2607.26120",
+      "description": "arXiv:2607.26120v1 Announce Type: new \nAbstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to conflicting or hidden objectives. In these settings, misalignment with collective goals becomes a central concern. We propose a novel framework for evaluating objective misalignment using the social deduction game Werewolf, modifying the objective of a sing",
+      "pubDate": "2026-07-31T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting"
+      "aiScore": 6,
+      "title_zh": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems"
     },
     {
-      "title": "PATHFinder Agent for Tailored Prenatal Care",
-      "link": "https://arxiv.org/abs/2607.24768",
-      "description": "arXiv:2607.24768v1 Announce Type: new \nAbstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) recently introduced guidelines advocating tailored prenatal care, called PATH (Plan for Tailored Healthcare). We present PATHFinder Agent(Planner for Appropriate Tailored Healthcare), an end-to-end conversational agentic system that gathers patient health and social context through s",
-      "pubDate": "2026-07-30T04:00:00.000Z",
+      "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+      "link": "https://arxiv.org/abs/2607.26181",
+      "description": "arXiv:2607.26181v1 Announce Type: new \nAbstract: Functional verification dominates integrated circuit (IC) front-end engineering effort, and a single missed bug that escapes to silicon can trigger a costly respin. Recent large language models (LLMs) offer new opportunities to automate this process, yet existing LLM-based approaches generate each component through independent single-turn calls with no shared context, leaving interface mismatches undetected and reported coverage disconnected from ",
+      "pubDate": "2026-07-31T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "PATHFinder Agent for Tailored Prenatal Care"
+      "aiScore": 6,
+      "title_zh": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure"
     },
     {
-      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
-      "link": "https://arxiv.org/abs/2607.24770",
-      "description": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret instructions, track task progress, reason about spatial state, and recover from errors while performing physical actions. Prior multimodal assistants have shown promise for procedural guidance, but most rely on cloud inference and fixed always-on perception, making them poorly suited to privacy-sensitive, latency-critical d",
-      "pubDate": "2026-07-30T04:00:00.000Z",
+      "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+      "link": "https://arxiv.org/abs/2607.26307",
+      "description": "arXiv:2607.26307v1 Announce Type: new \nAbstract: Contemporary LLM-based coding agents produce code as black-box outputs: the rationale behind each line is hidden, the evolution of the code through benchmark-driven repair is ephemeral, and post-hoc auditing is impossible. We present a code generation concept that addresses these shortcomings through three complementary mechanisms: (i) a relational snippet-history schema that records, per repair event, the benchmark reference, round number, failur",
+      "pubDate": "2026-07-31T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop"
+      "aiScore": 6,
+      "title_zh": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning"
     },
     {
-      "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
-      "link": "https://arxiv.org/abs/2607.24772",
-      "description": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. However, existing RS agents built on general-purpose LLMs remain largely domain-agnostic, resulting in brittle and error-prone workflows. Moreover, these failures are seldom consolidated into a reusable experience for subsequent analyses. To address this issue, we introduce RSMeM, a knowledge-enhanced memory evolution mech",
-      "pubDate": "2026-07-30T04:00:00.000Z",
+      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "link": "https://arxiv.org/abs/2607.26155",
+      "description": "arXiv:2607.26155v1 Announce Type: new \nAbstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks largely isolate medical question answering, structured-table reasoning, or generic scientific repositories. We introduce CLINLENS, a benchmark of 200 executable tasks over five linked MIMIC resources spanning structured electronic health records, notes, electrocardiograms, chest radiographs, and echocardiograms. A 4 x 5 t",
+      "pubDate": "2026-07-31T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation"
+      "aiScore": 4.5,
+      "title_zh": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-07-31T01:28:00.742Z",
+    "generatedAt": "2026-07-31T05:21:46.440Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.4375
+    "averageScore": 14.09375
   }
 }
