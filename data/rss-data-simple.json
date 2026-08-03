@@ -1,76 +1,76 @@
 {
   "articles": [
     {
-      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
-      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-28"
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "title_zh": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "description": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive, layered architecture",
+      "link": "https://arxiv.org/abs/2607.28629",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     },
     {
-      "title": "Best Practices for Building the AI Development Platform in Government",
-      "title_zh": "Best Practices for Building the AI Development Platform in Government",
-      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
-      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-28"
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "title_zh": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "description": "arXiv:2607.28631v1 Announce Type: new \nAbstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous benchmarking protocol using an automated peer-review system that harnesses frontier large language models to assess scientific papers across four core dimensions: originality, scientific rigor, clar",
+      "link": "https://arxiv.org/abs/2607.28631",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     },
     {
-      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
-      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
-      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
-      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-21"
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "title_zh": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "description": "arXiv:2607.28657v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts into task-optimized prompts with the explicit goal of improving downstream LLM performance. We train TAPR using reinforcement learning with Group Relative Policy Optimization (GRPO",
+      "link": "https://arxiv.org/abs/2607.28657",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     },
     {
-      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
-      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
-      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
-      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-21"
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "title_zh": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "description": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for major conjecture discovery, with region search from explicit local evidence modules, reflective validation for foundationality, novelty, and potential significance, and formal validation in Lean 4 an",
+      "link": "https://arxiv.org/abs/2607.28632",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     },
     {
-      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
-      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-28"
+      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "title_zh": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "description": "arXiv:2607.28677v1 Announce Type: new \nAbstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidance, administrative documentation, and rules-based alert enhancement. This Perspective concerns the most consequential of these applications: the autonomous triage of self-presenting, undifferentiated",
+      "link": "https://arxiv.org/abs/2607.28677",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     },
     {
-      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
-      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-28"
+      "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
+      "title_zh": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
+      "description": "arXiv:2607.28788v1 Announce Type: new \nAbstract: Clinical diagnosis at hospital admission must be made rapidly from limited, incomplete evidence. Existing diagnosis-prediction benchmarks are poorly suited to this setting: they restrict prediction to closed code sets, exclude free-text notes, and supervise with discharge diagnoses that incorporate the full inpatient course. We introduce EarlyDx, a large-scale benchmark for open-ended early diagnosis, built from 154,834 emergency department encoun",
+      "link": "https://arxiv.org/abs/2607.28788",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     },
     {
-      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case",
-      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
-      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-28"
+      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "title_zh": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "description": "arXiv:2607.28674v1 Announce Type: new \nAbstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth into a single trajectory-level scalar, leaving step-wise effort opaque. We propose Step-Aware Reasoning Energy (SARE), a geometric framework that quantifies effort at the granularity of individual CoT steps via Centered Ker",
+      "link": "https://arxiv.org/abs/2607.28674",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     },
     {
-      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
-      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
-      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
-      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "date": "2021-10-21"
+      "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+      "title_zh": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+      "description": "arXiv:2607.28692v1 Announce Type: new \nAbstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to open-world scientific workflows, where tool requirements, capabilities, and boundaries evolve dynamically. To this end, we propose SciToolAgent-Evo, an ontology-aware self-evolving agent for open-worl",
+      "link": "https://arxiv.org/abs/2607.28692",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-03"
     }
   ]
 }
