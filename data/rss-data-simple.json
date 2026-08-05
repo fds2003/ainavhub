@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "title_zh": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "description": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive, layered architecture",
-      "link": "https://arxiv.org/abs/2607.28629",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "title_zh": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "description": "arXiv:2607.28631v1 Announce Type: new \nAbstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous benchmarking protocol using an automated peer-review system that harnesses frontier large language models to assess scientific papers across four core dimensions: originality, scientific rigor, clar",
-      "link": "https://arxiv.org/abs/2607.28631",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-04"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -91,58 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-      "title_zh": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-      "description": "arXiv:2607.28657v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts into task-optimized prompts with the explicit goal of improving downstream LLM performance. We train TAPR using reinforcement learning with Group Relative Policy Optimization (GRPO",
-      "link": "https://arxiv.org/abs/2607.28657",
+      "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+      "title_zh": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+      "description": "arXiv:2608.02699v1 Announce Type: new \nAbstract: When algorithms make or influence consequential decisions---about loan eligibility, hiring, or healthcare---EU law grants affected individuals a Right to Explanation. Yet whether (and how) Explainable AI (XAI) can satisfy this right in practice remains poorly understood, with direct implications for individuals' ability to contest automated decisions that affect their lives. This paper presents a systematic literature review of XAI in the context ",
+      "link": "https://arxiv.org/abs/2608.02699",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-04"
+      "date": "2026-08-05"
     },
     {
-      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-      "title_zh": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-      "description": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for major conjecture discovery, with region search from explicit local evidence modules, reflective validation for foundationality, novelty, and potential significance, and formal validation in Lean 4 an",
-      "link": "https://arxiv.org/abs/2607.28632",
+      "title": "On the missing data layer and a potential solution",
+      "title_zh": "On the missing data layer and a potential solution",
+      "description": "arXiv:2608.02949v1 Announce Type: new \nAbstract: Latin America is missing two foundational layers of AI infrastructure: the dataset layer and the benchmark layer. This paper targets the dataset layer. The dataset layer faces two compounding problems: discovery and supply. Latin American AI datasets exist but are scattered across platforms with no shared index. Even with perfect indexing, the total volume would remain far below what frontier AI development requires. We propose DataHub: a task-fir",
+      "link": "https://arxiv.org/abs/2608.02949",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-04"
+      "date": "2026-08-05"
     },
     {
-      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
-      "title_zh": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
-      "description": "arXiv:2607.28677v1 Announce Type: new \nAbstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidance, administrative documentation, and rules-based alert enhancement. This Perspective concerns the most consequential of these applications: the autonomous triage of self-presenting, undifferentiated",
-      "link": "https://arxiv.org/abs/2607.28677",
+      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "title_zh": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "description": "arXiv:2608.02618v1 Announce Type: new \nAbstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in high inter-response similarity ($\\approx 0.80-0.90$) even under high-temperature sampling. In this paper, we propose a novel mitigation framework to increase diversity: Meta-Persona Anchoring combined wi",
+      "link": "https://arxiv.org/abs/2608.02618",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-04"
+      "date": "2026-08-05"
     },
     {
-      "title": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
-      "title_zh": "EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses",
-      "description": "arXiv:2607.28788v1 Announce Type: new \nAbstract: Clinical diagnosis at hospital admission must be made rapidly from limited, incomplete evidence. Existing diagnosis-prediction benchmarks are poorly suited to this setting: they restrict prediction to closed code sets, exclude free-text notes, and supervise with discharge diagnoses that incorporate the full inpatient course. We introduce EarlyDx, a large-scale benchmark for open-ended early diagnosis, built from 154,834 emergency department encoun",
-      "link": "https://arxiv.org/abs/2607.28788",
+      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "title_zh": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "description": "arXiv:2608.02650v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world execution environments. Existing tool-use agents typically rely on LLMs to infer tool compositions from textual descriptions, which can lead to inefficient exploration and unreliable execution in complex ",
+      "link": "https://arxiv.org/abs/2608.02650",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-04"
+      "date": "2026-08-05"
     },
     {
-      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
-      "title_zh": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
-      "description": "arXiv:2607.28674v1 Announce Type: new \nAbstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth into a single trajectory-level scalar, leaving step-wise effort opaque. We propose Step-Aware Reasoning Energy (SARE), a geometric framework that quantifies effort at the granularity of individual CoT steps via Centered Ker",
-      "link": "https://arxiv.org/abs/2607.28674",
+      "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
+      "title_zh": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
+      "description": "arXiv:2608.02775v1 Announce Type: new \nAbstract: Scientific discovery has advanced through successive transformations in the organization of knowledge. Observation and experimentation established the empirical foundations of science. Theory made it possible to derive general principles from particular phenomena. Computation extended inquiry into systems beyond direct observation, while data-intensive methods opened new spaces of pattern and prediction. Science now confronts a different frontier.",
+      "link": "https://arxiv.org/abs/2608.02775",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-04"
+      "date": "2026-08-05"
     },
     {
-      "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
-      "title_zh": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
-      "description": "arXiv:2607.28692v1 Announce Type: new \nAbstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to open-world scientific workflows, where tool requirements, capabilities, and boundaries evolve dynamically. To this end, we propose SciToolAgent-Evo, an ontology-aware self-evolving agent for open-worl",
-      "link": "https://arxiv.org/abs/2607.28692",
+      "title": "Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes",
+      "title_zh": "Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes",
+      "description": "arXiv:2608.02879v1 Announce Type: new \nAbstract: The widespread adoption of proprietary Large Language Models (LLMs) accessed strictly through closed APIs has created a critical challenge for responsible deployment: a fundamental lack of interpretability. To address this, we propose a model-agnostic, post-hoc attribution interpreter operating at the sentence level. Our approach trains an Energy-Based Model (EBM) as a surrogate to capture the LLM's internal conceptual consistency between prompts ",
+      "link": "https://arxiv.org/abs/2608.02879",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-04"
+      "date": "2026-08-05"
+    },
+    {
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "title_zh": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "description": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field descriptions remain ambiguous or incomplete, as much of the essential context (e.g., the meaning of a customized field) originates from users' domain knowledge and is rarely documented publicly. This gap",
+      "link": "https://arxiv.org/abs/2608.02604",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "When Compression Scores Cannot Decide: Information Boundaries for Group-Robust LLM Pruning",
+      "title_zh": "When Compression Scores Cannot Decide: Information Boundaries for Group-Robust LLM Pruning",
+      "description": "arXiv:2608.02940v1 Announce Type: new \nAbstract: A reproducible compression statistic can still select the wrong candidate. A dense pruning score with 0.906 split-half reliability predicted a 16.1% gain. Its selected endpoint was 6.0% and 7.7% worse than two controls. We model the gap through information interfaces that delimit which distinctions each statistic supports. For equal-weight groups, a conic law gives the exact pooling price for positive linear fixed-candidate damage, including diago",
+      "link": "https://arxiv.org/abs/2608.02940",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-05"
     }
   ]
 }
