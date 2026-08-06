@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+      "title_zh": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+      "description": "arXiv:2608.04285v1 Announce Type: new \nAbstract: Neurosymbolic AI systems that integrate machine learning and symbolic reasoning are rapidly gaining attention. They complement the data-intensive statistical approaches of neural networks and language models with symbolic reasoning algorithms to function in high-stakes domains or in low-data regimes that characterize many real-world applications. We argue that the neurosymbolic combination of machine learning and formal reasoning is not a niche ap",
+      "link": "https://arxiv.org/abs/2608.04285",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-06"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -8,6 +17,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+      "title_zh": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+      "description": "arXiv:2608.04205v1 Announce Type: new \nAbstract: Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity and interactive behavior. We therefore introduce MatrAIx, a population-scale simulated-user evaluation infrastructure for testing AI systems and digital products with heterogeneous users. MatrAIx has three core components: First, Persona 8B contains 8.3 billion persona records re",
+      "link": "https://arxiv.org/abs/2608.04205",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-06"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -26,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "title_zh": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "description": "arXiv:2608.04012v1 Announce Type: new \nAbstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist indefinitely without incurring unbounded structural aging? This paper develops a long-run persistence framework for AI systems based on the redundancy-adjusted Artificial Age Score (AAS). The model exte",
+      "link": "https://arxiv.org/abs/2608.04012",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-06"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -73,76 +100,49 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
-      "title_zh": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
-      "description": "arXiv:2608.02699v1 Announce Type: new \nAbstract: When algorithms make or influence consequential decisions---about loan eligibility, hiring, or healthcare---EU law grants affected individuals a Right to Explanation. Yet whether (and how) Explainable AI (XAI) can satisfy this right in practice remains poorly understood, with direct implications for individuals' ability to contest automated decisions that affect their lives. This paper presents a systematic literature review of XAI in the context ",
-      "link": "https://arxiv.org/abs/2608.02699",
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "title_zh": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "description": "arXiv:2608.04077v1 Announce Type: new \nAbstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We introduce FinProBench, a benchmark for professional financial tasks, and Role-Grounded Rubric Construction (RGRC), a reusable pipeline that derives rubrics from deliverables produced by practitioners in th",
+      "link": "https://arxiv.org/abs/2608.04077",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-05"
+      "date": "2026-08-06"
     },
     {
-      "title": "On the missing data layer and a potential solution",
-      "title_zh": "On the missing data layer and a potential solution",
-      "description": "arXiv:2608.02949v1 Announce Type: new \nAbstract: Latin America is missing two foundational layers of AI infrastructure: the dataset layer and the benchmark layer. This paper targets the dataset layer. The dataset layer faces two compounding problems: discovery and supply. Latin American AI datasets exist but are scattered across platforms with no shared index. Even with perfect indexing, the total volume would remain far below what frontier AI development requires. We propose DataHub: a task-fir",
-      "link": "https://arxiv.org/abs/2608.02949",
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "title_zh": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "description": "arXiv:2608.04095v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing personalized-memory benchmarks primarily test factual retention or rely on weakly constrained model-generated trajectories, leaving event-driven preference adaptation underexplored. We introduce FinP",
+      "link": "https://arxiv.org/abs/2608.04095",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-05"
+      "date": "2026-08-06"
     },
     {
-      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-      "title_zh": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-      "description": "arXiv:2608.02618v1 Announce Type: new \nAbstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in high inter-response similarity ($\\approx 0.80-0.90$) even under high-temperature sampling. In this paper, we propose a novel mitigation framework to increase diversity: Meta-Persona Anchoring combined wi",
-      "link": "https://arxiv.org/abs/2608.02618",
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "title_zh": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "description": "arXiv:2608.04071v1 Announce Type: new \nAbstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated subtask processing, which hinder joint optimization of factual accuracy, visual quality, and narrative coherence. To address these issues, this paper proposes MCTS-Report, a Monte Carlo Tree Search (MCTS",
+      "link": "https://arxiv.org/abs/2608.04071",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-05"
+      "date": "2026-08-06"
     },
     {
-      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-      "title_zh": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-      "description": "arXiv:2608.02650v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world execution environments. Existing tool-use agents typically rely on LLMs to infer tool compositions from textual descriptions, which can lead to inefficient exploration and unreliable execution in complex ",
-      "link": "https://arxiv.org/abs/2608.02650",
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "title_zh": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "description": "arXiv:2608.04066v1 Announce Type: new \nAbstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a language model may only file typed proposals, and a claim is admitted only when a prediction pre-registered before acting is matched against observation by code. Two properties make the instrument a ver",
+      "link": "https://arxiv.org/abs/2608.04066",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-05"
+      "date": "2026-08-06"
     },
     {
-      "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
-      "title_zh": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
-      "description": "arXiv:2608.02775v1 Announce Type: new \nAbstract: Scientific discovery has advanced through successive transformations in the organization of knowledge. Observation and experimentation established the empirical foundations of science. Theory made it possible to derive general principles from particular phenomena. Computation extended inquiry into systems beyond direct observation, while data-intensive methods opened new spaces of pattern and prediction. Science now confronts a different frontier.",
-      "link": "https://arxiv.org/abs/2608.02775",
+      "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+      "title_zh": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+      "description": "arXiv:2608.04156v1 Announce Type: new \nAbstract: Electroencephalography (EEG) analysis extends beyond assigning predefined labels to recordings; it requires workflows connecting natural-language instructions, signal processing, quantitative evidence, and scientific interpretation. We term this capability \\emph{comprehensive EEG understanding}. Existing evaluations, however, primarily target isolated decoding tasks or system-specific demonstrations, leaving the competence of large language models",
+      "link": "https://arxiv.org/abs/2608.04156",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes",
-      "title_zh": "Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes",
-      "description": "arXiv:2608.02879v1 Announce Type: new \nAbstract: The widespread adoption of proprietary Large Language Models (LLMs) accessed strictly through closed APIs has created a critical challenge for responsible deployment: a fundamental lack of interpretability. To address this, we propose a model-agnostic, post-hoc attribution interpreter operating at the sentence level. Our approach trains an Energy-Based Model (EBM) as a surrogate to capture the LLM's internal conceptual consistency between prompts ",
-      "link": "https://arxiv.org/abs/2608.02879",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-      "title_zh": "ISEE: Interactive Semantic Enrichment for Database Fields",
-      "description": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field descriptions remain ambiguous or incomplete, as much of the essential context (e.g., the meaning of a customized field) originates from users' domain knowledge and is rarely documented publicly. This gap",
-      "link": "https://arxiv.org/abs/2608.02604",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "When Compression Scores Cannot Decide: Information Boundaries for Group-Robust LLM Pruning",
-      "title_zh": "When Compression Scores Cannot Decide: Information Boundaries for Group-Robust LLM Pruning",
-      "description": "arXiv:2608.02940v1 Announce Type: new \nAbstract: A reproducible compression statistic can still select the wrong candidate. A dense pruning score with 0.906 split-half reliability predicted a 16.1% gain. Its selected endpoint was 6.0% and 7.7% worse than two controls. We model the gap through information interfaces that delimit which distinctions each statistic supports. For equal-weight groups, a conic law gives the exact pooling price for positive linear fixed-candidate damage, including diago",
-      "link": "https://arxiv.org/abs/2608.02940",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-05"
+      "date": "2026-08-06"
     }
   ]
 }
