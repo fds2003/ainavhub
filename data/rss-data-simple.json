@@ -37,6 +37,15 @@
       "date": "2021-10-21"
     },
     {
+      "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+      "title_zh": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+      "description": "arXiv:2608.06621v1 Announce Type: new \nAbstract: We propose NxN E-valuation, a handy, e-value-based hypothesis-certification algorithm that lets a hypothesis be verified without building any case-specific certification procedure---such as constructing a dedicated null hypothesis---as long as a large enough dataset is available. The method is especially suited to LLM-based exploration systems, where LLMs are remarkably good at proposing hypotheses but suffer badly from hallucination; this halluci",
+      "link": "https://arxiv.org/abs/2608.06621",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+      "title_zh": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+      "description": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while deep-learning approaches improve performance at the expense of interpretability and rely on labeled data and training. Large language models (LLMs), with strong reasoning capabilities and world knowledge, are promising for i",
+      "link": "https://arxiv.org/abs/2608.06402",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure",
+      "title_zh": "TRACE: A Multi-Layer Benchmark for Human AI Controller Coordination Under Drift and Failure",
+      "description": "arXiv:2608.06657v1 Announce Type: new \nAbstract: Modern cyber-physical and AI-assisted systems couple human operators, AI decision modules, and automated controllers in a single control loop, so trustworthiness depends on the whole loop, not any one model. Yet no standard benchmark captures time-aligned, multi-layer traces of how drift and failures propagate across these layers, so we cannot diagnose where coordination breaks down, why, or how to recover. This paper targets one facet of that gap",
+      "link": "https://arxiv.org/abs/2608.06657",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
+      "title_zh": "Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation",
+      "description": "arXiv:2608.06632v1 Announce Type: new \nAbstract: Industrial recommendation systems predominantly adopt a passive ranking paradigm that infers user preferences from implicit behavioral signals (e.g., clicks, dwell time) rather than explicit, natural language inputs. As a result, users experience a persistent discrepancy between their explicit interests and what passive behavioral algorithms deliver, limiting their ability to express nuanced preferences or steer their feed in real time. To address",
+      "link": "https://arxiv.org/abs/2608.06632",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+      "title_zh": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+      "description": "arXiv:2608.06578v1 Announce Type: new \nAbstract: Frontier language models are trained using distinct data, objectives, and safety pipelines. Whether these differences produce measurably different behaviors under explicit steering pressure remains underexplored. This study evaluates behavioral steerability across six frontier models from six developers using 300 paired base and steered items over three categories: values-conflict, reasoning-elicitation, and reasoning-suppression (plus 40 validati",
+      "link": "https://arxiv.org/abs/2608.06578",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+      "title_zh": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+      "description": "arXiv:2608.06501v1 Announce Type: new \nAbstract: Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to evaluate because explicit targets and reward signals are scarce compared with accuracy-oriented tasks. Cross-concept understanding is a core cognitive capacity underlying receptive creativity. It enables a perceiver to recover intended meaning from non-obvious but meaningful conceptual relations. We operationalize item co",
+      "link": "https://arxiv.org/abs/2608.06501",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+      "title_zh": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+      "description": "arXiv:2608.06530v1 Announce Type: new \nAbstract: Planning a degree from official university sources requires solving two problems in order. The institution's curriculum must first be reconstructed from catalogs, departmental pages, JSON endpoints, and PDFs that share no schema, and only then can a student-specific path be optimized under prerequisite logic and overlapping requirement constraints. Coupling the two lets each failure mode hide the other, because a planner that drives its own crawli",
+      "link": "https://arxiv.org/abs/2608.06530",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+      "title_zh": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+      "description": "arXiv:2608.06609v1 Announce Type: new \nAbstract: Automated item evaluation (AIE) refers to the use of computational methods to assess item quality without requiring manual expert review or field testing of the items under evaluation. We aimed to build a near-comprehensive AIE model by predicting item acceptance and rejection from item text using historical rejection data from a large-scale standardized testing program. The dataset contained 52,759 English language arts (ELA) and mathematics item",
+      "link": "https://arxiv.org/abs/2608.06609",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-10"
     }
   ]
 }
