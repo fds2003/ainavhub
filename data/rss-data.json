@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "link": "https://arxiv.org/abs/2608.09998",
+      "description": "arXiv:2608.09998v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to their high energy demands and associated carbon emissions. This concern is particularly relevant in light of the increasing deployment of large-scale models, especially Deep Learning (DL) architecture",
+      "pubDate": "2026-08-12T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 42,
+      "title_zh": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -31,14 +41,14 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
-      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-      "link": "https://arxiv.org/abs/2608.07474",
-      "description": "arXiv:2608.07474v1 Announce Type: new \nAbstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V exceeds human cognitive capacity C_max. The operative constraint, however, is not V alone but V x L, where L denotes per-item cognitive load. L consists of triage, judgment, and response, which respond asymmetrically to AI capability improvement. Triage cost does not decline as models become more capable, because semanti",
-      "pubDate": "2026-08-11T04:00:00.000Z",
+      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+      "link": "https://arxiv.org/abs/2608.10030",
+      "description": "arXiv:2608.10030v1 Announce Type: new \nAbstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical. Yet behavioral scientific research on AI agents remains manual and labor-intensive. We introduce AEROBAT, the first multi-agent system to automate behavioral scientific research on AI agents. Given an arbitrary target behavior by its user, AEROBAT automatically executes a full pipeline of behavioral scientific research---generating hypot",
+      "pubDate": "2026-08-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 20,
-      "title_zh": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains"
+      "title_zh": "Automating and Scaling Behavioral Scientific Research on AI Agents"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -51,6 +61,26 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
+      "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+      "link": "https://arxiv.org/abs/2608.10153",
+      "description": "arXiv:2608.10153v1 Announce Type: new \nAbstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single discipline, typically DevSecOps built for deterministic automation, across every scale of agency. We argue that agentic AI governance is four problems, not one, each with a mature governing science. The CASE framework assigns Control theory to the individual agent (intent as setpoint, guardrails as feedback, evaluation as obs",
+      "pubDate": "2026-08-12T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 18.5,
+      "title_zh": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI"
+    },
+    {
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "link": "https://arxiv.org/abs/2608.09949",
+      "description": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassing multispectral, electrochemical, and dielectric modalities. To enhance accessibility, the system provides real-time natural-language interpretation for both specialists and non-experts. However, its",
+      "pubDate": "2026-08-12T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 17,
+      "title_zh": "Closed-Loop LLM Co-Pilots for Digital Agriculture"
+    },
+    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -59,16 +89,6 @@
       "category": "行业趋势",
       "aiScore": 17,
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
-      "link": "https://arxiv.org/abs/2608.07538",
-      "description": "arXiv:2608.07538v1 Announce Type: new \nAbstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create value, divide it predictably, and avoid money-losing contracts. We study this in a canonical supply chain bargaining problem: a buyer with private demand information negotiates a quantity-payment contract with an uninformed seller. We benchmark nine LLMs from OpenAI, Google, and Alibaba against a validated Perfect Bayesian Eq",
-      "pubDate": "2026-08-11T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -101,69 +121,49 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
-      "link": "https://arxiv.org/abs/2608.07532",
-      "description": "arXiv:2608.07532v1 Announce Type: new \nAbstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either fix communication in advance or allow full broadcast. Both can be inefficient because token cost, latency, redundancy, and error propagation increase with the number of active agents and communication links. We model agent selection and communication as a cooperative game with task-conditioned net utility $U(C\\mid x)=V(C\\",
-      "pubDate": "2026-08-11T04:00:00.000Z",
+      "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
+      "link": "https://arxiv.org/abs/2608.10176",
+      "description": "arXiv:2608.10176v1 Announce Type: new \nAbstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making sure that the recommendations respect explicit user constraints. In practice, public service directories are noisy and inconsistent, and general-purpose large language model (LLM) or AI-based chatbots frequently generate unreliable recommendations, citing unverified sources from the web. We investigate the impact of retrie",
+      "pubDate": "2026-08-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems"
+      "aiScore": 7,
+      "title_zh": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine"
     },
     {
-      "title": "Towards an Argumentative Foundation for Evaluative AI",
-      "link": "https://arxiv.org/abs/2608.07473",
-      "description": "arXiv:2608.07473v1 Announce Type: new \nAbstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation, but by presenting competing hypotheses together with evidence for and against each. In this position paper, we advocate (computational) argumentation as a particularly suitable paradigm to provide a formal, computable foundation for forms of EAI that are explainable and contestable, setting the ground for a long-term ",
-      "pubDate": "2026-08-11T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Towards an Argumentative Foundation for Evaluative AI"
-    },
-    {
-      "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
-      "link": "https://arxiv.org/abs/2608.07542",
-      "description": "arXiv:2608.07542v1 Announce Type: new \nAbstract: Autonomous research loops driven by large language models can run machine-learning experiments at scale but tend to drift toward local refinements of whichever metric they optimise rather than testing the hypotheses that motivate the experiments. We address this structurally and present an AI Scientist for studying generalisation in quadruped robot navigation policies in simulation. Building on the autoresearch paradigm of Karpathy, our loop adds ",
-      "pubDate": "2026-08-11T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop"
-    },
-    {
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "link": "https://arxiv.org/abs/2608.07524",
-      "description": "arXiv:2608.07524v1 Announce Type: new \nAbstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a difficult trade-off between efficiency and ease-of-use. Simple approaches use static configurations that cause workload imbalance low efficiency, while complex methods introduces significant complexity and code change for new models. To break this trade-off, we introduce Data-Centric Parallel (DCP). Its core principle is to",
-      "pubDate": "2026-08-11T04:00:00.000Z",
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2608.09967",
+      "description": "arXiv:2608.09967v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-based framework for interpreting DRL policies. Given access to the policy and an environment simulator, SPOT constructs an interpretable finite-horizon tree by sampling actions and recursively simulating ",
+      "pubDate": "2026-08-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Training Variable Long Sequences with Data-Centric Parallel"
+      "title_zh": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning"
     },
     {
-      "title": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations",
-      "link": "https://arxiv.org/abs/2608.07540",
-      "description": "arXiv:2608.07540v1 Announce Type: new \nAbstract: AI systems increasingly operate between flexible input representations and formal objects used by downstream tools. A key challenge is recognizing when an unfamiliar formulation denotes a known formal object. We study this challenge through theorem recognition: given an equivalence-preserving transformation of a theorem condition, a model must recover the theorem identity associated with the standard statement. We introduce TREAT, a benchmark for ",
-      "pubDate": "2026-08-11T04:00:00.000Z",
+      "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+      "link": "https://arxiv.org/abs/2608.10157",
+      "description": "arXiv:2608.10157v1 Announce Type: new \nAbstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve their performance over time. Recently, methods like the Darwin G\\\"odel Machine and the Huxley G\\\"odel Machine have been proposed which enable open-ended, recursive self-improvement through self-reference where a coding agent edits its own code. Such self-referential self-improvement methods require that the competence req",
+      "pubDate": "2026-08-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations"
+      "title_zh": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents"
     },
     {
-      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-      "link": "https://arxiv.org/abs/2608.07476",
-      "description": "arXiv:2608.07476v1 Announce Type: new \nAbstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a triple T = ({\\Sigma}, A, I) consisting of a signature, axioms, and an inference policy, whose admissible interpretation family collects all globally consistent assignments of structural conclusions.\n  We distinguish three levels of canonicalization: closure stabilization (per-seed convergence), global completion (seed-in",
-      "pubDate": "2026-08-11T04:00:00.000Z",
+      "title": "Generating Attacks for LLMs with GFlowNets",
+      "link": "https://arxiv.org/abs/2608.10171",
+      "description": "arXiv:2608.10171v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has facilitated their ubiquitous integration into various domains, leading to widespread adoption. However, this escalating trend has introduced significant security vulnerabilities, necessitating the identification and mitigation of flaws arising from malicious exploitation. Red teaming assessments, conducted to evaluate model robustness through diverse adversarial inputs, are essential for ex",
+      "pubDate": "2026-08-12T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility"
+      "title_zh": "Generating Attacks for LLMs with GFlowNets"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-08-12T03:16:01.622Z",
+    "generatedAt": "2026-08-12T05:21:16.346Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 14.6875
+    "averageScore": 17.28125
   }
 }
