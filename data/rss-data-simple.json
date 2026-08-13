@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
-      "title_zh": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
-      "description": "arXiv:2608.09998v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to their high energy demands and associated carbon emissions. This concern is particularly relevant in light of the increasing deployment of large-scale models, especially Deep Learning (DL) architecture",
-      "link": "https://arxiv.org/abs/2608.09998",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-12"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -17,6 +8,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+      "title_zh": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+      "description": "arXiv:2608.11220v1 Announce Type: new \nAbstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&ID) is predominantly performed manually. Applying artificial intelligence in the task could potentially lead not only to process automation and time savings, but also to financial gains by exploring numerous diagram's topology options and reducing manual labor. This research presents P&ID Pilot - a practical end-to-",
+      "link": "https://arxiv.org/abs/2608.11220",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-13"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -37,15 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
-      "title_zh": "Automating and Scaling Behavioral Scientific Research on AI Agents",
-      "description": "arXiv:2608.10030v1 Announce Type: new \nAbstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical. Yet behavioral scientific research on AI agents remains manual and labor-intensive. We introduce AEROBAT, the first multi-agent system to automate behavioral scientific research on AI agents. Given an arbitrary target behavior by its user, AEROBAT automatically executes a full pipeline of behavioral scientific research---generating hypot",
-      "link": "https://arxiv.org/abs/2608.10030",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-12"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -55,22 +46,22 @@
       "date": "2021-10-21"
     },
     {
-      "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
-      "title_zh": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
-      "description": "arXiv:2608.10153v1 Announce Type: new \nAbstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single discipline, typically DevSecOps built for deterministic automation, across every scale of agency. We argue that agentic AI governance is four problems, not one, each with a mature governing science. The CASE framework assigns Control theory to the individual agent (intent as setpoint, guardrails as feedback, evaluation as obs",
-      "link": "https://arxiv.org/abs/2608.10153",
+      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "title_zh": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "description": "arXiv:2608.11207v1 Announce Type: new \nAbstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates without achieving either agent's stated objective. This paper asks whether a control-theoretic governance layer can substitute for that missing goal function. The Experience Orchestrato",
+      "link": "https://arxiv.org/abs/2608.11207",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
     },
     {
-      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-      "title_zh": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-      "description": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassing multispectral, electrochemical, and dielectric modalities. To enhance accessibility, the system provides real-time natural-language interpretation for both specialists and non-experts. However, its",
-      "link": "https://arxiv.org/abs/2608.09949",
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "title_zh": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "description": "arXiv:2608.11215v1 Announce Type: new \nAbstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then run the society at an",
+      "link": "https://arxiv.org/abs/2608.11215",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -109,40 +100,49 @@
       "date": "2021-10-21"
     },
     {
-      "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
-      "title_zh": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
-      "description": "arXiv:2608.10176v1 Announce Type: new \nAbstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making sure that the recommendations respect explicit user constraints. In practice, public service directories are noisy and inconsistent, and general-purpose large language model (LLM) or AI-based chatbots frequently generate unreliable recommendations, citing unverified sources from the web. We investigate the impact of retrie",
-      "link": "https://arxiv.org/abs/2608.10176",
+      "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+      "title_zh": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+      "description": "arXiv:2608.11224v1 Announce Type: new \nAbstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new question to an old result. This experience is essential for reproducibility and knowledge transfer, yet it is usually fragmented across notebooks, repositories, job logs and individual memory, and it is rarely portable across artificial-intelligence agent",
+      "link": "https://arxiv.org/abs/2608.11224",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
     },
     {
-      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-      "title_zh": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
-      "description": "arXiv:2608.09967v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-based framework for interpreting DRL policies. Given access to the policy and an environment simulator, SPOT constructs an interpretable finite-horizon tree by sampling actions and recursively simulating ",
-      "link": "https://arxiv.org/abs/2608.09967",
+      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+      "title_zh": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+      "description": "arXiv:2608.11219v1 Announce Type: new \nAbstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO method that decomposes prompts into role, context, tasks, and output format, then applies targeted improvements based on top-5 and bottom-5 examples. The optimization loop uses one LLM with static meta-prompts and structured outputs for segmentation, weakness analysis, and candidate ",
+      "link": "https://arxiv.org/abs/2608.11219",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
     },
     {
-      "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
-      "title_zh": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
-      "description": "arXiv:2608.10157v1 Announce Type: new \nAbstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve their performance over time. Recently, methods like the Darwin G\\\"odel Machine and the Huxley G\\\"odel Machine have been proposed which enable open-ended, recursive self-improvement through self-reference where a coding agent edits its own code. Such self-referential self-improvement methods require that the competence req",
-      "link": "https://arxiv.org/abs/2608.10157",
+      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "title_zh": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "description": "arXiv:2608.11210v1 Announce Type: new \nAbstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literature is slow and needs both domain and statistical expertise. We present \\textbf{Distribird}, an agentic web application that automates this process. Given a parameter name, physica",
+      "link": "https://arxiv.org/abs/2608.11210",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
     },
     {
-      "title": "Generating Attacks for LLMs with GFlowNets",
-      "title_zh": "Generating Attacks for LLMs with GFlowNets",
-      "description": "arXiv:2608.10171v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has facilitated their ubiquitous integration into various domains, leading to widespread adoption. However, this escalating trend has introduced significant security vulnerabilities, necessitating the identification and mitigation of flaws arising from malicious exploitation. Red teaming assessments, conducted to evaluate model robustness through diverse adversarial inputs, are essential for ex",
-      "link": "https://arxiv.org/abs/2608.10171",
+      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "title_zh": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "description": "arXiv:2608.11211v1 Announce Type: new \nAbstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our verifiable contributions are: (1) an exhaustive proof that no circulant graph on $\\mathbb{Z}/99$ satisfies more than $3366/4950=68.0\\%$ of the constraints ($33$ of $49$ difference-classes), with the ",
+      "link": "https://arxiv.org/abs/2608.11211",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-12"
+      "date": "2026-08-13"
+    },
+    {
+      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "title_zh": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "description": "arXiv:2608.11216v1 Announce Type: new \nAbstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents acting as autonomous researchers--a setting in which the improvement direction is not specified in advance, unlike the engineering-to-spec tasks that dominate current agent benchmarks. We introduce AutoWorldModel-Bench, a",
+      "link": "https://arxiv.org/abs/2608.11216",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-13"
     }
   ]
 }
