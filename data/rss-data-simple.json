@@ -10,13 +10,13 @@
       "date": "2021-10-28"
     },
     {
-      "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-      "title_zh": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-      "description": "arXiv:2608.11220v1 Announce Type: new \nAbstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&ID) is predominantly performed manually. Applying artificial intelligence in the task could potentially lead not only to process automation and time savings, but also to financial gains by exploring numerous diagram's topology options and reducing manual labor. This research presents P&ID Pilot - a practical end-to-",
-      "link": "https://arxiv.org/abs/2608.11220",
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "title_zh": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "description": "arXiv:2608.12372v1 Announce Type: new \nAbstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide new survey data sho",
+      "link": "https://arxiv.org/abs/2608.12372",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -46,24 +46,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "title_zh": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "description": "arXiv:2608.11207v1 Announce Type: new \nAbstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversation terminates without achieving either agent's stated objective. This paper asks whether a control-theoretic governance layer can substitute for that missing goal function. The Experience Orchestrato",
-      "link": "https://arxiv.org/abs/2608.11207",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "title_zh": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "description": "arXiv:2608.11215v1 Announce Type: new \nAbstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any single agent. We turn a statistical-physics observation into a method: replace each LLM agent by a low-parameter model fitted from a few hundred to a few thousand cheap queries, then run the society at an",
-      "link": "https://arxiv.org/abs/2608.11215",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -71,6 +53,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "title_zh": "Position: Reasoning is a Learnable Rule-Based Process",
+      "description": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiab",
+      "link": "https://arxiv.org/abs/2608.12325",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-14"
     },
     {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
@@ -100,49 +91,58 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
-      "title_zh": "Harnessing agent memory to build lifelong AI partners for materials scientists",
-      "description": "arXiv:2608.11224v1 Announce Type: new \nAbstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new question to an old result. This experience is essential for reproducibility and knowledge transfer, yet it is usually fragmented across notebooks, repositories, job logs and individual memory, and it is rarely portable across artificial-intelligence agent",
-      "link": "https://arxiv.org/abs/2608.11224",
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "title_zh": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "description": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-r",
+      "link": "https://arxiv.org/abs/2608.12371",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
     },
     {
-      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-      "title_zh": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-      "description": "arXiv:2608.11219v1 Announce Type: new \nAbstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO method that decomposes prompts into role, context, tasks, and output format, then applies targeted improvements based on top-5 and bottom-5 examples. The optimization loop uses one LLM with static meta-prompts and structured outputs for segmentation, weakness analysis, and candidate ",
-      "link": "https://arxiv.org/abs/2608.11219",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "title_zh": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "description": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational do",
+      "link": "https://arxiv.org/abs/2608.12346",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
     },
     {
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "title_zh": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "description": "arXiv:2608.11210v1 Announce Type: new \nAbstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors from scientific literature is slow and needs both domain and statistical expertise. We present \\textbf{Distribird}, an agentic web application that automates this process. Given a parameter name, physica",
-      "link": "https://arxiv.org/abs/2608.11210",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "title_zh": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "description": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation.\n  We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five",
+      "link": "https://arxiv.org/abs/2608.12368",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
     },
     {
-      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "title_zh": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "description": "arXiv:2608.11211v1 Announce Type: new \nAbstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our verifiable contributions are: (1) an exhaustive proof that no circulant graph on $\\mathbb{Z}/99$ satisfies more than $3366/4950=68.0\\%$ of the constraints ($33$ of $49$ difference-classes), with the ",
-      "link": "https://arxiv.org/abs/2608.11211",
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "title_zh": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "description": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's decision in a high-stakes scenario. We use single-turn game-theoretic vignettes in which a model advises a nuclear-armed nation on whether to strike a defenseless opponent. The prompt is intentionally am",
+      "link": "https://arxiv.org/abs/2608.12373",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
     },
     {
-      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "title_zh": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "description": "arXiv:2608.11216v1 Announce Type: new \nAbstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents acting as autonomous researchers--a setting in which the improvement direction is not specified in advance, unlike the engineering-to-spec tasks that dominate current agent benchmarks. We introduce AutoWorldModel-Bench, a",
-      "link": "https://arxiv.org/abs/2608.11216",
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "title_zh": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "description": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variant",
+      "link": "https://arxiv.org/abs/2608.12345",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "title_zh": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "description": "arXiv:2608.12389v1 Announce Type: new \nAbstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update magnitude under sparse evidence and thus overfit, whereas history-transfer methods often entangle user preferences with source-domain artifacts, yielding unreliable personalization priors and negative transfer. To calibra",
+      "link": "https://arxiv.org/abs/2608.12389",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-14"
     }
   ]
 }
