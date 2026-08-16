@@ -11,16 +11,6 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
-      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-      "link": "https://arxiv.org/abs/2608.12372",
-      "description": "arXiv:2608.12372v1 Announce Type: new \nAbstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide new survey data sho",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 24,
-      "title_zh": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -61,16 +51,6 @@
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
     },
     {
-      "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "link": "https://arxiv.org/abs/2608.12325",
-      "description": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiab",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 16,
-      "title_zh": "Position: Reasoning is a Learnable Rule-Based Process"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -99,71 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-      "link": "https://arxiv.org/abs/2608.12371",
-      "description": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-r",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing"
-    },
-    {
-      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "link": "https://arxiv.org/abs/2608.12346",
-      "description": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational do",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit"
-    },
-    {
-      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "link": "https://arxiv.org/abs/2608.12368",
-      "description": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation.\n  We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments"
-    },
-    {
-      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-      "link": "https://arxiv.org/abs/2608.12373",
-      "description": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's decision in a high-stakes scenario. We use single-turn game-theoretic vignettes in which a model advises a nuclear-armed nation on whether to strike a defenseless opponent. The prompt is intentionally am",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese"
-    },
-    {
-      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "link": "https://arxiv.org/abs/2608.12345",
-      "description": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variant",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists"
-    },
-    {
-      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
-      "link": "https://arxiv.org/abs/2608.12389",
-      "description": "arXiv:2608.12389v1 Announce Type: new \nAbstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update magnitude under sparse evidence and thus overfit, whereas history-transfer methods often entangle user preferences with source-domain artifacts, yielding unreliable personalization priors and negative transfer. To calibra",
-      "pubDate": "2026-08-15T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-08-16T03:37:17.495Z",
+    "totalCount": 8,
+    "generatedAt": "2026-08-16T04:23:10.282Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 15.3125
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
