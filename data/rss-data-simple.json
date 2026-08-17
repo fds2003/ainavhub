@@ -10,6 +10,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "AI Evaluation Should Work With Humans",
+      "title_zh": "AI Evaluation Should Work With Humans",
+      "description": "arXiv:2608.13577v1 Announce Type: new \nAbstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the goal of replacing humans) is guiding AI development in the wrong direction. Instead, the AI community should pivot to evaluating the performance of human--AI teams. We argue that this collaborative shift will foster AI systems that act as true complements to human capabilities and therefore lead t",
+      "link": "https://arxiv.org/abs/2608.13577",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -71,6 +80,69 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "title_zh": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "description": "arXiv:2608.13573v1 Announce Type: new \nAbstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload studies remain limited in scale and scope. They often observe short time periods and provide limited visibility into how users interact with models in production. As a result, they do not fully capture how LLM serving workloads evolve over time or how use",
+      "link": "https://arxiv.org/abs/2608.13573",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "title_zh": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "description": "arXiv:2608.13574v1 Announce Type: new \nAbstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they also introduce risks related to over-privileged actions, weak auditability, prompt injection, tool poisoning, and uncontrolled side effects. This paper presents Agentao, a governed local-first runtime for tool-using LLM agents. Agentao separates mode",
+      "link": "https://arxiv.org/abs/2608.13574",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+      "title_zh": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+      "description": "arXiv:2608.13608v1 Announce Type: new \nAbstract: Agentic \"Continual Learning Harnesses\", systems that pair an LLM with retrieval or memory to improve from feedback without retraining, have shown growing value in cybersecurity. But their value is conventionally measured by gains against labeled benchmarks, an approach that often fails in operational security settings. Benchmark labels are scarce, stale, and unrepresentative, so a practitioner often cannot tell whether a given harness helps at all",
+      "link": "https://arxiv.org/abs/2608.13608",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "title_zh": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "description": "arXiv:2608.13604v1 Announce Type: new \nAbstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person interaction and is increasingly handled by AI-mediated channels. This shift cuts communicators off from the resources repair depends on faster than new means of detection are being built. In this paper we analyse misunderstanding as a layered process in which a divergence is generated, may then be amplified, and is either dete",
+      "link": "https://arxiv.org/abs/2608.13604",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+      "title_zh": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+      "description": "arXiv:2608.13607v1 Announce Type: new \nAbstract: Frontier LLMs are updated frequently and typically outperform their predecessors in aggregate. But aggregate gains say little about individual samples: an update can still cause sample-level regression, where a response correct under the old model becomes incorrect under the new one. This paper studies how to predict such regressions from signals available at inference time. We compare single-model signals (confidence, logit margin, attention entr",
+      "link": "https://arxiv.org/abs/2608.13607",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "MobileMem: Learning from a Year of Mobile Experiences",
+      "title_zh": "MobileMem: Learning from a Year of Mobile Experiences",
+      "description": "arXiv:2608.13606v1 Announce Type: new \nAbstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can understand, remember, and continuously learn from users' experiences. Such assistants require long-term memory to accumulate and leverage user-specific experiences over time, yet existing benchmarks remain inadequate for realistic mobile settings, where experiences are heterogeneous, multimodal, evolv",
+      "link": "https://arxiv.org/abs/2608.13606",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "title_zh": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "description": "arXiv:2608.13567v1 Announce Type: new \nAbstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental principle of how intelligent systems must be built, or an evolutionary accident specific to biological brains? Here, we test whether a similar organization emerges in Large Language Models--another class ",
+      "link": "https://arxiv.org/abs/2608.13567",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-17"
     }
   ]
 }
