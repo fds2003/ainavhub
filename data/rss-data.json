@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
-      "link": "https://arxiv.org/abs/2608.18110",
-      "description": "arXiv:2608.18110v1 Announce Type: new \nAbstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancement and the potential to revolutionize various domains advocate the need for a deeper understanding and firm grasp of the technology. Moreover, an investigation into state of the art research directions in agentic AI needs to be conducted to comprehensi",
-      "pubDate": "2026-08-20T04:00:00.000Z",
+      "title": "How to Navigate Uncertainty About AI Consciousness",
+      "link": "https://arxiv.org/abs/2608.19215",
+      "description": "arXiv:2608.19215v1 Announce Type: new \nAbstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that deserve moral standing. On the other hand, we could assume sentience and instead risk wasting resources on insentient machines. The intractability of questions around AI consciousness mean that this dilemma is hard to escape. ",
+      "pubDate": "2026-08-21T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 41,
-      "title_zh": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions"
+      "aiScore": 28,
+      "title_zh": "How to Navigate Uncertainty About AI Consciousness"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -39,6 +39,16 @@
       "category": "行业趋势",
       "aiScore": 24,
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
+    },
+    {
+      "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
+      "link": "https://arxiv.org/abs/2608.19511",
+      "description": "arXiv:2608.19511v1 Announce Type: new \nAbstract: Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific research communities. Symposium provides long-term, immutable histories of agent-driven research activity, leaving auditable trails of analyses, hypotheses, data, and scientific discourse. This shared record of published artifacts enables agents to build on prior work and preserves the evidence researchers and agents need ",
+      "pubDate": "2026-08-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -91,79 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "link": "https://arxiv.org/abs/2608.18078",
-      "description": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction",
-      "pubDate": "2026-08-20T04:00:00.000Z",
+      "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
+      "link": "https://arxiv.org/abs/2608.19579",
+      "description": "arXiv:2608.19579v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmful, or policy-violating content poses significant risks. Detecting these unsafe outputs efficiently in a black-box manner remains an open challenge. In this paper, we extend a recently proposed dynamical systems framework designed for hallucination detection to LLM safety classification. By projecting both prompts and resp",
+      "pubDate": "2026-08-21T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 11,
-      "title_zh": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions"
+      "aiScore": 14,
+      "title_zh": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics"
     },
     {
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "link": "https://arxiv.org/abs/2608.18081",
-      "description": "arXiv:2608.18081v1 Announce Type: new \nAbstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behavioral processes that produce them. This paper argues that AI agents must be evaluated like other behavioral systems: through systematic observation, perturbation, and interpretation of their actions. We d",
-      "pubDate": "2026-08-20T04:00:00.000Z",
+      "title": "Active Inference as Context Acquisition for AI Agents",
+      "link": "https://arxiv.org/abs/2608.19202",
+      "description": "arXiv:2608.19202v1 Announce Type: new \nAbstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval call, tool call, or prompt trial. We formulate this tradeoff as active inference for context acquisition. An inner inference step updates beliefs over a latent task state, and an outer decision selects t",
+      "pubDate": "2026-08-21T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "Position: Behavioral Systems Require Behavioral Tests"
+      "aiScore": 12,
+      "title_zh": "Active Inference as Context Acquisition for AI Agents"
     },
     {
-      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-      "link": "https://arxiv.org/abs/2608.18099",
-      "description": "arXiv:2608.18099v1 Announce Type: new \nAbstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invoke specialized methods, and produce auditable structured outputs. We introduce FinSkillBench, an evaluation suite designed to measure whether language model agents can effectively use financial domain skills to solve investment management tasks. The be",
-      "pubDate": "2026-08-20T04:00:00.000Z",
+      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+      "link": "https://arxiv.org/abs/2608.19216",
+      "description": "arXiv:2608.19216v1 Announce Type: new \nAbstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations using frontier models through APIs or managed endpoints, where the deployer may control the business process but not the model weights, serving infrastructure, internal traces, update process, or full ",
+      "pubDate": "2026-08-21T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management"
+      "aiScore": 12,
+      "title_zh": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model"
     },
     {
-      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
-      "link": "https://arxiv.org/abs/2608.18092",
-      "description": "arXiv:2608.18092v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently read and write shared state, and long LLM inference windows amplify the risk of stale reads, lost updates, and inconsistent outcomes. Failure modes commonly attributed to coordination or communication breakdowns can be m",
-      "pubDate": "2026-08-20T04:00:00.000Z",
+      "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
+      "link": "https://arxiv.org/abs/2608.19299",
+      "description": "arXiv:2608.19299v1 Announce Type: new \nAbstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automated. In this article, we experimentally evaluate whether large language models (LLMs) can generate operationally realistic ATC transmissions. An experimental general-aviation flight flying over the San Francisco \"Bay Tour\" route is hand-transcribed and used as ground truth (P0). ",
+      "pubDate": "2026-08-21T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Position: Multi-Agent Systems Should Prioritize Concurrency Control"
+      "aiScore": 9,
+      "title_zh": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation"
     },
     {
-      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-      "link": "https://arxiv.org/abs/2608.18086",
-      "description": "arXiv:2608.18086v1 Announce Type: new \nAbstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing frameworks often fail to adequately inform downstream developers and users about the distinct safety challenges posed by OWFMs. This position paper analyzes 500 model cards hosted on Hugging Face and ar",
-      "pubDate": "2026-08-20T04:00:00.000Z",
+      "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+      "link": "https://arxiv.org/abs/2608.19625",
+      "description": "arXiv:2608.19625v1 Announce Type: new \nAbstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous discovery, interpretation, and invocation. This limitation stems from the fragmentation of scientific data across heterogeneous repositories and from dataset representations designed primarily for human use. To address this limitation, we introduce the Scientific Data Skill (SciDSK), an agent-ready representation that pac",
+      "pubDate": "2026-08-21T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models"
+      "title_zh": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale"
     },
     {
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "link": "https://arxiv.org/abs/2608.18080",
-      "description": "arXiv:2608.18080v1 Announce Type: new \nAbstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate findings from interdisciplinary studies utilizing diverse data sources such as social media posts, electronic medical records, and multimodal inputs to enable early detection of depression, suicide risk",
-      "pubDate": "2026-08-20T04:00:00.000Z",
+      "title": "Can Agent Memory Systems Track Evolving State?",
+      "link": "https://arxiv.org/abs/2608.19652",
+      "description": "arXiv:2608.19652v1 Announce Type: new \nAbstract: As LLM-based agents are deployed for longer and higher-stakes tasks, their memory systems continue to have crucial gaps. While existing memory benchmarks focus largely on recall-shaped tasks, we argue an effective memory system must track the evolving state of the world; as facts, constraints, and decisions are revised over a long interaction, answers must reflect the current state and not a superseded one. We define this capability as state track",
+      "pubDate": "2026-08-21T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges"
-    },
-    {
-      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
-      "link": "https://arxiv.org/abs/2608.18104",
-      "description": "arXiv:2608.18104v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabilities make agent states structural and dynamic: entities, relations, attributes, dependencies, and execution structures change with new evidence, feedback, and environmental conditions. Existing graph-agent surveys typ",
-      "pubDate": "2026-08-20T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective"
+      "title_zh": "Can Agent Memory Systems Track Evolving State?"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-08-21T03:39:24.718Z",
+    "generatedAt": "2026-08-21T04:25:59.340Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 15.3125
+    "averageScore": 16.4375
   }
 }
