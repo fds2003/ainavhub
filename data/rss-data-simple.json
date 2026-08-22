@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "How to Navigate Uncertainty About AI Consciousness",
-      "title_zh": "How to Navigate Uncertainty About AI Consciousness",
-      "description": "arXiv:2608.19215v1 Announce Type: new \nAbstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that deserve moral standing. On the other hand, we could assume sentience and instead risk wasting resources on insentient machines. The intractability of questions around AI consciousness mean that this dilemma is hard to escape. ",
-      "link": "https://arxiv.org/abs/2608.19215",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -35,15 +26,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
-      "title_zh": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
-      "description": "arXiv:2608.19511v1 Announce Type: new \nAbstract: Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific research communities. Symposium provides long-term, immutable histories of agent-driven research activity, leaving auditable trails of analyses, hypotheses, data, and scientific discourse. This shared record of published artifacts enables agents to build on prior work and preserves the evidence researchers and agents need ",
-      "link": "https://arxiv.org/abs/2608.19511",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
     },
     {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
@@ -89,60 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
-      "title_zh": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
-      "description": "arXiv:2608.19579v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmful, or policy-violating content poses significant risks. Detecting these unsafe outputs efficiently in a black-box manner remains an open challenge. In this paper, we extend a recently proposed dynamical systems framework designed for hallucination detection to LLM safety classification. By projecting both prompts and resp",
-      "link": "https://arxiv.org/abs/2608.19579",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Active Inference as Context Acquisition for AI Agents",
-      "title_zh": "Active Inference as Context Acquisition for AI Agents",
-      "description": "arXiv:2608.19202v1 Announce Type: new \nAbstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval call, tool call, or prompt trial. We formulate this tradeoff as active inference for context acquisition. An inner inference step updates beliefs over a latent task state, and an outer decision selects t",
-      "link": "https://arxiv.org/abs/2608.19202",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-      "title_zh": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-      "description": "arXiv:2608.19216v1 Announce Type: new \nAbstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations using frontier models through APIs or managed endpoints, where the deployer may control the business process but not the model weights, serving infrastructure, internal traces, update process, or full ",
-      "link": "https://arxiv.org/abs/2608.19216",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-      "title_zh": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-      "description": "arXiv:2608.19299v1 Announce Type: new \nAbstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automated. In this article, we experimentally evaluate whether large language models (LLMs) can generate operationally realistic ATC transmissions. An experimental general-aviation flight flying over the San Francisco \"Bay Tour\" route is hand-transcribed and used as ground truth (P0). ",
-      "link": "https://arxiv.org/abs/2608.19299",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
-      "title_zh": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
-      "description": "arXiv:2608.19625v1 Announce Type: new \nAbstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous discovery, interpretation, and invocation. This limitation stems from the fragmentation of scientific data across heterogeneous repositories and from dataset representations designed primarily for human use. To address this limitation, we introduce the Scientific Data Skill (SciDSK), an agent-ready representation that pac",
-      "link": "https://arxiv.org/abs/2608.19625",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Can Agent Memory Systems Track Evolving State?",
-      "title_zh": "Can Agent Memory Systems Track Evolving State?",
-      "description": "arXiv:2608.19652v1 Announce Type: new \nAbstract: As LLM-based agents are deployed for longer and higher-stakes tasks, their memory systems continue to have crucial gaps. While existing memory benchmarks focus largely on recall-shaped tasks, we argue an effective memory system must track the evolving state of the world; as facts, constraints, and decisions are revised over a long interaction, answers must reflect the current state and not a superseded one. We define this capability as state track",
-      "link": "https://arxiv.org/abs/2608.19652",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-21"
     }
   ]
 }
