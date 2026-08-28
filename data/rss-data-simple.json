@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "AI Agents Push Humans Out of the Loop",
-      "title_zh": "AI Agents Push Humans Out of the Loop",
-      "description": "arXiv:2608.23642v1 Announce Type: new \nAbstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to AI agent design impede effective human oversight, but the cognitive capacities required for it are also themselves degraded by extended use of AI systems. This position paper argues that current approaches to the developmen",
-      "link": "https://arxiv.org/abs/2608.23642",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-08-27"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -17,6 +8,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "title_zh": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "description": "arXiv:2608.26145v1 Announce Type: new \nAbstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and the role of AI in supporting literature review writing. Twenty AI-generated literature reviews based on research sources from Semantic Scholar and Arxiv were evaluated by two researchers across 15 dimensions. Our findings ",
+      "link": "https://arxiv.org/abs/2608.26145",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-08-28"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -82,67 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-      "title_zh": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-      "description": "arXiv:2608.23640v1 Announce Type: new \nAbstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first quantified audit of LLM-generated autobiography against a subject-specific ground-truth corpus that we are aware of, based on an unsystematic literature search. The subject and the author of this paper are the same person: a 366-day \"page-a-day\" book of first-person anecdotal entri",
-      "link": "https://arxiv.org/abs/2608.23640",
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "title_zh": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "description": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with PDK aware knowledge injection, automated placement and routing, DRC/LVS validation, and SAX-based photonic simulation. To systematically evaluate AI-driven photonic design, we introduce PIC-Set, a benc",
+      "link": "https://arxiv.org/abs/2608.26113",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     },
     {
-      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-      "title_zh": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-      "description": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fixes the conversation while varying the reader-facing artifact. RENDER combines a five-level packet ladder, localizing when answer-bearing content enters the input, with deterministic templates approxim",
-      "link": "https://arxiv.org/abs/2608.23568",
+      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "title_zh": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "description": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-based models and task-centric deep learning methods, face challenges in computational efficiency and parameterization, cross-domain generalization, dependence on extensive labeled run-to-failure data, ",
+      "link": "https://arxiv.org/abs/2608.26111",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     },
     {
-      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-      "title_zh": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-      "description": "arXiv:2608.23569v1 Announce Type: new \nAbstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that do not reflect the complexity of enterprise database environments. We introduce ESQ-Bench, an Oracle-first NL2SQL benchmark with systematic complexity tiers and silent-divergence evaluation across thr",
-      "link": "https://arxiv.org/abs/2608.23569",
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "title_zh": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "description": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension because they separate data interpretation, guideline checking, and final explanation. This revised feasibility study preserves the original standalone-versus-agentic comparison whi",
+      "link": "https://arxiv.org/abs/2608.26109",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     },
     {
-      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-      "title_zh": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-      "description": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to intervention, which in practice depends on controlled experimentation. In this work, we propose a multi-agent framework that enables LLM agents to conduct controlled experiments with scientific simulation ",
-      "link": "https://arxiv.org/abs/2608.23622",
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "title_zh": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "description": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausible answers when solving multi-step financial calculations. To address this limitation, we introduce CIFQA (Calculation-Intensive Financial Query Answ",
+      "link": "https://arxiv.org/abs/2608.26114",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     },
     {
-      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-      "title_zh": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-      "description": "arXiv:2608.23631v1 Announce Type: new \nAbstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidates and their scores, so they know which materials succeeded but not which executable edits caused useful property changes. This makes local refinement difficult when objectives compete and an edit that",
-      "link": "https://arxiv.org/abs/2608.23631",
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "title_zh": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "description": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that inte",
+      "link": "https://arxiv.org/abs/2608.26107",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     },
     {
-      "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-      "title_zh": "How much of a measured AI preference is the model, and how much is the instrument?",
-      "description": "arXiv:2608.23641v1 Announce Type: new \nAbstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaelson et al. (2025), Tagliabue and Dung (2025) and Trhlik et al. (2026) have built four instruments for that purpose, and their findings disagree. The disagreement cannot be attributed to a single cause, because no two of these studies have held the (1) set of outcomes, (2) set of ",
-      "link": "https://arxiv.org/abs/2608.23641",
+      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "title_zh": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "description": "arXiv:2608.26116v1 Announce Type: new \nAbstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on autotelic reinforcement learning, in which an agent autonomously samples diverse goals and learns a goal-conditioned policy to intervene in a complex system through minimal, local pe",
+      "link": "https://arxiv.org/abs/2608.26116",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     },
     {
-      "title": "Function-Level Execution Feedback for Code Preference Optimization",
-      "title_zh": "Function-Level Execution Feedback for Code Preference Optimization",
-      "description": "arXiv:2608.23632v1 Announce Type: new \nAbstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervision remains underexplored because there is no standard notion of a step. Supervision can target lines, reasoning traces, or program states, making it unclear what to label and optimize. We propose STEP-KTODER, a framework for code preference optimization that defines steps as m",
-      "link": "https://arxiv.org/abs/2608.23632",
+      "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+      "title_zh": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+      "description": "arXiv:2608.26134v1 Announce Type: new \nAbstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-critical edge environments, including military systems. However, this paper identifies the Accuracy-Efficiency Paradox: high-precision energy forecasting models can ironically trigger a net energy deficit. This stems from both edge AI's inference energy consumption and battery agi",
+      "link": "https://arxiv.org/abs/2608.26134",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     }
   ]
 }
