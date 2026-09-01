@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "title_zh": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "description": "arXiv:2608.28593v1 Announce Type: new \nAbstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for AI alignment and value-guided behavior, however, face some limitations. Approaches such as Constitutional AI depend on human supervision, while broad normative frameworks like the Good-for-Humanity (Gf",
+      "link": "https://arxiv.org/abs/2608.28593",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -8,6 +17,24 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
+    },
+    {
+      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+      "title_zh": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+      "description": "arXiv:2608.28596v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly embedded in scientific workflows for literature analysis, drafting, and review. Existing systems advance autonomous discovery and manuscript generation, but do not resolve the governance problem that arises when ideas, methods, results, and claims propagate through AI-assisted workflows without mandatory human approval or artifact-level traceability. This paper proposes Paper Pilot, a human-in-the",
+      "link": "https://arxiv.org/abs/2608.28596",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Expert-validated STEM QA",
+      "title_zh": "Expert-validated STEM QA",
+      "description": "arXiv:2608.28591v1 Announce Type: new \nAbstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models have consumed most of the available online data, creating the need for human-created datasets that codify the knowledge of leading experts in the domain. There are several STEM datasets available for the",
+      "link": "https://arxiv.org/abs/2608.28591",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -35,6 +62,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+      "title_zh": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+      "description": "arXiv:2608.28597v1 Announce Type: new \nAbstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality. However, the rapid emergence of agentic AI (goal directed systems powered by a large language model (LLM) brain and/or a multimodal processing unit with tool-augmented capabilities) raises new questions about the robustness of these safeguards. We investigate how well agentic AI architectures",
+      "link": "https://arxiv.org/abs/2608.28597",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -71,6 +107,42 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "title_zh": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "description": "arXiv:2608.28592v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing benchmarks largely measure factual recall, leaving open whether frontier LLMs share decision-path blind spots that combining models cannot fix. We built the Oncology Decision Boundary Benchmark (ODBB)--2,0",
+      "link": "https://arxiv.org/abs/2608.28592",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "title_zh": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "description": "arXiv:2608.28590v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provides evaluation feedback. Existing data-science agents often leave this harness implicit, making results difficult to reproduce, compare, and attribute across heterogeneous tasks. We introduce DS-Light",
+      "link": "https://arxiv.org/abs/2608.28590",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+      "title_zh": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+      "description": "arXiv:2608.28595v1 Announce Type: new \nAbstract: Biomedical NLP pipelines routinely presuppose clean input text, yet large-scale corpora assembled through automated PDF parsing harbour pervasive OCR-like artifacts, token splits and merges, hyphenation remnants, and character-level corruption, that systematically erode lexical evidence and degrade downstream classifiers. We introduce a conservative, fully auditable spell-correction reliability layer conceived as a safety-oriented preprocessing mo",
+      "link": "https://arxiv.org/abs/2608.28595",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+      "title_zh": "SHAPE of Chain-of-Thought in Math Reasoning",
+      "description": "arXiv:2608.28600v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful skills underlying their reasoning remain underexplored. We introduce \\texttt{SHAPE}, a framework that analyzes Chain-of-Thought (CoT) trajectories through two lenses developed in mathematics education: (1) semantic spaces: the model's evolving mathematical interpretations of a problem (e.g., algebraic, geometric), and (2)",
+      "link": "https://arxiv.org/abs/2608.28600",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-01"
     }
   ]
 }
