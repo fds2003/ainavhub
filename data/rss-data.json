@@ -1,14 +1,24 @@
 {
   "articles": [
     {
-      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-      "link": "https://arxiv.org/abs/2608.28593",
-      "description": "arXiv:2608.28593v1 Announce Type: new \nAbstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for AI alignment and value-guided behavior, however, face some limitations. Approaches such as Constitutional AI depend on human supervision, while broad normative frameworks like the Good-for-Humanity (Gf",
-      "pubDate": "2026-09-01T04:00:00.000Z",
+      "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+      "link": "https://arxiv.org/abs/2609.00076",
+      "description": "arXiv:2609.00076v1 Announce Type: new \nAbstract: Clinical artificial intelligence is increasingly embedded in real-world care, yet existing safety mechanisms are poorly suited to reconstructing and learning from individual AI-related errors and near-misses. Aggregate model monitoring can identify performance changes, and traditional patient safety reporting can capture adverse events, but neither is designed to explain how risk emerges across the interaction among AI systems, clinicians, workflo",
+      "pubDate": "2026-09-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 41,
-      "title_zh": "Statutory AI: Aligning Large Language Models With Legal Norms"
+      "aiScore": 45,
+      "title_zh": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review"
+    },
+    {
+      "title": "Recursive Criticality of AI Self-Improvement",
+      "link": "https://arxiv.org/abs/2609.00137",
+      "description": "arXiv:2609.00137v1 Announce Type: new \nAbstract: AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capability growth depends on baseline research productivity, recursive feedback, and the increasing difficulty of research progress. We derive a recursive reproduction number, $\\mathcal{R}_{\\mathrm{AI}}$, that determines whether improvements are amplified or d",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 36,
+      "title_zh": "Recursive Criticality of AI Self-Improvement"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -19,26 +29,6 @@
       "category": "行业趋势",
       "aiScore": 28,
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
-      "link": "https://arxiv.org/abs/2608.28596",
-      "description": "arXiv:2608.28596v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly embedded in scientific workflows for literature analysis, drafting, and review. Existing systems advance autonomous discovery and manuscript generation, but do not resolve the governance problem that arises when ideas, methods, results, and claims propagate through AI-assisted workflows without mandatory human approval or artifact-level traceability. This paper proposes Paper Pilot, a human-in-the",
-      "pubDate": "2026-09-01T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 26,
-      "title_zh": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences"
-    },
-    {
-      "title": "Expert-validated STEM QA",
-      "link": "https://arxiv.org/abs/2608.28591",
-      "description": "arXiv:2608.28591v1 Announce Type: new \nAbstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models have consumed most of the available online data, creating the need for human-created datasets that codify the knowledge of leading experts in the domain. There are several STEM datasets available for the",
-      "pubDate": "2026-09-01T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 24,
-      "title_zh": "Expert-validated STEM QA"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -71,14 +61,14 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
-      "link": "https://arxiv.org/abs/2608.28597",
-      "description": "arXiv:2608.28597v1 Announce Type: new \nAbstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality. However, the rapid emergence of agentic AI (goal directed systems powered by a large language model (LLM) brain and/or a multimodal processing unit with tool-augmented capabilities) raises new questions about the robustness of these safeguards. We investigate how well agentic AI architectures",
-      "pubDate": "2026-09-01T04:00:00.000Z",
+      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+      "link": "https://arxiv.org/abs/2609.00015",
+      "description": "arXiv:2609.00015v1 Announce Type: new \nAbstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, safety becomes a system-level action-governance problem: deciding whether concrete agent-generated actions should be committed before they modify shared state. Existing safeguards cover prompts, tool",
+      "pubDate": "2026-09-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 19,
-      "title_zh": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys"
+      "aiScore": 18,
+      "title_zh": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -121,49 +111,59 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-      "link": "https://arxiv.org/abs/2608.28592",
-      "description": "arXiv:2608.28592v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing benchmarks largely measure factual recall, leaving open whether frontier LLMs share decision-path blind spots that combining models cannot fix. We built the Oncology Decision Boundary Benchmark (ODBB)--2,0",
-      "pubDate": "2026-09-01T04:00:00.000Z",
+      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+      "link": "https://arxiv.org/abs/2609.00012",
+      "description": "arXiv:2609.00012v1 Announce Type: new \nAbstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing agentic benchmarks report end-to-end success but confound this state-tracking difficulty with instruction interpretation, give no control group that i",
+      "pubDate": "2026-09-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 9,
-      "title_zh": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making"
+      "aiScore": 12,
+      "title_zh": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls"
     },
     {
-      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-      "link": "https://arxiv.org/abs/2608.28590",
-      "description": "arXiv:2608.28590v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provides evaluation feedback. Existing data-science agents often leave this harness implicit, making results difficult to reproduce, compare, and attribute across heterogeneous tasks. We introduce DS-Light",
-      "pubDate": "2026-09-01T04:00:00.000Z",
+      "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+      "link": "https://arxiv.org/abs/2609.00073",
+      "description": "arXiv:2609.00073v1 Announce Type: new \nAbstract: Malaria remains a significant global health burden, necessitating continuous research efforts to understand its complex molecular mechanisms, epidemiology, and potential therapeutic interventions. Extracting essential biomedical information from the vast and constantly growing malaria literature is a challenging task that demands innovative approaches. Recently, pre-trained language models have revolutionized natural language processing tasks, dem",
+      "pubDate": "2026-09-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 8,
-      "title_zh": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation"
+      "aiScore": 12,
+      "title_zh": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts"
     },
     {
-      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
-      "link": "https://arxiv.org/abs/2608.28595",
-      "description": "arXiv:2608.28595v1 Announce Type: new \nAbstract: Biomedical NLP pipelines routinely presuppose clean input text, yet large-scale corpora assembled through automated PDF parsing harbour pervasive OCR-like artifacts, token splits and merges, hyphenation remnants, and character-level corruption, that systematically erode lexical evidence and degrade downstream classifiers. We introduce a conservative, fully auditable spell-correction reliability layer conceived as a safety-oriented preprocessing mo",
-      "pubDate": "2026-09-01T04:00:00.000Z",
+      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "link": "https://arxiv.org/abs/2609.00003",
+      "description": "arXiv:2609.00003v1 Announce Type: new \nAbstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically related concepts that should have been retained (henceforth, interference) remains poorly characterized and inconsistently evaluated. This paper introduces I-CARE, a methodology that formalizes interference as a first-class",
+      "pubDate": "2026-09-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification"
+      "aiScore": 6,
+      "title_zh": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models"
     },
     {
-      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
-      "link": "https://arxiv.org/abs/2608.28600",
-      "description": "arXiv:2608.28600v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful skills underlying their reasoning remain underexplored. We introduce \\texttt{SHAPE}, a framework that analyzes Chain-of-Thought (CoT) trajectories through two lenses developed in mathematics education: (1) semantic spaces: the model's evolving mathematical interpretations of a problem (e.g., algebraic, geometric), and (2)",
-      "pubDate": "2026-09-01T04:00:00.000Z",
+      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+      "link": "https://arxiv.org/abs/2609.00018",
+      "description": "arXiv:2609.00018v1 Announce Type: new \nAbstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text around them. There is currently no public dataset that pairs this specific kind of figure with captions, context, questions, answers, and step-by-step reasoning, which is exactly what is needed to train a vision-language model to understand them. We present \\textbf{SCAFFOLD}\\footnote{ht",
+      "pubDate": "2026-09-02T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "SHAPE of Chain-of-Thought in Math Reasoning"
+      "aiScore": 4,
+      "title_zh": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces"
+    },
+    {
+      "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+      "link": "https://arxiv.org/abs/2609.00071",
+      "description": "arXiv:2609.00071v1 Announce Type: new \nAbstract: Prediction error is widely used to evaluate nuisance-function estimators in causal inference, but its relationship with causal estimator performance may differ across performance measures. We studied this question in a partially linear model using Monte Carlo simulations. We compared ordinary least squares (OLS), generalized additive models (GAMs), XGBoost, and Double Machine Learning with XGBoost (DML-XGBoost), evaluating nuisance-function predic",
+      "pubDate": "2026-09-02T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-09-02T00:37:44.220Z",
+    "generatedAt": "2026-09-02T05:11:37.141Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
