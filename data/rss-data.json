@@ -1,24 +1,14 @@
 {
   "articles": [
     {
-      "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
-      "link": "https://arxiv.org/abs/2609.00076",
-      "description": "arXiv:2609.00076v1 Announce Type: new \nAbstract: Clinical artificial intelligence is increasingly embedded in real-world care, yet existing safety mechanisms are poorly suited to reconstructing and learning from individual AI-related errors and near-misses. Aggregate model monitoring can identify performance changes, and traditional patient safety reporting can capture adverse events, but neither is designed to explain how risk emerges across the interaction among AI systems, clinicians, workflo",
-      "pubDate": "2026-09-02T04:00:00.000Z",
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "link": "https://arxiv.org/abs/2609.01685",
+      "description": "arXiv:2609.01685v1 Announce Type: new \nAbstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently integrated capacities for moral reasoning, moral intentionality, and moral reflection, novel meta-ethical questions would arise concerning what I call \"AI's own ethics\", as distinct from ethical principle",
+      "pubDate": "2026-09-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 45,
-      "title_zh": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review"
-    },
-    {
-      "title": "Recursive Criticality of AI Self-Improvement",
-      "link": "https://arxiv.org/abs/2609.00137",
-      "description": "arXiv:2609.00137v1 Announce Type: new \nAbstract: AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capability growth depends on baseline research productivity, recursive feedback, and the increasing difficulty of research progress. We derive a recursive reproduction number, $\\mathcal{R}_{\\mathrm{AI}}$, that determines whether improvements are amplified or d",
-      "pubDate": "2026-09-02T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 36,
-      "title_zh": "Recursive Criticality of AI Self-Improvement"
+      "aiScore": 61,
+      "title_zh": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI"
     },
     {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
@@ -61,16 +51,6 @@
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
     },
     {
-      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-      "link": "https://arxiv.org/abs/2609.00015",
-      "description": "arXiv:2609.00015v1 Announce Type: new \nAbstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, safety becomes a system-level action-governance problem: deciding whether concrete agent-generated actions should be committed before they modify shared state. Existing safeguards cover prompts, tool",
-      "pubDate": "2026-09-02T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 18,
-      "title_zh": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -111,59 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-      "link": "https://arxiv.org/abs/2609.00012",
-      "description": "arXiv:2609.00012v1 Announce Type: new \nAbstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing agentic benchmarks report end-to-end success but confound this state-tracking difficulty with instruction interpretation, give no control group that i",
-      "pubDate": "2026-09-02T04:00:00.000Z",
+      "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+      "link": "https://arxiv.org/abs/2609.01873",
+      "description": "arXiv:2609.01873v1 Announce Type: new \nAbstract: Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observation: apparently independent reports may descend from the same evidence, and genuinely independent evidence can produce nearly identical reports. We formalize this as an epistemic Sybil problem. A report Z is an epistemic Sybil extension relative to reports R when I(Theta; Z | R) = 0. No report-only aggregator can generally",
+      "pubDate": "2026-09-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls"
+      "aiScore": 11,
+      "title_zh": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence"
     },
     {
-      "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
-      "link": "https://arxiv.org/abs/2609.00073",
-      "description": "arXiv:2609.00073v1 Announce Type: new \nAbstract: Malaria remains a significant global health burden, necessitating continuous research efforts to understand its complex molecular mechanisms, epidemiology, and potential therapeutic interventions. Extracting essential biomedical information from the vast and constantly growing malaria literature is a challenging task that demands innovative approaches. Recently, pre-trained language models have revolutionized natural language processing tasks, dem",
-      "pubDate": "2026-09-02T04:00:00.000Z",
+      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+      "link": "https://arxiv.org/abs/2609.01834",
+      "description": "arXiv:2609.01834v1 Announce Type: new \nAbstract: As enterprise platforms transition to conversational reasoning interfaces, the stateless nature of LLM APIs creates an architectural gap. While statelessness enables horizontal scalability for AI providers, it forces client applications to manage the entire burden of conversational state and semantic memory. The work identifies the Hydration Proxy Pattern, an architecture that decouples session persistence from the reasoning engine. The framework ",
+      "pubDate": "2026-09-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts"
+      "aiScore": 10,
+      "title_zh": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern"
     },
     {
-      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-      "link": "https://arxiv.org/abs/2609.00003",
-      "description": "arXiv:2609.00003v1 Announce Type: new \nAbstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically related concepts that should have been retained (henceforth, interference) remains poorly characterized and inconsistently evaluated. This paper introduces I-CARE, a methodology that formalizes interference as a first-class",
-      "pubDate": "2026-09-02T04:00:00.000Z",
+      "title": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor",
+      "link": "https://arxiv.org/abs/2609.01985",
+      "description": "arXiv:2609.01985v1 Announce Type: new \nAbstract: As LLM coding agents increasingly perform end-to-end engineering work, we lack empirical characterization of how they behave on systems-level requirements: schema design, async orchestration, configuration correctness, and retrieval-filtering trade-offs. We present a case study of one such agent implementing a multi-component data system against a detailed pre-existing specification. Storage technologies, schema, entity-resolution algorithm, and r",
+      "pubDate": "2026-09-03T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor"
+    },
+    {
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "link": "https://arxiv.org/abs/2609.01815",
+      "description": "arXiv:2609.01815v1 Announce Type: new \nAbstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and compute-efficient, (2) capture gradations of uncertainty to support intelligent inquiry and information gathering, and (3) be flexible enough to mentally represent the endless range of concepts people ",
+      "pubDate": "2026-09-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 6,
-      "title_zh": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models"
+      "title_zh": "Induction and Inquiry via Probabilistic Reasoning over Language and Code"
     },
     {
-      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
-      "link": "https://arxiv.org/abs/2609.00018",
-      "description": "arXiv:2609.00018v1 Announce Type: new \nAbstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text around them. There is currently no public dataset that pairs this specific kind of figure with captions, context, questions, answers, and step-by-step reasoning, which is exactly what is needed to train a vision-language model to understand them. We present \\textbf{SCAFFOLD}\\footnote{ht",
-      "pubDate": "2026-09-02T04:00:00.000Z",
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "link": "https://arxiv.org/abs/2609.01611",
+      "description": "arXiv:2609.01611v1 Announce Type: new \nAbstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are a crucial component of current AI safety frameworks. We introduce EvalDetectBench, an open pipeline and benchmark for measuring evaluation awareness that works with any Inspect-compatible evaluation,",
+      "pubDate": "2026-09-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces"
+      "title_zh": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models"
     },
     {
-      "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
-      "link": "https://arxiv.org/abs/2609.00071",
-      "description": "arXiv:2609.00071v1 Announce Type: new \nAbstract: Prediction error is widely used to evaluate nuisance-function estimators in causal inference, but its relationship with causal estimator performance may differ across performance measures. We studied this question in a partially linear model using Monte Carlo simulations. We compared ordinary least squares (OLS), generalized additive models (GAMs), XGBoost, and Double Machine Learning with XGBoost (DML-XGBoost), evaluating nuisance-function predic",
-      "pubDate": "2026-09-02T04:00:00.000Z",
+      "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+      "link": "https://arxiv.org/abs/2609.01861",
+      "description": "arXiv:2609.01861v1 Announce Type: new \nAbstract: The performance of an LLM agent depends on the scaffold around a frozen model. A common way to improve that scaffold is to use a coding agent as an optimizer: it reads current scores and traces and iteratively edits the source, producing a new candidate each round. Each edit is chosen according to a belief about how the environment will respond: what went wrong, and which change should help. That belief is typically implicit. It lives in the codin",
+      "pubDate": "2026-09-03T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation"
+      "aiScore": 3,
+      "title_zh": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization"
+    },
+    {
+      "title": "Benchmarking Language Models for Statistical Problem Formulation",
+      "link": "https://arxiv.org/abs/2609.01982",
+      "description": "arXiv:2609.01982v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as assistants for statistical and data science work, yet existing evaluations largely assume the analysis target is already specified. In practice, users arrive with informal goals and heterogeneous data, leaving the model to decide what statistical task is implied and which data are relevant. We first formalize this upstream step as Statistical Problem Formulation and decompose it into two subtas",
+      "pubDate": "2026-09-03T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Benchmarking Language Models for Statistical Problem Formulation"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-09-03T01:47:02.532Z",
+    "generatedAt": "2026-09-03T06:35:58.732Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 18.625
+    "averageScore": 16.6875
   }
 }
