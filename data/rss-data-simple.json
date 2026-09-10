@@ -71,6 +71,78 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "title_zh": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "description": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for Realistic Instrumented Tasks), a benchmark and harness that measures the marginal utility of memory for task-executing agents under explicit cost accounting. MERIT provides episod",
+      "link": "https://arxiv.org/abs/2609.05441",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Compiling VGDL into Causal Models",
+      "title_zh": "Compiling VGDL into Causal Models",
+      "description": "arXiv:2609.05459v1 Announce Type: new \nAbstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language models are prone to hallucinating game rules. Although causal reinforcement learning improves interpretability, there is currently no formal methodology to map complex game mechanics directly into causal models. To address ",
+      "link": "https://arxiv.org/abs/2609.05459",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+      "title_zh": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+      "description": "arXiv:2609.05514v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents are increasingly used as proxies for human participants in social science research, yet it remains unclear whether they can faithfully simulate diverse and conflicting human value systems. We present a World Values Survey (WVS)-grounded simulation framework where culturally diverse agents with different communication styles engage in longitudinal, value-laden discussions. Across approximately 4,000 conversat",
+      "link": "https://arxiv.org/abs/2609.05514",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "title_zh": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "description": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order expectations, known as metanorms, govern how people respond when social rules are broken. We introduc",
+      "link": "https://arxiv.org/abs/2609.05437",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+      "title_zh": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+      "description": "arXiv:2609.05505v1 Announce Type: new \nAbstract: Systematic reviews require sustained human judgment across thousands of records, yet existing evaluations of large language models (LLMs) typically examine review stages in isolation. We introduce SciLitBench, a multi-stage benchmark spanning title and abstract screening, full-text screening, and schema-guided data extraction, with 42,981 retrieved records, 1,012 full texts, and annotations for 888 included papers. Across 22 open-weight LLMs from ",
+      "link": "https://arxiv.org/abs/2609.05505",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "title_zh": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "description": "arXiv:2609.05446v1 Announce Type: new \nAbstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent memory files, reports, and repository state. Within a round, an orchestrator explores, plans and build",
+      "link": "https://arxiv.org/abs/2609.05446",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "title_zh": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "description": "arXiv:2609.05448v1 Announce Type: new \nAbstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandit problem under a fixed candidate-evaluation budget. Attention heads and MLP channel groups are temporarily masked on calibration batches. Paired damage is the masked loss minus the base loss on the s",
+      "link": "https://arxiv.org/abs/2609.05448",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+      "title_zh": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+      "description": "arXiv:2609.05512v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) impose substantial energy costs during deployment, yet current compression methods apply uniform quantization across all components, risking damage to critical reasoning circuits. We present a reasoning-aware compression framework that benchmarks quantization conditions across five reasoning benchmarks, GSM8K, FOLIO, MATH-500, ProofWriter, and MuSiQue, with hardware-level GPU energy measurement; profiles per-module IN",
+      "link": "https://arxiv.org/abs/2609.05512",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-10"
     }
   ]
 }
