@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "title_zh": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "description": "arXiv:2609.09203v1 Announce Type: new \nAbstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes, or distinguish systematic reasoning from fortunate guessing. We present \\textbf{OpenDiscoveryTrace}, a public dataset of 558 complete AI scientific agent trajectories that captur",
+      "link": "https://arxiv.org/abs/2609.09203",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-11"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -35,6 +44,24 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "title_zh": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "description": "arXiv:2609.09226v1 Announce Type: new \nAbstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures a broad range of human intelligence behaviors with analytical mechanisms and offers an indirect method to examine the Liu-Chen-Ao (LCA) hypothesis of nonlocal entangled nerve fibers in the brain thro",
+      "link": "https://arxiv.org/abs/2609.09226",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+      "title_zh": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+      "description": "arXiv:2609.09428v1 Announce Type: new \nAbstract: Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches often rely on subjective human judgment, limiting reproducibility, scalability, and comparability between studies. We examine whether LLMs can serve as a reproducible and scalable mechanism to make comparative assessments of the quality of XAI explanations. We introduce XAI-Arena, an LLM-as-a-judge framework for scalable,",
+      "link": "https://arxiv.org/abs/2609.09428",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-11"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -73,76 +100,49 @@
       "date": "2021-10-21"
     },
     {
-      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-      "title_zh": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-      "description": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (Memory Evaluation for Realistic Instrumented Tasks), a benchmark and harness that measures the marginal utility of memory for task-executing agents under explicit cost accounting. MERIT provides episod",
-      "link": "https://arxiv.org/abs/2609.05441",
+      "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+      "title_zh": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+      "description": "arXiv:2609.09458v1 Announce Type: new \nAbstract: As LLM agents move from answering questions to carrying out procedures, failures can be unwarranted rather than visibly wrong: the final response looks acceptable even though the system skipped the check, branch, dependency, or invariant that made the answer justified. Output-only evaluation sees the answer, and trace-aware judging sees activity, but neither identifies which obligations were active for the query. We introduce CONTRACTEVAL, a diagn",
+      "link": "https://arxiv.org/abs/2609.09458",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "title": "Compiling VGDL into Causal Models",
-      "title_zh": "Compiling VGDL into Causal Models",
-      "description": "arXiv:2609.05459v1 Announce Type: new \nAbstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend to rely on spurious correlations, while large language models are prone to hallucinating game rules. Although causal reinforcement learning improves interpretability, there is currently no formal methodology to map complex game mechanics directly into causal models. To address ",
-      "link": "https://arxiv.org/abs/2609.05459",
+      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+      "title_zh": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+      "description": "arXiv:2609.09418v1 Announce Type: new \nAbstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly advancing embodied AI, general-purpose counterparts remain largely unexplored in games. Existing game-oriented approaches often combine action-conditioned world models with external policies and reward functions to realize WAM-like decision-making, yet they operate mainly in 2D vi",
+      "link": "https://arxiv.org/abs/2609.09418",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
-      "title_zh": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
-      "description": "arXiv:2609.05514v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents are increasingly used as proxies for human participants in social science research, yet it remains unclear whether they can faithfully simulate diverse and conflicting human value systems. We present a World Values Survey (WVS)-grounded simulation framework where culturally diverse agents with different communication styles engage in longitudinal, value-laden discussions. Across approximately 4,000 conversat",
-      "link": "https://arxiv.org/abs/2609.05514",
+      "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+      "title_zh": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+      "description": "arXiv:2609.09565v1 Announce Type: new \nAbstract: Agentic graph learning (AGL) has recently achieved promising results on graph reasoning tasks, where an agent powered by a large language model (LLM) sequentially samples the graph as evidence to support its final prediction. Existing methods either employ a single agent or orchestrate multiple role-based agents to reason and learn over the entire graph, but both essentially rely on a shared reasoning policy across different graph regions, which c",
+      "link": "https://arxiv.org/abs/2609.09565",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-      "title_zh": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-      "description": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anticipating who will enforce it and how (e.g., public shame or even imprisonment). These second-order expectations, known as metanorms, govern how people respond when social rules are broken. We introduc",
-      "link": "https://arxiv.org/abs/2609.05437",
+      "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+      "title_zh": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+      "description": "arXiv:2609.09448v1 Announce Type: new \nAbstract: As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated with the agentic actions. In comparison to the traditional machine learning systems, agentic workflows have complex failure modes with planning, tool invocation and dynamic environment interactions. In this paper, we investigate whether model's internal representations provide stronger signals of eventual task success in mul",
+      "link": "https://arxiv.org/abs/2609.09448",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
-      "title_zh": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
-      "description": "arXiv:2609.05505v1 Announce Type: new \nAbstract: Systematic reviews require sustained human judgment across thousands of records, yet existing evaluations of large language models (LLMs) typically examine review stages in isolation. We introduce SciLitBench, a multi-stage benchmark spanning title and abstract screening, full-text screening, and schema-guided data extraction, with 42,981 retrieved records, 1,012 full texts, and annotations for 888 included papers. Across 22 open-weight LLMs from ",
-      "link": "https://arxiv.org/abs/2609.05505",
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "title_zh": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "description": "arXiv:2609.09306v1 Announce Type: new \nAbstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland, where the physics are known and the functions are (mostly) differentiable. The paper introduces two measures of Jacobian structure: effective rank and cohesion, based on Kirchhoff complexity. Applyin",
+      "link": "https://arxiv.org/abs/2609.09306",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "title_zh": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "description": "arXiv:2609.05446v1 Announce Type: new \nAbstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent memory files, reports, and repository state. Within a round, an orchestrator explores, plans and build",
-      "link": "https://arxiv.org/abs/2609.05446",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-      "title_zh": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-      "description": "arXiv:2609.05448v1 Announce Type: new \nAbstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandit problem under a fixed candidate-evaluation budget. Attention heads and MLP channel groups are temporarily masked on calibration batches. Paired damage is the masked loss minus the base loss on the s",
-      "link": "https://arxiv.org/abs/2609.05448",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
-      "title_zh": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
-      "description": "arXiv:2609.05512v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) impose substantial energy costs during deployment, yet current compression methods apply uniform quantization across all components, risking damage to critical reasoning circuits. We present a reasoning-aware compression framework that benchmarks quantization conditions across five reasoning benchmarks, GSM8K, FOLIO, MATH-500, ProofWriter, and MuSiQue, with hardware-level GPU energy measurement; profiles per-module IN",
-      "link": "https://arxiv.org/abs/2609.05512",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     }
   ]
 }
