@@ -37,15 +37,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
-      "title_zh": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
-      "description": "arXiv:2609.11018v1 Announce Type: new \nAbstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent research. We address this ambiguity through a survey organized around five dimensions of agenticness: environmental interaction, learning and adaptation, autonomy, goal-directed behavior, and temporal coherence. For each dimension, we examine how the underlying capability has been conceptualized across pri",
-      "link": "https://arxiv.org/abs/2609.11018",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
-    },
-    {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
       "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
@@ -80,69 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "title_zh": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "description": "arXiv:2609.10724v1 Announce Type: new \nAbstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and dependencies on people within shared workflows, especially as technical, human, and operational disruptions accumulate over time. We propose operational resilience and considerate participation as two complementary aspects of evaluating such agents: the former captures how agents re",
-      "link": "https://arxiv.org/abs/2609.10724",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
-      "title_zh": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
-      "description": "arXiv:2609.11030v1 Announce Type: new \nAbstract: AI agents increasingly act through tools and delegated authority, but general incident repositories rarely capture the mechanisms needed to compare public failures with agent-security evaluations. We present the Agent Incident Registry (AIR), a source-linked catalog containing \\N{} records of agent-related events disclosed from \\Yfirst{} through \\Ylast{}. Each record includes supporting evidence, a stable identifier, and missingness-aware labels f",
-      "link": "https://arxiv.org/abs/2609.11030",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Fork Where the Model Changes Its Mind: Belief-Shift Branching for Tree-Structured Reinforcement Learning",
-      "title_zh": "Fork Where the Model Changes Its Mind: Belief-Shift Branching for Tree-Structured Reinforcement Learning",
-      "description": "arXiv:2609.11061v1 Announce Type: new \nAbstract: Tree-structured rollouts give critic-free reinforcement learning with verifiable rewards (RLVR) step-level credit: fork a chain at an intermediate point, and sibling outcome differences estimate step value. Each fork adds sampling cost, so realistic budgets typically allow only a few forks per chain. A fork placed where the outcome is already largely settled yields siblings that mostly agree and provide almost no credit signal; hence, for a given ",
-      "link": "https://arxiv.org/abs/2609.11061",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-      "title_zh": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-      "description": "arXiv:2609.10964v1 Announce Type: new \nAbstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Under contention, this eager release policy can accumulate released but unfinished work; once submitted, those turns can no longer be reordered by the workflow-level policy, increasi",
-      "link": "https://arxiv.org/abs/2609.10964",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "title_zh": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "description": "arXiv:2609.10657v1 Announce Type: new \nAbstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs in hyperparameter space remains uncharacterized. We map the memorization-to-generalization boundary across 384 configurations of two-hidden-layer MLPs on modular arithmetic, fitting a power-law scali",
-      "link": "https://arxiv.org/abs/2609.10657",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-      "title_zh": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-      "description": "arXiv:2609.10824v1 Announce Type: new \nAbstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or evaluation feedback to decide what to build. Existing task-agnostic approaches avoid this supervision but commit in advance to a preparation strategy for a particular type of environmen",
-      "link": "https://arxiv.org/abs/2609.10824",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-      "title_zh": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-      "description": "arXiv:2609.10992v1 Announce Type: new \nAbstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information. Current privacy-preserving methods typically employ context-agnostic static rules, causing severe utility degradation. However, the specific mechanisms governing how sanitization impacts downstream performance remain largely underexplored. To address this, we conduct a systematic analysis to deconstruct the",
-      "link": "https://arxiv.org/abs/2609.10992",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-12"
     }
   ]
 }
