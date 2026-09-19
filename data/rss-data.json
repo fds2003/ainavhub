@@ -79,91 +79,11 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
-    },
-    {
-      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-      "link": "https://arxiv.org/abs/2609.19244",
-      "description": "arXiv:2609.19244v1 Announce Type: new \nAbstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-world user interactions (invivo) with controlled experiments using the same platform's models by their APIs (invitro). We investigate the quality of agentic decisions to invoke Web",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 13,
-      "title_zh": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses"
-    },
-    {
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "link": "https://arxiv.org/abs/2609.19182",
-      "description": "arXiv:2609.19182v1 Announce Type: new \nAbstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We systematically map 14,767 papers introducing or updating evaluation resources from arXiv submissions b",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 10,
-      "title_zh": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks"
-    },
-    {
-      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-      "link": "https://arxiv.org/abs/2609.19391",
-      "description": "arXiv:2609.19391v1 Announce Type: new \nAbstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the risk of safety and security failures. Common approaches, including fuzz testing, static analysis, and LLM-as-a-Verifier, can detect many failures but struggle to cover all possible edge cases. Formal verification addresses this by providing machine-checkable guarantees over specified properties, but traditionally demands ",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs"
-    },
-    {
-      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-      "link": "https://arxiv.org/abs/2609.19425",
-      "description": "arXiv:2609.19425v1 Announce Type: new \nAbstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass arguments no schema declares. Existing defenses either pick the right tool (selection) or constrain what an agent may do with real tools (gating), both of which presuppose the emitted call refers to a real tool at all. We show this is a structural blind spot: a hallucinated call is by constr",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Closed-World Resolution Against Tool Hallucination in LLM Agents"
-    },
-    {
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-      "link": "https://arxiv.org/abs/2609.19203",
-      "description": "arXiv:2609.19203v1 Announce Type: new \nAbstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP, A2A) ease tool/agent connectivity, each framework embeds an implicit runtime for state, memory, budgets, and guardrails, making behavior non-portable and governance brittle. It mirrors computing before operating systems, when every program re-implemented basic services. This po",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer"
-    },
-    {
-      "title": "Do AI Agents Understand Computer Architecture?",
-      "link": "https://arxiv.org/abs/2609.19387",
-      "description": "arXiv:2609.19387v1 Announce Type: new \nAbstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed. Such reports establish that a design improved; they cannot establish why. An agent that improves an accelerator may be reasoning about the machine, or may be searching competently over knobs whose meaning it never recovers -- and only the first transfers to the next architecture. Existing evaluations cannot tell the two apart, because they vary the agent while ",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Do AI Agents Understand Computer Architecture?"
-    },
-    {
-      "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
-      "link": "https://arxiv.org/abs/2609.19465",
-      "description": "arXiv:2609.19465v1 Announce Type: new \nAbstract: Compositional reasoning is critical for real-world problem solving: since training data is necessarily limited, models must generalize by composing learned skills in new ways. While post-training methods such as reinforcement learning (RL) have substantially improved the reasoning abilities of language models (LMs), their effects on compositional reasoning remain less well understood. We propose a dependency-graph framework to formalize compositio",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training"
-    },
-    {
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-      "link": "https://arxiv.org/abs/2609.19180",
-      "description": "arXiv:2609.19180v1 Announce Type: new \nAbstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed data in source evidence, interpreting it through a quantitative physics model, and linking it to a biological mechanism. To address this challenge, we introduce BioPhys-Bridge, a novel benchmark dataset for evidence-grounded scientific reasoning over biophysical literature. Each c",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research"
     }
   ],
   "metadata": {
-    "totalCount": 16,
-    "generatedAt": "2026-09-19T01:57:38.066Z",
+    "totalCount": 8,
+    "generatedAt": "2026-09-19T06:56:12.150Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -220,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 8,
+    "researchArticles": 0,
     "industryArticles": 8,
-    "academicArticles": 8,
-    "averageScore": 13.1875
+    "academicArticles": 0,
+    "averageScore": 20.125
   }
 }
