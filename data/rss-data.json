@@ -31,6 +31,26 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "link": "https://arxiv.org/abs/2609.21149",
+      "description": "arXiv:2609.21149v1 Announce Type: new \nAbstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for quality assurance. Because clinicians may use different intake styles, evaluation for this task must (1) support comparison across interviewing approaches, (2) minimize clinician burden, and (3) measure clinically relevant performance for health systems deploying these technologie",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 21,
+      "title_zh": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake"
+    },
+    {
+      "title": "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition",
+      "link": "https://arxiv.org/abs/2609.21259",
+      "description": "arXiv:2609.21259v1 Announce Type: new \nAbstract: Understanding and modeling human intelligence are parallel goals shared by artificial intelligence (AI) and cognitive science. As AI systems grow increasingly capable, in what ways do model responses resemble human responses, and where do they systematically diverge? The sheer breadth and diversity of the tasks humans can perform and think about pose a challenge for scalable and rigorous comparison between humans and models. We introduce CogGym, a",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 21,
+      "title_zh": "CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -39,6 +59,16 @@
       "category": "行业趋势",
       "aiScore": 20,
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
+    },
+    {
+      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+      "link": "https://arxiv.org/abs/2609.21192",
+      "description": "arXiv:2609.21192v1 Announce Type: new \nAbstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must establish what to validate, control, and observe for a use case to deliver its intended outcome while meeting applicable obligations. This paper proposes AI-GRACE (Agentic Intelligence-Governance, Risk, Assurance, Controls, and Evidence) as a use-case operationalization framework connecting organizational governance with techn",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 17,
+      "title_zh": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -79,11 +109,61 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "link": "https://arxiv.org/abs/2609.21061",
+      "description": "arXiv:2609.21061v1 Announce Type: new \nAbstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 uses Low-Rank Adaptation (LoRA) while freezing the ViT backbone, bridging the gap between natural-im",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers"
+    },
+    {
+      "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
+      "link": "https://arxiv.org/abs/2609.21267",
+      "description": "arXiv:2609.21267v1 Announce Type: new \nAbstract: Production LLM agents are evaluated repeatedly as they evolve, but full agent benchmarks are costly to rerun. We study efficient recurring evaluation for a production analytics agent serving tens of thousands of monthly active users and report first-hand deployment experience. Using 574 historical runs of the production benchmark, split chronologically into calibration and held-out periods, we compare random sampling, historical caching, fixed rep",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent"
+    },
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "link": "https://arxiv.org/abs/2609.21096",
+      "description": "arXiv:2609.21096v1 Announce Type: new \nAbstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a method that captures both semi-local and global information-flow characteristics of attention heads associated with hallucinated responses. W",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 5,
+      "title_zh": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing"
+    },
+    {
+      "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+      "link": "https://arxiv.org/abs/2609.21181",
+      "description": "arXiv:2609.21181v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We address this gap by studying test-time task embeddings in Vision ARC (VARC), a model in which a pre-trained backbone is complemented by a trainable embedding representing the transformation rule. In the original",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks"
+    },
+    {
+      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "link": "https://arxiv.org/abs/2609.21157",
+      "description": "arXiv:2609.21157v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions. We compare Direct RTL Design, Agent-based HLS Design, Post-Compiler HLS Refinement, and Post-HLS RTL Refinement, and combine Agent-based HLS Design with Post-HLS RTL Refinement as Agent-based HLS with RTL Refinement (AHRR). We ",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Can Agents Design Better Chips with a Higher Level Abstraction?"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-09-21T02:01:38.027Z",
+    "totalCount": 16,
+    "generatedAt": "2026-09-21T08:16:39.820Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 15.25
   }
 }
