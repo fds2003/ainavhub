@@ -31,6 +31,26 @@
       "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
     },
     {
+      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+      "link": "https://arxiv.org/abs/2609.26891",
+      "description": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. However, certain workflows currently require additional engineering beyond the agent loop itself, such as memory systems and self-improving systems. We built an LLM agent framework, JAZ, to explore the ex",
+      "pubDate": "2026-09-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 21,
+      "title_zh": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity"
+    },
+    {
+      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+      "link": "https://arxiv.org/abs/2609.26927",
+      "description": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI) with the proliferation of transformer-based conversational agents and the increased computational capabilities. Given an overview of current and previous multi-agent theories of mind (socially and a",
+      "pubDate": "2026-09-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 20,
+      "title_zh": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations"
+    },
+    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -81,89 +101,69 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
-      "link": "https://arxiv.org/abs/2609.22277",
-      "description": "arXiv:2609.22277v1 Announce Type: new \nAbstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained settings. This paper presents an affordable (\\$88 USD), fully offline AI-integrated smart cane designed for multimodal mobility assistance o",
-      "pubDate": "2026-09-23T04:00:00.000Z",
+      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+      "link": "https://arxiv.org/abs/2609.26952",
+      "description": "arXiv:2609.26952v1 Announce Type: new \nAbstract: Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compatibility relationships, causing many real-world code snippets to fail at execution. This paper presents PLLM+, a hybrid dependency-repair pipeline evaluated on the HG2.9K benchmark of 2,891 dependency-failing snippets. PLLM+ prioritizes inexpensive deterministic steps before invoking LLM-based repair: static AST-based inte",
+      "pubDate": "2026-09-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 12,
-      "title_zh": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users"
+      "title_zh": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution"
     },
     {
-      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
-      "link": "https://arxiv.org/abs/2609.22408",
-      "description": "arXiv:2609.22408v1 Announce Type: new \nAbstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts the Music Lab design to a market for academic attention. In the first experiment, 1,000 AI agents choose papers from the titles and abstracts ",
-      "pubDate": "2026-09-23T04:00:00.000Z",
+      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+      "link": "https://arxiv.org/abs/2609.26836",
+      "description": "arXiv:2609.26836v1 Announce Type: new \nAbstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interaction, specifically in biology agentic workflow is limited. This study investigates specific failures in agent to tool interaction where a tool invocation appears successful, some or all of the informat",
+      "pubDate": "2026-09-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Social Influence and the Allocation of Scientific Attention in AI Populations"
+      "aiScore": 7,
+      "title_zh": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse"
     },
     {
-      "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
-      "link": "https://arxiv.org/abs/2609.22512",
-      "description": "arXiv:2609.22512v1 Announce Type: new \nAbstract: Consensus among LLM judges is often taken as strong evidence that a decision is correct. This assumes that judges make their errors independently. In practice, LLM judges are often trained and evaluated in similar ways, so they can make the same mistakes. We study how this dependency affects the reliability of consensus. We find substantial error correlation across both open-weight and frontier LLM judges. In our main bank of ten judges, the avera",
-      "pubDate": "2026-09-23T04:00:00.000Z",
+      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
+      "link": "https://arxiv.org/abs/2609.26929",
+      "description": "arXiv:2609.26929v1 Announce Type: new \nAbstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment therefore calls for steerable models that can balance competing objectives differently. Multi-Objective Direct Preference Optimization (MODPO) does this by using an objective weight to span a continuum of trade-offs. We study two questions: when can one model improve two objectives simultaneously, and how can many trade-offs be",
+      "pubDate": "2026-09-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 12,
-      "title_zh": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus"
+      "aiScore": 4,
+      "title_zh": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment"
     },
     {
-      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
-      "link": "https://arxiv.org/abs/2609.22353",
-      "description": "arXiv:2609.22353v1 Announce Type: new \nAbstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct challenge. An object label or steering command does not explain which evidence supports a decision or when that evidence is unreliable. We present PAANI, an on-device perception to guidance architect",
-      "pubDate": "2026-09-23T04:00:00.000Z",
+      "title": "Reinforcement Learning with Decomposed Subtasks",
+      "link": "https://arxiv.org/abs/2609.27035",
+      "description": "arXiv:2609.27035v1 Announce Type: new \nAbstract: Group Relative Policy Optimization (GRPO) and related policy-gradient methods for training language model agents collapse an entire multi-turn rollout into a single scalar trajectory reward before it enters the policy update. When the task composes distinct skills, especially under sparse and delayed environmental feedback, this collapsing is lossy: the optimizer must implicitly infer which competency drove the outcome and how that should change b",
+      "pubDate": "2026-09-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6.5,
-      "title_zh": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation"
+      "aiScore": 4,
+      "title_zh": "Reinforcement Learning with Decomposed Subtasks"
     },
     {
-      "title": "Goal-driven Variant Categorization",
-      "link": "https://arxiv.org/abs/2609.22475",
-      "description": "arXiv:2609.22475v1 Announce Type: new \nAbstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants based on structural similarity and then assign business meaning to the resulting groups. Since these partitions are not derived from the organization's goals, analysts must manually interpret and consolidate variants into business-meaningful categories. This judgment-intensive step becomes increasingly difficult as the nu",
-      "pubDate": "2026-09-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "Goal-driven Variant Categorization"
-    },
-    {
-      "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
-      "link": "https://arxiv.org/abs/2609.22529",
-      "description": "arXiv:2609.22529v1 Announce Type: new \nAbstract: International law provides the normative framework through which states coordinate action, regulate armed conflict, and protect human rights, yet its texts remain without token-level named entity recognition (NER) resources. We introduce IntLawNER, a NER dataset and benchmark for codified sources of international law, covering 2,987 gold-annotated sentences and 8,094 entity spans from International Court of Justice (ICJ) decisions, UN Security Cou",
-      "pubDate": "2026-09-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law"
-    },
-    {
-      "title": "The Wisdom of Artificial Deliberative Crowds",
-      "link": "https://arxiv.org/abs/2609.22497",
-      "description": "arXiv:2609.22497v1 Announce Type: new \nAbstract: The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdom of crowds. While this is usually attributed to the independence of estimates, an even stronger effect arises through deliberation: averaging the consensus estimates of small deliberating groups outperforms the classical wisdom of crowds, with individual judgments themselves also becoming more accurate after deliberation. Whether the",
-      "pubDate": "2026-09-23T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 5,
-      "title_zh": "The Wisdom of Artificial Deliberative Crowds"
-    },
-    {
-      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
-      "link": "https://arxiv.org/abs/2609.22161",
-      "description": "arXiv:2609.22161v1 Announce Type: new \nAbstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical ratio and analyze how data composition affects performance, capability profiles, and error patterns across knowledge-intensive and clinic-or",
-      "pubDate": "2026-09-23T04:00:00.000Z",
+      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+      "link": "https://arxiv.org/abs/2609.26911",
+      "description": "arXiv:2609.26911v1 Announce Type: new \nAbstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the replacement itself can introduce the very failure verification is meant to prevent. We introduce TwinCheck, an inference-time verification policy that considers replacement only when the trace satisfies an evidence condition tied to a trace-local failure hypothesis. It constructs a trace-grounded coun",
+      "pubDate": "2026-09-24T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models"
+      "title_zh": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents"
+    },
+    {
+      "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
+      "link": "https://arxiv.org/abs/2609.27041",
+      "description": "arXiv:2609.27041v1 Announce Type: new \nAbstract: Mathematical reasoning benchmarks are typically organized by topic, but language models may organize their internal computation by reusable reasoning approach instead. In this paper, we investigate whether open math-capable LLMs organize internally by topical sub-skill or by reasoning approach, and we present evidence that the approach is the key. We introduce a generation-replay protocol: a model first generates a solution, after which we replay ",
+      "pubDate": "2026-09-24T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "Math Reasoning in LLMs is Organized by Approach, Not Topic"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-09-24T00:04:40.098Z",
+    "generatedAt": "2026-09-24T05:36:05.028Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.96875
+    "averageScore": 14.6875
   }
 }
