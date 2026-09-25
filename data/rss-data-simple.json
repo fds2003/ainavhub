@@ -28,24 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-      "title_zh": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-      "description": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. However, certain workflows currently require additional engineering beyond the agent loop itself, such as memory systems and self-improving systems. We built an LLM agent framework, JAZ, to explore the ex",
-      "link": "https://arxiv.org/abs/2609.26891",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-      "title_zh": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-      "description": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between humans and multiple agents in simulated dynamic worlds. This connects the current era of general artificial intelligence (AI/AGI) with the proliferation of transformer-based conversational agents and the increased computational capabilities. Given an overview of current and previous multi-agent theories of mind (socially and a",
-      "link": "https://arxiv.org/abs/2609.26927",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-09-24"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -53,6 +35,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "title_zh": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "description": "arXiv:2609.28557v1 Announce Type: new \nAbstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate established bioinformatics tools at scale. What remains manual is the decision layer surrounding that execution: selecting quality thresholds appropriate to a sample and platform, adjudicating borderline variant calls, diagnosing anomalies, and determining which findings warrant e",
+      "link": "https://arxiv.org/abs/2609.28557",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-25"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -91,58 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-      "title_zh": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-      "description": "arXiv:2609.26952v1 Announce Type: new \nAbstract: Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compatibility relationships, causing many real-world code snippets to fail at execution. This paper presents PLLM+, a hybrid dependency-repair pipeline evaluated on the HG2.9K benchmark of 2,891 dependency-failing snippets. PLLM+ prioritizes inexpensive deterministic steps before invoking LLM-based repair: static AST-based inte",
-      "link": "https://arxiv.org/abs/2609.26952",
+      "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+      "title_zh": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+      "description": "arXiv:2609.28692v1 Announce Type: new \nAbstract: Artificial Intelligence agents based on large language models provide convenient natural language interfaces to scientific software, but reliability is not automatic. Here we introduce the Epydemix Agent Framework, an additive layer over Epydemix, an open-source Python library for stochastic compartmental epidemic modeling. The framework extends the library with four capabilities to facilitate interaction with an AI agent: discovery of available m",
+      "link": "https://arxiv.org/abs/2609.28692",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
     },
     {
-      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-      "title_zh": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-      "description": "arXiv:2609.26836v1 Announce Type: new \nAbstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interaction, specifically in biology agentic workflow is limited. This study investigates specific failures in agent to tool interaction where a tool invocation appears successful, some or all of the informat",
-      "link": "https://arxiv.org/abs/2609.26836",
+      "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+      "title_zh": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+      "description": "arXiv:2609.28690v1 Announce Type: new \nAbstract: Faithful user simulation is fundamental to building, evaluating, and improving interactive AI at scale. However, plausible individual responses do not ensure that simulated users reproduce the intent evolution and outcomes observed in real interactions. We propose TRACER, a multi-turn user simulator that explicitly models users' evolving intent and learns to align simulated behavior with real interaction trajectories. TRACER is trained in two stag",
+      "link": "https://arxiv.org/abs/2609.28690",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
     },
     {
-      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-      "title_zh": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-      "description": "arXiv:2609.26929v1 Announce Type: new \nAbstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment therefore calls for steerable models that can balance competing objectives differently. Multi-Objective Direct Preference Optimization (MODPO) does this by using an objective weight to span a continuum of trade-offs. We study two questions: when can one model improve two objectives simultaneously, and how can many trade-offs be",
-      "link": "https://arxiv.org/abs/2609.26929",
+      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+      "title_zh": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+      "description": "arXiv:2609.28693v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with access to every internal tool leads to oversized context windows, degraded tool selection, and severe governance vulnerabilities - as system policies defined purely in prompts remain probabilistic advice rather than hard constraints. Existing mitigations, such as multi-agent domain delegation, decentralize audit logs and fai",
+      "link": "https://arxiv.org/abs/2609.28693",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
     },
     {
-      "title": "Reinforcement Learning with Decomposed Subtasks",
-      "title_zh": "Reinforcement Learning with Decomposed Subtasks",
-      "description": "arXiv:2609.27035v1 Announce Type: new \nAbstract: Group Relative Policy Optimization (GRPO) and related policy-gradient methods for training language model agents collapse an entire multi-turn rollout into a single scalar trajectory reward before it enters the policy update. When the task composes distinct skills, especially under sparse and delayed environmental feedback, this collapsing is lossy: the optimizer must implicitly infer which competency drove the outcome and how that should change b",
-      "link": "https://arxiv.org/abs/2609.27035",
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "title_zh": "PAWS: Policy-driven Agentic World Simulation",
+      "description": "arXiv:2609.28547v1 Announce Type: new \nAbstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely connect these processes to temporally aligned historical evidence. We introduce PAWS, a Policy-driven Agentic World Simulation dataset covering 36 verified U.S. financial and economic policy episodes, 12,727 policy-linked news records, and 65,291 source-grounded stakeholder action",
+      "link": "https://arxiv.org/abs/2609.28547",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
     },
     {
-      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-      "title_zh": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-      "description": "arXiv:2609.26911v1 Announce Type: new \nAbstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the replacement itself can introduce the very failure verification is meant to prevent. We introduce TwinCheck, an inference-time verification policy that considers replacement only when the trace satisfies an evidence condition tied to a trace-local failure hypothesis. It constructs a trace-grounded coun",
-      "link": "https://arxiv.org/abs/2609.26911",
+      "title": "Pistis Technical Report",
+      "title_zh": "Pistis Technical Report",
+      "description": "arXiv:2609.28554v1 Announce Type: new \nAbstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a general and scalable post-training framework. The framework first establishes a strong foundation through large-scale multimodal supervised fine-tuning (SFT). Building on this SFT foundation, we propose Interleaved Distillation and Reinforcement Learning (IDRL), a novel post-tra",
+      "link": "https://arxiv.org/abs/2609.28554",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
     },
     {
-      "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
-      "title_zh": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
-      "description": "arXiv:2609.27041v1 Announce Type: new \nAbstract: Mathematical reasoning benchmarks are typically organized by topic, but language models may organize their internal computation by reusable reasoning approach instead. In this paper, we investigate whether open math-capable LLMs organize internally by topical sub-skill or by reasoning approach, and we present evidence that the approach is the key. We introduce a generation-replay protocol: a model first generates a solution, after which we replay ",
-      "link": "https://arxiv.org/abs/2609.27041",
+      "title": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
+      "title_zh": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
+      "description": "arXiv:2609.28765v1 Announce Type: new \nAbstract: Reinforcement Learning with Verifiable Rewards (RLVR) performs well on problems with clear rewards, such as mathematics and coding, but whether it also works where the reward is less clear remains open. The reason-over-search recipe applies RLVR to open-domain question answering, where retrieval grounds the answer and a match against the reference supplies the reward. So far it has been demonstrated on large models, and below one billion parameter",
+      "link": "https://arxiv.org/abs/2609.28765",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-09-24"
+      "date": "2026-09-25"
+    },
+    {
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "title_zh": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "description": "arXiv:2609.28475v1 Announce Type: new \nAbstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We study this question on ForecastBench-style binary forecasting tasks, treating the choice to retrieve, reason, defer to a market prior, or use a historical analog as an observable agent behavior rather than a hidden implementation detail. Our central finding is that mechanism choic",
+      "link": "https://arxiv.org/abs/2609.28475",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-09-25"
     }
   ]
 }
