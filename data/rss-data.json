@@ -11,14 +11,14 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
-      "title": "Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT",
-      "link": "https://arxiv.org/abs/2609.35953",
-      "description": "arXiv:2609.35953v1 Announce Type: new \nAbstract: Young people increasingly turn to General-Purpose Conversational Agents (GPCAs), such as ChatGPT, in moments of distress. We examine young adults' (ages 18-25) experiences using ChatGPT. We first collected 19,930 ChatGPT conversations and survey data from 158 young adults. We then selected five example conversations reflecting user distress. Finally, we asked ten clinicians to review those five conversations. We found distressed participants repor",
-      "pubDate": "2026-09-30T04:00:00.000Z",
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "link": "https://arxiv.org/abs/2609.38296",
+      "description": "arXiv:2609.38296v1 Announce Type: new \nAbstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an influencer LLM that aims to make the target's beliefs more extreme. We examine radicalization along two pathways: resonance, where the influencer ",
+      "pubDate": "2026-10-01T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 24,
-      "title_zh": "Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT"
+      "aiScore": 26,
+      "title_zh": "AI Agents are Vulnerable to Radicalization"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -91,79 +91,79 @@
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
     },
     {
-      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-      "link": "https://arxiv.org/abs/2609.35799",
-      "description": "arXiv:2609.35799v1 Announce Type: new \nAbstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what needs to change? We explore these questions. First, we identify the misaligned behaviors that caused this incident. Then, we show how to elicit these behaviors from publicly available models manually and that auditing agents c",
-      "pubDate": "2026-09-30T04:00:00.000Z",
+      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+      "link": "https://arxiv.org/abs/2609.38346",
+      "description": "arXiv:2609.38346v1 Announce Type: new \nAbstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors increasingly use guardrails restricting answer-giving, yet little is known about how such tutors behave once an impasse persists. We analyze 20,462 student turns from 1,260 authentic sessions with a guided",
+      "pubDate": "2026-10-01T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 15,
+      "title_zh": "Examining Variation in How Guided AI Tutors Resolve Student Impasses"
+    },
+    {
+      "title": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
+      "link": "https://arxiv.org/abs/2609.38392",
+      "description": "arXiv:2609.38392v1 Announce Type: new \nAbstract: Personas used to seed LLM social simulations face a cold-start problem: existing methods lack a principled basis for deciding which attributes to include and how to assign their values. As a result, synthetic populations may misrepresent the demographic composition, latent attributes, and dependency structure that shape downstream behavior. We introduce MetaPersona-DB, a dataset of 11,000+ empirical human-subjects studies annotated with task-relev",
+      "pubDate": "2026-10-01T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 10,
+      "title_zh": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science"
+    },
+    {
+      "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+      "link": "https://arxiv.org/abs/2609.38369",
+      "description": "arXiv:2609.38369v1 Announce Type: new \nAbstract: We study generalized Blaschke curves as a controlled environment for AI-assisted mathematical rediscovery. For one fixed degree-four Blaschke product, an agent receives numerical coordinates of the six pair-lines determined by each of 80 boundary configurations. The target theorem is withheld from the task instructions. The saved research log reports rejected geometric hypotheses and a homogeneous cubic fitted to polygon sides. Its frozen coeffici",
+      "pubDate": "2026-10-01T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 8,
-      "title_zh": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing"
+      "title_zh": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?"
     },
     {
-      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-      "link": "https://arxiv.org/abs/2609.35873",
-      "description": "arXiv:2609.35873v1 Announce Type: new \nAbstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controlled evaluation that separates answer coverage, repeatable task advantages, and gains from pre-execution selection. On 386 MATH-500 tasks, we compare eight generated harnesses plus a baseline with nine ",
-      "pubDate": "2026-09-30T04:00:00.000Z",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "link": "https://arxiv.org/abs/2609.38288",
+      "description": "arXiv:2609.38288v1 Announce Type: new \nAbstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the current one, and long-horizon execution, which keeps the iteration effective over many rounds. We hypothesize that both capabilities are domain-agnostic, and can therefore be learn",
+      "pubDate": "2026-10-01T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "aiScore": 6,
-      "title_zh": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses"
+      "aiScore": 7,
+      "title_zh": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks"
     },
     {
-      "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
-      "link": "https://arxiv.org/abs/2609.35897",
-      "description": "arXiv:2609.35897v1 Announce Type: new \nAbstract: The pursuit of recursive self-improvement (RSI) toward general intelligence is divided between macro-level language model scaling and the interaction-driven principles of \"Era of Experience\". Yet, any self-improving architecture ultimately rests upon its underlying optimization engine: if general intelligence requires learning from grounded interaction, the reinforcement learning (RL) update rule itself must be capable of cumulative adaptation. Wh",
-      "pubDate": "2026-09-30T04:00:00.000Z",
+      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+      "link": "https://arxiv.org/abs/2609.38359",
+      "description": "arXiv:2609.38359v1 Announce Type: new \nAbstract: High quality synthetic data is central to post training LLMs for adaptive AI applications that represent the diverse expert strategies and decisions in conversations. Prompting LLMs directly or conditioning them on end use scenarios yields low diversity data that collapses onto dominant modes. We propose a method to generate diverse high quality synthetic data using Generative Flow Networks (GFlowNets). We show that training GFlowNets to generate ",
+      "pubDate": "2026-10-01T04:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 7,
+      "title_zh": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks"
+    },
+    {
+      "title": "A Competing-Hazards Systematization of Loss of Control in Autonomous Agents",
+      "link": "https://arxiv.org/abs/2609.38411",
+      "description": "arXiv:2609.38411v1 Announce Type: new \nAbstract: Leading AI developers have reported agents acting beyond their approved limits, which a United Nations panel described as an early warning of loss of human control. Yet incident reports and agent-safety evaluations describe these events differently, making it difficult to compare failures, trace risk across attempts, or separate agent behavior from the environment's role in allowing an out-of-scope action to succeed. To address this gap, we introd",
+      "pubDate": "2026-10-01T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 4,
-      "title_zh": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?"
+      "title_zh": "A Competing-Hazards Systematization of Loss of Control in Autonomous Agents"
     },
     {
-      "title": "PowerZooJax: A JAX-based Power System Benchmark for Reinforcement Learning",
-      "link": "https://arxiv.org/abs/2609.36052",
-      "description": "arXiv:2609.36052v1 Announce Type: new \nAbstract: Power system operation is a safety-critical sequential decision-making problem, making it a natural testbed for reinforcement learning (RL). However, existing RL environments for power systems are often narrow in scope and computationally limited by CPU-based simulation workflows, making large-scale evaluation difficult. We introduce PowerZooJax, a JAX-based benchmark suite for RL in power system operation. It provides five constrained Markov deci",
-      "pubDate": "2026-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 4,
-      "title_zh": "PowerZooJax: A JAX-based Power System Benchmark for Reinforcement Learning"
-    },
-    {
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "link": "https://arxiv.org/abs/2609.35868",
-      "description": "arXiv:2609.35868v1 Announce Type: new \nAbstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose Desired-Update-Aligned Synthetic Data (DASA), which uses activation-gradient feedback from a frozen reference model to guide the optimization of continuous synthetic input embeddings. Inspired by the",
-      "pubDate": "2026-09-30T04:00:00.000Z",
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "link": "https://arxiv.org/abs/2609.38340",
+      "description": "arXiv:2609.38340v1 Announce Type: new \nAbstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT holds question and gold answer fixed across eight matched views, names each structural relation separately in GraphSpace, and adds matched fine-tuning, answer masking, evidence injection, paired infere",
+      "pubDate": "2026-10-01T04:00:00.000Z",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
       "aiScore": 3,
-      "title_zh": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?"
-    },
-    {
-      "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
-      "link": "https://arxiv.org/abs/2609.35890",
-      "description": "arXiv:2609.35890v1 Announce Type: new \nAbstract: Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a model's computation is easier to reverse-engineer. Whether this representational and attributional cleanliness actually predicts a smaller or more tractable causal circuit remains an open question. We test this directly using adversarial training as a controlled instrument: it reliably reshapes internal representations, but this alon",
-      "pubDate": "2026-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training"
-    },
-    {
-      "title": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents",
-      "link": "https://arxiv.org/abs/2609.36043",
-      "description": "arXiv:2609.36043v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents increasingly self-evolve by editing a persistent skill document that encodes their workflow, tool-use rules, and decision logic. This loop has two steps, an optimizer that proposes a candidate edit and a gate that accepts or rejects it. Prior work has concentrated on the optimizer, while the gate still follows a naive rule that keeps any edit which improves an aggregate validation score. We show that this ru",
-      "pubDate": "2026-09-30T04:00:00.000Z",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "aiScore": 3,
-      "title_zh": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents"
+      "title_zh": "CARAT: Do Materials LLMs Reason or Recite?"
     }
   ],
   "metadata": {
     "totalCount": 16,
-    "generatedAt": "2026-10-01T02:47:29.120Z",
+    "generatedAt": "2026-10-01T09:31:33.996Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -223,6 +223,6 @@
     "researchArticles": 8,
     "industryArticles": 8,
     "academicArticles": 8,
-    "averageScore": 13.5
+    "averageScore": 15.0625
   }
 }
