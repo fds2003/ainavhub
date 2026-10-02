@@ -10,15 +10,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "title_zh": "AI Agents are Vulnerable to Radicalization",
-      "description": "arXiv:2609.38296v1 Announce Type: new \nAbstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an influencer LLM that aims to make the target's beliefs more extreme. We examine radicalization along two pathways: resonance, where the influencer ",
-      "link": "https://arxiv.org/abs/2609.38296",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-01"
-    },
-    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -82,67 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "title_zh": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "description": "arXiv:2609.38346v1 Announce Type: new \nAbstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors increasingly use guardrails restricting answer-giving, yet little is known about how such tutors behave once an impasse persists. We analyze 20,462 student turns from 1,260 authentic sessions with a guided",
-      "link": "https://arxiv.org/abs/2609.38346",
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "title_zh": "When Do Causal World Models Help Modular LLM Agents",
+      "description": "arXiv:2610.00012v1 Announce Type: new \nAbstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity needed for intervention-time planning: a trace may show that payment precedes shipment without identifying whether payment authorizes shipment, inventory mediates the effect, or a ",
+      "link": "https://arxiv.org/abs/2610.00012",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-01"
+      "date": "2026-10-02"
     },
     {
-      "title": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
-      "title_zh": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
-      "description": "arXiv:2609.38392v1 Announce Type: new \nAbstract: Personas used to seed LLM social simulations face a cold-start problem: existing methods lack a principled basis for deciding which attributes to include and how to assign their values. As a result, synthetic populations may misrepresent the demographic composition, latent attributes, and dependency structure that shape downstream behavior. We introduce MetaPersona-DB, a dataset of 11,000+ empirical human-subjects studies annotated with task-relev",
-      "link": "https://arxiv.org/abs/2609.38392",
+      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "title_zh": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "description": "arXiv:2610.00074v1 Announce Type: new \nAbstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher supplies access to a model of their choice, hosted or running locally, and the application supplies everything else: a place for the work to run, a layer of scientific scaffolding, and a complete record. Each project is an ordinary folder, so the data, the code, the results, and the ",
+      "link": "https://arxiv.org/abs/2610.00074",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-01"
+      "date": "2026-10-02"
     },
     {
-      "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
-      "title_zh": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
-      "description": "arXiv:2609.38369v1 Announce Type: new \nAbstract: We study generalized Blaschke curves as a controlled environment for AI-assisted mathematical rediscovery. For one fixed degree-four Blaschke product, an agent receives numerical coordinates of the six pair-lines determined by each of 80 boundary configurations. The target theorem is withheld from the task instructions. The saved research log reports rejected geometric hypotheses and a homogeneous cubic fitted to polygon sides. Its frozen coeffici",
-      "link": "https://arxiv.org/abs/2609.38369",
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "title_zh": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "description": "arXiv:2610.00025v1 Announce Type: new \nAbstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics,",
+      "link": "https://arxiv.org/abs/2610.00025",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-01"
+      "date": "2026-10-02"
     },
     {
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "title_zh": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "description": "arXiv:2609.38288v1 Announce Type: new \nAbstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the current one, and long-horizon execution, which keeps the iteration effective over many rounds. We hypothesize that both capabilities are domain-agnostic, and can therefore be learn",
-      "link": "https://arxiv.org/abs/2609.38288",
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "title_zh": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "description": "arXiv:2610.00015v1 Announce Type: new \nAbstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through deterministic admission, brokered execution, external read-back, reconciliation, and reviewed promotion. We report four evidence lanes. First, an author-run repository-local audit at a pinned revision p",
+      "link": "https://arxiv.org/abs/2610.00015",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-01"
+      "date": "2026-10-02"
     },
     {
-      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-      "title_zh": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-      "description": "arXiv:2609.38359v1 Announce Type: new \nAbstract: High quality synthetic data is central to post training LLMs for adaptive AI applications that represent the diverse expert strategies and decisions in conversations. Prompting LLMs directly or conditioning them on end use scenarios yields low diversity data that collapses onto dominant modes. We propose a method to generate diverse high quality synthetic data using Generative Flow Networks (GFlowNets). We show that training GFlowNets to generate ",
-      "link": "https://arxiv.org/abs/2609.38359",
+      "title": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
+      "title_zh": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
+      "description": "arXiv:2610.00349v1 Announce Type: new \nAbstract: Resource limits are becoming an authorization boundary for AI agents that delegate work across concurrent and failure-prone workers. Parent-child allocation constraints, affine objects, and distributed escrow do not by themselves prevent overspend when replies are lost, effects complete after timeout, messages repeat, branches partition, or DAG joins alias one lineage. We formalize fault-tolerant budget conservation for distributed multi-agent del",
+      "link": "https://arxiv.org/abs/2610.00349",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-01"
+      "date": "2026-10-02"
     },
     {
-      "title": "A Competing-Hazards Systematization of Loss of Control in Autonomous Agents",
-      "title_zh": "A Competing-Hazards Systematization of Loss of Control in Autonomous Agents",
-      "description": "arXiv:2609.38411v1 Announce Type: new \nAbstract: Leading AI developers have reported agents acting beyond their approved limits, which a United Nations panel described as an early warning of loss of human control. Yet incident reports and agent-safety evaluations describe these events differently, making it difficult to compare failures, trace risk across attempts, or separate agent behavior from the environment's role in allowing an out-of-scope action to succeed. To address this gap, we introd",
-      "link": "https://arxiv.org/abs/2609.38411",
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "title_zh": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "description": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where prediction errors accumulate. We study this effect through a conservative tail a",
+      "link": "https://arxiv.org/abs/2610.00010",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-01"
+      "date": "2026-10-02"
     },
     {
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "title_zh": "CARAT: Do Materials LLMs Reason or Recite?",
-      "description": "arXiv:2609.38340v1 Announce Type: new \nAbstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT holds question and gold answer fixed across eight matched views, names each structural relation separately in GraphSpace, and adds matched fine-tuning, answer masking, evidence injection, paired infere",
-      "link": "https://arxiv.org/abs/2609.38340",
+      "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+      "title_zh": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+      "description": "arXiv:2610.00313v1 Announce Type: new \nAbstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise. Rules to Tools (R2T) supplies prepared executable checks of public scientific requirements. Matched SciCode repair groups share written checks, starting programs, model, and budgets; the tool group receives a callable implementation. Across two task-ID cohorts, complete repair is 26/30 with text and 29/30 ",
+      "link": "https://arxiv.org/abs/2610.00313",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-01"
+      "date": "2026-10-02"
+    },
+    {
+      "title": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
+      "title_zh": "When Harnesses Lose the Signal: Causal Evaluation of Recovery in LLM Agents",
+      "description": "arXiv:2610.00372v1 Announce Type: new \nAbstract: Large language model agents rely on external harnesses to pass information between the model and its environment and to recover from execution errors. Yet recovery is usually judged only by average task success. This hides an important tension. The same operation can rescue a failing trajectory or disrupt one that would otherwise succeed. We frame recovery as a causal decision problem. Starting from the same execution state, we compare what happen",
+      "link": "https://arxiv.org/abs/2610.00372",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-02"
     }
   ]
 }
