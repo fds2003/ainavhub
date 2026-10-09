@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "title_zh": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "description": "arXiv:2610.10805v1 Announce Type: new \nAbstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI. Conventional machine learning and AI systems are largely developed under the assumption that a single definitive ground truth exists, with variability in human annotations often resolved through aggregation or treated as noise. However, for many human-centered tasks, human int",
+      "link": "https://arxiv.org/abs/2610.10805",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-09"
+    },
+    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -73,76 +82,67 @@
       "date": "2021-10-21"
     },
     {
-      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
-      "title_zh": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
-      "description": "arXiv:2610.06923v1 Announce Type: new \nAbstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow from treatment decision-making through follow-up. Here we present RadOnc-Agent, an agentic artificial-intelligence framework that formalizes radiotherapy into four clinical phases and provides 26 callabl",
-      "link": "https://arxiv.org/abs/2610.06923",
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "title_zh": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "description": "arXiv:2610.10629v1 Announce Type: new \nAbstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it is confined to the runtime harness (instruction text, tool-call logic and primitive composition) while model weights stay fixed, so that every adaptation is a diff with a cause and a test attached. We",
+      "link": "https://arxiv.org/abs/2610.10629",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     },
     {
-      "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
-      "title_zh": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
-      "description": "arXiv:2610.07004v1 Announce Type: new \nAbstract: Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. While existing planners work well for sequential or directed acyclic graph (DAG)-like structures, they struggle with workflow patterns such as verification-correction loops, convergent branch merging, and reusable intermediate states that arise naturally in real-world tool orchestration. We present TopoPlanner, a topology-consistent pla",
-      "link": "https://arxiv.org/abs/2610.07004",
+      "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+      "title_zh": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+      "description": "arXiv:2610.10906v1 Announce Type: new \nAbstract: Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior, enforced through community sanctioning. Aligning increasingly autonomous AI systems with these norms is a central alignment challenge, complicated by the fact that norms are vast in number, change quickly, and are often arbitrary (e.g., dress or language conventions). Thus, alignment requires \\textit{normative competence",
+      "link": "https://arxiv.org/abs/2610.10906",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     },
     {
-      "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
-      "title_zh": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
-      "description": "arXiv:2610.07026v1 Announce Type: new \nAbstract: The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first AI systems that operate fully offline. Designed for African language communities where speech is the dominant mode of interaction and internet connectivity is unreliable or absent, the workstream delivers three reinforcing components: a modular voice-first offline architecture, a low-cost hardware reference bill of materials, and a re",
-      "link": "https://arxiv.org/abs/2610.07026",
+      "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+      "title_zh": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+      "description": "arXiv:2610.10833v1 Announce Type: new \nAbstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productively. We evaluate Qwen3.6-27B on five competitions from MLE-Bench Lite and Qwen3-4B on Zork I (Jericho), two agentic benchmarks where additional computational time can meaningfully improve performance. In the simplest setting, where the budget is stated only in the prompt, agents",
+      "link": "https://arxiv.org/abs/2610.10833",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     },
     {
-      "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
-      "title_zh": "EPOCH: Reliable Discovery through Evidence-Governed Search",
-      "description": "arXiv:2610.06986v1 Announce Type: new \nAbstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing systems typically optimize evaluator feedback without adequately governing how that feedback is interpreted, challenged, and reused. As a result, promising but fragile candidates can be promoted as discoveries, while benchmark improvements, finite certificates, and theorem-level claims are too easily conflated. We introduce E",
-      "link": "https://arxiv.org/abs/2610.06986",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "title_zh": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "description": "arXiv:2610.10611v1 Announce Type: new \nAbstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with hidden terminal randomness. A stage specifies admissible transcripts, polynomial bounds, an alternating verification protocol, and a terminal checker. Its native reach uses default support; its closure",
+      "link": "https://arxiv.org/abs/2610.10611",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     },
     {
-      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
-      "title_zh": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
-      "description": "arXiv:2610.06917v1 Announce Type: new \nAbstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request routing across workers. However, real-world workloads exhibit both short bursts and sustained shifts in the prefill-to-decode demand ratio. As a result, a configuration that is well provisioned at one t",
-      "link": "https://arxiv.org/abs/2610.06917",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "title_zh": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "description": "arXiv:2610.10549v1 Announce Type: new \nAbstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, but its effectiveness is fundamentally limited by structural validity and schema availability, while procedure-based approaches yield the opposite weakness, typically lacking dist",
+      "link": "https://arxiv.org/abs/2610.10549",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     },
     {
-      "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
-      "title_zh": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
-      "description": "arXiv:2610.06964v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited. Although fine-tuning enables adaptation, its dependence on parameter access and high computational costs restrict its flexibility, especially for large-scale and closed-source LLMs. External memory offers an alternative by allowing agents to accumulate experience without modif",
-      "link": "https://arxiv.org/abs/2610.06964",
+      "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+      "title_zh": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+      "description": "arXiv:2610.10942v1 Announce Type: new \nAbstract: Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-training, yet most agentic benchmarks remain static: the world moves only when the agent acts, the reward is a terminal verdict, and the pass bar is set arbitrarily. We introduce StoreBench, a live-commerce environment in which an agent runs a mid-size online apparel store on a production-grade commerce backend, testing long-ho",
+      "link": "https://arxiv.org/abs/2610.10942",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     },
     {
-      "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
-      "title_zh": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
-      "description": "arXiv:2610.07023v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that elicit harmful or unsafe outputs. Existing safety alignment approaches, including Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF), often require substantial attack-specific supervision and computational resources, while remaining susceptible to shallow safety alignment and over-refusal. To address th",
-      "link": "https://arxiv.org/abs/2610.07023",
+      "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
+      "title_zh": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
+      "description": "arXiv:2610.11005v1 Announce Type: new \nAbstract: Safety-aligned language models often refuse a harmful request stated directly but answer the same request inside a role-play or narrative wrapper. We measure this vulnerability across languages and registers: attack success on Qwen3-1.7B is already 89.4% in English and 93.0% in modern Chinese, and reaches 95.7% in Classical Chinese. We build GUISE, a benchmark for systematically studying this vulnerability. It includes parallel requests in English",
+      "link": "https://arxiv.org/abs/2610.11005",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
-      "title_zh": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
-      "description": "arXiv:2610.06971v1 Announce Type: new \nAbstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website DOM modifications. Present observability tools only raise alerts but for human engineers, resulting in a high Mean Time to Repair (MTTR) and operational fatigue. In this paper we propose AegisFlow (Agentic Engine for Intelligent Self-healing and Graph-driven Operations for Workload remediation), a novel agentic framework",
-      "link": "https://arxiv.org/abs/2610.06971",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-08"
+      "date": "2026-10-09"
     }
   ]
 }
