@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "title_zh": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "description": "arXiv:2610.10805v1 Announce Type: new \nAbstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI. Conventional machine learning and AI systems are largely developed under the assumption that a single definitive ground truth exists, with variability in human annotations often resolved through aggregation or treated as noise. However, for many human-centered tasks, human int",
-      "link": "https://arxiv.org/abs/2610.10805",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -80,69 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "title_zh": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "description": "arXiv:2610.10629v1 Announce Type: new \nAbstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it is confined to the runtime harness (instruction text, tool-call logic and primitive composition) while model weights stay fixed, so that every adaptation is a diff with a cause and a test attached. We",
-      "link": "https://arxiv.org/abs/2610.10629",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
-      "title_zh": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
-      "description": "arXiv:2610.10906v1 Announce Type: new \nAbstract: Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior, enforced through community sanctioning. Aligning increasingly autonomous AI systems with these norms is a central alignment challenge, complicated by the fact that norms are vast in number, change quickly, and are often arbitrary (e.g., dress or language conventions). Thus, alignment requires \\textit{normative competence",
-      "link": "https://arxiv.org/abs/2610.10906",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-      "title_zh": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-      "description": "arXiv:2610.10833v1 Announce Type: new \nAbstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productively. We evaluate Qwen3.6-27B on five competitions from MLE-Bench Lite and Qwen3-4B on Zork I (Jericho), two agentic benchmarks where additional computational time can meaningfully improve performance. In the simplest setting, where the budget is stated only in the prompt, agents",
-      "link": "https://arxiv.org/abs/2610.10833",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "title_zh": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "description": "arXiv:2610.10611v1 Announce Type: new \nAbstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with hidden terminal randomness. A stage specifies admissible transcripts, polynomial bounds, an alternating verification protocol, and a terminal checker. Its native reach uses default support; its closure",
-      "link": "https://arxiv.org/abs/2610.10611",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "title_zh": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "description": "arXiv:2610.10549v1 Announce Type: new \nAbstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, but its effectiveness is fundamentally limited by structural validity and schema availability, while procedure-based approaches yield the opposite weakness, typically lacking dist",
-      "link": "https://arxiv.org/abs/2610.10549",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
-      "title_zh": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
-      "description": "arXiv:2610.10942v1 Announce Type: new \nAbstract: Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-training, yet most agentic benchmarks remain static: the world moves only when the agent acts, the reward is a terminal verdict, and the pass bar is set arbitrarily. We introduce StoreBench, a live-commerce environment in which an agent runs a mid-size online apparel store on a production-grade commerce backend, testing long-ho",
-      "link": "https://arxiv.org/abs/2610.10942",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
-      "title_zh": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
-      "description": "arXiv:2610.11005v1 Announce Type: new \nAbstract: Safety-aligned language models often refuse a harmful request stated directly but answer the same request inside a role-play or narrative wrapper. We measure this vulnerability across languages and registers: attack success on Qwen3-1.7B is already 89.4% in English and 93.0% in modern Chinese, and reaches 95.7% in Classical Chinese. We build GUISE, a benchmark for systematically studying this vulnerability. It includes parallel requests in English",
-      "link": "https://arxiv.org/abs/2610.11005",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-09"
     }
   ]
 }
