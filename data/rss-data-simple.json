@@ -46,15 +46,6 @@
       "date": "2021-10-28"
     },
     {
-      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-      "title_zh": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-      "description": "arXiv:2610.14149v1 Announce Type: new \nAbstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the fragmented state of veterinary AI development.",
-      "link": "https://arxiv.org/abs/2610.14149",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-15"
-    },
-    {
       "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
       "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
@@ -82,67 +73,76 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "title_zh": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "description": "arXiv:2610.14005v1 Announce Type: new \nAbstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, giv",
-      "link": "https://arxiv.org/abs/2610.14005",
+      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+      "title_zh": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+      "description": "arXiv:2610.20685v1 Announce Type: new \nAbstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2G-SR, a framework for LLM-based symbolic regression that guides search with a learned structural verifier. We construct structural supervision signal using tree edit distance (TED), accounting for commutative operators and",
+      "link": "https://arxiv.org/abs/2610.20685",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
-      "title": "The Silent Failures in Agentic Data Science",
-      "title_zh": "The Silent Failures in Agentic Data Science",
-      "description": "arXiv:2610.14115v1 Announce Type: new \nAbstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that ",
-      "link": "https://arxiv.org/abs/2610.14115",
+      "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+      "title_zh": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+      "description": "arXiv:2610.20764v1 Announce Type: new \nAbstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We formulate this as a theory- and model-agnostic challenge in which systems must infer reliable actions for increasingly distant future states across a growing observation--reality gap. We operationaliz",
+      "link": "https://arxiv.org/abs/2610.20764",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "title_zh": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "description": "arXiv:2610.14146v1 Announce Type: new \nAbstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains an",
-      "link": "https://arxiv.org/abs/2610.14146",
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "title_zh": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "description": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls behind when they ke",
+      "link": "https://arxiv.org/abs/2610.20665",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
-      "title": "Visualizing the World Model in an Agent's Value Function",
-      "title_zh": "Visualizing the World Model in an Agent's Value Function",
-      "description": "arXiv:2610.14186v1 Announce Type: new \nAbstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value function of a Proximal Policy Optimization agent forms a world model of the Crafter environment. Despite only being trained to optimize reward, we discover that the value function learns concepts such as t",
-      "link": "https://arxiv.org/abs/2610.14186",
+      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+      "title_zh": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+      "description": "arXiv:2610.20681v1 Announce Type: new \nAbstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic computation for inequality proving in Lean4. Lemma-level Monte Carlo Tree Search coordinates lemma construction, goal reformulation, and symbolic backend selection. Complementary sum-of-squares, Bernstein, and successi",
+      "link": "https://arxiv.org/abs/2610.20681",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "title_zh": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "description": "arXiv:2610.14118v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes tas",
-      "link": "https://arxiv.org/abs/2610.14118",
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "title_zh": "Evaluating Model Capabilities After Benchmark Saturation",
+      "description": "arXiv:2610.20667v1 Announce Type: new \nAbstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task. We investigate whether these transcripts can be us",
+      "link": "https://arxiv.org/abs/2610.20667",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
-      "title": "Unconstrained CTI-REALM with Open-Weights",
-      "title_zh": "Unconstrained CTI-REALM with Open-Weights",
-      "description": "arXiv:2610.14180v1 Announce Type: new \nAbstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.13517), a benchmark in which an agent turns a threat-intelligence report into a working detection by querying a live telemetry store. We evaluate twenty-six models, nineteen open-weight and seven closed, under a",
-      "link": "https://arxiv.org/abs/2610.14180",
+      "title": "Open-world AI: a Tale of Three Requirements",
+      "title_zh": "Open-world AI: a Tale of Three Requirements",
+      "description": "arXiv:2610.20782v1 Announce Type: new \nAbstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world asks for versatility --- taking up tasks a machine was not built for, from few examples and with little prior from a human designer --- and offers data that is grouped, not shuffled. Its tasks are not known in advance, so a machine must do inference-tim",
+      "link": "https://arxiv.org/abs/2610.20782",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
-      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "title_zh": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "description": "arXiv:2610.14224v1 Announce Type: new \nAbstract: LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these harnesses. However, deploying RSI in open-world settings still faces two critical challenges. First, open-world tasks are typically unseen during the harness design phase and novel at test time, leaving no ground-truth verifiers to reliably guide online",
-      "link": "https://arxiv.org/abs/2610.14224",
+      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+      "title_zh": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+      "description": "arXiv:2610.20780v1 Announce Type: new \nAbstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a learned policy for intervening while execution is still in progress. We present Agent Runtime Inspection and Amendment (ARIA), a framework for learning when and how to repair ongoing multi-agent execut",
+      "link": "https://arxiv.org/abs/2610.20780",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
+    },
+    {
+      "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
+      "title_zh": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
+      "description": "arXiv:2610.20805v1 Announce Type: new \nAbstract: A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the current evidence when the two disagree. We disentangle these roles by crossing verified evidence versions with the traces generated from each and answering from the same traces and evidence under two configurations: continuation of the model's own thinking and a separate answer call. Across three model families (gpt-oss, Gemma4, Qwen3) on ",
+      "link": "https://arxiv.org/abs/2610.20805",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-16"
     }
   ]
 }
