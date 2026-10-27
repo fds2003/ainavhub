@@ -1,76 +1,148 @@
 {
   "articles": [
     {
-      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-      "title_zh": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-      "description": "arXiv:2610.31916v1 Announce Type: new \nAbstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission to dispatch, evidence of an external effect and permission to reconcile are distinct obligations. We present a finite conformance study that checks these obligations throu",
-      "link": "https://arxiv.org/abs/2610.31916",
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "title_zh": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "description": "arXiv:2610.33105v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engineering (COBEM 2025), this article presents a structured perspective for the Brazilian and international ME communities. Rather than an exhaustive survey, it examines how AI can enhance engineering pr",
+      "link": "https://arxiv.org/abs/2610.33105",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
     },
     {
-      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-      "title_zh": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-      "description": "arXiv:2610.31971v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through explicit trust and reputation models, whereas existing work on LLM negotiation largely treats trust as an emergent phenomenon. We investigate whether LLM agents can form useful",
-      "link": "https://arxiv.org/abs/2610.31971",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-26"
+      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
+      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
     },
     {
-      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-      "title_zh": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-      "description": "arXiv:2610.31937v1 Announce Type: new \nAbstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. However, many existing red-teaming approaches rely on heuristics or impose strong assumptions that limit their applicability in fully black box settings. We address this gap by introducing $M^3$, an automated red-teaming framework that formalizes multi-turn jailbreaking as a finite-horizon Markov Deci",
-      "link": "https://arxiv.org/abs/2610.31937",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-26"
+      "title": "Best Practices for Building the AI Development Platform in Government",
+      "title_zh": "Best Practices for Building the AI Development Platform in Government",
+      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
     },
     {
-      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-      "title_zh": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-      "description": "arXiv:2610.31918v1 Announce Type: new \nAbstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinction is inherently hierarchical: the policy that induces an interaction history need not be the same as the policy that generates the token prefix of the current action. We introduce a hierarchical ag",
-      "link": "https://arxiv.org/abs/2610.31918",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-26"
+      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
+      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
     },
     {
-      "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-      "title_zh": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-      "description": "arXiv:2610.31985v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply trying to help. Prior work has largely studied adversarial or explicitly collusive behavior; we show that benign agents pursuing separate objectives can spontaneously cooperate in ",
-      "link": "https://arxiv.org/abs/2610.31985",
+      "title": "NewsBench: Expert-Grounded Evaluation of Epistemic Quality in AI News Reporting",
+      "title_zh": "NewsBench: Expert-Grounded Evaluation of Epistemic Quality in AI News Reporting",
+      "description": "arXiv:2610.33240v1 Announce Type: new \nAbstract: As frontier AI systems increasingly serve as sources of political and current-events information, evaluating the epistemic quality of their responses is now especially consequential. Existing evaluations often focus narrowly on ideological alignment, rely on measures not validated for this setting, or depend on reference labels derived from public opinion or non-expert annotation, potentially producing misleading or miscalibrated results. To addre",
+      "link": "https://arxiv.org/abs/2610.33240",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
     },
     {
-      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "title_zh": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "description": "arXiv:2610.31882v1 Announce Type: new \nAbstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the agentic design of a 240-251 GHz sub-THz transmitter",
-      "link": "https://arxiv.org/abs/2610.31882",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-26"
+      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
+      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
     },
     {
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "title_zh": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "description": "arXiv:2610.31808v1 Announce Type: new \nAbstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddings and a convolutional neural network for classification, while our second app",
-      "link": "https://arxiv.org/abs/2610.31808",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-10-26"
+      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
+      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
     },
     {
-      "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
-      "title_zh": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
-      "description": "arXiv:2610.32022v1 Announce Type: new \nAbstract: Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals. Research has increasingly focused on two notable paradigms for addressing this task: structured symbolic reasoning and multimodal input enrichment. However, it remains unclear whether enrichment-based methods provide benefit in settings where the ambiguity concerns unstated human intent rathe",
-      "link": "https://arxiv.org/abs/2610.32022",
+      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case",
+      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
+      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-28"
+    },
+    {
+      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
+      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
+      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
+      "source": "AI 趋势",
+      "category": "行业趋势",
+      "date": "2021-10-21"
+    },
+    {
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "title_zh": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "description": "arXiv:2610.33112v1 Announce Type: new \nAbstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded by a scope and subject to expiry. We take the delegation contract of earlier work (frozen configuration, scoped claim, executable revision rule) and study it under strategic play between a deployer, a",
+      "link": "https://arxiv.org/abs/2610.33112",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding",
+      "title_zh": "Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding",
+      "description": "arXiv:2610.33205v1 Announce Type: new \nAbstract: Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited guidance for reliability and human oversight. To address these limitations, we propose the Smart Coder Framework, a three-phase approach structuring human-LLM collaborative coding through Instruction, Prompt Strategy, and Reliability Check. We evaluated the framework using 72 middle-school mathematics teacher interview transcripts and a ",
+      "link": "https://arxiv.org/abs/2610.33205",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science",
+      "title_zh": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science",
+      "description": "arXiv:2610.33245v1 Announce Type: new \nAbstract: Data science agents can automate end-to-end machine learning workflows, yet they remain far from competitive on human leaderboards. Agents make process errors such as insufficient exploration, unsound validation, coding bugs, and poor use of a fixed budget (re-running the same exploratory data analysis and baseline models in every attempt). We propose AdaPRA to address these issues: a persistent coding agent harness that accumulates knowledge acro",
+      "link": "https://arxiv.org/abs/2610.33245",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Distilling Expert Judgment at Scale",
+      "title_zh": "Distilling Expert Judgment at Scale",
+      "description": "arXiv:2610.33233v1 Announce Type: new \nAbstract: Frontier AI models are increasingly deployed on topics where the stakes are high and expert judgment is required, including healthcare, defense, finance, governance, and politics. We present a general methodology for distilling expert human judgment into automated evaluation systems that operate at scale. Our approach assembles networks of domain experts and develops techniques for extracting not just their conclusions but their reasoning processe",
+      "link": "https://arxiv.org/abs/2610.33233",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+      "title_zh": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+      "description": "arXiv:2610.33178v1 Announce Type: new \nAbstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of work: a build, a data-processing job and a bug fix may all be pending on the same machine at once. Such an agent must decide when to take on new tasks, how to delegate and overlap them, and how to stay within the machine's CPU and memory. Existing benchmarks cannot measure this, because they evaluate each task in isolati",
+      "link": "https://arxiv.org/abs/2610.33178",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Scoped Semantic Invariance as a Foundation for LLM Reliability",
+      "title_zh": "Scoped Semantic Invariance as a Foundation for LLM Reliability",
+      "description": "arXiv:2610.33267v1 Announce Type: new \nAbstract: LLMs often answer semantically equivalent queries inconsistently, even when the underlying facts are known. We formalize consistency as semantic invariance over equivalence classes of queries and show that invariance under arbitrary meaning-preserving transformations is undecidable in general. This motivates scoped semantic invariance, where model behavior is evaluated relative to bounded semantic domains.\n  We operationalize this framework using ",
+      "link": "https://arxiv.org/abs/2610.33267",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-27"
     }
   ]
 }
