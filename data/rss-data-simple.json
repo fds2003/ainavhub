@@ -10,6 +10,15 @@
       "date": "2021-10-28"
     },
     {
+      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "title_zh": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "description": "arXiv:2610.37830v1 Announce Type: new \nAbstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain and cannot be fixed once deployed. We ask how to check whether an AI-written contract behaves as it should, and where the requested behavior gets lost.\n  We design an evaluation built on execution rathe",
+      "link": "https://arxiv.org/abs/2610.37830",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "title_zh": "Best Practices for Building the AI Development Platform in Government",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -35,6 +44,15 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "title_zh": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "description": "arXiv:2610.37809v1 Announce Type: new \nAbstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: it can miss errors, and it can flag correct answers and push the agent into \"fixing\" them. Whether a curated ontology is worth its cost as such a judge, and how it compares with an ontology an LLM writes or a schema mined f",
+      "link": "https://arxiv.org/abs/2610.37809",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
     },
     {
       "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
@@ -71,6 +89,60 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "VerifiedLab: Harnessing Knowns for Unknowns",
+      "title_zh": "VerifiedLab: Harnessing Knowns for Unknowns",
+      "description": "arXiv:2610.37923v1 Announce Type: new \nAbstract: Across human history, knowledge has undergone several transitions, from orality to writing and then to digital archives. At each transition, humans established new conventions to preserve knowledge for the new era. Nowadays, as research agents are increasingly deployed for laboratory experiments, knowledge is crossing another boundary: from records written for humans to those for machines. In this work, we introduce VerifiedLab, a multi-agent harn",
+      "link": "https://arxiv.org/abs/2610.37923",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+      "title_zh": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+      "description": "arXiv:2610.37849v1 Announce Type: new \nAbstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact wording of a message, whereas an uninvolved agent placed in its seat does not. Partner--Outsider Positive Listening (PoPLi) is the difference between the two agents in how much their action changes when the message is rewor",
+      "link": "https://arxiv.org/abs/2610.37849",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+      "title_zh": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+      "description": "arXiv:2610.37875v1 Announce Type: new \nAbstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Verification Learning Theory (VLT) formalises this possibility for claim-evaluation practice followed by correct, independent, rule-specific feedback. The model links perceived assistant reliability to evidence checking and links the history of those checks to retained rule use. Its strict form assumes ",
+      "link": "https://arxiv.org/abs/2610.37875",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+      "title_zh": "Evaluating and improving AI agents for sequencing protocol understanding",
+      "description": "arXiv:2610.37851v1 Announce Type: new \nAbstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introduce LibStructBench, a document-grounded benchmark for reconstructing sequencing-library structures and molecular workflows. Our experiments show that frontier agents often produce approximately correct",
+      "link": "https://arxiv.org/abs/2610.37851",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "title_zh": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "description": "arXiv:2610.37739v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFrontiers, a cross-disciplinary resource that combines a structured corpus of open research problems with a retrospective benchmark of recently resolved problems in mathematics. The corpus records problem s",
+      "link": "https://arxiv.org/abs/2610.37739",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "title_zh": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "description": "arXiv:2610.37905v1 Announce Type: new \nAbstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring missing company facts, and verifying that requested revisions satisfy evidence-backed requirements. Existing financial question-answering evaluations provide limited evidence of these interactive capabil",
+      "link": "https://arxiv.org/abs/2610.37905",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-10-31"
     }
   ]
 }
