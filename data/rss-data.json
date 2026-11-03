@@ -11,6 +11,16 @@
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
     },
     {
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "link": "https://arxiv.org/abs/2610.40890",
+      "description": "arXiv:2610.40890v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT gives broad public access to these capabilities, motivating concerns about its potential use in surveillance-related tasks. We present an exploratory case study of what potentially harmful surveillance assistance looks like in ChatGPT's public web interface. ",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 25,
+      "title_zh": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks"
+    },
+    {
       "title": "Best Practices for Building the AI Development Platform in Government",
       "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
       "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
@@ -79,11 +89,81 @@
       "category": "行业趋势",
       "aiScore": 16,
       "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+    },
+    {
+      "title": "Can Personal Requirements Become Supervision for Planning?",
+      "link": "https://arxiv.org/abs/2610.40992",
+      "description": "arXiv:2610.40992v1 Announce Type: new \nAbstract: Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requirements are public in clinical guidelines and drug labels, yet turning them into a feasible plan for one person remains difficult for language-model agents. In our dietitian-approved weekly planning evaluation built from NHANES, thirteen models, from",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 12,
+      "title_zh": "Can Personal Requirements Become Supervision for Planning?"
+    },
+    {
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "link": "https://arxiv.org/abs/2610.40831",
+      "description": "arXiv:2610.40831v1 Announce Type: new \nAbstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purchases inference from a portfolio of models and resells it to users at a profit. Beyond creating profit opportunities for the arbitrageur, computational arbitrage offers financial value to both consumers and providers and could therefore significantly ",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Circumventing the Computational Hardness of Computational Arbitrage"
+    },
+    {
+      "title": "Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems",
+      "link": "https://arxiv.org/abs/2610.41018",
+      "description": "arXiv:2610.41018v1 Announce Type: new \nAbstract: Violet teaming has been proposed as a method to integrate technical, policy, and societal considerations into the evaluation of emerging technologies. Here, we document a pilot expert workshop used to explore violet teaming as a governance methodology for biodefense-relevant AI capabilities and describe observations from the exercise. The workshop used a hypothetical technology scenario across three sequential stages - capability development, misu",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 8,
+      "title_zh": "Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems"
+    },
+    {
+      "title": "Towards Portable Specification of the Agent Harness",
+      "link": "https://arxiv.org/abs/2610.40917",
+      "description": "arXiv:2610.40917v1 Announce Type: new \nAbstract: Large language models act only through the infrastructure that surrounds them. That infrastructure, the harness, determines what a model can accomplish and how it fails, yet it has no settled definition. To address this gap, we decompose the harness into eight functional components that can be specified and compared across systems, and we propose a portable specification framework that records which model ran in which harness. The record is needed",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Towards Portable Specification of the Agent Harness"
+    },
+    {
+      "title": "Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories",
+      "link": "https://arxiv.org/abs/2610.40970",
+      "description": "arXiv:2610.40970v1 Announce Type: new \nAbstract: Generative audio systems can produce large libraries of personalized bedtime content, but ordinary media objectives (retention, completion, and novelty) are poorly aligned with the goal of supporting a transition toward sleep. Direct evidence for narrated bedtime audio in adults is mixed, and a recent active-controlled trial did not support such audio as a standalone treatment for sleep disturbance. We translate this uncertain evidence into conser",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 4,
+      "title_zh": "Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories"
+    },
+    {
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "link": "https://arxiv.org/abs/2610.40758",
+      "description": "arXiv:2610.40758v1 Announce Type: new \nAbstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each correction as an exception, and its list then grows with every new rule. We introduce CLR-Bench, a Curriculum of Latent Rules benchmark. Each chain adds one hidden rule per level on top of the earlier ones. A rule acts on an opaque label that stands for a named g",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum"
+    },
+    {
+      "title": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior",
+      "link": "https://arxiv.org/abs/2610.40959",
+      "description": "arXiv:2610.40959v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for personal tasks, yet evaluating their safe use of personal context remains difficult because such contexts are private, fragmented, dynamic, and socially situated. We introduce P-ContextBench, a realistic, verifiable, and scalable benchmark for evaluating personal-context understanding. P-ContextBench constructs population-structured, life-story-grounded digital humans from demographic seeds re",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior"
     }
   ],
   "metadata": {
-    "totalCount": 8,
-    "generatedAt": "2026-11-03T01:23:23.520Z",
+    "totalCount": 16,
+    "generatedAt": "2026-11-03T08:44:22.762Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +220,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
+    "researchArticles": 8,
     "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "academicArticles": 8,
+    "averageScore": 14.25
   }
 }
