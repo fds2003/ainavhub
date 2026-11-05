@@ -71,6 +71,78 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
+    },
+    {
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "title_zh": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "description": "arXiv:2611.05392v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budget is exhausted. Unlike classical workflows with fixed graphs, the aggregate compute, bandwidth, and end-to-end latency demands of such pipelines are unknown at dispatch time: they emerge at runtime fr",
+      "link": "https://arxiv.org/abs/2611.05392",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Iterated creation, grading, and revision of data science projects by language models",
+      "title_zh": "Iterated creation, grading, and revision of data science projects by language models",
+      "description": "arXiv:2611.05548v1 Announce Type: new \nAbstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback. A 'writer' model with specific tools creates a complete data science project including downloading, cleaning, and analyzing a dataset, and writing a short paper about it. The project is executed and a 'grader' model evaluates it. The writer can then revise its submission, and this repeats for a total of three roun",
+      "link": "https://arxiv.org/abs/2611.05548",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "title_zh": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "description": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a published review of the Spanish plume weather pattern and its 102-article corpus.\n  In the initial sear",
+      "link": "https://arxiv.org/abs/2611.05459",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+      "title_zh": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+      "description": "arXiv:2611.05512v1 Announce Type: new \nAbstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short of real knowledge work: many rely on synthetic data or isolated tasks, missing the complex, multi-party dynamics of collaborative projects, where critical information is scattered across conversations, code, and evolving decisions. Even simple workplace questions may require loc",
+      "link": "https://arxiv.org/abs/2611.05512",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "title_zh": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "description": "arXiv:2611.05390v1 Announce Type: new \nAbstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: conditional on the same proposal, task information, model, and review output, when is the reviewer authorized to make its recommendation binding? We compare broad override authority with an evidence gate that ",
+      "link": "https://arxiv.org/abs/2611.05390",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "title_zh": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "description": "arXiv:2611.05391v1 Announce Type: new \nAbstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures while the model choosing the next action does not. We call this gap operational blindness. We introduce Agent Harness Awareness, a trust-separated design in which the host supplies a small, fresh, ve",
+      "link": "https://arxiv.org/abs/2611.05391",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "title_zh": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "description": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning",
+      "link": "https://arxiv.org/abs/2611.05393",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "title_zh": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "description": "arXiv:2611.05394v1 Announce Type: new \nAbstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such systems orchestrate frozen model checkpoints, and most decide what to resolve locally and what to escalate using a confidence signal produced by a forward-deployed model. We give a closed-form condition",
+      "link": "https://arxiv.org/abs/2611.05394",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "date": "2026-11-05"
     }
   ]
 }
