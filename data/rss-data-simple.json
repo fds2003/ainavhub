@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "title_zh": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "description": "arXiv:2611.06995v1 Announce Type: new \nAbstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differences in how AI agents and humans pursue a proof-making task. We present \"simulated collaboration\", a methodology that allows us to examine two key questions: (1) the relative attention AI agents pay to surface syntax or, conversely, deeper underlying semantics, and (2) how and where AI a",
-      "link": "https://arxiv.org/abs/2611.06995",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
-    },
-    {
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
@@ -17,24 +8,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-28"
-    },
-    {
-      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-      "title_zh": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-      "description": "arXiv:2611.07048v1 Announce Type: new \nAbstract: Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to direct its own evolution. As AI agents become capable of modifying and evaluating their own behavior, how quickly could they improve, and how can that improvement remain safe? We develop a theoretical framework comparing Darwinian, Lamarckian, and agent-directed evolution following environmental change.",
-      "link": "https://arxiv.org/abs/2611.07048",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "title_zh": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "description": "arXiv:2611.06989v1 Announce Type: new \nAbstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period. The business question (what did this order, claim, or case cost in AI?) cannot be answered from billing data, because providers never see enterprise transaction boundaries. The FinOps Open Cost and U",
-      "link": "https://arxiv.org/abs/2611.06989",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
     },
     {
       "title": "Best Practices for Building the AI Development Platform in Government",
@@ -98,51 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "title_zh": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "description": "arXiv:2611.06962v1 Announce Type: new \nAbstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional analysis it rests on, has been autoformalized by AI agents. A machine-checked proof certifies only the formal statement it proves, so the remaining human task is to confirm that each formal statement sa",
-      "link": "https://arxiv.org/abs/2611.06962",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "title_zh": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "description": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation ",
-      "link": "https://arxiv.org/abs/2611.06984",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "title_zh": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "description": "arXiv:2611.06977v1 Announce Type: new \nAbstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with fixed-shape decode ({our CoRun-style baseline}) gives up shared prefill compute and pads decode. We present BlockLock, which keeps shared batched prefill and pins only the numerical path of the protec",
-      "link": "https://arxiv.org/abs/2611.06977",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-      "title_zh": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-      "description": "arXiv:2611.06996v1 Announce Type: new \nAbstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or measured. We empirically characterize the Trust Responsive Authorization Policy (TRAP), which maps an Authorization Readiness Score (ARS), a weighted combination of runtime trust, operational stability, and contextual risk, onto discrete authorization levels through an asymmetric rule: escalation requires consecutive obse",
-      "link": "https://arxiv.org/abs/2611.06996",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "title_zh": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "description": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area by leveraging executable skills for interpretable reasoning, existing approaches face three critical limitations: skill libraries become stale as real-world scenarios dynamically evolve, skill descrip",
-      "link": "https://arxiv.org/abs/2611.06972",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-06"
     }
   ]
 }
