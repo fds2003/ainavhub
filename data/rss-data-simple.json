@@ -28,15 +28,6 @@
       "date": "2021-10-21"
     },
     {
-      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "title_zh": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "description": "arXiv:2611.12940v1 Announce Type: new \nAbstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scenarios. Personalized medicine and the dynamic treatment regimen are two such preliminary research fields; researchers are focusing their mindsets currently. Estimating the optimal dynamic treatment regi",
-      "link": "https://arxiv.org/abs/2611.12940",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
-    },
-    {
       "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
       "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
@@ -80,69 +71,6 @@
       "source": "AI 趋势",
       "category": "行业趋势",
       "date": "2021-10-21"
-    },
-    {
-      "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
-      "title_zh": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
-      "description": "arXiv:2611.12954v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP to physical problems remains challenging, particularly in achieving both solution accuracy and physical consistency. In this paper, we propose Physics2Weight (PtW), a framework that extends WSP to solving partial differential equations by directly ge",
-      "link": "https://arxiv.org/abs/2611.12954",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-      "title_zh": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-      "description": "arXiv:2611.12941v1 Announce Type: new \nAbstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways: intelligence-mediated discovery, procedural know-how, and direct control. Using the canonical fast-takeoff debate as a stress test, we formalize the conditions for intelligence-mediated fast takeoff as a conjunction j",
-      "link": "https://arxiv.org/abs/2611.12941",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-      "title_zh": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-      "description": "arXiv:2611.12958v1 Announce Type: new \nAbstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning and physical experimentation, positioning self-driving laboratories (SDLs) as critical enablers. However, existing SDLs exhibit a fundamental paradox: foundation model integration has increased linguistic sophistication whil",
-      "link": "https://arxiv.org/abs/2611.12958",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-      "title_zh": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-      "description": "arXiv:2611.12950v1 Announce Type: new \nAbstract: Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output responses to input queries are observable. One way to reveal this relationship is to perturb each query and observe the resulting responses of both models, yielding two corresponding sets of response variations. These sets provide two complementary sources of information: the relations among response changes within each set, a",
-      "link": "https://arxiv.org/abs/2611.12950",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "title_zh": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "description": "arXiv:2611.12935v1 Announce Type: new \nAbstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes. We introduce TopicScope, a framework for training causal topic classifiers on SAE features that assign a topic to every token, so that the label can change partway through a response. We train three",
-      "link": "https://arxiv.org/abs/2611.12935",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
-      "title_zh": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
-      "description": "arXiv:2611.12966v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate SQL and SQL--Python workflows for investment research, but ensuring point-in-time (PIT) validity remains challenging. Agents must enforce disclosure cutoffs and select the appropriate historical states and record versions throughout data retrieval and financial analysis. We introduce \\textsc{BuySideFlow}, a benchmark of 408 practitioner-derived Chinese-language tasks spanning equities, funds, fixed income,",
-      "link": "https://arxiv.org/abs/2611.12966",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
-      "title_zh": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
-      "description": "arXiv:2611.12970v1 Announce Type: new \nAbstract: Large Language Models (LLMs) show strong potential for social media content moderation, but their trustworthiness beyond overall accuracy remains underexplored. We introduce TrustMod-SM, a benchmark of roughly 29,000 instances across eight datasets, to evaluate LLM moderators on five dimensions: trustfulness, fairness, safety, robustness, and context integrity. Evaluating 16 open-weight models (0.5B-284B parameters, spanning text-only and vision-l",
-      "link": "https://arxiv.org/abs/2611.12970",
-      "source": "ArXiv AI 研究",
-      "category": "学术研究",
-      "date": "2026-11-11"
     }
   ]
 }
