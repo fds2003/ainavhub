@@ -1,89 +1,89 @@
 {
   "articles": [
     {
-      "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-      "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-      "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for implementing AI at scale is a priority for the US General Services Administration (GSA).   That’s what attendees learned in two sessions at the AI [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:19:58.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 28,
-      "title_zh": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI"
-    },
-    {
-      "title": "Best Practices for Building the AI Development Platform in Government",
-      "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-      "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according to Isaac Faber, Chief Data Scientist at the US Army AI Integration Center, speaking at the AI World Government event held in-person and virtually [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:20:17.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 24,
-      "title_zh": "Best Practices for Building the AI Development Platform in Government"
-    },
-    {
-      "title": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government",
-      "link": "https://www.aitrends.com/ai-world-government/how-accountability-practices-are-pursued-by-ai-engineers-in-the-federal-government/",
-      "description": "By John P. Desmond, AI Trends Editor    Two experiences of how AI developers within the federal government are pursuing AI accountability practices were outlined at the AI World Government event held virtually and in-person this week in Alexandria, Va.  Taka Ariga, chief data scientist and director at the US Government Accountability Office, described an AI accountability framework he uses within his agency [&#8230;]]]>",
-      "pubDate": "2021-10-21T20:34:39.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 24,
-      "title_zh": "How Accountability Practices Are Pursued by AI Engineers in the Federal Government"
-    },
-    {
-      "title": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge",
-      "link": "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/",
-      "description": "By John P. Desmond, AI Trends Editor   Engineers tend to see things in unambiguous terms, which some may call Black and White terms, such as a choice between right or wrong and good and bad. The consideration of ethics in AI is highly nuanced, with vast gray areas, making it  challenging for AI software engineers to [&#8230;]]]>",
-      "pubDate": "2021-10-21T21:02:24.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 20,
-      "title_zh": "Getting Government AI Engineers to Tune into AI Ethics Seen as Challenge"
-    },
-    {
-      "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-      "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-      "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbing when it occurs.    What about when Artificial Intelligence (AI) seems to display an act of novelty? Any such instance is bound to get our attention; [&#8230;]]]>",
-      "pubDate": "2021-10-28T21:49:47.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
-      "aiScore": 17,
-      "title_zh": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles"
-    },
-    {
-      "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-      "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-      "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented carefully.  That was the message from Keith Sonderling, Commissioner with the US Equal Opportunity Commision, speaking at the AI World Government event held live and virtually in [&#8230;]]]>",
-      "pubDate": "2021-10-28T23:18:48.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "link": "https://arxiv.org/abs/2611.14681",
+      "description": "arXiv:2611.14681v1 Announce Type: new \nAbstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff bet",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
       "aiScore": 16,
-      "title_zh": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias"
+      "title_zh": "Together Compiler: Continual Compilation for AI Inference"
     },
     {
-      "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-      "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-      "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and recommends preventive action before break or machines fail, in a demonstration of an AI use case with proven value.   This growth is reflected in optimistic market forecasts. [&#8230;]]]>",
-      "pubDate": "2021-10-28T22:10:19.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
+      "title": "Rational Use of Time for Social Coordination in Humans and AI",
+      "link": "https://arxiv.org/abs/2611.14766",
+      "description": "arXiv:2611.14766v1 Announce Type: new \nAbstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination? And can AI systems do the same, without ``experiencing'' continuous real-time as humans do? We study these questions using a cooperative card game task called The Mind, which re",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
       "aiScore": 16,
-      "title_zh": "Predictive Maintenance Proving Out as Successful AI Use Case"
+      "title_zh": "Rational Use of Time for Social Coordination in Humans and AI"
     },
     {
-      "title": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams",
-      "link": "https://www.aitrends.com/ai-world-government/digital-natives-seen-having-advantages-as-part-of-government-ai-engineering-teams/",
-      "description": "By John P. Desmond, AI Trends Editor   AI is more accessible to young people in the workforce who grew up as ‘digital natives’ with Alexa and self-driving cars as part of the landscape, giving them expectations grounded in their experience of what is possible.   That idea set the foundation for a panel discussion at AI World [&#8230;]]]>",
-      "pubDate": "2021-10-21T20:52:34.000Z",
-      "source": "AI 趋势",
-      "category": "行业趋势",
+      "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
+      "link": "https://arxiv.org/abs/2611.14889",
+      "description": "arXiv:2611.14889v1 Announce Type: new \nAbstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced. This thought has special force for AI agents built to assess and correct their own work. Yet obeying such judgments can make an agent worse at distinguishing sound reasoning from defective reasoning. An AI agent may rely on information about its reasoning when deciding which conclusions to keep, while the part that judges whether t",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
       "aiScore": 16,
-      "title_zh": "Digital Natives Seen Having Advantages as Part of Government AI Engineering Teams"
+      "title_zh": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction"
+    },
+    {
+      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+      "link": "https://arxiv.org/abs/2611.14844",
+      "description": "arXiv:2611.14844v1 Announce Type: new \nAbstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs one forward pass per token. Yet algorithms rarely state their assumptions, so experts and discovery harnesses search over programs, where one edit changes several design choices and gains are difficult to attribute. Searching over the assumptions themselves remains largely unexplored. Wr",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 11,
+      "title_zh": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms"
+    },
+    {
+      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+      "link": "https://arxiv.org/abs/2611.14794",
+      "description": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a loss of 13-27 points",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning"
+    },
+    {
+      "title": "Open Challenges and Opportunities in Human-Agent Systems",
+      "link": "https://arxiv.org/abs/2611.14846",
+      "description": "arXiv:2611.14846v1 Announce Type: new \nAbstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness. Successful interaction requires understanding human perspectives, coordinating complementary capabilities, and maintaining productive relationships within socio-technical environments. This paper examines how foundations developed by the Autonomous Agents and Multi-Agent Systems (AAMAS) community infor",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Open Challenges and Opportunities in Human-Agent Systems"
+    },
+    {
+      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+      "link": "https://arxiv.org/abs/2611.14924",
+      "description": "arXiv:2611.14924v1 Announce Type: new \nAbstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Te",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 6,
+      "title_zh": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs"
+    },
+    {
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "link": "https://arxiv.org/abs/2611.14765",
+      "description": "arXiv:2611.14765v1 Announce Type: new \nAbstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable gold programs. First, given a scenario and target c",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "source": "ArXiv AI 研究",
+      "category": "学术研究",
+      "aiScore": 3,
+      "title_zh": "SynthCorp: A Platform for Creating Benchmarks for Data Agents"
     }
   ],
   "metadata": {
     "totalCount": 8,
-    "generatedAt": "2026-11-13T18:13:01.289Z",
+    "generatedAt": "2026-11-14T11:50:15.236Z",
     "sources": [
       {
         "name": "ArXiv AI 研究",
@@ -140,9 +140,9 @@
     }
   },
   "summary": {
-    "researchArticles": 0,
-    "industryArticles": 8,
-    "academicArticles": 0,
-    "averageScore": 20.125
+    "researchArticles": 8,
+    "industryArticles": 0,
+    "academicArticles": 8,
+    "averageScore": 10
   }
 }
