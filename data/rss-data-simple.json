@@ -1,76 +1,76 @@
 {
   "articles": [
     {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "title_zh": "Together Compiler: Continual Compilation for AI Inference",
-      "description": "arXiv:2611.14681v1 Announce Type: new \nAbstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff bet",
-      "link": "https://arxiv.org/abs/2611.14681",
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "title_zh": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "description": "arXiv:2611.17564v1 Announce Type: new \nAbstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest system for human-AI civic reasoning, in which people and AI work together to understand, contest and shape the rules that govern AI. A resident can find their city's rules on AI in hiring or upload their country's AI strat",
+      "link": "https://arxiv.org/abs/2611.17564",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     },
     {
-      "title": "Rational Use of Time for Social Coordination in Humans and AI",
-      "title_zh": "Rational Use of Time for Social Coordination in Humans and AI",
-      "description": "arXiv:2611.14766v1 Announce Type: new \nAbstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for dynamic, fine-grained social coordination? And can AI systems do the same, without ``experiencing'' continuous real-time as humans do? We study these questions using a cooperative card game task called The Mind, which re",
-      "link": "https://arxiv.org/abs/2611.14766",
+      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "title_zh": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "description": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximately $50\\%$ of all brain cells but do not emit electrical signals. Nevertheless, they may play critical roles in important cognitive brain functions, specifically learning,",
+      "link": "https://arxiv.org/abs/2611.17532",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     },
     {
-      "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
-      "title_zh": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
-      "description": "arXiv:2611.14889v1 Announce Type: new \nAbstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced. This thought has special force for AI agents built to assess and correct their own work. Yet obeying such judgments can make an agent worse at distinguishing sound reasoning from defective reasoning. An AI agent may rely on information about its reasoning when deciding which conclusions to keep, while the part that judges whether t",
-      "link": "https://arxiv.org/abs/2611.14889",
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "title_zh": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "description": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication class labels. We propose a more task aligned retrieval",
+      "link": "https://arxiv.org/abs/2611.17341",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     },
     {
-      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
-      "title_zh": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
-      "description": "arXiv:2611.14844v1 Announce Type: new \nAbstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs one forward pass per token. Yet algorithms rarely state their assumptions, so experts and discovery harnesses search over programs, where one edit changes several design choices and gains are difficult to attribute. Searching over the assumptions themselves remains largely unexplored. Wr",
-      "link": "https://arxiv.org/abs/2611.14844",
+      "title": "An Operationalization of Opaque Serial Depth",
+      "title_zh": "An Operationalization of Opaque Serial Depth",
+      "description": "arXiv:2611.17495v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a specific instantiation of the notion of opaque serial depth: roughly, the length of the longest path through a model's computation that does not pass through an interpreta",
+      "link": "https://arxiv.org/abs/2611.17495",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     },
     {
-      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "title_zh": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "description": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a loss of 13-27 points",
-      "link": "https://arxiv.org/abs/2611.14794",
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "title_zh": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "description": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater d",
+      "link": "https://arxiv.org/abs/2611.17338",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     },
     {
-      "title": "Open Challenges and Opportunities in Human-Agent Systems",
-      "title_zh": "Open Challenges and Opportunities in Human-Agent Systems",
-      "description": "arXiv:2611.14846v1 Announce Type: new \nAbstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness. Successful interaction requires understanding human perspectives, coordinating complementary capabilities, and maintaining productive relationships within socio-technical environments. This paper examines how foundations developed by the Autonomous Agents and Multi-Agent Systems (AAMAS) community infor",
-      "link": "https://arxiv.org/abs/2611.14846",
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "title_zh": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "description": "arXiv:2611.17515v1 Announce Type: new \nAbstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavioral economics to vary the counterparty's requests across four categorical frames: gain, loss, blame ",
+      "link": "https://arxiv.org/abs/2611.17515",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     },
     {
-      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
-      "title_zh": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
-      "description": "arXiv:2611.14924v1 Announce Type: new \nAbstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Te",
-      "link": "https://arxiv.org/abs/2611.14924",
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "title_zh": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "description": "arXiv:2611.17501v1 Announce Type: new \nAbstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-grade R&R models enforce a stringent launch bar: model quality must remain within a 0.01% Normalized Entropy (NE) margin relative to the baseline, which commonly ",
+      "link": "https://arxiv.org/abs/2611.17501",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     },
     {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "title_zh": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "description": "arXiv:2611.14765v1 Announce Type: new \nAbstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catalog, paired with evaluation tasks and executable gold programs. First, given a scenario and target c",
-      "link": "https://arxiv.org/abs/2611.14765",
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "title_zh": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "description": "arXiv:2611.17539v1 Announce Type: new \nAbstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during evaluation through structural matching to a known reference. To benchmark progress, we introduce pXRD-",
+      "link": "https://arxiv.org/abs/2611.17539",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-14"
+      "date": "2026-11-16"
     }
   ]
 }
