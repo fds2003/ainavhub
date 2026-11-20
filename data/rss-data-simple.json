@@ -1,76 +1,76 @@
 {
   "articles": [
     {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "title_zh": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "description": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full research t",
-      "link": "https://arxiv.org/abs/2611.21832",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "title_zh": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "description": "arXiv:2611.23322v1 Announce Type: new \nAbstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as well off as before AI without alignment only while t",
+      "link": "https://arxiv.org/abs/2611.23322",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "SLED: Sensor SLicing from Edge to Datacenter",
-      "title_zh": "SLED: Sensor SLicing from Edge to Datacenter",
-      "description": "arXiv:2611.21937v1 Announce Type: new \nAbstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for computation, artificial intelligence/superintelligence (AI/SI) inference, and AI/SI training. Each sensor stream may have different network and compute requirements depending on its type and data volume. However, current wireless systems typically allocate resources at the device level, leading to cont",
-      "link": "https://arxiv.org/abs/2611.21937",
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "title_zh": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "description": "arXiv:2611.23398v1 Announce Type: new \nAbstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important than ever.\n  To address this, we present Hardware Diagnoser (HardwareDx), an AI-driven hardware diagno",
+      "link": "https://arxiv.org/abs/2611.23398",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
-      "title_zh": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
-      "description": "arXiv:2611.21948v1 Announce Type: new \nAbstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influence over the policymaking process, due in part to their information advantage in developing these technologies. In the following paper, we investigate the roles of public commenters in providing evidence to potential regulation in the USA. We build a corpus of 40 potential regulations, and 2,664 public comments submitted by",
-      "link": "https://arxiv.org/abs/2611.21948",
+      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+      "title_zh": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+      "description": "arXiv:2611.23456v1 Announce Type: new \nAbstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging. Generated questions must satisfy multiple constraints: mathematical correctness, curriculum alignment, appropriate cognitive difficulty, and educator reviewability. While prior work has advanced text generation, reliable assessment authoring requires granular control over localized examination",
+      "link": "https://arxiv.org/abs/2611.23456",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-      "title_zh": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-      "description": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric system that combines autonomous investigation with scientist-directed hypothesis steering. Scientists select, refine, or replace hypotheses between research rounds, while audit agents interrogate checkpointed",
-      "link": "https://arxiv.org/abs/2611.21950",
+      "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+      "title_zh": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+      "description": "arXiv:2611.23520v1 Announce Type: new \nAbstract: Time-series sensing increasingly relies on neural networks, yet deployment on resource-constrained microcontrollers remains challenging. Aggressive model compression can reduce accuracy, while restricting weights to multiplication-free representations introduces further losses. We present BeFit, an end-to-end framework that shifts model capacity from weights to learnable Bernstein polynomial activations. BeFit (i) finds compact Bernstein-activated",
+      "link": "https://arxiv.org/abs/2611.23520",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "title_zh": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "description": "arXiv:2611.21799v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though tr",
-      "link": "https://arxiv.org/abs/2611.21799",
+      "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+      "title_zh": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+      "description": "arXiv:2611.23564v1 Announce Type: new \nAbstract: When LLM agents pass intermediate judgments downstream without uncertainty, later decisions may treat tentative assumptions as facts. Effective uncertainty propagation must preserve information for correction and update inherited beliefs as new evidence arrives. Yet scalar scores omit information needed for revision, while detailed descriptions and reflection incur additional costs. We introduce Latent Uncertainty, a latent-space estimator that pr",
+      "link": "https://arxiv.org/abs/2611.23564",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "title_zh": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "description": "arXiv:2611.21682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extr",
-      "link": "https://arxiv.org/abs/2611.21682",
+      "title": "BOS Summary: The First Token Matters",
+      "title_zh": "BOS Summary: The First Token Matters",
+      "description": "arXiv:2611.23508v1 Announce Type: new \nAbstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS) token, receive a disproportionate share of attention. Under standard causal masking, however, the BOS query attends only to itself, so the representation that later tokens repeatedly access carries no information about the input. We introduce BOS Summary, a training-free inference-time",
+      "link": "https://arxiv.org/abs/2611.23508",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "title_zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "description": "arXiv:2611.21925v1 Announce Type: new \nAbstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality by conditioning on rich features computed by the target, through a mechanism known as feature encod",
-      "link": "https://arxiv.org/abs/2611.21925",
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "title_zh": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "description": "arXiv:2611.23476v1 Announce Type: new \nAbstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders often backfires: reflection and scalar scores conflate what an edit newly broke with what remains unsolved, causing local regressions, skill forgetting, and memory bloat. We introduce GUARD (Grader-fre",
+      "link": "https://arxiv.org/abs/2611.23476",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     },
     {
-      "title": "On Formal Counterfactual Explanations",
-      "title_zh": "On Formal Counterfactual Explanations",
-      "description": "arXiv:2611.22010v1 Announce Type: new \nAbstract: Counterfactual explanations are often seen as counterfactual conditionals under closest-world semantics, requiring one to reason over all minimally distant counterexamples. In contrast, formal XAI typically relies on feature-based abductive explanations (AXps) and contrastive explanations (CXps), which admit efficient computation and a minimal hitting-set duality. This paper bridges these perspectives by (i) characterizing closest-world counterfac",
-      "link": "https://arxiv.org/abs/2611.22010",
+      "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+      "title_zh": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+      "description": "arXiv:2611.23509v1 Announce Type: new \nAbstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to recombine promising mechanisms for task decomposition, model coordination, and verification. This search, however, is typically guided by aggregate fitness alone, which hides the instance-level successes and failures behind each score. We introduce Execution Guided Genetic Recombination ",
+      "link": "https://arxiv.org/abs/2611.23509",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-19"
+      "date": "2026-11-20"
     }
   ]
 }
