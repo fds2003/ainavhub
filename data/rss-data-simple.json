@@ -1,76 +1,76 @@
 {
   "articles": [
     {
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "title_zh": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "description": "arXiv:2611.26663v1 Announce Type: new \nAbstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted more ideas to the shared board, but human-authored ideas dropped substantially. Wi",
-      "link": "https://arxiv.org/abs/2611.26663",
+      "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+      "title_zh": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+      "description": "arXiv:2611.31559v1 Announce Type: new \nAbstract: LLM-based user simulation can support interface design, accessibility research, and interactive-agent evaluation, but standard computer-use agents are optimized for task completion rather than reproducing how people perceive, reason, and act. We introduce COGENT (COGnitive agENT), a modular cognitive architecture for simulating user interaction with desktop interfaces. COGENT draws on established cognitive theories, such as Norman's action cycle a",
+      "link": "https://arxiv.org/abs/2611.31559",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "title_zh": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "description": "arXiv:2611.26722v1 Announce Type: new \nAbstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one. In an environment where even a minor formatting error can invalidate a call and an incorrect decision can derail the interaction, direct pre",
-      "link": "https://arxiv.org/abs/2611.26722",
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "title_zh": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "description": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or the competence to operate the interface? We distinguish two components of agentic competence: task co",
+      "link": "https://arxiv.org/abs/2611.31427",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-      "title_zh": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-      "description": "arXiv:2611.26906v1 Announce Type: new \nAbstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the cheapest solver wastes attempts on subgoals that require stronger models. We present BudgetPV, an agentic budget-aware predict-and-verify system that allocates computation across unresolved subgoals and heterogeneous LLM s",
-      "link": "https://arxiv.org/abs/2611.26906",
+      "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
+      "title_zh": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
+      "description": "arXiv:2611.31498v1 Announce Type: new \nAbstract: Type 1 diabetes (T1D) requires lifelong insulin therapy, and reinforcement learning (RL) has shown promise for automated dosing in the UVA/Padova simulator. However, the decisions of RL controllers remain difficult to interpret. We present XRL4T1D, a post-hoc explainability framework for evaluating pretrained insulin-dosing policies without retraining. Each policy uses 60 minutes of continuous glucose monitor (CGM) and administered-insulin history",
+      "link": "https://arxiv.org/abs/2611.31498",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-      "title_zh": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-      "description": "arXiv:2611.26910v1 Announce Type: new \nAbstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in an embodied world cannot be read from one measure. Existing benchmarks measure task progress, world-knowledge question answering (QA), and episodic memory, but a correct answer does not show that the agent ever observed the evidence for it, and progress does not show what the agent learned. We introduce AstronautBench, w",
-      "link": "https://arxiv.org/abs/2611.26910",
+      "title": "Provably Near-Optimal PQ in the Extended Zador Model",
+      "title_zh": "Provably Near-Optimal PQ in the Extended Zador Model",
+      "description": "arXiv:2611.31579v1 Announce Type: new \nAbstract: This paper investigates Product Quantization (PQ) Optimization with Gaussian data. It offers three key contributions (i) a proof that SVD is the optimal preconditioning rotation for PQ; (ii) a new Extended Zador (EZ) estimator of the $k$-means quantization cost that is accurate in low bit rates and low dimensions; and (iii) a novel segmentation algorithm based on 1-d bin packing of global bit allocations. The result is a simple algorithm (EZPQ) wi",
+      "link": "https://arxiv.org/abs/2611.31579",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "title_zh": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "description": "arXiv:2611.26794v1 Announce Type: new \nAbstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an explanation, but two gaps remain. Pathology MLLMs read H&E alone, while these readouts need the cell phenotypes that mIF measures. And their",
-      "link": "https://arxiv.org/abs/2611.26794",
+      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "title_zh": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "description": "arXiv:2611.31347v1 Announce Type: new \nAbstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 566 synthetic items (injected sentences, label leaks, edited descriptions, decoy options, invisible and look-alike characters, floods) and report the share of correctly answered items hijacked or lost",
+      "link": "https://arxiv.org/abs/2611.31347",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "title_zh": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "description": "arXiv:2611.26717v1 Announce Type: new \nAbstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it and take the artifact to be its causal record. Language-model agents propose inte",
-      "link": "https://arxiv.org/abs/2611.26717",
+      "title": "PatientFlowSynth: Evaluating FHIR Agents with Matched Patient Charts",
+      "title_zh": "PatientFlowSynth: Evaluating FHIR Agents with Matched Patient Charts",
+      "description": "arXiv:2611.31521v1 Announce Type: new \nAbstract: Agents that search patient charts must classify claims from retrieved records, including cases with missing or conflicting evidence. In Fast Healthcare Interoperability Resources (FHIR), status fields can change how those records should be interpreted. PatientFlowSynth provides 18,000 tasks from 225 synthetic patients and 18 templates that hold the patient, question, and retrieval program fixed across chart variants representing four evidence stat",
+      "link": "https://arxiv.org/abs/2611.31521",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "title_zh": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "description": "arXiv:2611.26782v1 Announce Type: new \nAbstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: designing the simulation, writing reliable input scripts, executing them, and analyzing the results with separate tools. Here we present ChatAtom, a multi-agent large language model system that translat",
-      "link": "https://arxiv.org/abs/2611.26782",
+      "title": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+      "title_zh": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+      "description": "arXiv:2611.31554v1 Announce Type: new \nAbstract: Code-executing LLM agents submit blocks of code that issue several API writes. If a block fails after some of its writes have taken effect, the agent rewrites the block and continues. It is unknown how often such a recovery harms the external state when the failure occurs naturally in the code written by the agent. In this paper, we measure it on recorded trajectories of AppWorld agents. In a stratified random sample of 200 candidate episodes acro",
+      "link": "https://arxiv.org/abs/2611.31554",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     },
     {
-      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
-      "title_zh": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
-      "description": "arXiv:2611.26870v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks evaluate demographic discrimination under a single reasoning objective, and none we know of tests whether a model treats the same item differently when asked to describe an outcome versus decide one. We i",
-      "link": "https://arxiv.org/abs/2611.26870",
+      "title": "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs",
+      "title_zh": "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs",
+      "description": "arXiv:2611.31571v1 Announce Type: new \nAbstract: Autoformalization translates a natural-language statement into a formula that captures its intent, which depends on the statement's context: the background that disambiguates it. LLMs make autoformalization practical, but their probabilistic output carries no formal guarantees. We propose techniques for safe autoformalization that certify one-sided logical adequacy: a formula sufficient for the intent is safe to enforce, and a formula necessary fo",
+      "link": "https://arxiv.org/abs/2611.31571",
       "source": "ArXiv AI 研究",
       "category": "学术研究",
-      "date": "2026-11-23"
+      "date": "2026-11-25"
     }
   ]
 }
